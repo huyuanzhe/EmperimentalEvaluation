@@ -1,0 +1,82 @@
+{"4760": "this pull request files not import info!"}
+{"4763": [["marwahaha", 5.212770426221913], ["coveralls", 3.4042339759191353], ["jsf-clabot", 3.0450854650600516], ["icambron", 2.2618777222267057], ["ichernev", 2.198995119669952], ["bayneri", 0.7071067811865476], ["jsoref", 0.6666666666666666], ["ashsearle", 0.6409452145061861], ["butterflyhug", 0.6030226891555273], ["davido", 0.6030226891555273]]}
+{"4765": [["marwahaha", 31.65198190988408], ["coveralls", 20.716774227431316], ["jsf-clabot", 20.559782370480164], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4768": [["marwahaha", 13.833333333333334], ["jsf-clabot", 11.540440114519882], ["coveralls", 10.385263359745688], ["ichernev", 3.7071067811865475], ["icambron", 1.5], ["caio-ribeiro-pereira", 1.5], ["boyaq", 1.5], ["Menelion", 1.0], ["socketpair", 1.0], ["baryon", 1.0]]}
+{"4771": [["marwahaha", 32.15198190988408], ["coveralls", 22.216774227431316], ["jsf-clabot", 22.059782370480164], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4786": [["marwahaha", 14.360440298851907], ["coveralls", 9.965816197766527], ["jsf-clabot", 8.952764459553848], ["ichernev", 4.600779224931533], ["icambron", 3.2895667248211766], ["ashsearle", 0.8990144129827473], ["butterflyhug", 0.8563488385776753], ["davido", 0.8563488385776753], ["caio-ribeiro-pereira", 0.7745966692414833], ["boyaq", 0.7745966692414833]]}
+{"4787": [["marwahaha", 13.923841866780036], ["coveralls", 9.957782985991132], ["jsf-clabot", 8.658955552594803], ["ichernev", 4.0571868477684685], ["icambron", 2.9310183557857394], ["ashsearle", 1.0393265343113662], ["caio-ribeiro-pereira", 0.9486832980505138], ["boyaq", 0.9486832980505138], ["darakeon", 0.6979484467752358], ["bkyceh", 0.6813761376869487]]}
+{"4793": "this pull request files not import info!"}
+{"4801": "this pull request files not import info!"}
+{"4804": [["marwahaha", 20.650012550100794], ["coveralls", 15.17569262045589], ["jsf-clabot", 13.516337954322449], ["ichernev", 6.999866244218653], ["icambron", 5.943373979865933], ["ashsearle", 1.7336402482139612], ["darakeon", 1.7071067811865475], ["caio-ribeiro-pereira", 1.5], ["boyaq", 1.5], ["bkyceh", 1.0773502691896257]]}
+{"4806": [["marwahaha", 7.001244127721848], ["coveralls", 5.087298422080124], ["jsf-clabot", 3.1504947203989975], ["icambron", 2.2618777222267057], ["ichernev", 2.198995119669952], ["TremayneChrist", 1.0], ["bayneri", 0.7071067811865476], ["jsoref", 0.6666666666666666], ["ashsearle", 0.6409452145061861], ["butterflyhug", 0.6030226891555273]]}
+{"4810": [["marwahaha", 15.333333333333334], ["jsf-clabot", 13.040440114519882], ["coveralls", 11.885263359745688], ["ichernev", 3.7071067811865475], ["icambron", 1.5], ["caio-ribeiro-pereira", 1.5], ["boyaq", 1.5], ["Menelion", 1.0], ["socketpair", 1.0], ["baryon", 1.0]]}
+{"4817": [["icambron", 2.306852490747496], ["marwahaha", 1.9695865030742596], ["jsf-clabot", 1.7479011758390488], ["coveralls", 1.6276419490523875], ["ichernev", 0.9753876082772157], ["i8-pi", 0.8944271909999159], ["ZachGawlik", 0.8944271909999159], ["ashsearle", 0.6641114328790609], ["darakeon", 0.4267766952966368], ["TheDancingCode", 0.34299717028501764]]}
+{"4819": [["marwahaha", 17.88769191109844], ["coveralls", 12.686039201971472], ["jsf-clabot", 11.215016399169814], ["ichernev", 5.086328039452219], ["icambron", 3.5397584318083055], ["caio-ribeiro-pereira", 1.3416407864998738], ["boyaq", 1.3416407864998738], ["bkyceh", 0.9636113749942801], ["ashsearle", 0.9208271960793967], ["Menelion", 0.8944271909999159]]}
+{"4826": "this pull request files not import info!"}
+{"4828": [["marwahaha", 22.551086822511287], ["coveralls", 15.012020264276224], ["jsf-clabot", 13.762694968532548], ["ichernev", 5.701239208189935], ["icambron", 4.102133380599469], ["caio-ribeiro-pereira", 1.8371173070873836], ["boyaq", 1.8371173070873836], ["bkyceh", 1.3194792168823422], ["Menelion", 1.2247448713915892], ["socketpair", 1.2247448713915892]]}
+{"4829": "this pull request files not import info!"}
+{"4836": "this pull request files not import info!"}
+{"4841": "this pull request files not import info!"}
+{"4843": "this pull request files not import info!"}
+{"4849": [["marwahaha", 35.285994596843835], ["coveralls", 25.087345552874268], ["jsf-clabot", 23.876010136497], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4852": "this pull request files not import info!"}
+{"4863": [["marwahaha", 36.285994596843835], ["coveralls", 26.087345552874268], ["jsf-clabot", 24.876010136497], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4870": [["marwahaha", 3.7327716293613045], ["coveralls", 2.9970229913041706], ["jsf-clabot", 2.6244939304289154], ["ichernev", 1.551665830424152], ["icambron", 0.6599702089840621], ["mj1856", 0.4444444444444444], ["cmyers", 0.40201512610368484], ["ashsearle", 0.3638034375544995], ["TheDancingCode", 0.3638034375544995], ["nnmrts", 0.3441236008058426]]}
+{"4874": [["marwahaha", 36.285994596843835], ["coveralls", 27.087345552874268], ["jsf-clabot", 25.876010136497], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4875": [["marwahaha", 37.285994596843835], ["coveralls", 28.087345552874268], ["jsf-clabot", 26.876010136497], ["ichernev", 8.836116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4887": [["marwahaha", 13.893377241246727], ["coveralls", 10.209803675446127], ["jsf-clabot", 8.409531241138591], ["ichernev", 4.197476402374274], ["icambron", 2.6353744284525846], ["ashsearle", 1.2076856342774458], ["caio-ribeiro-pereira", 0.75], ["boyaq", 0.75], ["cmyers", 0.6030226891555273], ["darakeon", 0.5517766952966369]]}
+{"4891": [["marwahaha", 16.833333333333336], ["jsf-clabot", 15.540440114519882], ["coveralls", 14.885263359745688], ["ichernev", 3.7071067811865475], ["icambron", 1.5], ["caio-ribeiro-pereira", 1.5], ["boyaq", 1.5], ["Menelion", 1.0], ["socketpair", 1.0], ["baryon", 1.0]]}
+{"4894": [["marwahaha", 38.285994596843835], ["coveralls", 29.837345552874268], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.0], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4899": "this pull request files not import info!"}
+{"4903": "this pull request files not import info!"}
+{"4907": "this pull request files not import info!"}
+{"4908": [["marwahaha", 17.333333333333336], ["jsf-clabot", 16.540440114519882], ["coveralls", 16.385263359745686], ["ichernev", 3.7071067811865475], ["icambron", 1.5], ["caio-ribeiro-pereira", 1.5], ["boyaq", 1.5], ["Menelion", 1.0], ["socketpair", 1.0], ["baryon", 1.0]]}
+{"4911": "this pull request files not import info!"}
+{"4912": "this pull request files not import info!"}
+{"4913": [["marwahaha", 30.985592495673426], ["coveralls", 23.437391690350008], ["jsf-clabot", 19.241492856858358], ["ichernev", 8.107069021722353], ["icambron", 5.596849505650031], ["caio-ribeiro-pereira", 2.1213203435596424], ["boyaq", 2.1213203435596424], ["ashsearle", 1.861807319565799], ["bkyceh", 1.5236033621142733], ["Menelion", 1.414213562373095]]}
+{"4916": [["marwahaha", 6.77230099018891], ["coveralls", 4.87371182212302], ["jsf-clabot", 4.4522466353413135], ["ichernev", 3.16560440504328], ["icambron", 2.109121652518365], ["ashsearle", 1.201101041599452], ["nnmrts", 0.9999999999999998], ["leofavre", 0.9999999999999998], ["TheDancingCode", 0.9459053029269171], ["mj1856", 0.6882472016116852]]}
+{"4917": [["marwahaha", 6.77230099018891], ["jsf-clabot", 5.4522466353413135], ["coveralls", 4.87371182212302], ["ichernev", 3.16560440504328], ["icambron", 2.109121652518365], ["ashsearle", 1.201101041599452], ["nnmrts", 0.9999999999999998], ["leofavre", 0.9999999999999998], ["TheDancingCode", 0.9459053029269171], ["mj1856", 0.6882472016116852]]}
+{"4921": [["marwahaha", 39.99310137803038], ["coveralls", 31.544452334060814], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4922": "this pull request files not import info!"}
+{"4930": [["marwahaha", 31.913692018494686], ["coveralls", 24.575535897414664], ["jsf-clabot", 20.883300725177314], ["ichernev", 6.8684587499983065], ["icambron", 4.364784245220753], ["caio-ribeiro-pereira", 2.6457513110645903], ["boyaq", 2.267786838055363], ["ashsearle", 1.6123912727059624], ["Menelion", 1.5118578920369088], ["socketpair", 1.5118578920369088]]}
+{"4936": [["marwahaha", 41.74903032404884], ["coveralls", 32.30038128007927], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4951": "this pull request files not import info!"}
+{"4954": [["marwahaha", 42.74903032404884], ["coveralls", 33.30038128007927], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4957": [["marwahaha", 42.74903032404884], ["coveralls", 34.30038128007927], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4958": [["marwahaha", 43.74903032404884], ["coveralls", 35.30038128007927], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["Menelion", 2.0], ["socketpair", 2.0], ["baryon", 2.0]]}
+{"4959": [["marwahaha", 5.076895230167146], ["coveralls", 4.247022991304171], ["jsf-clabot", 4.218617531234758], ["ichernev", 1.801665830424152], ["cwenzelg", 1.0], ["icambron", 0.6599702089840621], ["mj1856", 0.4444444444444444], ["cmyers", 0.40201512610368484], ["ashsearle", 0.3638034375544995], ["TheDancingCode", 0.3638034375544995]]}
+{"4961": "this pull request not comments!"}
+{"4966": [["marwahaha", 18.147709119177144], ["coveralls", 13.909108069269786], ["jsf-clabot", 11.885589055689977], ["ichernev", 8.215959517846663], ["icambron", 3.6198337995180547], ["cmyers", 2.0], ["mj1856", 1.8090680674665818], ["maggiepint", 1.1177347500889012], ["ashsearle", 0.9766954145268772], ["bkyceh", 0.951178001066923]]}
+{"4975": [["marwahaha", 44.74903032404884], ["coveralls", 36.60189262465703], ["jsf-clabot", 27.626010136497], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0], ["socketpair", 2.0]]}
+{"4976": [["marwahaha", 19.067174881202448], ["coveralls", 15.541371457263661], ["jsf-clabot", 11.31848179892869], ["ichernev", 5.588635651223903], ["icambron", 5.220662037543861], ["ashsearle", 1.426624868932108], ["devssh", 0.9999999999999998], ["bkyceh", 0.9976039037037867], ["caio-ribeiro-pereira", 0.9486832980505138], ["boyaq", 0.9486832980505138]]}
+{"4988": "this pull request files not import info!"}
+{"4989": [["marwahaha", 20.211297806342564], ["coveralls", 19.263227832754914], ["jsf-clabot", 17.040440114519882], ["ichernev", 3.7071067811865475], ["caio-ribeiro-pereira", 2.5], ["icambron", 1.5], ["boyaq", 1.5], ["Menelion", 1.0], ["socketpair", 1.0], ["baryon", 1.0]]}
+{"4990": [["marwahaha", 46.065258090065676], ["coveralls", 37.91812039067387], ["jsf-clabot", 28.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0], ["socketpair", 2.0]]}
+{"4999": "this pull request files not import info!"}
+{"5005": "this pull request files not import info!"}
+{"5025": [["marwahaha", 47.065258090065676], ["coveralls", 38.91812039067387], ["jsf-clabot", 28.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0], ["socketpair", 2.0]]}
+{"5028": "this pull request files not import info!"}
+{"5048": "this pull request files not import info!"}
+{"5049": "this pull request not comments!"}
+{"5055": [["marwahaha", 48.065258090065676], ["coveralls", 39.91812039067387], ["jsf-clabot", 29.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0], ["socketpair", 2.0]]}
+{"5061": [["marwahaha", 49.065258090065676], ["coveralls", 40.91812039067387], ["jsf-clabot", 30.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0], ["socketpair", 2.0]]}
+{"5086": [["marwahaha", 21.711297806342564], ["coveralls", 21.263227832754914], ["jsf-clabot", 18.040440114519882], ["ichernev", 3.7071067811865475], ["caio-ribeiro-pereira", 2.5], ["icambron", 1.5], ["boyaq", 1.5], ["kylekatarnls", 1.5], ["Menelion", 1.0], ["socketpair", 1.0]]}
+{"5090": [["marwahaha", 21.711297806342564], ["coveralls", 21.263227832754914], ["jsf-clabot", 19.040440114519882], ["ichernev", 3.7071067811865475], ["caio-ribeiro-pereira", 2.5], ["icambron", 1.5], ["boyaq", 1.5], ["kylekatarnls", 1.5], ["Menelion", 1.0], ["socketpair", 1.0]]}
+{"5091": "this pull request files not import info!"}
+{"5092": "this pull request files not import info!"}
+{"5094": [["ichernev", 5.261376017277372], ["jsf-clabot", 4.174895639206979], ["marwahaha", 3.5049940216331947], ["coveralls", 3.28183426598474], ["mj1856", 2.0], ["cmyers", 1.8090680674665818], ["icambron", 1.3634966796655106], ["maggiepint", 1.0], ["tqc", 0.9486832980505138], ["nnmrts", 0.3441236008058426]]}
+{"5103": "this pull request files not import info!"}
+{"5105": "this pull request not comments!"}
+{"5113": "this pull request files not import info!"}
+{"5120": "this pull request files not import info!"}
+{"5123": "this pull request files not import info!"}
+{"5124": [["marwahaha", 49.065258090065676], ["coveralls", 41.91812039067387], ["jsf-clabot", 31.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["kylekatarnls", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0]]}
+{"5127": [["marwahaha", 49.065258090065676], ["coveralls", 42.91812039067387], ["jsf-clabot", 31.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["kylekatarnls", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0]]}
+{"5139": "this pull request files not import info!"}
+{"5150": [["marwahaha", 4.1445486518988295], ["coveralls", 3.618769876725532], ["jsf-clabot", 2.9291730824594975], ["icambron", 2.332156411560238], ["ichernev", 1.267302763411388], ["ashsearle", 0.9007839155001961], ["darakeon", 0.6035533905932737], ["maggiepint", 0.35355339059327373], ["kotapeter", 0.35355339059327373], ["migg24", 0.35355339059327373]]}
+{"5180": [["marwahaha", 49.065258090065676], ["coveralls", 43.91812039067387], ["jsf-clabot", 31.94223790251384], ["ichernev", 9.086116871400538], ["icambron", 5.161694383957645], ["caio-ribeiro-pereira", 3.5], ["boyaq", 3.0], ["kylekatarnls", 3.0], ["bkyceh", 2.866025403784439], ["Menelion", 2.0]]}
+{"5191": "this pull request files not import info!"}
+{"5192": [["coveralls", 22.763227832754914], ["marwahaha", 21.711297806342564], ["jsf-clabot", 20.540440114519882], ["ichernev", 3.7071067811865475], ["caio-ribeiro-pereira", 2.5], ["icambron", 1.5], ["boyaq", 1.5], ["kylekatarnls", 1.5], ["Menelion", 1.0], ["socketpair", 1.0]]}
+{"5196": "this pull request files not import info!"}
+"55.32%""95.74%""95.74%"
+Total spend time is 1.978752613067627

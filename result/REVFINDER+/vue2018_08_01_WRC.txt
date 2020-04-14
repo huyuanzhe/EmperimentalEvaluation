@@ -1,0 +1,257 @@
+{"8743": "this pull request id is not file or not comments!"}
+{"8748": "this pull request id is not file or not comments!"}
+{"8755": [["yyx990803", 0.21211262282690851], ["Justineo", 0.16424792139077854], ["posva", 0.15277777777777776], ["ktsn", 0.07666666666666667], ["lzxb", 0.05333333333333334], ["ypresto", 0.05000000000000001], ["youngrok", 0.04], ["manniL", 0.022222222222222223], ["bowen31337", 0.022222222222222223], ["hiendv", 0.018518518518518517]]}
+{"8791": "this pull request id is not file or not comments!"}
+{"8801": [["kaorun343", 1.0], ["posva", 0.5], ["yangdan8", 0.5], ["lzxb", 0.32], ["yyx990803", 0.3125], ["st-sloth", 0.3125], ["KaelWD", 0.3125], ["ktsn", 0.16], ["manniL", 0.0], ["Justineo", 0.0]]}
+{"8807": "this pull request id is not file or not comments!"}
+{"8809": [["Hoishin", 0.6666666666666666], ["kaorun343", 0.3333333333333333], ["HerringtonDarkholme", 0.3333333333333333], ["posva", 0.20833333333333331], ["yangdan8", 0.20833333333333331], ["yyx990803", 0.171875], ["st-sloth", 0.171875], ["KaelWD", 0.171875], ["lzxb", 0.16], ["ktsn", 0.08]]}
+{"8830": "this pull request id is not file or not comments!"}
+{"8845": "this pull request id is not file or not comments!"}
+{"8848": "this pull request id is not file or not comments!"}
+{"8849": [["posva", 1.0], ["Shyam-Chen", 1.0], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0]]}
+{"8870": "this pull request id is not file or not comments!"}
+{"8881": "this pull request id is not file or not comments!"}
+{"8887": [["posva", 2.0], ["Justineo", 1.0], ["Shyam-Chen", 1.0], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0]]}
+{"8892": [["posva", 2.0], ["Justineo", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["kazupon", 0.0]]}
+{"8901": [["posva", 0.4152777777777778], ["Justineo", 0.2759637188208616], ["yyx990803", 0.22366780045351473], ["bowen31337", 0.1111111111111111], ["manniL", 0.06666666666666668], ["ktsn", 0.0625], ["ypresto", 0.0625], ["hiendv", 0.05555555555555555], ["youngrok", 0.049999999999999996], ["kazupon", 0.025000000000000005]]}
+{"8903": "this pull request id is not file or not comments!"}
+{"8904": "this pull request id is not file or not comments!"}
+{"8920": [["posva", 0.046509999999999996], ["Justineo", 0.03301714285714285], ["yyx990803", 0.030264232804232797], ["bowen31337", 0.0084], ["visualfanatic", 0.008118518518518518], ["manniL", 0.00672], ["youngrok", 0.005616], ["hiendv", 0.005599999999999999], ["ktsn", 0.0035419999999999996], ["ypresto", 0.0033499999999999997]]}
+{"8925": [["posva", 0.3277777777777778], ["yyx990803", 0.2693216175359032], ["Justineo", 0.24096749811035523], ["ktsn", 0.0565], ["bowen31337", 0.05555555555555555], ["visualfanatic", 0.05555555555555555], ["youngrok", 0.053999999999999986], ["davidcostadev", 0.05084444444444445], ["laden666666", 0.05084444444444445], ["ypresto", 0.04583333333333334]]}
+{"8944": [["yyx990803", 0.7182575113378684], ["posva", 0.4826388888888889], ["Justineo", 0.2935374149659864], ["derek-li", 0.11388888888888887], ["ktsn", 0.10368749999999999], ["ypresto", 0.0796875], ["beyond8512", 0.07777777777777777], ["bowen31337", 0.0625], ["youngrok", 0.06149999999999999], ["visualfanatic", 0.05555555555555555]]}
+{"8946": [["Hoishin", 0.6666666666666666], ["kjleitz", 0.43749999999999994], ["yyx990803", 0.421875], ["kaorun343", 0.3333333333333333], ["HerringtonDarkholme", 0.3333333333333333], ["ktsn", 0.28874999999999995], ["RnbWd", 0.21874999999999997], ["slangeder", 0.21874999999999997], ["LinusBorg", 0.21874999999999997], ["posva", 0.20833333333333331]]}
+{"8948": [["yyx990803", 0.03195691609977324], ["posva", 0.012388888888888889], ["ktsn", 0.011880000000000002], ["Justineo", 0.008489795918367345], ["lzxb", 0.00576], ["beyond8512", 0.005333333333333334], ["ypresto", 0.0045000000000000005], ["sqal", 0.0045000000000000005], ["kazupon", 0.00375], ["youngrok", 0.00288]]}
+{"8949": [["davidcostadev", 0.020800000000000003], ["laden666666", 0.020800000000000003], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0]]}
+{"8960": [["posva", 0.024925742210464435], ["yyx990803", 0.02117148001175779], ["Justineo", 0.01592063492063492], ["bowen31337", 0.006902116402116404], ["manniL", 0.004582010582010581], ["hiendv", 0.0041005291005291], ["visualfanatic", 0.0032639623750734853], ["ktsn", 0.0031279761904761906], ["derek-li", 0.002141681363903586], ["youngrok", 0.0020847619047619044]]}
+{"8965": "this pull request id is not file or not comments!"}
+{"8967": [["yyx990803", 1.8064200680272107], ["posva", 1.7401772486772487], ["Justineo", 0.9945578231292518], ["visualfanatic", 0.3333333333333333], ["ktsn", 0.28125], ["derek-li", 0.2777777777777778], ["bowen31337", 0.25], ["davidcostadev", 0.2496], ["laden666666", 0.2496], ["youngrok", 0.24]]}
+{"8974": "this pull request id is not file or not comments!"}
+{"8988": [["ktsn", 0.6331249999999999], ["Hoishin", 0.41666666666666663], ["KaelWD", 0.40625], ["thenickname", 0.40625], ["yyx990803", 0.375], ["kjleitz", 0.34375], ["st-sloth", 0.25], ["posva", 0.20833333333333331], ["yangdan8", 0.20833333333333331], ["kaorun343", 0.20833333333333331]]}
+{"8989": [["posva", 0.3663158068783069], ["yyx990803", 0.25107550705467374], ["Justineo", 0.15958994708994712], ["KaelWD", 0.13425925925925924], ["jvbianchi", 0.06712962962962962], ["jrvaja", 0.06712962962962962], ["arpit9295", 0.06712962962962962], ["ktsn", 0.04445138888888889], ["manniL", 0.040740740740740744], ["bowen31337", 0.03935185185185185]]}
+{"8993": [["yyx990803", 0.9852176870748299], ["ktsn", 0.44400000000000006], ["beyond8512", 0.31111111111111106], ["lzxb", 0.288], ["Justineo", 0.18503401360544214], ["ypresto", 0.15000000000000002], ["sqal", 0.15000000000000002], ["posva", 0.1472222222222222], ["youngrok", 0.144], ["derek-li", 0.08888888888888888]]}
+{"8995": "this pull request id is not file or not comments!"}
+{"9002": "this pull request id is not file or not comments!"}
+{"9016": [["posva", 2.1330026455026454], ["Justineo", 1.7993197278911564], ["yyx990803", 1.5739795918367343], ["manniL", 0.6666666666666666], ["hiendv", 0.6666666666666666], ["KaelWD", 0.3333333333333333], ["kazupon", 0.1875], ["bowen31337", 0.16666666666666666], ["jvbianchi", 0.16666666666666666], ["jrvaja", 0.16666666666666666]]}
+{"9017": [["yyx990803", 0.09519244142101282], ["posva", 0.08593208994708994], ["KaelWD", 0.056249999999999994], ["ktsn", 0.040615], ["Justineo", 0.03661224489795918], ["Hoishin", 0.016666666666666666], ["thenickname", 0.016249999999999997], ["kjleitz", 0.01375], ["tmorehouse", 0.013333333333333332], ["bowen31337", 0.01]]}
+{"9058": "this pull request id is not file or not comments!"}
+{"9060": "this pull request id is not file or not comments!"}
+{"9075": "this pull request id is not file or not comments!"}
+{"9084": [["posva", 2.0], ["Justineo", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0]]}
+{"9085": [["KaelWD", 1.625], ["ktsn", 1.0375], ["Hoishin", 1.0], ["yyx990803", 0.6983333333333334], ["kjleitz", 0.625], ["thenickname", 0.625], ["st-sloth", 0.5], ["posva", 0.5], ["yangdan8", 0.5], ["kaorun343", 0.5]]}
+{"9090": "this pull request id is not file or not comments!"}
+{"9093": "this pull request id is not file or not comments!"}
+{"9095": [["yyx990803", 0.883798327664399], ["posva", 0.7886438492063492], ["Justineo", 0.29489795918367345], ["KaelWD", 0.25], ["ktsn", 0.2281875], ["sqal", 0.13124999999999998], ["jvbianchi", 0.125], ["jrvaja", 0.125], ["arpit9295", 0.125], ["derek-li", 0.09166666666666665]]}
+{"9097": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9098": [["Hoishin", 2.0], ["ktsn", 1.6600000000000001], ["KaelWD", 1.4375], ["posva", 1.0], ["kaorun343", 1.0], ["HerringtonDarkholme", 1.0], ["kjleitz", 1.0], ["thenickname", 1.0], ["saraedum", 1.0], ["yyx990803", 0.8583333333333334]]}
+{"9099": "this pull request id is not file or not comments!"}
+{"9100": [["Hoishin", 2.0], ["ktsn", 1.6600000000000001], ["KaelWD", 1.4375], ["posva", 1.0], ["kaorun343", 1.0], ["HerringtonDarkholme", 1.0], ["kjleitz", 1.0], ["thenickname", 1.0], ["saraedum", 1.0], ["open-source-explorer", 1.0]]}
+{"9101": [["saraedum", 2.0], ["KaelWD", 1.625], ["posva", 1.5], ["ktsn", 1.0375], ["Hoishin", 1.0], ["yyx990803", 0.6983333333333334], ["kjleitz", 0.625], ["thenickname", 0.625], ["st-sloth", 0.5], ["yangdan8", 0.5]]}
+{"9102": "this pull request id is not file or not comments!"}
+{"9107": [["yyx990803", 0.49831456286218184], ["posva", 0.32919664902998236], ["ysj16", 0.15625], ["ktsn", 0.13083333333333333], ["Justineo", 0.12324263038548751], ["bowen31337", 0.1111111111111111], ["KaelWD", 0.05555555555555555], ["beyond8512", 0.05432098765432098], ["lzxb", 0.05333333333333334], ["ypresto", 0.052083333333333336]]}
+{"9109": "this pull request id is not file or not comments!"}
+{"9116": "this pull request id is not file or not comments!"}
+{"9119": [["yyx990803", 0.7166533446712017], ["posva", 0.5745813492063493], ["Justineo", 0.3365929705215419], ["KaelWD", 0.23055555555555554], ["ktsn", 0.18337499999999998], ["ysj16", 0.18281250000000002], ["bowen31337", 0.125], ["tmorehouse", 0.08333333333333333], ["ypresto", 0.0796875], ["sqal", 0.0796875]]}
+{"9126": [["yyx990803", 0.05500000000000001], ["Shyam-Chen", 0.05500000000000001], ["angelina999990", 0.05500000000000001], ["ktsn", 0.0], ["lzxb", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0]]}
+{"9128": [["yyx990803", 0.743689200680272], ["posva", 0.580310515873016], ["Justineo", 0.32089002267573696], ["KaelWD", 0.19444444444444445], ["ktsn", 0.18337499999999998], ["ysj16", 0.18281250000000002], ["Akryum", 0.09693750000000002], ["trainiac", 0.09693750000000002], ["tmorehouse", 0.08333333333333333], ["ypresto", 0.0796875]]}
+{"9129": "this pull request id is not file or not comments!"}
+{"9131": "this pull request id is not file or not comments!"}
+{"9135": [["posva", 1.0433007054673722], ["yyx990803", 0.44682791635172586], ["Justineo", 0.3444696397077349], ["KaelWD", 0.2345679012345679], ["ysj16", 0.1875], ["Shyam-Chen", 0.1111111111111111], ["spencer1573", 0.1111111111111111], ["geedew", 0.1111111111111111], ["philson-philip", 0.1111111111111111], ["jvbianchi", 0.1111111111111111]]}
+{"9136": [["posva", 1.7918710317460318], ["yyx990803", 1.005362811791383], ["cybermerlin", 0.5833333333333334], ["KaelWD", 0.5277777777777778], ["Justineo", 0.5250566893424037], ["ysj16", 0.421875], ["jvbianchi", 0.25], ["jrvaja", 0.25], ["arpit9295", 0.25], ["windyflying", 0.19444444444444445]]}
+{"9139": "this pull request id is not file or not comments!"}
+{"9146": "this pull request id is not file or not comments!"}
+{"9150": "this pull request id is not file or not comments!"}
+{"9154": "this pull request id is not file or not comments!"}
+{"9158": [["ktsn", 2.0375], ["saraedum", 2.0], ["KaelWD", 1.625], ["posva", 1.5], ["Hoishin", 1.0], ["yyx990803", 0.6983333333333334], ["kjleitz", 0.625], ["thenickname", 0.625], ["st-sloth", 0.5], ["yangdan8", 0.5]]}
+{"9165": "this pull request id is not file or not comments!"}
+{"9166": "this pull request id is not file or not comments!"}
+{"9170": "this pull request id is not file or not comments!"}
+{"9171": "this pull request id is not file or not comments!"}
+{"9172": [["posva", 0.25], ["munepom", 0.25], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0]]}
+{"9173": [["ktsn", 0.6090740740740741], ["KaelWD", 0.4930555555555556], ["posva", 0.38888888888888884], ["Hoishin", 0.3703703703703703], ["kjleitz", 0.3055555555555556], ["yyx990803", 0.28814814814814815], ["thenickname", 0.27777777777777773], ["saraedum", 0.25925925925925924], ["kaorun343", 0.18518518518518515], ["HerringtonDarkholme", 0.18518518518518515]]}
+{"9174": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9176": [["posva", 0.1256955099941211], ["yyx990803", 0.08848231607457796], ["Justineo", 0.04445940413202318], ["cybermerlin", 0.03530092592592592], ["bowen31337", 0.027777777777777776], ["KaelWD", 0.027469135802469135], ["clarkdo", 0.0265625], ["ktsn", 0.020374999999999997], ["ysj16", 0.0203125], ["manniL", 0.014409722222222223]]}
+{"9177": [["posva", 0.1256955099941211], ["yyx990803", 0.08848231607457796], ["Justineo", 0.07506640001679683], ["cybermerlin", 0.03530092592592592], ["bowen31337", 0.027777777777777776], ["KaelWD", 0.027469135802469135], ["clarkdo", 0.0265625], ["ktsn", 0.020374999999999997], ["ysj16", 0.0203125], ["manniL", 0.014409722222222223]]}
+{"9182": [["posva", 1.014359126984127], ["yyx990803", 0.8528134920634919], ["cybermerlin", 0.5083333333333333], ["Justineo", 0.4498015873015873], ["ysj16", 0.28125], ["KaelWD", 0.2777777777777778], ["clarkdo", 0.16875], ["ktsn", 0.16725], ["manniL", 0.10625000000000001], ["jvbianchi", 0.1]]}
+{"9184": [["posva", 0.974373015873016], ["yyx990803", 0.9366186224489795], ["Justineo", 0.44666241496598635], ["cybermerlin", 0.3177083333333333], ["clarkdo", 0.23906249999999998], ["KaelWD", 0.23055555555555554], ["ktsn", 0.18337499999999998], ["ysj16", 0.18281250000000002], ["subu28", 0.140625], ["skyline0705", 0.1345]]}
+{"9191": "this pull request id is not file or not comments!"}
+{"9193": "this pull request id is not file or not comments!"}
+{"9199": "this pull request id is not file or not comments!"}
+{"9217": [["posva", 0.53143430335097], ["yyx990803", 0.4069848198538675], ["Justineo", 0.22104749307130256], ["cybermerlin", 0.1412037037037037], ["bowen31337", 0.1111111111111111], ["KaelWD", 0.10987654320987654], ["clarkdo", 0.10625], ["ktsn", 0.08816666666666667], ["ysj16", 0.08125], ["skyline0705", 0.06283333333333335]]}
+{"9227": [["posva", 5.0992976190476185], ["cybermerlin", 2.5416666666666665], ["yyx990803", 2.421836734693877], ["KaelWD", 1.5555555555555556], ["Justineo", 1.529280045351474], ["jvbianchi", 0.75], ["jrvaja", 0.75], ["arpit9295", 0.75], ["ysj16", 0.5625], ["skyline0705", 0.35500000000000004]]}
+{"9242": [["posva", 0.1774722868900646], ["cybermerlin", 0.07949768518518517], ["yyx990803", 0.07435277441840935], ["Justineo", 0.04956838939279415], ["KaelWD", 0.03398765432098765], ["ysj16", 0.017749999999999995], ["jvbianchi", 0.015777777777777776], ["jrvaja", 0.015777777777777776], ["arpit9295", 0.015777777777777776], ["cedric05", 0.015499999999999998]]}
+{"9250": "this pull request id is not file or not comments!"}
+{"9254": [["posva", 3.9707883597883598], ["yyx990803", 1.9186978458049886], ["cybermerlin", 1.2708333333333333], ["Justineo", 1.2515022675736964], ["KaelWD", 0.6111111111111112], ["bowen31337", 0.5], ["tmorehouse", 0.3333333333333333], ["manniL", 0.29375], ["ysj16", 0.28125], ["clarkdo", 0.28125]]}
+{"9262": [["posva", 1.2936924603174604], ["yyx990803", 1.0213200113378684], ["Justineo", 0.6438846371882085], ["cybermerlin", 0.3177083333333333], ["clarkdo", 0.23906249999999998], ["KaelWD", 0.23055555555555554], ["ktsn", 0.18337499999999998], ["ysj16", 0.18281250000000002], ["subu28", 0.1640625], ["andrew-humu", 0.140625]]}
+{"9271": [["posva", 5.782936507936509], ["yyx990803", 2.715475623582767], ["cybermerlin", 2.5416666666666665], ["Justineo", 1.873030045351474], ["KaelWD", 1.0555555555555556], ["ysj16", 0.5625], ["skyline0705", 0.5049999999999999], ["jvbianchi", 0.5], ["jrvaja", 0.5], ["arpit9295", 0.5]]}
+{"9272": "this pull request id is not file or not comments!"}
+{"9275": [["posva", 1.423886904761905], ["yyx990803", 1.1843934240362812], ["Justineo", 0.6732993197278911], ["cybermerlin", 0.5083333333333333], ["KaelWD", 0.2666666666666667], ["ysj16", 0.22500000000000003], ["clarkdo", 0.22500000000000003], ["ktsn", 0.19275], ["skyline0705", 0.16925], ["sqal", 0.1393888888888889]]}
+{"9280": [["posva", 0.058277814520870094], ["Justineo", 0.032232867220962455], ["yyx990803", 0.029664609473418993], ["cybermerlin", 0.017685185185185186], ["KaelWD", 0.00814814814814815], ["bowen31337", 0.006666666666666667], ["manniL", 0.004590277777777777], ["tmorehouse", 0.004074074074074075], ["ysj16", 0.00375], ["zhangenming", 0.0036111111111111114]]}
+{"9285": [["posva", 0.058277814520870094], ["Justineo", 0.034439863105736115], ["yyx990803", 0.029664609473418993], ["cybermerlin", 0.017685185185185186], ["KaelWD", 0.00814814814814815], ["bowen31337", 0.006666666666666667], ["manniL", 0.004590277777777777], ["tmorehouse", 0.004074074074074075], ["ysj16", 0.00375], ["zhangenming", 0.0036111111111111114]]}
+{"9286": [["posva", 5.782936507936509], ["yyx990803", 3.465475623582767], ["cybermerlin", 2.5416666666666665], ["Justineo", 1.9935856009070299], ["KaelWD", 1.0555555555555556], ["zhangenming", 0.75], ["ysj16", 0.5625], ["skyline0705", 0.5049999999999999], ["jvbianchi", 0.5], ["jrvaja", 0.5]]}
+{"9290": [["yyx990803", 1.0023955971277403], ["posva", 0.8476256613756615], ["Justineo", 0.6218362622826908], ["tmorehouse", 0.25], ["cybermerlin", 0.21180555555555555], ["manniL", 0.19374999999999998], ["hiendv", 0.125], ["Akryum", 0.12374999999999999], ["trainiac", 0.12374999999999999], ["KaelWD", 0.11481481481481481]]}
+{"9291": "this pull request id is not file or not comments!"}
+{"9292": "this pull request id is not file or not comments!"}
+{"9293": [["posva", 3.2222222222222223], ["Justineo", 1.0344444444444445], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["awulkan", 1.0], ["cybermerlin", 0.6666666666666666], ["windyflying", 0.2222222222222222], ["ktsn", 0.0]]}
+{"9295": "this pull request id is not file or not comments!"}
+{"9296": "this pull request id is not file or not comments!"}
+{"9297": [["yyx990803", 1.4470449735449735], ["posva", 0.9433201058201056], ["Justineo", 0.8251951058201056], ["tmorehouse", 0.3333333333333333], ["manniL", 0.27291666666666664], ["ysj16", 0.21562499999999998], ["cybermerlin", 0.21180555555555555], ["hiendv", 0.20833333333333334], ["skyline0705", 0.16116666666666665], ["clarkdo", 0.159375]]}
+{"9302": [["ktsn", 2.5560185185185182], ["posva", 2.5], ["saraedum", 2.0], ["KaelWD", 1.625], ["Hoishin", 1.0], ["HerringtonDarkholme", 0.7592592592592592], ["yyx990803", 0.6983333333333334], ["kjleitz", 0.625], ["thenickname", 0.625], ["st-sloth", 0.5]]}
+{"9303": [["posva", 4.5], ["ktsn", 2.5560185185185182], ["saraedum", 2.0], ["KaelWD", 1.625], ["Hoishin", 1.0], ["mickaelw", 1.0], ["HerringtonDarkholme", 0.7592592592592592], ["yyx990803", 0.6983333333333334], ["kjleitz", 0.625], ["thenickname", 0.625]]}
+{"9311": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9314": [["posva", 0.029433585615511897], ["yyx990803", 0.024869798983141938], ["Justineo", 0.019248411664837685], ["cybermerlin", 0.007240058131853612], ["KaelWD", 0.0037697626282644113], ["manniL", 0.0036414982164090373], ["ysj16", 0.0030321046373365038], ["clarkdo", 0.0027645659928656366], ["skyline0705", 0.0026228695996829174], ["ktsn", 0.0023831747919143874]]}
+{"9315": "this pull request id is not file or not comments!"}
+{"9316": "this pull request id is not file or not comments!"}
+{"9317": "this pull request id is not file or not comments!"}
+{"9318": "this pull request id is not file or not comments!"}
+{"9319": [["posva", 3.5097698412698417], ["yyx990803", 2.514783446712018], ["Justineo", 1.5865263824515143], ["cybermerlin", 1.2708333333333333], ["clarkdo", 0.5625], ["KaelWD", 0.5555555555555556], ["manniL", 0.4625], ["tmorehouse", 0.3333333333333333], ["Akryum", 0.28875], ["trainiac", 0.28875]]}
+{"9323": "this pull request id is not file or not comments!"}
+{"9324": [["posva", 1.763415013227513], ["yyx990803", 1.2838732048374903], ["trainiac", 0.9321875], ["Justineo", 0.8187736615653001], ["cybermerlin", 0.6354166666666666], ["clarkdo", 0.28125], ["KaelWD", 0.2777777777777778], ["manniL", 0.23125], ["Akryum", 0.18218749999999997], ["tmorehouse", 0.16666666666666666]]}
+{"9331": "this pull request id is not file or not comments!"}
+{"9341": "this pull request id is not file or not comments!"}
+{"9343": "this pull request id is not file or not comments!"}
+{"9344": "this pull request id is not file or not comments!"}
+{"9346": "this pull request id is not file or not comments!"}
+{"9347": [["ktsn", 3.4007407407407406], ["posva", 2.5], ["Hoishin", 2.0], ["KaelWD", 1.4375], ["HerringtonDarkholme", 1.3703703703703702], ["kaorun343", 1.0], ["kjleitz", 1.0], ["thenickname", 1.0], ["saraedum", 1.0], ["open-source-explorer", 1.0]]}
+{"9356": [["posva", 2.570734126984127], ["yyx990803", 1.299702239229025], ["zlumer", 1.0], ["ktsn", 0.9204976851851852], ["Justineo", 0.7509998650173507], ["cybermerlin", 0.6354166666666666], ["KaelWD", 0.6232638888888888], ["Hoishin", 0.5], ["HerringtonDarkholme", 0.34259259259259256], ["kaorun343", 0.25]]}
+{"9362": [["posva", 0.22023153439153442], ["Justineo", 0.21465432919633698], ["yyx990803", 0.19758342403628118], ["cybermerlin", 0.05083333333333333], ["clarkdo", 0.03824999999999999], ["KaelWD", 0.03688888888888889], ["manniL", 0.03275], ["trainiac", 0.030560000000000004], ["subu28", 0.03], ["ktsn", 0.029339999999999995]]}
+{"9365": "this pull request id is not file or not comments!"}
+{"9366": [["yyx990803", 1.558475245653817], ["posva", 0.9880839947089946], ["Justineo", 0.8184444819677108], ["tmorehouse", 0.3333333333333333], ["manniL", 0.27291666666666664], ["ysj16", 0.21562499999999998], ["cybermerlin", 0.21180555555555555], ["hiendv", 0.16666666666666666], ["skyline0705", 0.16116666666666665], ["clarkdo", 0.159375]]}
+{"9368": [["posva", 0.009222222222222224], ["Justineo", 0.004128193582008485], ["yyx990803", 0.003332098765432099], ["iyil", 0.0022222222222222222], ["oathsign", 0.0016666666666666668], ["Shyam-Chen", 0.0012333333333333332], ["spencer1573", 0.0011111111111111111], ["geedew", 0.0011111111111111111], ["philson-philip", 0.0011111111111111111], ["JounQin", 0.0011111111111111111]]}
+{"9371": [["posva", 0.4597901785714287], ["yyx990803", 0.3462503365929705], ["Justineo", 0.23817419762631076], ["cybermerlin", 0.14296874999999998], ["KaelWD", 0.07343749999999999], ["trainiac", 0.0521796875], ["ysj16", 0.04921874999999999], ["manniL", 0.04580078125], ["skyline0705", 0.04525781250000001], ["DominusVilicus", 0.0404296875]]}
+{"9373": [["posva", 0.20113008230452667], ["yyx990803", 0.15946810279667428], ["Justineo", 0.10638449881448447], ["cybermerlin", 0.0497037037037037], ["KaelWD", 0.03453703703703703], ["ktsn", 0.029138971193415634], ["ysj16", 0.024], ["trainiac", 0.022704444444444444], ["skyline0705", 0.020827407407407413], ["manniL", 0.020555555555555556]]}
+{"9379": [["posva", 1.5833333333333333], ["ktsn", 1.0569753086419753], ["zlumer", 0.8888888888888888], ["KaelWD", 0.4791666666666667], ["Justineo", 0.47222222222222215], ["Hoishin", 0.4444444444444444], ["saraedum", 0.4444444444444444], ["HerringtonDarkholme", 0.32098765432098764], ["kjleitz", 0.25], ["thenickname", 0.25]]}
+{"9386": "this pull request id is not file or not comments!"}
+{"9393": "this pull request id is not file or not comments!"}
+{"9400": "this pull request id is not file or not comments!"}
+{"9405": "this pull request id is not file or not comments!"}
+{"9408": [["posva", 1.623949404761905], ["yyx990803", 1.3138616780045351], ["Justineo", 0.9909963345722752], ["cybermerlin", 0.3177083333333333], ["bowen31337", 0.25], ["KaelWD", 0.24722222222222223], ["clarkdo", 0.23906249999999998], ["manniL", 0.20468750000000002], ["trainiac", 0.191], ["ktsn", 0.18337499999999998]]}
+{"9423": "this pull request id is not file or not comments!"}
+{"9424": "this pull request id is not file or not comments!"}
+{"9425": "this pull request id is not file or not comments!"}
+{"9431": "this pull request id is not file or not comments!"}
+{"9450": "this pull request id is not file or not comments!"}
+{"9466": [["posva", 4.0327791005291], ["yyx990803", 2.4407348828420257], ["Justineo", 1.9290019372790737], ["cybermerlin", 1.2708333333333333], ["trainiac", 0.775], ["DominusVilicus", 0.6562499999999999], ["KaelWD", 0.5555555555555556], ["manniL", 0.36875], ["tmorehouse", 0.3333333333333333], ["ysj16", 0.28125]]}
+{"9489": "this pull request id is not file or not comments!"}
+{"9490": "this pull request id is not file or not comments!"}
+{"9508": "this pull request id is not file or not comments!"}
+{"9514": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9525": "this pull request id is not file or not comments!"}
+{"9526": [["posva", 2.1800188492063493], ["yyx990803", 1.6425283446712018], ["Justineo", 0.9265263748682193], ["cybermerlin", 0.6354166666666666], ["KaelWD", 0.4444444444444444], ["ysj16", 0.25312500000000004], ["clarkdo", 0.23906249999999998], ["manniL", 0.2234375], ["ktsn", 0.2068125], ["trainiac", 0.191]]}
+{"9533": "this pull request id is not file or not comments!"}
+{"9536": "this pull request id is not file or not comments!"}
+{"9537": "this pull request id is not file or not comments!"}
+{"9538": "this pull request id is not file or not comments!"}
+{"9541": "this pull request id is not file or not comments!"}
+{"9542": [["posva", 4.0327791005291], ["yyx990803", 3.4407348828420257], ["Justineo", 2.9290019372790734], ["cybermerlin", 1.2708333333333333], ["ramiy", 1.0], ["trainiac", 0.775], ["DominusVilicus", 0.6562499999999999], ["KaelWD", 0.5555555555555556], ["manniL", 0.36875], ["tmorehouse", 0.3333333333333333]]}
+{"9550": [["yyx990803", 2.6551065759637194], ["posva", 1.3682222222222222], ["ysj16", 0.9000000000000001], ["Justineo", 0.7453259940520004], ["skyline0705", 0.483], ["clarkdo", 0.45000000000000007], ["shasharoman", 0.45000000000000007], ["Itisfilipe", 0.44999999999999996], ["ktsn", 0.44400000000000006], ["manniL", 0.30000000000000004]]}
+{"9560": [["posva", 7.774547619047619], ["yyx990803", 4.067086734693877], ["Justineo", 3.0578883489582918], ["cybermerlin", 2.5416666666666665], ["KaelWD", 1.5555555555555556], ["shasharoman", 1.34375], ["cedric05", 1.0], ["jvbianchi", 0.75], ["jrvaja", 0.75], ["arpit9295", 0.75]]}
+{"9561": [["posva", 6.988992063492065], ["yyx990803", 4.515836734693877], ["cybermerlin", 3.8125], ["Justineo", 3.2453883489582918], ["ysj16", 1.125], ["shasharoman", 1.0625], ["KaelWD", 1.0555555555555556], ["trainiac", 0.665], ["sqal", 0.6195555555555556], ["DominusVilicus", 0.5625]]}
+{"9563": "this pull request id is not file or not comments!"}
+{"9572": "this pull request id is not file or not comments!"}
+{"9585": [["posva", 1.6186994047619043], ["yyx990803", 1.4497358276643988], ["Justineo", 1.0062457676788512], ["cybermerlin", 0.3177083333333333], ["shasharoman", 0.30781250000000004], ["Luxiaosong", 0.3], ["bowen31337", 0.25], ["ysj16", 0.23906249999999998], ["KaelWD", 0.2361111111111111], ["trainiac", 0.191]]}
+{"9588": "this pull request id is not file or not comments!"}
+{"9595": "this pull request id is not file or not comments!"}
+{"9598": "this pull request id is not file or not comments!"}
+{"9619": "this pull request id is not file or not comments!"}
+{"9621": "this pull request id is not file or not comments!"}
+{"9622": "this pull request id is not file or not comments!"}
+{"9624": "this pull request id is not file or not comments!"}
+{"9634": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9647": [["posva", 7.738992063492065], ["yyx990803", 4.609586734693877], ["cybermerlin", 3.8125], ["Justineo", 3.2453883489582918], ["shasharoman", 1.0625], ["KaelWD", 1.0555555555555556], ["ysj16", 0.84375], ["roberto-aguilar", 0.75], ["trainiac", 0.665], ["DominusVilicus", 0.5625]]}
+{"9649": [["yyx990803", 1.887285714285715], ["posva", 1.7505119047619049], ["Justineo", 0.8857798869448691], ["cybermerlin", 0.5083333333333333], ["shasharoman", 0.325], ["Luxiaosong", 0.3], ["ysj16", 0.28125], ["KaelWD", 0.2777777777777778], ["skyline0705", 0.24425000000000002], ["manniL", 0.2375]]}
+{"9653": [["yyx990803", 2.0996921768707484], ["posva", 1.7419007936507933], ["Justineo", 0.895400346741947], ["cybermerlin", 0.5083333333333333], ["shasharoman", 0.325], ["Luxiaosong", 0.3], ["skyline0705", 0.28174999999999994], ["ysj16", 0.28125], ["KaelWD", 0.2666666666666667], ["manniL", 0.18125000000000002]]}
+{"9660": "this pull request id is not file or not comments!"}
+{"9662": [["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["posva", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"9667": "this pull request id is not file or not comments!"}
+{"9668": [["yyx990803", 0.8286722936088013], ["posva", 0.7257225161669605], ["Justineo", 0.45427653469162077], ["tmorehouse", 0.14814814814814814], ["Itisfilipe", 0.13888888888888887], ["Luxiaosong", 0.13333333333333333], ["manniL", 0.12129629629629629], ["shasharoman", 0.10787037037037037], ["ysj16", 0.09583333333333333], ["cybermerlin", 0.0941358024691358]]}
+{"9673": "this pull request id is not file or not comments!"}
+{"9675": "this pull request id is not file or not comments!"}
+{"9677": [["posva", 4.1760198412698415], ["yyx990803", 3.638533446712018], ["Justineo", 2.4427763824515143], ["trainiac", 1.78875], ["DominusVilicus", 1.40625], ["cybermerlin", 1.2708333333333333], ["shasharoman", 0.855324074074074], ["clarkdo", 0.5625], ["KaelWD", 0.5555555555555556], ["manniL", 0.4625]]}
+{"9680": "this pull request id is not file or not comments!"}
+{"9684": "this pull request id is not file or not comments!"}
+{"9700": "this pull request id is not file or not comments!"}
+{"9709": [["posva", 1.7002549603174606], ["yyx990803", 1.6831950113378686], ["Justineo", 1.146058512535018], ["shasharoman", 0.42702546296296295], ["cybermerlin", 0.3177083333333333], ["clarkdo", 0.30156249999999996], ["KaelWD", 0.23055555555555554], ["manniL", 0.20468750000000002], ["Luxiaosong", 0.2], ["trainiac", 0.191]]}
+{"9728": [["posva", 0.6828703703703702], ["ktsn", 0.6819032921810699], ["zlumer", 0.3703703703703703], ["KaelWD", 0.3263888888888889], ["yyx990803", 0.21410493827160493], ["Justineo", 0.21392298263384268], ["Hoishin", 0.18518518518518515], ["saraedum", 0.18518518518518515], ["kjleitz", 0.18055555555555555], ["HerringtonDarkholme", 0.17078189300411523]]}
+{"9733": [["posva", 2.1383101851851847], ["ktsn", 1.781273148148148], ["KaelWD", 0.90625], ["zlumer", 0.8333333333333333], ["saraedum", 0.6666666666666666], ["Justineo", 0.4427083333333333], ["Hoishin", 0.41666666666666663], ["yyx990803", 0.4116666666666667], ["thenickname", 0.40625], ["HerringtonDarkholme", 0.3657407407407407]]}
+{"9738": "this pull request id is not file or not comments!"}
+{"9779": [["yyx990803", 0.23671444435112865], ["posva", 0.21610173754000916], ["Justineo", 0.15541769050510063], ["shasharoman", 0.049562757201646095], ["cybermerlin", 0.03660836762688614], ["Luxiaosong", 0.034567901234567905], ["clarkdo", 0.02919238683127572], ["ysj16", 0.02754629629629629], ["manniL", 0.027186213991769542], ["tmorehouse", 0.024691358024691357]]}
+{"9804": "this pull request id is not file or not comments!"}
+{"9827": "this pull request id is not file or not comments!"}
+{"9828": "this pull request id is not file or not comments!"}
+{"9829": "this pull request id is not file or not comments!"}
+{"9834": "this pull request id is not file or not comments!"}
+{"9845": "this pull request id is not file or not comments!"}
+{"9846": "this pull request id is not file or not comments!"}
+{"9848": [["posva", 0.5344444444444445], ["oathsign", 0.5], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0]]}
+{"9857": [["posva", 1.9537037037037035], ["ktsn", 1.9301157407407408], ["zlumer", 1.3333333333333333], ["KaelWD", 0.734375], ["Justineo", 0.7083333333333333], ["Hoishin", 0.6666666666666666], ["HerringtonDarkholme", 0.537037037037037], ["kjleitz", 0.5], ["yyx990803", 0.44708333333333333], ["thenickname", 0.43749999999999994]]}
+{"9858": "this pull request id is not file or not comments!"}
+{"9860": "this pull request id is not file or not comments!"}
+{"9871": "this pull request id is not file or not comments!"}
+{"9874": [["posva", 6.79454761904762], ["yyx990803", 5.6713922902494325], ["Justineo", 3.3736548098636416], ["cybermerlin", 2.5416666666666665], ["shasharoman", 1.136574074074074], ["KaelWD", 1.0555555555555556], ["trainiac", 0.665], ["ysj16", 0.5625], ["DominusVilicus", 0.5625], ["clarkdo", 0.53125]]}
+{"9880": [["posva", 3.2394444444444446], ["Justineo", 1.0522803540758356], ["yyx990803", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["awulkan", 1.0], ["cybermerlin", 0.6666666666666666], ["windyflying", 0.2222222222222222]]}
+{"9884": [["posva", 2.3080535714285713], ["yyx990803", 2.1688696145124715], ["Justineo", 1.2693558173221582], ["cybermerlin", 0.6354166666666666], ["shasharoman", 0.4633101851851852], ["KaelWD", 0.3194444444444444], ["ysj16", 0.309375], ["Luxiaosong", 0.3], ["jasmineMu", 0.25], ["clarkdo", 0.24531250000000002]]}
+{"9902": "this pull request id is not file or not comments!"}
+{"9907": [["posva", 5.181575396825396], ["yyx990803", 4.119531179138322], ["Justineo", 3.4808565354695484], ["cybermerlin", 1.2708333333333333], ["shasharoman", 0.855324074074074], ["bowen31337", 0.75], ["KaelWD", 0.6666666666666666], ["trainiac", 0.665], ["DominusVilicus", 0.5625], ["clarkdo", 0.53125]]}
+{"9909": [["yyx990803", 1.3790396825396825], ["posva", 0.6368888888888891], ["Justineo", 0.6048345171512035], ["Luxiaosong", 0.4], ["shasharoman", 0.31388888888888894], ["ysj16", 0.22500000000000003], ["clarkdo", 0.22500000000000003], ["skyline0705", 0.20500000000000002], ["ktsn", 0.198], ["Akryum", 0.16500000000000004]]}
+{"9912": [["posva", 0.8504050925925924], ["ktsn", 0.8156944444444443], ["zlumer", 0.41666666666666663], ["KaelWD", 0.34375], ["Justineo", 0.22135416666666666], ["Hoishin", 0.20833333333333331], ["saraedum", 0.20833333333333331], ["HerringtonDarkholme", 0.18749999999999997], ["yyx990803", 0.18447916666666667], ["kjleitz", 0.171875]]}
+{"9914": [["posva", 2.017248015873016], ["yyx990803", 1.4478480725623584], ["Justineo", 1.0947126502940396], ["cybermerlin", 0.6354166666666666], ["shasharoman", 0.2841435185185185], ["KaelWD", 0.2638888888888889], ["jasmineMu", 0.25], ["trainiac", 0.16625], ["ysj16", 0.140625], ["DominusVilicus", 0.140625]]}
+{"9915": "this pull request id is not file or not comments!"}
+{"9917": [["posva", 1.3302039976484423], ["yyx990803", 1.268637083228353], ["Justineo", 0.9674778223818378], ["shasharoman", 0.2882201646090535], ["cybermerlin", 0.2824074074074074], ["KaelWD", 0.18271604938271602], ["vue-bot", 0.18194444444444446], ["clarkdo", 0.16805555555555554], ["bowen31337", 0.16666666666666666], ["trainiac", 0.1648888888888889]]}
+{"9922": "this pull request id is not file or not comments!"}
+{"9930": [["posva", 3.2413105158730153], ["yyx990803", 1.8954522392290245], ["cybermerlin", 1.2786458333333333], ["Justineo", 1.176796290984869], ["shasharoman", 0.2841435185185185], ["KaelWD", 0.2638888888888889], ["Shyam-Chen", 0.25], ["spencer1573", 0.25], ["geedew", 0.25], ["philson-philip", 0.25]]}
+{"9931": [["posva", 8.66593650793651], ["yyx990803", 6.577503401360543], ["cybermerlin", 3.8125], ["Justineo", 3.5611548098636416], ["shasharoman", 1.136574074074074], ["KaelWD", 1.0555555555555556], ["jasmineMu", 1.0], ["ysj16", 0.84375], ["roberto-aguilar", 0.75], ["felixbuenemann", 0.75]]}
+{"9932": "this pull request id is not file or not comments!"}
+{"9933": "this pull request id is not file or not comments!"}
+{"9934": [["posva", 4.614444444444445], ["Justineo", 1.0522803540758356], ["yyx990803", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["awulkan", 1.0], ["cybermerlin", 0.6666666666666666], ["windyflying", 0.2222222222222222]]}
+{"9970": "this pull request id is not file or not comments!"}
+{"9974": "this pull request id is not file or not comments!"}
+{"9975": "this pull request id is not file or not comments!"}
+{"9995": [["posva", 2.925454365079365], ["yyx990803", 2.7612807539682542], ["Justineo", 1.6731673568338832], ["cybermerlin", 0.8260416666666666], ["vue-bot", 0.4526041666666667], ["shasharoman", 0.444849537037037], ["KaelWD", 0.37777777777777777], ["jasmineMu", 0.325], ["trainiac", 0.29925], ["DominusVilicus", 0.253125]]}
+{"10013": [["yyx990803", 2.6752484410430837], ["posva", 2.6031924603174605], ["Justineo", 1.2173870525955865], ["cybermerlin", 0.953125], ["shasharoman", 0.4633101851851852], ["ysj16", 0.37968750000000007], ["KaelWD", 0.3194444444444444], ["Luxiaosong", 0.3], ["vue-bot", 0.2939236111111111], ["jasmineMu", 0.25]]}
+{"10028": "this pull request id is not file or not comments!"}
+{"10031": "this pull request id is not file or not comments!"}
+{"10041": [["yyx990803", 2.664555272108843], ["posva", 2.329352182539682], ["Justineo", 1.257920355299898], ["cybermerlin", 0.6354166666666666], ["shasharoman", 0.4633101851851852], ["KaelWD", 0.3194444444444444], ["ysj16", 0.309375], ["vue-bot", 0.30017361111111107], ["Luxiaosong", 0.3], ["zhangenming", 0.25]]}
+{"10055": [["posva", 0.18457777777777779], ["Justineo", 0.04209121416303343], ["yyx990803", 0.04], ["Shyam-Chen", 0.04], ["spencer1573", 0.04], ["geedew", 0.04], ["philson-philip", 0.04], ["awulkan", 0.04], ["vue-bot", 0.04], ["cybermerlin", 0.02666666666666666]]}
+{"10064": "this pull request id is not file or not comments!"}
+{"10074": [["ktsn", 2.1745023148148146], ["posva", 2.1383101851851847], ["KaelWD", 0.90625], ["zlumer", 0.8333333333333333], ["saraedum", 0.6666666666666666], ["yyx990803", 0.5548958333333334], ["Justineo", 0.4427083333333333], ["Hoishin", 0.41666666666666663], ["thenickname", 0.40625], ["HerringtonDarkholme", 0.3657407407407407]]}
+{"10101": [["posva", 8.099186507936508], ["yyx990803", 7.186447845804989], ["Justineo", 4.582265920974753], ["cybermerlin", 2.5416666666666665], ["shasharoman", 1.136574074074074], ["KaelWD", 1.0555555555555556], ["jasmineMu", 1.0], ["vue-bot", 0.8673611111111111], ["zhangenming", 0.75], ["gooqiao", 0.75]]}
+{"10113": "this pull request id is not file or not comments!"}
+{"10116": [["posva", 9.28829761904762], ["yyx990803", 7.331808956916098], ["cybermerlin", 4.447916666666667], ["Justineo", 4.029904809863641], ["vue-bot", 1.292361111111111], ["shasharoman", 1.136574074074074], ["KaelWD", 1.0555555555555556], ["jasmineMu", 1.0], ["ysj16", 0.84375], ["roberto-aguilar", 0.75]]}
+{"10126": "this pull request id is not file or not comments!"}
+{"10130": "this pull request id is not file or not comments!"}
+{"10136": "this pull request id is not file or not comments!"}
+{"10158": "this pull request id is not file or not comments!"}
+{"10181": "this pull request id is not file or not comments!"}
+{"10193": [["posva", 1.292803791887125], ["yyx990803", 1.128398904006047], ["Justineo", 0.8684375410510423], ["vue-bot", 0.3457561728395062], ["cybermerlin", 0.2824074074074074], ["shasharoman", 0.19007201646090532], ["bowen31337", 0.16666666666666666], ["trainiac", 0.15694444444444444], ["KaelWD", 0.14814814814814814], ["DominusVilicus", 0.125]]}
+{"10232": "this pull request id is not file or not comments!"}
+{"10233": "this pull request id is not file or not comments!"}
+{"10242": "this pull request id is not file or not comments!"}
+{"10247": [["posva", 4.614444444444445], ["Justineo", 1.1722803540758355], ["yyx990803", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["awulkan", 1.0], ["vue-bot", 1.0], ["cybermerlin", 0.6666666666666666]]}
+{"10257": [["Justineo", 0.7306361596766537], ["posva", 0.3774074074074074], ["Kermit-Xuan", 0.32], ["yyx990803", 0.16], ["vue-bot", 0.125], ["bkuri", 0.0823045267489712], ["ktsn", 0.0], ["lzxb", 0.0], ["st-sloth", 0.0], ["manniL", 0.0]]}
+{"10267": [["posva", 0.015297633744855967], ["Justineo", 0.006120716568067606], ["yyx990803", 0.0025913580246913577], ["iyil", 0.0022222222222222222], ["oathsign", 0.0022222222222222222], ["Shyam-Chen", 0.0012333333333333332], ["spencer1573", 0.0011111111111111111], ["geedew", 0.0011111111111111111], ["philson-philip", 0.0011111111111111111], ["awulkan", 0.0011111111111111111]]}
+{"10268": [["posva", 0.019601954732510286], ["Justineo", 0.011398071595912936], ["vue-bot", 0.0060185185185185185], ["yyx990803", 0.004117283950617284], ["grandsong", 0.0025925925925925925], ["Kermit-Xuan", 0.002311111111111111], ["oathsign", 0.0016666666666666668], ["Shyam-Chen", 0.0011722222222222223], ["spencer1573", 0.0011111111111111111], ["geedew", 0.0011111111111111111]]}
+{"10296": [["posva", 0.034444444444444444], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"10301": [["posva", 1.1033333333333335], ["oathsign", 0.5], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["Justineo", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0]]}
+{"10302": "this pull request id is not file or not comments!"}
+{"10308": [["JounQin", 1.0], ["chiaweilee", 1.0], ["davidcostadev", 0.020800000000000003], ["laden666666", 0.020800000000000003], ["posva", 0.017222222222222222], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0]]}
+{"10310": [["posva", 2.62744246031746], ["yyx990803", 2.602055272108843], ["Justineo", 1.6041009108554534], ["cybermerlin", 0.6354166666666666], ["vue-bot", 0.48767361111111107], ["shasharoman", 0.4633101851851852], ["KaelWD", 0.3194444444444444], ["ysj16", 0.309375], ["Luxiaosong", 0.3], ["jasmineMu", 0.25]]}
+{"10314": [["posva", 2.96025496031746], ["yyx990803", 2.664555272108843], ["Justineo", 1.6884759108554535], ["cybermerlin", 0.6354166666666666], ["vue-bot", 0.48767361111111107], ["shasharoman", 0.4633101851851852], ["KaelWD", 0.3194444444444444], ["ysj16", 0.309375], ["Luxiaosong", 0.3], ["HusamIbrahim", 0.290625]]}
+{"10319": "this pull request id is not file or not comments!"}
+{"10324": [["posva", 4.648888888888889], ["Justineo", 2.1722803540758355], ["yyx990803", 1.0], ["Shyam-Chen", 1.0], ["spencer1573", 1.0], ["geedew", 1.0], ["philson-philip", 1.0], ["awulkan", 1.0], ["vue-bot", 1.0], ["cybermerlin", 0.6666666666666666]]}
+{"10327": [["posva", 9.17904761904762], ["yyx990803", 7.186447845804989], ["Justineo", 4.804488143196974], ["cybermerlin", 2.5416666666666665], ["vue-bot", 1.6173611111111112], ["shasharoman", 1.136574074074074], ["KaelWD", 1.0555555555555556], ["jasmineMu", 1.0], ["HusamIbrahim", 0.84375], ["grandsong", 0.7777777777777779]]}
+{"10339": [["posva", 5.157825396825396], ["yyx990803", 4.610755668934239], ["Justineo", 3.1120150655790866], ["trainiac", 1.28875], ["cybermerlin", 1.2708333333333333], ["DominusVilicus", 1.125], ["vue-bot", 1.1236111111111111], ["clarkdo", 1.0625], ["shasharoman", 0.855324074074074], ["grandsong", 0.7777777777777779]]}
+{"10353": "this pull request id is not file or not comments!"}
+{"10354": "this pull request id is not file or not comments!"}
+{"10355": "this pull request id is not file or not comments!"}
+{"10358": [["posva", 5.7942605820105815], ["yyx990803", 5.035457105064248], ["Justineo", 4.39876835781508], ["vue-bot", 1.6895833333333332], ["grandsong", 1.5555555555555558], ["cybermerlin", 1.2708333333333333], ["shasharoman", 1.0219907407407405], ["trainiac", 0.72], ["liximomo", 0.6666666666666666], ["DominusVilicus", 0.6562499999999999]]}
+{"10372": "this pull request id is not file or not comments!"}
+{"10379": [["posva", 3.1456924603174605], ["yyx990803", 2.6998191609977322], ["Justineo", 1.6347606330776756], ["cybermerlin", 0.953125], ["vue-bot", 0.5939236111111111], ["shasharoman", 0.4633101851851852], ["ysj16", 0.37968750000000007], ["HusamIbrahim", 0.36562500000000003], ["KaelWD", 0.3194444444444444], ["Luxiaosong", 0.3]]}
+{"10380": [["posva", 0.07893518518518519], ["Justineo", 0.011481481481481481], ["ktsn", 0.0], ["lzxb", 0.0], ["yyx990803", 0.0], ["st-sloth", 0.0], ["manniL", 0.0], ["kazupon", 0.0], ["KaelWD", 0.0], ["munepom", 0.0]]}
+{"10382": "this pull request id is not file or not comments!"}
+{"10404": "this pull request id is not file or not comments!"}
+{"10419": [["posva", 3.0680674603174594], ["yyx990803", 2.583305272108843], ["Justineo", 1.6931634108554534], ["vue-bot", 0.7376736111111111], ["cybermerlin", 0.6354166666666666], ["shasharoman", 0.4633101851851852], ["Luxiaosong", 0.4], ["HusamIbrahim", 0.37968750000000007], ["ysj16", 0.36562500000000003], ["KaelWD", 0.3194444444444444]]}
+{"10431": "this pull request id is not file or not comments!"}
+{"10432": [["yyx990803", 1.4679285714285715], ["posva", 1.0868888888888888], ["Justineo", 0.8298345171512034], ["Luxiaosong", 0.4], ["vue-bot", 0.37777777777777777], ["shasharoman", 0.31388888888888894], ["ysj16", 0.22500000000000003], ["clarkdo", 0.22500000000000003], ["HusamIbrahim", 0.22500000000000003], ["skyline0705", 0.20500000000000002]]}
+{"10434": [["ktsn", 4.250277777777779], ["posva", 2.7546296296296293], ["KaelWD", 1.5], ["zlumer", 1.3333333333333333], ["yyx990803", 1.2425], ["kjleitz", 1.0], ["underfin", 1.0], ["HerringtonDarkholme", 0.7777777777777777], ["thenickname", 0.75], ["Justineo", 0.7083333333333333]]}
+"26.77%""57.48%""67.72%"
+Total spend time is 15.896556377410889

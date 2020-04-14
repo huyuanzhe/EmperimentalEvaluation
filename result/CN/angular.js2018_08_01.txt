@@ -1,0 +1,101 @@
+{"16680": ["googlebot", "gkalpak", "Narretz", "john-mantas", "hoeni"]}
+{"16681": ["googlebot", "gkalpak", "Narretz", "john-mantas", "hoeni"]}
+{"16682": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16683": "this pull request no comment info"}
+{"16684": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16688": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16694": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16699": ["Narretz", "gkalpak", "googlebot", "john-mantas", "swuttich"]}
+{"16700": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16704": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16706": ["gkalpak", "sibiraj-s", "googlebot", "hoeni", "Narretz"]}
+{"16709": ["googlebot", "gkalpak", "Narretz", "swuttich", "john-mantas"]}
+{"16712": "this pull request no comment info"}
+{"16713": ["googlebot", "gkalpak", "Narretz", "swuttich", "mgol"]}
+{"16714": ["googlebot", "gkalpak", "Narretz", "swuttich", "mgol"]}
+{"16715": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16729": "this pull request no comment info"}
+{"16730": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16735": ["googlebot", "gkalpak", "Narretz", "mgol", "hoeni"]}
+{"16737": ["googlebot", "gkalpak", "mgol", "Narretz", "swuttich"]}
+{"16738": "this pull request no comment info"}
+{"16740": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16742": ["googlebot", "gkalpak", "Narretz", "mgol", "hoeni"]}
+{"16743": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16745": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16746": ["googlebot", "gkalpak", "Narretz", "mgol", "swuttich"]}
+{"16749": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16750": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16751": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16752": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16753": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16754": "this pull request no comment info"}
+{"16756": ["Narretz", "gkalpak", "googlebot", "mgol", "swuttich"]}
+{"16757": ["Narretz", "Splaktar", "gkalpak", "jbedard", "petebacondarwin"]}
+{"16760": "this pull request no comment info"}
+{"16762": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16763": ["googlebot", "gkalpak", "mgol", "Narretz", "hbrotan"]}
+{"16764": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16767": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16768": ["googlebot", "gkalpak", "Narretz", "mgol", "joej164"]}
+{"16774": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16775": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16777": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16779": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16780": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16781": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16783": "this pull request no comment info"}
+{"16786": "this pull request no comment info"}
+{"16789": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16790": "this pull request no comment info"}
+{"16793": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16798": ["gkalpak", "googlebot", "Narretz", "jbedard", "mgol"]}
+{"16800": "this pull request no comment info"}
+{"16801": "this pull request no comment info"}
+{"16806": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16808": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16810": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16812": ["googlebot", "gkalpak", "Narretz", "mgol", "hbrotan"]}
+{"16813": ["googlebot", "gkalpak", "Narretz", "mgol", "jbedard"]}
+{"16815": ["googlebot", "gkalpak", "Narretz", "mgol", "jbedard"]}
+{"16820": "this pull request no comment info"}
+{"16823": ["googlebot", "gkalpak", "Narretz", "mgol", "jbedard"]}
+{"16831": ["googlebot", "gkalpak", "Narretz", "mgol", "jbedard"]}
+{"16833": ["googlebot", "gkalpak", "Narretz", "mgol", "jbedard"]}
+{"16835": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16836": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16837": ["googlebot", "gkalpak", "Narretz", "mgol", "kambleaa007"]}
+{"16838": ["googlebot", "gkalpak", "Narretz", "mgol", "kambleaa007"]}
+{"16839": ["googlebot", "gkalpak", "Narretz", "mgol", "kambleaa007"]}
+{"16840": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16842": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16843": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "mgol"]}
+{"16844": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "mgol"]}
+{"16845": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "mgol"]}
+{"16846": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "mgol"]}
+{"16847": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16848": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16849": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16850": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16851": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16852": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16854": ["googlebot", "gkalpak", "Narretz", "mgol", "petebacondarwin"]}
+{"16857": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16862": "this pull request no comment info"}
+{"16863": "this pull request no comment info"}
+{"16868": "this pull request no comment info"}
+{"16875": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16876": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16878": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16879": ["googlebot", "gkalpak", "Narretz", "kambleaa007", "petebacondarwin"]}
+{"16880": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16882": "this pull request no comment info"}
+{"16885": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16888": "this pull request no comment info"}
+{"16889": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16893": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16896": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"project:angular/angular.js rate:47.50%": {"right": 38, "wrong": 42, "all": 80}}
+{"project:angular/angular.js rate:72.50%": {"right": 58, "wrong": 22, "all": 80}}
+{"project:angular/angular.js rate:95.00%": {"right": 76, "wrong": 4, "all": 80}}
+"spend time is 119.74329876899719"

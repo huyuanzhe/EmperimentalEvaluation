@@ -1,0 +1,600 @@
+/home/pytorch/setup.py,print_function find_packages defaultdict dir_util Distribution DistutilsArgError setuptools.command.build_ext setuptools.command.install distutils.command.clean distutils.sysconfig filecmp subprocess shutil sys os json glob importlib build_caffe2 IS_DARWIN, CMake {importname}`. module): importlib.import_module(importname) module=module)) glob re be the 
+/home/pytorch/torch/autograd/gradcheck.py,torch istuple torch.testing product warnings 
+/home/pytorch/torch/autograd/anomaly_mode.py,torch torch autograd 
+/home/pytorch/torch/autograd/_functions/tensor.py,reduce torch torch._utils Function 
+/home/pytorch/torch/autograd/_functions/utils.py,reduce 
+/home/pytorch/torch/autograd/_functions/__init__.py,* 
+/home/pytorch/torch/autograd/__init__.py,torch warnings Variable NestedIOFunction gradgradcheck set_grad_enabled set_detect_anomaly profiler 
+/home/pytorch/torch/autograd/variable.py,torch with_metaclass ImperativeEngine 
+/home/pytorch/torch/autograd/grad_mode.py,torch functools 
+/home/pytorch/torch/autograd/profiler.py,itertools torch namedtuple attrgetter json sqlite3 
+/home/pytorch/torch/autograd/function.py,torch _C hooks with_metaclass functools warnings OrderedDict 
+/home/pytorch/torch/nn/init.py,division math warnings torch 
+/home/pytorch/torch/nn/grad.py,torch _triple 
+/home/pytorch/torch/nn/modules/pixelshuffle.py,Module F 
+/home/pytorch/torch/nn/modules/batchnorm.py,division torch sync_batch_norm Module Parameter F init 
+/home/pytorch/torch/nn/modules/loss.py,warnings Module F _Reduction 
+/home/pytorch/torch/nn/modules/adaptive.py,namedtuple torch Linear Module log_softmax 
+/home/pytorch/torch/nn/modules/pooling.py,absolute_import division print_function unicode_literals Module _triple F 
+/home/pytorch/torch/nn/modules/fold.py,Module F 
+/home/pytorch/torch/nn/modules/activation.py,warnings torch Linear xavier_uniform_ constant_ xavier_normal_ Parameter Module F 
+/home/pytorch/torch/nn/modules/dropout.py,Module F 
+/home/pytorch/torch/nn/modules/_functions.py,torch Function 
+/home/pytorch/torch/nn/modules/instancenorm.py,_BatchNorm F 
+/home/pytorch/torch/nn/modules/normalization.py,torch numbers Parameter Module _cross_map_lrn2d F init 
+/home/pytorch/torch/nn/modules/transformer.py,torch copy F Module MultiheadAttention ModuleList xavier_uniform_ Dropout Linear LayerNorm 
+/home/pytorch/torch/nn/modules/padding.py,Module _ntuple F 
+/home/pytorch/torch/nn/modules/distance.py,Module F 
+/home/pytorch/torch/nn/modules/upsampling.py,Module F 
+/home/pytorch/torch/nn/modules/utils.py,container_abcs repeat 
+/home/pytorch/torch/nn/modules/flatten.py,Module 
+/home/pytorch/torch/nn/modules/__init__.py,Module Bilinear \ \ \ ParameterDict \ SyncBatchNorm InstanceNorm3d GroupNorm FeatureAlphaDropout \ EmbeddingBag \ PixelShuffle Upsample CosineSimilarity Unfold AdaptiveLogSoftmaxWithLoss \ Flatten 
+/home/pytorch/torch/nn/modules/sparse.py,torch Parameter Module F init 
+/home/pytorch/torch/nn/modules/container.py,warnings OrderedDict container_abcs islice operator torch Module 
+/home/pytorch/torch/nn/modules/conv.py,math torch Parameter F init Module _triple List 
+/home/pytorch/torch/nn/modules/linear.py,math torch Parameter F init Module 
+/home/pytorch/torch/nn/modules/module.py,namedtuple functools itertools torch Parameter hooks nn F 
+/home/pytorch/torch/nn/modules/rnn.py,math torch warnings numbers Module Parameter PackedSequence init _VF rnn 
+/home/pytorch/torch/nn/parallel/distributed.py,contextmanager copy itertools torch torch.cuda.comm dist _get_default_group Module replicate gather parallel_apply _get_device_index 
+/home/pytorch/torch/nn/parallel/_functions.py,warnings torch comm Function _get_device_index 
+/home/pytorch/torch/nn/parallel/scatter_gather.py,torch Gather 
+/home/pytorch/torch/nn/parallel/data_parallel.py,operator torch warnings chain Module gather replicate parallel_apply _get_device_index 
+/home/pytorch/torch/nn/parallel/parallel_apply.py,threading torch _get_device_index ExceptionWrapper 
+/home/pytorch/torch/nn/parallel/__init__.py,parallel_apply replicate data_parallel gather DistributedDataParallel warnings 
+/home/pytorch/torch/nn/parallel/replicate.py,torch comm _get_device_index Parameter torch.jit torch.jit torch.jit torch.jit Broadcast 
+/home/pytorch/torch/nn/_VF.py,torch sys types 
+/home/pytorch/torch/nn/quantized/modules/functional_modules.py,torch ops 
+/home/pytorch/torch/nn/quantized/modules/activation.py,absolute_import division print_function unicode_literals torch torch.nn.quantized.functional 
+/home/pytorch/torch/nn/quantized/modules/utils.py,torch 
+/home/pytorch/torch/nn/quantized/modules/__init__.py,MaxPool2d ReLU6 Conv2d Linear Quantize DeQuantize QFunctional 
+/home/pytorch/torch/nn/quantized/modules/conv.py,absolute_import division print_function unicode_literals torch nn nni nniqat fuse_conv_bn_weights ops _pair _quantize_weight 
+/home/pytorch/torch/nn/quantized/modules/linear.py,unicode_literals torch F401 nn nni Module _quantize_weight 
+/home/pytorch/torch/nn/quantized/dynamic/modules/__init__.py,Linear LSTM 
+/home/pytorch/torch/nn/quantized/dynamic/modules/linear.py,unicode_literals torch NNLinear nnq file: it. default_dynamic_qconfig 
+/home/pytorch/torch/nn/quantized/dynamic/modules/rnn.py,unicode_literals torch nn F401 _VF F401 PackedSequence numbers file: it. default_dynamic_qconfig 
+/home/pytorch/torch/nn/quantized/dynamic/__init__.py,unicode_literals * 
+/home/pytorch/torch/nn/quantized/__init__.py,absolute_import division print_function unicode_literals * 
+/home/pytorch/torch/nn/quantized/functional.py,absolute_import division print_function unicode_literals torch _List _pair qF 
+/home/pytorch/torch/nn/parameter.py,torch OrderedDict 
+/home/pytorch/torch/nn/__init__.py,* Parameter DataParallel init utils 
+/home/pytorch/torch/nn/utils/weight_norm.py,Parameter norm_except_dim 
+/home/pytorch/torch/nn/utils/convert_parameters.py,torch 
+/home/pytorch/torch/nn/utils/__init__.py,rnn clip_grad_value_ remove_weight_norm vector_to_parameters remove_spectral_norm fuse_conv_bn_weights 
+/home/pytorch/torch/nn/utils/clip_grad.py,warnings torch inf 
+/home/pytorch/torch/nn/utils/fusion.py,unicode_literals copy torch 
+/home/pytorch/torch/nn/utils/spectral_norm.py,torch normalize important tests): 
+/home/pytorch/torch/nn/utils/rnn.py,namedtuple warnings torch _VF Optional pad_sequence pack_sequence 
+/home/pytorch/torch/nn/functional.py,division warnings math torch _add_docstr _Reduction utils _list_with_default F401 _VF List mul reduce _ntuple 
+/home/pytorch/torch/nn/intrinsic/modules/__init__.py,ConvBn2d ConvBnReLU2d ConvReLU2d LinearReLU 
+/home/pytorch/torch/nn/intrinsic/modules/fused.py,unicode_literals torch BatchNorm2d 
+/home/pytorch/torch/nn/intrinsic/quantized/modules/conv_relu.py,unicode_literals nnq torch.nn.intrinsic torch.nn.intrinsic.qat fuse_conv_bn_weights torch 
+/home/pytorch/torch/nn/intrinsic/quantized/modules/__init__.py,LinearReLU ConvReLU2d 
+/home/pytorch/torch/nn/intrinsic/quantized/modules/linear_relu.py,unicode_literals nnq torch.nn.intrinsic torch 
+/home/pytorch/torch/nn/intrinsic/quantized/__init__.py,unicode_literals LinearReLU ConvReLU2d 
+/home/pytorch/torch/nn/intrinsic/__init__.py,ConvBn2d ConvBnReLU2d ConvReLU2d LinearReLU 
+/home/pytorch/torch/nn/intrinsic/qat/modules/__init__.py,unicode_literals LinearReLU freeze_bn_stats 
+/home/pytorch/torch/nn/intrinsic/qat/modules/linear_relu.py,unicode_literals nnqat torch.nn.intrinsic F 
+/home/pytorch/torch/nn/intrinsic/qat/modules/conv_fused.py,unicode_literals torch nn torch.nn.intrinsic nnqat F init 
+/home/pytorch/torch/nn/intrinsic/qat/__init__.py,unicode_literals LinearReLU ConvReLU2d ConvBn2d ConvBnReLU2d freeze_bn_stats 
+/home/pytorch/torch/nn/qat/modules/__init__.py,Linear Conv2d 
+/home/pytorch/torch/nn/qat/modules/conv.py,unicode_literals NNConv2d ConvReLU2d 
+/home/pytorch/torch/nn/qat/modules/linear.py,unicode_literals nn F LinearReLU 
+/home/pytorch/torch/nn/qat/__init__.py,unicode_literals * 
+/home/pytorch/torch/nn/backends/thnn.py,
+/home/pytorch/torch/nn/backends/__init__.py,
+/home/pytorch/torch/nn/cpp.py,nn 
+/home/pytorch/torch/nn/_reduction.py,warnings 
+/home/pytorch/torch/tensor.py,sys torch _C resolve_ellipsis is_ellipsis OrderedDict hooks warnings weakref imap _add_docstr Number functools _six inspect Resize Resize 
+/home/pytorch/torch/__future__.py,
+/home/pytorch/torch/__config__.py,torch 
+/home/pytorch/torch/sparse/__init__.py,torch 
+/home/pytorch/torch/for_onnx/__init__.py,* 
+/home/pytorch/torch/storage.py,io torch _cuda torch.cuda get_sharing_strategy get_sharing_strategy 
+/home/pytorch/torch/_ops.py,torch._C contextlib ctypes os sys types torch.jit torch._utils_internal 
+/home/pytorch/torch/_classes.py,types 
+/home/pytorch/torch/_namedtensor_internals.py,torch PY2 OrderedDict 
+/home/pytorch/torch/_utils.py,torch warnings defaultdict sys traceback _import_dotted_name(dtype) _import_dotted_name(name): __import__(components[0]) exc_info[2], see 
+/home/pytorch/torch/quantization/quantize.py,unicode_literals copy itertools warnings torch nn nni nnq (DEFAULT_DYNAMIC_MODULE_MAPPING, QuantWrapper float16_dynamic_qconfig 
+/home/pytorch/torch/quantization/fuse_modules.py,unicode_literals torch copy torch_fused 
+/home/pytorch/torch/quantization/observer.py,unicode_literals math warnings abstractmethod partial torch nn Optional 
+/home/pytorch/torch/quantization/fake_quantize.py,unicode_literals torch Module _with_args 
+/home/pytorch/torch/quantization/__init__.py,unicode_literals * * * * fuse_modules * 
+/home/pytorch/torch/quantization/_quantize_script.py,unicode_literals torch QConfig 
+/home/pytorch/torch/quantization/default_mappings.py,nn nni nniq nniqat nnq nnqd nnqat DeQuantStub 
+/home/pytorch/torch/quantization/qconfig.py,unicode_literals namedtuple * * nn 
+/home/pytorch/torch/quantization/stubs.py,nn 
+/home/pytorch/torch/quasirandom.py,torch 
+/home/pytorch/torch/_torch_docs.py,re torch._C add_docstr 
+/home/pytorch/torch/optim/rmsprop.py,torch Optimizer 
+/home/pytorch/torch/optim/lbfgs.py,torch reduce Optimizer 
+/home/pytorch/torch/optim/rprop.py,torch Optimizer 
+/home/pytorch/torch/optim/optimizer.py,defaultdict container_abcs torch deepcopy chain 
+/home/pytorch/torch/optim/adadelta.py,torch Optimizer 
+/home/pytorch/torch/optim/lr_scheduler.py,types math inf wraps warnings weakref Counter bisect_right Optimizer 
+/home/pytorch/torch/optim/adamw.py,math torch Optimizer 
+/home/pytorch/torch/optim/__init__.py,Adadelta Adagrad Adam AdamW SparseAdam Adamax ASGD SGD Rprop RMSprop Optimizer LBFGS lr_scheduler 
+/home/pytorch/torch/optim/sparse_adam.py,math torch Optimizer 
+/home/pytorch/torch/optim/sgd.py,torch required learning`__. 
+/home/pytorch/torch/optim/asgd.py,math torch Optimizer 
+/home/pytorch/torch/optim/adam.py,math torch Optimizer 
+/home/pytorch/torch/optim/adamax.py,torch Optimizer 
+/home/pytorch/torch/optim/adagrad.py,torch Optimizer 
+/home/pytorch/torch/distributions/cauchy.py,math nan Number torch constraints Distribution broadcast_all 
+/home/pytorch/torch/distributions/gamma.py,Number torch constraints ExponentialFamily broadcast_all 
+/home/pytorch/torch/distributions/negative_binomial.py,torch F constraints Distribution logits_to_probs 
+/home/pytorch/torch/distributions/transformed_distribution.py,torch constraints Distribution Transform _sum_rightmost 
+/home/pytorch/torch/distributions/poisson.py,Number torch constraints ExponentialFamily broadcast_all 
+/home/pytorch/torch/distributions/categorical.py,torch nan constraints Distribution lazy_property 
+/home/pytorch/torch/distributions/half_cauchy.py,math torch inf constraints AbsTransform Cauchy TransformedDistribution 
+/home/pytorch/torch/distributions/weibull.py,torch constraints Exponential TransformedDistribution PowerTransform broadcast_all euler_constant 
+/home/pytorch/torch/distributions/dirichlet.py,torch Function once_differentiable constraints ExponentialFamily 
+/home/pytorch/torch/distributions/constraint_registry.py,numbers transforms 
+/home/pytorch/torch/distributions/bernoulli.py,Number torch constraints ExponentialFamily lazy_property binary_cross_entropy_with_logits 
+/home/pytorch/torch/distributions/utils.py,update_wrapper Number torch F 
+/home/pytorch/torch/distributions/exponential.py,Number torch constraints ExponentialFamily broadcast_all 
+/home/pytorch/torch/distributions/kl.py,math warnings total_ordering torch inf Bernoulli Beta Binomial Categorical Dirichlet Distribution Exponential ExponentialFamily Gamma Geometric Gumbel HalfNormal Independent Laplace _batch_lowrank_logdet, _batch_mahalanobis) Normal OneHotCategorical Pareto Poisson TransformedDistribution Uniform _sum_rightmost 
+/home/pytorch/torch/distributions/half_normal.py,math inf constraints AbsTransform Normal TransformedDistribution 
+/home/pytorch/torch/distributions/__init__.py,Bernoulli Beta Binomial Categorical Cauchy Chi2 transform_to Dirichlet Distribution ExponentialFamily Exponential FisherSnedecor Gamma Geometric Gumbel HalfCauchy HalfNormal Independent register_kl Laplace LogNormal LogisticNormal LowRankMultivariateNormal Multinomial MultivariateNormal NegativeBinomial Normal OneHotCategorical Pareto Poisson RelaxedBernoulli RelaxedOneHotCategorical StudentT TransformedDistribution * Uniform Weibull 
+/home/pytorch/torch/distributions/pareto.py,constraints Exponential TransformedDistribution ExpTransform broadcast_all 
+/home/pytorch/torch/distributions/chi2.py,constraints Gamma 
+/home/pytorch/torch/distributions/gumbel.py,Number math torch constraints Uniform TransformedDistribution ExpTransform broadcast_all 
+/home/pytorch/torch/distributions/logistic_normal.py,torch constraints Normal TransformedDistribution StickBreakingTransform 
+/home/pytorch/torch/distributions/relaxed_bernoulli.py,torch Number constraints Distribution TransformedDistribution SigmoidTransform clamp_probs 
+/home/pytorch/torch/distributions/fishersnedecor.py,Number torch nan constraints Distribution Gamma broadcast_all 
+/home/pytorch/torch/distributions/log_normal.py,constraints ExpTransform Normal TransformedDistribution 
+/home/pytorch/torch/distributions/uniform.py,Number torch constraints Distribution broadcast_all 
+/home/pytorch/torch/distributions/beta.py,Number torch constraints Dirichlet ExponentialFamily broadcast_all 
+/home/pytorch/torch/distributions/normal.py,math Number torch constraints ExponentialFamily broadcast_all 
+/home/pytorch/torch/distributions/binomial.py,Number torch constraints Distribution logits_to_probs 
+/home/pytorch/torch/distributions/transforms.py,math numbers weakref torch F constraints broadcast_all, pad 
+/home/pytorch/torch/distributions/constraints.py,torch 
+/home/pytorch/torch/distributions/lowrank_multivariate_normal.py,math torch constraints Distribution _batch_mv lazy_property 
+/home/pytorch/torch/distributions/distribution.py,torch warnings constraints lazy_property 
+/home/pytorch/torch/distributions/exp_family.py,torch Distribution 
+/home/pytorch/torch/distributions/multivariate_normal.py,math torch constraints Distribution lazy_property 
+/home/pytorch/torch/distributions/relaxed_categorical.py,torch constraints Categorical broadcast_all Distribution TransformedDistribution ExpTransform 
+/home/pytorch/torch/distributions/one_hot_categorical.py,torch constraints Categorical Distribution 
+/home/pytorch/torch/distributions/laplace.py,Number torch constraints Distribution broadcast_all 
+/home/pytorch/torch/distributions/independent.py,torch constraints Distribution _sum_rightmost 
+/home/pytorch/torch/distributions/geometric.py,Number torch constraints Distribution lazy_property binary_cross_entropy_with_logits 
+/home/pytorch/torch/distributions/studentT.py,math torch nan constraints Distribution broadcast_all 
+/home/pytorch/torch/distributions/multinomial.py,torch inf Distribution Categorical Number constraints broadcast_all 
+/home/pytorch/torch/onnx/symbolic_opset10.py,unicode_literals torch _triple torch.onnx the torch.onnx.utils sym_help _unimplemented torch.onnx.symbolic_opset9 sub 
+/home/pytorch/torch/onnx/symbolic_opset11.py,unicode_literals torch sym_help _unimplemented _black_list_in_opset expand expand_as size 
+/home/pytorch/torch/onnx/symbolic_opset8.py,unicode_literals torch sym_help sym_opset9 _try_get_scalar_type _cast_Float warnings 
+/home/pytorch/torch/onnx/symbolic_helper.py,unicode_literals torch ListType warnings maxsize torch.onnx the torch.onnx.utils wraps _slice _slice unsqueeze unsqueeze unsqueeze scatter scatter select expand scatter scatter 
+/home/pytorch/torch/onnx/operators.py,torch torch.onnx torch.onnx.utils 
+/home/pytorch/torch/onnx/utils.py,unicode_literals torch torch.jit torch.autograd torch.serialization re container_abcs contextlib numbers warnings string_classes _unique_state_dict OperatorExportTypes _assign_output_shapes _export_onnx_opset_version _export_onnx_opset_version _set_opset_version _set_operator_export_type _set_opset_version _set_operator_export_type zipfile os opset_version sym_registry sym_registry 
+/home/pytorch/torch/onnx/__init__.py,_C utils utils utils utils utils utils utils utils utils utils 
+/home/pytorch/torch/onnx/symbolic_opset9.py,absolute_import division print_function unicode_literals torch OptionalType _triple torch.onnx the torch.onnx.utils partial wraps sym_help _unimplemented numpy math warnings prepare_onnx_paddings prepare_onnx_paddings prepare_onnx_paddings 
+/home/pytorch/torch/onnx/symbolic_registry.py,warnings importlib isfunction _onnx_stable_opsets importlib.import_module('torch.onnx.symbolic_opset{}'.format(opset_version)) 
+/home/pytorch/torch/onnx/symbolic_opset7.py,_black_list_in_opset sym_opset9 warnings 
+/home/pytorch/torch/_tensor_str.py,math torch inf 
+/home/pytorch/torch/_tensor_docs.py,torch._C add_docstr parse_kwargs 
+/home/pytorch/torch/__init__.py,os sys platform _import_dotted_name prepare_multiprocessing_environment __version__ _string_classes _dl_flags setdlopenflags() numpy _np _dl_flags _dl_flags * _import_dotted_name(t) well seed load set_printoptions Tensor _StorageBase * torch.cuda torch.autograd set_grad_enabled torch.nn torch.nn.intrinsic torch.nn.quantized torch.optim torch.multiprocessing torch.sparse torch.utils.backcompat torch.onnx torch.jit torch.hub torch.random torch.distributions torch.testing torch.backends.cuda torch.backends.mkl torch.backends.openmp torch.backends.quantized torch.quantization torch.utils.data torch.__config__ torch.__future__ _storage_docs ops classes torch.quasirandom 
+/home/pytorch/torch/hub.py,unicode_literals errno hashlib os re shutil sys tempfile torch warnings zipfile urlparse f811 urlopen F401 available tqdm path): importlib.util path) importlib.util.module_from_spec(spec) SourceFileLoader imp importlib.util None importlib.find_loader None hooks. imp maps implement sys.path_importer_cache.get(item) importer: [item]) will requires MODULE_HUBCONF) MODULE_HUBCONF) MODULE_HUBCONF) 
+/home/pytorch/torch/utils/_cpp_extension_versioner.py,unicode_literals collections 
+/home/pytorch/torch/utils/model_zoo.py,here. F401 
+/home/pytorch/torch/utils/dlpack.py,unicode_literals torch from_dlpack to_dlpack 
+/home/pytorch/torch/utils/mkldnn.py,unicode_literals torch 
+/home/pytorch/torch/utils/hooks.py,unicode_literals collections weakref warnings 
+/home/pytorch/torch/utils/bottleneck/__init__.py,
+/home/pytorch/torch/utils/bottleneck/__main__.py,argparse cProfile pstats sys os torch profiler get_env_info 
+/home/pytorch/torch/utils/data/distributed.py,math torch Sampler dist 
+/home/pytorch/torch/utils/data/dataloader.py,torch python_multiprocessing multiprocessing BatchSampler _utils ExceptionWrapper threading itertools string_classes there at 
+/home/pytorch/torch/utils/data/_utils/signal_handling.py,signal threading IS_WINDOWS to F401 F401 
+/home/pytorch/torch/utils/data/_utils/worker.py,torch random os namedtuple queue ExceptionWrapper IS_WINDOWS ctypes HANDLE _DatasetKind variable. 
+/home/pytorch/torch/utils/data/_utils/pin_memory.py,torch string_classes MP_STATUS_CHECK_INTERVAL ExceptionWrapper 
+/home/pytorch/torch/utils/data/_utils/collate.py,torch re int_classes 
+/home/pytorch/torch/utils/data/_utils/__init__.py,sys atexit ExceptionWrapper fetch 
+/home/pytorch/torch/utils/data/_utils/fetch.py,
+/home/pytorch/torch/utils/data/__init__.py,BatchSampler DistributedSampler random_split get_worker_info 
+/home/pytorch/torch/utils/data/dataset.py,bisect warnings _accumulate randperm 
+/home/pytorch/torch/utils/data/sampler.py,torch _int_classes 
+/home/pytorch/torch/utils/tensorboard/writer.py,absolute_import division print_function os six time torch tf SessionLog Event event_pb2 ProjectorConfig EventFileWriter make_np ( load_onnx_graph graph figure_to_image ( SummaryWriter socket datetime imported) SummaryWriter SummaryWriter SummaryWriter SummaryWriter np SummaryWriter np SummaryWriter np SummaryWriter np caffe2_pb2 core ( keyword torch text_format SummaryWriter np SummaryWriter 
+/home/pytorch/torch/utils/tensorboard/_convert_np.py,absolute_import division print_function np torch six workspace 
+/home/pytorch/torch/utils/tensorboard/_onnx_graph.py,GraphDef NodeDef VersionDef AttrValue TensorShapeProto onnx itertools 
+/home/pytorch/torch/utils/tensorboard/_utils.py,np plt plt_backend_agg 
+/home/pytorch/torch/utils/tensorboard/_pytorch_graph.py,OrderedDict RunMetadata GraphDef DeviceStepStats VersionDef torch node_proto 
+/home/pytorch/torch/utils/tensorboard/__init__.py,F401 F401 
+/home/pytorch/torch/utils/tensorboard/_caffe2_graph.py,absolute_import division print_function unicode_literals copy logging os re six GraphDef NodeDef TensorShapeProto bytes caffe2_pb2 workspace 
+/home/pytorch/torch/utils/tensorboard/_proto_graph.py,NodeDef AttrValue TensorShapeProto 
+/home/pytorch/torch/utils/tensorboard/summary.py,absolute_import division print_function json logging np os _re disable=unused-import range Summary HistogramProto SummaryMetadata TensorProto TensorShapeProto TextPluginData PrCurvePluginData layout_pb2 make_np convert_to_HWC ImageFont torch string_types ( ( ( Image io F401 mpy moviepy.editor.", tempfile io wave struct torch metadata MeshPluginData metadata 
+/home/pytorch/torch/utils/tensorboard/_embedding.py,math np make_np make_grid tf EmbeddingInfo Image BytesIO 
+/home/pytorch/torch/utils/backcompat/__init__.py,_set_backcompat_broadcast_warn _get_backcompat_broadcast_warn _set_backcompat_keepdim_warn _get_backcompat_keepdim_warn 
+/home/pytorch/torch/utils/__init__.py,unicode_literals ThroughputBenchmark 
+/home/pytorch/torch/utils/throughput_benchmark.py,unicode_literals torch._C ThroughputBenchmark 
+/home/pytorch/torch/utils/cpp_extension.py,unicode_literals copy glob imp os re setuptools subprocess sys sysconfig tempfile warnings collections torch FileBaton ExtensionVersioner build_ext setup CppExtension setup CUDAExtension shared load load_inline is_python_module) is_python_module): https://stackoverflow.com/questions/67631/how-to-import-a-module-given-the-full-path _nt_quote_args 
+/home/pytorch/torch/utils/ffi/__init__.py,
+/home/pytorch/torch/utils/checkpoint.py,unicode_literals torch warnings 
+/home/pytorch/torch/utils/collect_env.py,unicode_literals locale re subprocess sys os namedtuple torch 
+/home/pytorch/torch/utils/hipify/constants.py,
+/home/pytorch/torch/utils/hipify/hipify_python.py,print_function argparse fnmatch re shutil sys os constants CUDA_TO_HIP_MAPPINGS MATH_TRANSPILATIONS 
+/home/pytorch/torch/utils/hipify/cuda_to_hip_mappings.py,collections * HIPify. 
+/home/pytorch/torch/utils/hipify/__init__.py,
+/home/pytorch/torch/utils/file_baton.py,unicode_literals os sys time 
+/home/pytorch/torch/_jit_internal.py,inspect weakref warnings torch._C builtins get_source_lines_and_file torch nn torch nn pdb torch nn pdb torch nn pdb os cycle typing Any typing_extensions Final 
+/home/pytorch/torch/_utils_internal.py,unicode_literals os inspect 
+/home/pytorch/torch/serialization.py,difflib os io shutil struct sys torch tarfile tempfile warnings copyreg contextmanager _import_dotted_name _string_classes get_source_lines_and_file pickle pickle pathlib _import_dotted_name(storage_type.__module__) StringIO nn 
+/home/pytorch/torch/jit/supported_ops.py,torch.jit inspect 
+/home/pytorch/torch/jit/quantized.py,torch F401 F401 _VF PackedSequence warnings 
+/home/pytorch/torch/jit/_recursive.py,inspect torch collections types textwrap functools warnings _jit_internal get_default_args ModuleDict bind_method 
+/home/pytorch/torch/jit/_pickle.py,
+/home/pytorch/torch/jit/annotations.py,sys ast inspect re torch \ \ dedent builtins get_source_lines_and_file (reserve 
+/home/pytorch/torch/jit/frontend.py,__future__ torch sys ast inspect string dedent PY2 * get_source_lines_and_file statements", statements", "import", file') 
+/home/pytorch/torch/jit/__init__.py,torch._C _jit_internal cudnn torch.jit.annotations torch.testing torch.jit._recursive ScriptMethodStub _qualified_name function get_default_args Module validate_cuda_device string_classes \ set_module collections contextlib copy functools inspect math os pickle sys textwrap types warnings OrderedDict module _overload_method unused pathlib torch io torch io os _extra_files) _extra_files) graph_vis difflib is torch torch nn torch nn getattr. torch torch torch nn F torch nn pdb inspect torch it?".format(name)) cycle 
+/home/pytorch/torch/jit/_logging.py,torch 
+/home/pytorch/torch/random.py,contextlib warnings default_generator torch.cuda torch.cuda torch.cuda 
+/home/pytorch/torch/functional.py,torch F inf product torch 
+/home/pytorch/torch/contrib/_tensorboard_vis.py,time defaultdict partial event_pb2 graph_pb2 FileWriter 
+/home/pytorch/torch/contrib/__init__.py,
+/home/pytorch/torch/cuda/memory.py,collections contextlib warnings torch _get_device_index 
+/home/pytorch/torch/cuda/_utils.py,torch torch._six 
+/home/pytorch/torch/cuda/__init__.py,use contextlib platform ctypes os sys torch traceback warnings threading raise_from PIPE _register_after_fork _get_device_index _lazy_init version_info * * _StorageBase sparse profiler nvtx Event 
+/home/pytorch/torch/cuda/streams.py,ctypes torch 
+/home/pytorch/torch/cuda/nccl.py,warnings torch.cuda 
+/home/pytorch/torch/cuda/sparse.py,
+/home/pytorch/torch/cuda/random.py,torch current_device 
+/home/pytorch/torch/cuda/error.py,
+/home/pytorch/torch/cuda/nvtx.py,os glob ctypes platform 
+/home/pytorch/torch/cuda/profiler.py,ctypes tempfile contextlib check_error 
+/home/pytorch/torch/cuda/comm.py,torch nccl \ 
+/home/pytorch/torch/multiprocessing/reductions.py,torch torch.utils.hooks check_serializing_named_tensor os threading errno multiprocessing register_after_fork ForkingPickler sys multiprocessing.resource_sharer to get_sharing_strategy 
+/home/pytorch/torch/multiprocessing/pool.py,multiprocessing multiprocessing.pool util SimpleQueue gc 
+/home/pytorch/torch/multiprocessing/spawn.py,unicode_literals multiprocessing multiprocessing.connection signal sys _prctl_pr_set_pdeathsig traceback 
+/home/pytorch/torch/multiprocessing/__init__.py,the torch sys init_reductions multiprocessing * SimpleQueue Pool _supports_context 
+/home/pytorch/torch/multiprocessing/queue.py,io multiprocessing multiprocessing.queues ForkingPickler pickle 
+/home/pytorch/torch/backends/mkl/__init__.py,torch 
+/home/pytorch/torch/backends/cudnn/__init__.py,os ctypes sys torch warnings cuda contextmanager PIPE __allow_nonbracketed_mutation 
+/home/pytorch/torch/backends/cudnn/rnn.py,torch.cuda cudnn 
+/home/pytorch/torch/backends/quantized/__init__.py,unicode_literals sys torch types 
+/home/pytorch/torch/backends/openmp/__init__.py,torch 
+/home/pytorch/torch/backends/__init__.py,contextmanager types 
+/home/pytorch/torch/backends/mkldnn/__init__.py,sys torch contextmanager __allow_nonbracketed_mutation 
+/home/pytorch/torch/backends/cuda/__init__.py,sys torch 
+/home/pytorch/torch/distributed/autograd/__init__.py,unicode_literals dist_autograd dist_autograd 
+/home/pytorch/torch/distributed/launch.py,unicode_literals argparse sys subprocess os REMAINDER 
+/home/pytorch/torch/distributed/rendezvous.py,urlparse urlparse os TCPStore 
+/home/pytorch/torch/distributed/distributed_c10d.py,torch warnings string_classes timedelta torch.distributed. F401 ( ReduceOp PrefixStore ProcessGroupMPI ProcessGroupNCCL ProcessGroupGloo 
+/home/pytorch/torch/distributed/rpc/internal.py,collections copyreg io pickle threading traceback torch 
+/home/pytorch/torch/distributed/rpc/backend_registry.py,unicode_literals collections enum dist dc10d 
+/home/pytorch/torch/distributed/rpc/__init__.py,unicode_literals sys backend_registry api _init_rpc F401 torch.distributed.autograd 
+/home/pytorch/torch/distributed/rpc/api.py,invoke_rpc_python_udf invoke_remote_python_udf _start_rpc_agent _cleanup_python_rpc_handler WorkerInfo backend_registry PythonUDF functools sys torch dist rpc dist dist rpc dist rpc dist rpc dist rpc 
+/home/pytorch/torch/distributed/__init__.py,unicode_literals torch * imported _backend 
+/home/pytorch/torch/_storage_docs.py,torch._C add_docstr 
+/home/pytorch/torch/_six.py,itertools sys builtins types inspect math F401 F401 builtins collections collections.abc builtins builtins StringIO io 
+/home/pytorch/aten/src/ATen/cwrap_parser.py,yaml Loader Loader 
+/home/pytorch/aten/src/ATen/native_parse.py,print_function re yaml pprint sys copy Loader Loader 
+/home/pytorch/aten/src/ATen/env.py,os 
+/home/pytorch/aten/src/ATen/function_wrapper.py,re CodeTemplate F401 ' F401 NamedTuple TypedDict sys BUILD_NAMEDTENSOR 
+/home/pytorch/aten/src/ATen/code_template.py,re 
+/home/pytorch/aten/src/ATen/gen.py,argparse os yaml OrderedDict sys path cwrap_parser nn_parse native_parse preprocess_declarations function_wrapper CodeTemplate BUILD_NAMEDTENSOR 
+/home/pytorch/aten/src/ATen/common_with_cwrap.py,
+/home/pytorch/aten/src/ATen/nn_parse.py,copy re common_with_cwrap yaml defaultdict Loader Loader 
+/home/pytorch/aten/src/ATen/native/quantized/cpu/qnnpack/configure.py,confu x86 sys 
+/home/pytorch/aten/src/ATen/native/quantized/cpu/qnnpack/generate-wrapper.py,print_function os 
+/home/pytorch/aten/src/ATen/native/quantized/cpu/qnnpack/deps/clog/configure.py,confu sys 
+/home/pytorch/aten/src/ATen/preprocess_declarations.py,re deepcopy TYPE_FORMAL_GENERIC common_with_cwrap 
+/home/pytorch/ios/TestApp/benchmark/trace_model.py,torch torchvision 
+/home/pytorch/benchmarks/operator_benchmark/common/repeat_benchmark.py,unicode_literals np torch time 
+/home/pytorch/benchmarks/operator_benchmark/common/__init__.py,
+/home/pytorch/benchmarks/operator_benchmark/pt_extension/setup.py,setup BuildExtension 
+/home/pytorch/benchmarks/operator_benchmark/pt/__init__.py,
+/home/pytorch/benchmarks/operator_benchmark/benchmark_caffe2.py,absolute_import division print_function unicode_literals workspace core caffe2_pb2 benchmark_core benchmark_utils namedtuple _generate_test 
+/home/pytorch/benchmarks/operator_benchmark/operator_benchmark.py,unicode_literals noqa noqa noqa noqa 
+/home/pytorch/benchmarks/operator_benchmark/benchmark_utils.py,absolute_import division print_function unicode_literals np itertools random os bisect 
+/home/pytorch/benchmarks/operator_benchmark/__init__.py,
+/home/pytorch/benchmarks/operator_benchmark/benchmark_pytorch.py,absolute_import division print_function unicode_literals time json benchmark_core torch noqa 
+/home/pytorch/benchmarks/operator_benchmark/benchmark_core.py,absolute_import division print_function unicode_literals functools np timeit json torch torch noqa noqa benchmark_utils namedtuple 
+/home/pytorch/benchmarks/operator_benchmark/c2/__init__.py,
+/home/pytorch/benchmarks/operator_benchmark/benchmark_runner.py,absolute_import division print_function unicode_literals argparse torch benchmark_core benchmark_utils imports. 
+/home/pytorch/benchmarks/framework_overhead_benchmark/SimpleAddModule.py,unicode_literals torch NUM_LOOP_ITERS 
+/home/pytorch/benchmarks/framework_overhead_benchmark/framework_overhead_benchmark.py,unicode_literals ModuleConfig argparse C2SimpleNet add_tensors_loop WrapperModule 
+/home/pytorch/benchmarks/framework_overhead_benchmark/pt_wrapper_module.py,unicode_literals torch 
+/home/pytorch/benchmarks/framework_overhead_benchmark/utils.py,unicode_literals time namedtuple ThroughputBenchmark 
+/home/pytorch/benchmarks/framework_overhead_benchmark/C2Module.py,unicode_literals core np NUM_LOOP_ITERS 
+/home/pytorch/benchmarks/fastrnns/cells.py,torch 
+/home/pytorch/benchmarks/fastrnns/bench.py,print_function argparse namedtuple torch gc sys json copy get_nn_runners 
+/home/pytorch/benchmarks/fastrnns/custom_lstms.py,torch nn Parameter jit warnings namedtuple Tuple Tensor numbers 
+/home/pytorch/benchmarks/fastrnns/profile.py,argparse subprocess sys time torch datetime get_nn_runners 
+/home/pytorch/benchmarks/fastrnns/__init__.py,* * 
+/home/pytorch/benchmarks/fastrnns/runner.py,namedtuple partial torch cnn * os 
+/home/pytorch/benchmarks/fastrnns/scratch.py,torch torch torch 
+/home/pytorch/benchmarks/fastrnns/factory.py,torch namedtuple flat_lstm_cell script_lnlstm LSTMState 
+/home/pytorch/.circleci/generate_config_yml.py,os sys shutil OrderedDict pytorch_build_definitions binary_build_definitions caffe2_build_definitions miniutils miniyaml 
+/home/pytorch/.circleci/validate-docker-version.py,urllib.request re pytorch_build_definitions caffe2_build_definitions 
+/home/pytorch/.circleci/cimodel/lib/__init__.py,
+/home/pytorch/.circleci/cimodel/lib/miniyaml.py,OrderedDict 
+/home/pytorch/.circleci/cimodel/lib/conf_tree.py,field Dict node""" [X(True)])]) 
+/home/pytorch/.circleci/cimodel/lib/visualization.py,colorsys conf_tree F401 AGraph 
+/home/pytorch/.circleci/cimodel/lib/miniutils.py,
+/home/pytorch/.circleci/cimodel/data/pytorch_build_definitions.py,OrderedDict CONFIG_TREE_DATA dimensions conf_tree miniutils field Optional False requests; for_docker: self.is_important: is_important=xenial_parent_config.is_important, False is_important=is_important, is_important=True, 
+/home/pytorch/.circleci/cimodel/data/pytorch_build_data.py,XImportant ImportantConfigNode, node_name 
+/home/pytorch/.circleci/cimodel/data/binary_build_definitions.py,OrderedDict binary_build_data conf_tree miniutils visualization 
+/home/pytorch/.circleci/cimodel/data/binary_build_data.py,OrderedDict ConfigNode dimensions 
+/home/pytorch/.circleci/cimodel/data/caffe2_build_definitions.py,OrderedDict dimensions conf_tree Ver miniutils TopLevelNode dataclass bool self.is_important: is_important=fc.find_prop("important"), 
+/home/pytorch/.circleci/cimodel/data/caffe2_build_data.py,XImportant Ver important?! True 
+/home/pytorch/.circleci/cimodel/data/__init__.py,
+/home/pytorch/.circleci/cimodel/data/dimensions.py,
+/home/pytorch/.circleci/cimodel/__init__.py,
+/home/pytorch/.circleci/ensure-consistency.py,os subprocess sys tempfile generate_config_yml 
+/home/pytorch/.circleci/scripts/should_run_job.py,argparse re sys 
+/home/pytorch/caffe2/python/gradient_checker.py,absolute_import division print_function unicode_literals np net_drawer caffe2_pb2 
+/home/pytorch/caffe2/python/data_parallel_model.py,absolute_import division print_function OrderedDict viewvalues logging copy cpu_count \ caffe2_pb2 np warnings GPUs counter intra-node 
+/home/pytorch/caffe2/python/mint/app.py,argparse flask glob np nvd3 os sys tornado.httpserver tornado.wsgi 
+/home/pytorch/caffe2/python/mint/__init__.py,
+/home/pytorch/caffe2/python/regularizer.py,unicode_literals utils np 
+/home/pytorch/caffe2/python/crf_predict.py,unicode_literals np CRFWithLoss 
+/home/pytorch/caffe2/python/modeling/parameter_sharing.py,absolute_import division print_function unicode_literals scope contextlib logging 
+/home/pytorch/caffe2/python/modeling/compute_statistics_for_blobs.py,absolute_import division print_function unicode_literals schema NetModifier np 
+/home/pytorch/caffe2/python/modeling/gradient_clipping.py,absolute_import division print_function unicode_literals core caffe2_pb2 get_param_device NetModifier logging 
+/home/pytorch/caffe2/python/modeling/compute_norm_for_blobs.py,absolute_import division print_function unicode_literals muji NetModifier np 
+/home/pytorch/caffe2/python/modeling/get_entry_from_blobs.py,absolute_import division print_function unicode_literals schema NetModifier np 
+/home/pytorch/caffe2/python/modeling/net_modifier.py,absolute_import division print_function unicode_literals abc six 
+/home/pytorch/caffe2/python/modeling/parameter_info.py,absolute_import division print_function unicode_literals core np 
+/home/pytorch/caffe2/python/modeling/__init__.py,
+/home/pytorch/caffe2/python/modeling/compute_histogram_for_blobs.py,absolute_import division print_function unicode_literals schema NetModifier np 
+/home/pytorch/caffe2/python/modeling/initializers.py,absolute_import division print_function unicode_literals ScopedBlobReference ParameterInfo six 
+/home/pytorch/caffe2/python/net_drawer.py,absolute_import division print_function unicode_literals argparse json logging defaultdict utils viewitems pydot ' caffe2_pb2 
+/home/pytorch/caffe2/python/dataio.py,absolute_import division print_function unicode_literals core from_blob_list np time 
+/home/pytorch/caffe2/python/visualize.py,np pyplot 
+/home/pytorch/caffe2/python/layer_model_instantiator.py,absolute_import division print_function unicode_literals schema InstantiationContext Tags 
+/home/pytorch/caffe2/python/normalizer.py,unicode_literals 
+/home/pytorch/caffe2/python/device_checker.py,np copy workspace InferOpBlobDevicesAsDict viewitems 
+/home/pytorch/caffe2/python/examples/resnet50_trainer.py,absolute_import division print_function unicode_literals argparse logging np time os data_parallel_model optimizer brew caffe2_pb2 resnet shufflenet PseudoFP16Initializer pred_exp pred_utils predictor_constants 
+/home/pytorch/caffe2/python/examples/lmdb_create_example.py,absolute_import division print_function unicode_literals argparse np lmdb caffe2_pb2 model_helper import. 
+/home/pytorch/caffe2/python/examples/imagenet_trainer.py,absolute_import division print_function unicode_literals argparse logging np time os data_parallel_model optimizer brew caffe2_pb2 resnet shufflenet PseudoFP16Initializer pred_exp pred_utils predictor_constants 
+/home/pytorch/caffe2/python/examples/__init__.py,
+/home/pytorch/caffe2/python/examples/char_rnn.py,absolute_import division print_function unicode_literals brew LSTM caffe2_pb2 build_sgd argparse logging np datetime 
+/home/pytorch/caffe2/python/recurrent.py,absolute_import division print_function unicode_literals workspace viewkeys caffe2_pb2 
+/home/pytorch/caffe2/python/caffe_translator.py,argparse copy logging re noqa caffe2_legacy_pb2 caffe_pb2 workspace text_format 
+/home/pytorch/caffe2/python/task.py,absolute_import division print_function unicode_literals context from_blob_list defaultdict copy viewitems ops net_builder 
+/home/pytorch/caffe2/python/session.py,absolute_import division print_function unicode_literals workspace WorkspaceType Net WorkspaceType 
+/home/pytorch/caffe2/python/net_builder.py,absolute_import division print_function unicode_literals context TaskGroup add_while_op ops task 
+/home/pytorch/caffe2/python/context.py,absolute_import division print_function unicode_literals threading six 
+/home/pytorch/caffe2/python/cnn.py,absolute_import division print_function unicode_literals workspace ModelHelper caffe2_pb2 logging 
+/home/pytorch/caffe2/python/parallel_workers.py,absolute_import division print_function unicode_literals logging threading atexit time collections six traceback abstractmethod 
+/home/pytorch/caffe2/python/scope.py,absolute_import division print_function unicode_literals contextlib threading basestring caffe2_pb2 
+/home/pytorch/caffe2/python/benchmark_generator.py,absolute_import division print_function unicode_literals string argparse np ModelHelper mobile_exporter utils 
+/home/pytorch/caffe2/python/convnet_benchmarks.py,argparse model_helper 
+/home/pytorch/caffe2/python/core.py,absolute_import division print_function unicode_literals defaultdict basestring viewvalues chain text_type caffe2_pb2 workspace \ C copy pickle np sys traceback os schema schema NetBuilder schema schema schema NetBuilder here 
+/home/pytorch/caffe2/python/optimizer.py,absolute_import division print_function unicode_literals defaultdict basestring logging copy np workspace parameter_info caffe2_pb2 
+/home/pytorch/caffe2/python/workspace.py,absolute_import division print_function unicode_literals collections contextlib Message Process os defaultdict logging np basestring shutil socket tempfile caffe2_pb2 utils C app core core import torch torch 
+/home/pytorch/caffe2/python/mkl/__init__.py,
+/home/pytorch/caffe2/python/mkl/rewrite_graph.py,absolute_import division print_function unicode_literals copy caffe2_pb2 core C 
+/home/pytorch/caffe2/python/text_file_reader.py,absolute_import division print_function unicode_literals core Reader data_type_for_dtype 
+/home/pytorch/caffe2/python/control.py,absolute_import division print_function unicode_literals core viewitems 
+/home/pytorch/caffe2/python/tt_core.py,absolute_import division print_function np 
+/home/pytorch/caffe2/python/dyndep.py,absolute_import division print_function unicode_literals ctypes os Lock extension_loader 
+/home/pytorch/caffe2/python/_import_c_extension.py,_import_c_extension caffe2.python._import_c_extension atexit logging sys extension_loader extension. caffe2.proto noqa {}'.format(gpu_e)) noqa {}'.format(hip_e)) noqa 
+/home/pytorch/caffe2/python/lstm_benchmark.py,absolute_import division print_function unicode_literals caffe2_pb2 model_helper recurrent argparse np time logging 
+/home/pytorch/caffe2/python/rnn_cell.py,absolute_import division print_function unicode_literals functools inspect itertools logging np random six viewkeys caffe2_pb2 ( utils ParameterSharing ParameterTags Initializer ModelHelper 
+/home/pytorch/caffe2/python/layers/sparse_dropout_with_replacement.py,absolute_import division print_function unicode_literals schema ( 
+/home/pytorch/caffe2/python/layers/batch_softmax_loss.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/select_record_by_context.py,absolute_import division print_function unicode_literals logging schema ( 
+/home/pytorch/caffe2/python/layers/batch_normalization.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/sampling_train.py,absolute_import division print_function unicode_literals schema get_layer_class SamplingTrainableMixin 
+/home/pytorch/caffe2/python/layers/arc_cosine_feature_map.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/concat.py,absolute_import division print_function unicode_literals schema ( viewitems np defaultdict logging 
+/home/pytorch/caffe2/python/layers/dropout.py,absolute_import division print_function unicode_literals schema ModelLayer 
+/home/pytorch/caffe2/python/layers/batch_huber_loss.py,absolute_import division print_function unicode_literals schema ( ( np 
+/home/pytorch/caffe2/python/layers/position_weighted.py,absolute_import division print_function unicode_literals logging np schema ( Tags 
+/home/pytorch/caffe2/python/layers/sparse_lookup.py,absolute_import division print_function unicode_literals Optimizer get_current_scope schema ( collections functools logging math np operator 
+/home/pytorch/caffe2/python/layers/bpr_loss.py,absolute_import division print_function unicode_literals schema ( ( np 
+/home/pytorch/caffe2/python/layers/add_bias.py,absolute_import division print_function unicode_literals schema ModelLayer math 
+/home/pytorch/caffe2/python/layers/sparse_feature_hash.py,absolute_import division print_function unicode_literals core ( ( np 
+/home/pytorch/caffe2/python/layers/random_fourier_features.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/bucket_weighted.py,absolute_import division print_function unicode_literals logging np schema ( Tags 
+/home/pytorch/caffe2/python/layers/tags.py,absolute_import division print_function unicode_literals six context 
+/home/pytorch/caffe2/python/layers/margin_rank_loss.py,absolute_import division print_function unicode_literals core ( ( np 
+/home/pytorch/caffe2/python/layers/blob_weighted_sum.py,absolute_import division print_function unicode_literals schema ModelLayer 
+/home/pytorch/caffe2/python/layers/fc.py,absolute_import division print_function unicode_literals get_current_scope schema ModelLayer SamplingTrainableMixin math np 
+/home/pytorch/caffe2/python/layers/build_index.py,absolute_import division print_function unicode_literals np schema ModelLayer 
+/home/pytorch/caffe2/python/layers/__init__.py,absolute_import division print_function unicode_literals import_module pkgutil sys layers import_recursive(package): it import_module(module_name) import_recursive(module) import_recursive(sys.modules[__name__]) 
+/home/pytorch/caffe2/python/layers/last_n_window_collector.py,absolute_import division print_function unicode_literals schema ModelLayer 
+/home/pytorch/caffe2/python/layers/batch_lr_loss.py,absolute_import division print_function unicode_literals schema ( ( np 
+/home/pytorch/caffe2/python/layers/batch_sigmoid_cross_entropy_loss.py,absolute_import division print_function unicode_literals schema ModelLayer Tags np 
+/home/pytorch/caffe2/python/layers/merge_id_lists.py,absolute_import division print_function unicode_literals schema ( np 
+/home/pytorch/caffe2/python/layers/feature_sparse_to_dense.py,unicode_literals defaultdict np schema AccessedFeatures 
+/home/pytorch/caffe2/python/layers/label_smooth.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/homotopy_weight.py,absolute_import division print_function unicode_literals schema ModelLayer np logging 
+/home/pytorch/caffe2/python/layers/semi_random_features.py,absolute_import division print_function unicode_literals schema ArcCosineFeatureMap np 
+/home/pytorch/caffe2/python/layers/sampling_trainable_mixin.py,absolute_import division print_function unicode_literals abc six 
+/home/pytorch/caffe2/python/layers/adaptive_weight.py,unicode_literals np schema ModelLayer LogBarrier 
+/home/pytorch/caffe2/python/layers/batch_mse_loss.py,absolute_import division print_function unicode_literals schema ( ( np 
+/home/pytorch/caffe2/python/layers/layers.py,unicode_literals logging namedtuple np caffe2_pb2 workspace TagContext 
+/home/pytorch/caffe2/python/layers/layer_normalization.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/pairwise_similarity.py,absolute_import division print_function unicode_literals schema ( 
+/home/pytorch/caffe2/python/layers/functional.py,absolute_import division print_function unicode_literals workspace ( caffe2_pb2 np six logging 
+/home/pytorch/caffe2/python/layers/split.py,absolute_import division print_function unicode_literals schema ( 
+/home/pytorch/caffe2/python/layers/conv.py,absolute_import division print_function unicode_literals schema ( np 
+/home/pytorch/caffe2/python/layers/reservoir_sampling.py,absolute_import division print_function unicode_literals schema ModelLayer 
+/home/pytorch/caffe2/python/layers/fc_without_bias.py,absolute_import division print_function unicode_literals schema ModelLayer SamplingTrainableMixin math np 
+/home/pytorch/caffe2/python/layers/constant_weight.py,absolute_import division print_function unicode_literals schema ModelLayer np 
+/home/pytorch/caffe2/python/layers/gather_record.py,absolute_import division print_function unicode_literals schema ModelLayer 
+/home/pytorch/caffe2/python/layers/uniform_sampling.py,absolute_import division print_function unicode_literals np schema ModelLayer 
+/home/pytorch/caffe2/python/nomnigraph_transformations.py,unicode_literals defaultdict ng utils 
+/home/pytorch/caffe2/python/cached_reader.py,absolute_import division print_function unicode_literals os core DBFileReader pipe TaskGroup 
+/home/pytorch/caffe2/python/muji.py,np caffe2_pb2 workspace 
+/home/pytorch/caffe2/python/net_printer.py,absolute_import division print_function unicode_literals NetDef Job Plan TaskOutput defaultdict contextmanager copy viewkeys chain text_type 
+/home/pytorch/caffe2/python/build.py,absolute_import division print_function unicode_literals C 
+/home/pytorch/caffe2/python/transformations.py,absolute_import division print_function unicode_literals C 
+/home/pytorch/caffe2/python/crf.py,unicode_literals np recurrent 
+/home/pytorch/caffe2/python/timeout_guard.py,absolute_import division print_function unicode_literals contextlib threading os time signal logging viewitems sys traceback sys traceback 
+/home/pytorch/caffe2/python/schema.py,absolute_import division print_function unicode_literals logging np core workspace BlobReference namedtuple basestring viewvalues islice StringIO np 
+/home/pytorch/caffe2/python/predictor/mobile_exporter.py,absolute_import division print_function unicode_literals utils caffe2_pb2 np 
+/home/pytorch/caffe2/python/predictor/__init__.py,
+/home/pytorch/caffe2/python/predictor/predictor_py_utils.py,absolute_import division print_function unicode_literals scope 
+/home/pytorch/caffe2/python/predictor/predictor_exporter.py,absolute_import division print_function unicode_literals caffe2_pb2 metanet_pb2 scope predictor_constants serde utils bytes collections 
+/home/pytorch/caffe2/python/predictor/serde.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/utils.py,absolute_import division print_function unicode_literals caffe2_pb2 container_abcs viewitems Message text_format sys copy functools np string_types core core DebugMode pdb core 
+/home/pytorch/caffe2/python/binarysize.py,absolute_import division print_function unicode_literals argparse subprocess sys 
+/home/pytorch/caffe2/python/queue_util.py,absolute_import division print_function unicode_literals dataio TaskGroup logging 
+/home/pytorch/caffe2/python/onnx/bin/conversion.py,absolute_import division print_function json caffe2_pb2 click np ModelProto c2 c2_onnx 
+/home/pytorch/caffe2/python/onnx/bin/__init__.py,
+/home/pytorch/caffe2/python/onnx/onnxifi.py,absolute_import division print_function unicode_literals caffe2_pb2 workspace C np 
+/home/pytorch/caffe2/python/onnx/workspace.py,absolute_import division print_function unicode_literals uuid workspace 
+/home/pytorch/caffe2/python/onnx/backend_cpp_rep.py,absolute_import division print_function unicode_literals namedtupledict 
+/home/pytorch/caffe2/python/onnx/frontend.py,absolute_import division print_function unicode_literals itertools logging re caffe2_core container_abcs caffe2_legacy_pb2 Enum mapping, make_model np c2_native_run_net Unsupported C version 
+/home/pytorch/caffe2/python/onnx/__init__.py,
+/home/pytorch/caffe2/python/onnx/backend_rep.py,absolute_import division print_function unicode_literals core caffe2_pb2 namedtupledict 
+/home/pytorch/caffe2/python/onnx/backend.py,absolute_import division print_function unicode_literals os collections PIPE sys zipfile itertools the onnx.backend caffe2 gru_cell container_abcs ModelHelper caffe2_pb2 caffe2.python.utils np onnx ModelProto onnx.numpy_helper onnx.defs onnx.optimizer onnx.shape_inference onnx.utils namedtupledict Workspace Caffe2Rep Caffe2CppRep C warnings model.opset_import: imp.version)) cbackend.support_onnx_import(node_def.op_type): 
+/home/pytorch/caffe2/python/onnx/helper.py,absolute_import division print_function unicode_literals caffe2_pb2 namedtupledict Workspace C io logging time 
+/home/pytorch/caffe2/python/onnx/error.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/array_helpers.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/algebra.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/pooling.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/train.py,absolute_import division print_function unicode_literals scope caffe2_pb2 
+/home/pytorch/caffe2/python/helpers/tools.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/dropout.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/normalization.py,absolute_import division print_function unicode_literals scope ParameterTags caffe2_pb2 initializers 
+/home/pytorch/caffe2/python/helpers/arg_scope.py,absolute_import division print_function contextlib copy threading 
+/home/pytorch/caffe2/python/helpers/control_ops.py,absolute_import division print_function unicode_literals add_while_op 
+/home/pytorch/caffe2/python/helpers/db_input.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/helpers/fc.py,absolute_import division print_function unicode_literals core initializers ParameterTags 
+/home/pytorch/caffe2/python/helpers/__init__.py,
+/home/pytorch/caffe2/python/helpers/nonlinearity.py,absolute_import division print_function unicode_literals core 
+/home/pytorch/caffe2/python/helpers/conv.py,absolute_import division print_function unicode_literals core initializers ParameterTags 
+/home/pytorch/caffe2/python/helpers/elementwise_linear.py,absolute_import division print_function unicode_literals core ParameterTags 
+/home/pytorch/caffe2/python/numa_benchmark.py,absolute_import division print_function workspace caffe2_pb2 time 
+/home/pytorch/caffe2/python/__init__.py,unicode_literals caffe2_pb2 os sys platform 
+/home/pytorch/caffe2/python/dataset.py,absolute_import division print_function unicode_literals workspace Writer ( np 
+/home/pytorch/caffe2/python/rnn/lstm_comparison.py,absolute_import division print_function unicode_literals caffe2_pb2 utils copy 
+/home/pytorch/caffe2/python/rnn/__init__.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/memonger.py,absolute_import division print_function unicode_literals nx collections time copy core caffe2_pb2 enum logging viewvalues C np 
+/home/pytorch/caffe2/python/model_helper.py,absolute_import division print_function unicode_literals helpers parameter_info ( ( RegularizerContext viewkeys chain logging six 
+/home/pytorch/caffe2/python/optimizer_context.py,absolute_import division print_function unicode_literals context ( 
+/home/pytorch/caffe2/python/models/__sym_init__.py,absolute_import division print_function unicode_literals os caffe2_pb2 
+/home/pytorch/caffe2/python/models/seq2seq/train.py,absolute_import division print_function unicode_literals argparse collections logging math np random time sys os caffe2_pb2 data_parallel_model seq2seq_util Seq2SeqModelHelper 
+/home/pytorch/caffe2/python/models/seq2seq/beam_search.py,absolute_import division print_function unicode_literals namedtuple core seq2seq_util Seq2SeqModelHelper 
+/home/pytorch/caffe2/python/models/seq2seq/seq2seq_model_helper.py,absolute_import division print_function unicode_literals scope ModelHelper 
+/home/pytorch/caffe2/python/models/seq2seq/seq2seq_util.py,absolute_import division print_function unicode_literals collections viewitems caffe2_pb2 brew 
+/home/pytorch/caffe2/python/models/seq2seq/__init__.py,
+/home/pytorch/caffe2/python/models/seq2seq/translate.py,absolute_import division print_function unicode_literals abstractmethod argparse viewitems logging np with_metaclass sys workspace BeamSearchForwardOnly Seq2SeqModelHelper seq2seq_util 
+/home/pytorch/caffe2/python/models/__init__.py,
+/home/pytorch/caffe2/python/models/download.py,absolute_import division print_function unicode_literals argparse os sys signal re json caffe2_pb2 urlliberror urllib urllib 
+/home/pytorch/caffe2/python/models/shufflenet.py,absolute_import division print_function unicode_literals brew 
+/home/pytorch/caffe2/python/models/resnet.py,absolute_import division print_function brew logging 
+/home/pytorch/caffe2/python/gru_cell.py,absolute_import division print_function unicode_literals functools rnn_cell 
+/home/pytorch/caffe2/python/ideep/transform_ideep_net.py,absolute_import division print_function unicode_literals argparse copy json os.path np caffe2_pb2 utils C tee 
+/home/pytorch/caffe2/python/ideep/__init__.py,
+/home/pytorch/caffe2/python/normalizer_context.py,absolute_import division print_function unicode_literals context ( 
+/home/pytorch/caffe2/python/convert.py,absolute_import division print_function unicode_literals torch_pb2 C 
+/home/pytorch/caffe2/python/brew.py,absolute_import division print_function unicode_literals sys copy inspect basestring ModelHelper * * * * * * * * * * * * * * 
+/home/pytorch/caffe2/python/trt/transform.py,absolute_import division print_function unicode_literals caffe2_pb2 c2_native_run_op workspace c2_front C np 
+/home/pytorch/caffe2/python/trt/__init__.py,
+/home/pytorch/caffe2/python/checkpoint.py,absolute_import division print_function unicode_literals os logging context ops ( 
+/home/pytorch/caffe2/python/docs/github.py,absolute_import division print_function unicode_literals argparse os Markdown DocUploader OperatorEngine 
+/home/pytorch/caffe2/python/docs/__init__.py,
+/home/pytorch/caffe2/python/docs/parser.py,absolute_import division print_function unicode_literals re 
+/home/pytorch/caffe2/python/docs/formatter.py,absolute_import division print_function unicode_literals Parser 
+/home/pytorch/caffe2/python/docs/generator.py,absolute_import division print_function unicode_literals argparse os workspace Markdown viewvalues 
+/home/pytorch/caffe2/python/control_ops_grad.py,absolute_import division print_function unicode_literals caffe2_pb2 BlobReference BlobReference BlobReference BlobReference IR 
+/home/pytorch/caffe2/python/functional.py,absolute_import division print_function unicode_literals workspace caffe2_pb2 Workspace namedtuple string_types 
+/home/pytorch/caffe2/python/modifier_context.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/python/extension_loader.py,absolute_import division print_function unicode_literals contextlib ctypes sys 
+/home/pytorch/caffe2/python/embedding_generation_benchmark.py,absolute_import division print_function unicode_literals caffe2_pb2 model_helper argparse np time logging 
+/home/pytorch/caffe2/python/record_queue.py,absolute_import division print_function unicode_literals core Writer ( 
+/home/pytorch/caffe2/python/compatibility.py,PY3 collections collections.abc 
+/home/pytorch/caffe2/python/pipeline.py,absolute_import division print_function unicode_literals queue_util Writer ops Field TaskGroup 
+/home/pytorch/caffe2/python/layer_model_helper.py,absolute_import division print_function unicode_literals muji ( ( NetModifier Optimizer RegularizationBy layers caffe2_pb2 viewvalues logging np six copy importance 
+/home/pytorch/caffe2/python/experiment_util.py,absolute_import division print_function unicode_literals datetime time logging socket abc six OrderedDict viewvalues 
+/home/pytorch/caffe2/python/attention.py,absolute_import division print_function unicode_literals brew 
+/home/pytorch/caffe2/python/data_workers.py,absolute_import division print_function unicode_literals Queue Queue chain logging threading np time utils caffe2_pb2 \ 
+/home/pytorch/caffe2/python/db_file_reader.py,absolute_import division print_function unicode_literals C Reader Dataset from_column_list os 
+/home/pytorch/caffe2/python/nomnigraph.py,absolute_import division print_function unicode_literals C core caffe2_pb2 os PIPE errno 
+/home/pytorch/caffe2/python/predictor_constants.py,absolute_import division print_function unicode_literals predictor_consts 
+/home/pytorch/caffe2/python/hsm_util.py,absolute_import division print_function unicode_literals hsm_pb2 
+/home/pytorch/caffe2/python/regularizer_context.py,absolute_import division print_function unicode_literals context ( 
+/home/pytorch/caffe2/python/control_ops_util.py,absolute_import division print_function unicode_literals core 
+/home/pytorch/caffe2/proto/__init__.py,extension. torch_pb2 session_pb2 
+/home/pytorch/caffe2/core/__init__.py,
+/home/pytorch/caffe2/core/nomnigraph/__init__.py,
+/home/pytorch/caffe2/core/nomnigraph/op_gen.py,absolute_import division print_function unicode_literals argparse dedent call 
+/home/pytorch/caffe2/quantization/__init__.py,
+/home/pytorch/caffe2/quantization/server/utils.py,unicode_literals copy logging defaultdict np utils hardcode_scale_zp tee 
+/home/pytorch/caffe2/quantization/server/__init__.py,
+/home/pytorch/caffe2/experiments/python/net_construct_bench.py,absolute_import division print_function unicode_literals argparse logging time data_parallel_model cnn resnet cProfile 
+/home/pytorch/caffe2/experiments/python/convnet_benchmarks.py,absolute_import division print_function unicode_literals argparse time core SparseTransformer 
+/home/pytorch/caffe2/experiments/python/device_reduce_sum_bench.py,absolute_import division print_function unicode_literals argparse itertools logging os add_metaclass np core gpu_do 
+/home/pytorch/caffe2/experiments/python/SparseTransformer.py,absolute_import division print_function unicode_literals workspace scipy.sparse 
+/home/pytorch/caffe2/experiments/python/__init__.py,
+/home/pytorch/caffe2/experiments/__init__.py,
+/home/pytorch/caffe2/__init__.py,
+/home/pytorch/caffe2/perfkernels/__init__.py,
+/home/pytorch/caffe2/perfkernels/hp_emblookup_codegen.py,unicode_literals argparse sys 
+/home/pytorch/caffe2/contrib/gloo/__init__.py,
+/home/pytorch/caffe2/contrib/aten/gen_op.py,sys yaml argparse os deepcopy CT CT Loader Loader 
+/home/pytorch/caffe2/contrib/aten/__init__.py,
+/home/pytorch/caffe2/contrib/aten/docs/sample.py,np nn Function torch.onnx onnx caffe2.python.onnx.backend 
+/home/pytorch/caffe2/contrib/aten/docs/__init__.py,
+/home/pytorch/caffe2/contrib/nnpack/__init__.py,
+/home/pytorch/caffe2/contrib/playground/module_map.py,absolute_import division print_function unicode_literals caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.resnetdemo.\ caffe2.contrib.playground.\ caffe2.contrib.playground.\ caffe2.contrib.playground.\ 
+/home/pytorch/caffe2/contrib/playground/compute_loss.py,absolute_import division print_function unicode_literals Meter workspace 
+/home/pytorch/caffe2/contrib/playground/AnyExp.py,absolute_import division print_function unicode_literals abstractmethod workspace timeout_guard data_parallel_model checkpoint ModuleRegister module_map os inspect time logging logging 
+/home/pytorch/caffe2/contrib/playground/output_generator.py,absolute_import division print_function unicode_literals timeout_guard 
+/home/pytorch/caffe2/contrib/playground/ModuleRegister.py,absolute_import division print_function unicode_literals inspect logging 
+/home/pytorch/caffe2/contrib/playground/AnyExpOnTerm.py,absolute_import division print_function unicode_literals argparse json os AnyExp checkpoint logging 
+/home/pytorch/caffe2/contrib/playground/__init__.py,
+/home/pytorch/caffe2/contrib/playground/compute_topk_accuracy.py,absolute_import division print_function unicode_literals Meter workspace np 
+/home/pytorch/caffe2/contrib/playground/checkpoint.py,absolute_import division print_function unicode_literals np pickle OrderedDict caffe2_pb2 scope logging 
+/home/pytorch/caffe2/contrib/playground/meter.py,absolute_import division print_function unicode_literals abstractmethod 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/caffe2_resnet50_default_forward.py,absolute_import division print_function unicode_literals resnet 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/explicit_resnet_forward.py,absolute_import division print_function unicode_literals logging 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/caffe2_resnet50_default_param_update.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/gfs_IN1k.py,absolute_import division print_function unicode_literals 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/rendezvous_filestore.py,absolute_import division print_function unicode_literals workspace dyndep 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/__init__.py,
+/home/pytorch/caffe2/contrib/playground/resnetdemo/IN1k_resnet.py,absolute_import division print_function unicode_literals np core timeout_guard caffe2_pb2 
+/home/pytorch/caffe2/contrib/playground/resnetdemo/explicit_resnet_param_update.py,absolute_import division print_function unicode_literals core caffe2_pb2 
+/home/pytorch/caffe2/contrib/nccl/__init__.py,
+/home/pytorch/caffe2/contrib/tensorboard/tensorboard_exporter.py,absolute_import division print_function unicode_literals bytes copy logging os six caffe2_pb2 workspace tensor_shape_pb2 NodeDef GraphDef tensor_shape_pb2 GraphDef GraphDef 
+/home/pytorch/caffe2/contrib/tensorboard/tensorboard.py,absolute_import division print_function unicode_literals click collections logging np os caffe2_pb2 core tb_exporter HistogramProto Event FileWriter HistogramProto Event FileWriter FileWriter rel="import" IPython.display google.protobuf.text_format 
+/home/pytorch/caffe2/contrib/tensorboard/__init__.py,
+/home/pytorch/caffe2/contrib/__init__.py,
+/home/pytorch/caffe2/contrib/warpctc/__init__.py,
+/home/pytorch/caffe2/contrib/script/examples/__init__.py,
+/home/pytorch/caffe2/contrib/script/__init__.py,
+/home/pytorch/caffe2/contrib/prof/__init__.py,
+/home/pytorch/caffe2/distributed/__init__.py,
+/home/pytorch/.jenkins/pytorch/print_sccache_log.py,sys 
+/home/pytorch/tools/amd_build/build_amd.py,print_function os subprocess argparse sys hipify_python 
+/home/pytorch/tools/autograd/gen_python_functions.py,defaultdict re nested_dict should_trace write CodeTemplate import_module 'aten/src/ATen/code_template.py').CodeTemplate take 
+/home/pytorch/tools/autograd/nested_dict.py,
+/home/pytorch/tools/autograd/load_derivatives.py,defaultdict copy re yaml YamlLoader split_name_params 
+/home/pytorch/tools/autograd/utils.py,re os nested_dict CodeTemplate import_module 'aten/src/ATen/code_template.py').CodeTemplate YamlLoader YamlLoader 
+/home/pytorch/tools/autograd/__init__.py,
+/home/pytorch/tools/autograd/gen_variable_factories.py,re write format_trace 
+/home/pytorch/tools/autograd/gen_variable_type.py,print_function uninplace_api_name VIEW_FUNCTIONS uses_single_grad 
+/home/pytorch/tools/autograd/gen_autograd_functions.py,os re write VIEW_FUNCTIONS IDENT_REGEX 
+/home/pytorch/tools/autograd/gen_autograd.py,argparse copy os yaml re defaultdict split_name_params load_derivatives gen_variable_type gen_autograd_functions_lib gen_variable_factories load_derivatives gen_autograd_functions_python gen_python_functions 
+/home/pytorch/tools/setup_helpers/env.py,os platform struct sys chain get_cmake_cache_variables_from_file 
+/home/pytorch/tools/setup_helpers/numpy_.py,check_negative_env_flag np 
+/home/pytorch/tools/setup_helpers/cmake.py,print_function multiprocessing os re check_output sys distutils distutils.sysconfig LooseVersion which check_negative_env_flag) USE_CUDA NUMPY_INCLUDE_DIR it build_type 
+/home/pytorch/tools/setup_helpers/generate_code.py,argparse os sys earlier gen_autograd_python gen_jit_dispatch 
+/home/pytorch/tools/setup_helpers/__init__.py,os sys 
+/home/pytorch/tools/setup_helpers/cuda.py,os glob ctypes.util which check_negative_env_flag 
+/home/pytorch/tools/clang_tidy.py,print_function argparse collections fnmatch json os os.path re shlex subprocess sys tempfile quote quote yaml 
+/home/pytorch/tools/flake8_hook.py,sys git 
+/home/pytorch/tools/clang_format.py,subprocess os argparse difflib re 
+/home/pytorch/tools/shared/__init__.py,import_module sort_by_number_of_args 
+/home/pytorch/tools/shared/module_loader.py,sys path): importlib.util path) importlib.util.module_from_spec(spec) SourceFileLoader imp 
+/home/pytorch/tools/build_pytorch_libs.py,os sys glob shutil check_negative_env_flag USE_NINJA CUDA_HOME _get_vc_env 
+/home/pytorch/tools/pyi/gen_pyi.py,print_function os collections glob yaml re argparse write get_py_variable_methods load_aten_declarations filtered [ `torch._C` imports] import_code, 
+/home/pytorch/tools/pyi/__init__.py,
+/home/pytorch/tools/build_libtorch.py,argparse abspath sys torch build_caffe2 CMake 
+/home/pytorch/tools/__init__.py,
+/home/pytorch/tools/jit/gen_jit_dispatch.py,argparse copy re groupby write load_aten_declarations RETURNS_VIEWS_OF_INPUT 
+/home/pytorch/tools/jit/__init__.py,
+/home/pytorch/tools/build_variables.py,unicode_literals "torch/csrc/jit/import.cpp", "torch/csrc/jit/import_legacy.cpp", "torch/csrc/jit/import_export_helpers.cpp", "torch/csrc/jit/import_source.cpp", "torch/csrc/jit/mobile/import.cpp", 
+/home/pytorch/tools/download_mnist.py,division print_function argparse gzip os sys URLError urlretrieve URLError urlretrieve 
+/home/pytorch/docs/caffe2/process.py,shutil 
+/home/pytorch/docs/cpp/source/conf.py,os textwrap 
+/home/pytorch/docs/source/conf.py,os sys torch F401 warnings pytorch_sphinx_theme nodes TypedField addnodes sphinx.ext.doctest torchvision 
+/home/pytorch/docs/source/scripts/build_activation_images.py,os.path torch.nn.modules.activation torch.autograd matplotlib pylab 
+/home/pytorch/scripts/diagnose_protobuf.py,absolute_import division print_function unicode_literals os re PIPE google.protobuf 
+/home/pytorch/scripts/run_mobilelab.py,absolute_import division print_function unicode_literals argparse json os subprocess sys 
+/home/pytorch/scripts/model_zoo/update-caffe2-models.py,absolute_import division print_function unicode_literals os subprocess sys tarfile tempfile urlretrieve deleteDirectory 
+/home/pytorch/scripts/model_zoo/update-models-from-caffe2.py,absolute_import division print_function unicode_literals onnx.backend argparse c2_workspace glob json math np onnx caffe2.python.onnx.frontend caffe2.python.onnx.backend os shutil subprocess sys tarfile tempfile boto3 urlretrieve deleteDirectory caffe2_pb2 numpy_helper FileChunkIO 
+/home/pytorch/scripts/get_python_cmake_flags.py,absolute_import unicode_literals print_function sysconfig sys 
+/home/pytorch/binaries/bench_gen/bench_gen.py,absolute_import division print_function unicode_literals argparse ast ModelHelper mobile_exporter brew 

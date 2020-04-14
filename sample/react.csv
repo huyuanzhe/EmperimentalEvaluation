@@ -1,0 +1,1257 @@
+packages/use-subscription/npm/index.js,
+packages/use-subscription/index.js,
+packages/use-subscription/src/useSubscription.js,'react'; 
+packages/use-subscription/src/__tests__/useSubscription-test.internal.js,
+packages/react-art/npm/Rectangle.js,
+packages/react-art/npm/index.js,
+packages/react-art/npm/Circle.js,
+packages/react-art/npm/Wedge.js,
+packages/react-art/Rectangle.js,
+packages/react-art/index.js,
+packages/react-art/Circle.js,
+packages/react-art/Wedge.js,
+packages/react-art/src/ReactARTInternals.js,
+packages/react-art/src/ReactARTHostConfig.js,'art/core/transform'; 'art/modes/current'; 'shared/invariant'; 'ReactARTInternals'; { 
+packages/react-art/src/ReactART.js,'react'; 'shared/ReactVersion'; 'shared/ReactRootTags'; { 'art/core/transform'; 'art/modes/current'; 'art/modes/fast-noSideEffects'; 'ReactARTInternals'; 
+packages/react-art/src/__tests__/ReactART-test.js,'react'; 'react-art'; 'art/modes/svg'; 'art/modes/current'; ESM. ReactDOM. 'react-art/Circle'; 'react-art/Rectangle'; 'react-art/Wedge'; 
+packages/eslint-plugin-react-hooks/npm/index.js,
+packages/eslint-plugin-react-hooks/index.js,
+packages/eslint-plugin-react-hooks/__tests__/ESLintRuleExhaustiveDeps-test.js,or 'increment'; 'store'; 'store'; 'store'; 'store'; 'store'; 'store'; 'store'; 'store'; 
+packages/eslint-plugin-react-hooks/__tests__/ESLintRulesOfHooks-test.js,
+packages/eslint-plugin-react-hooks/src/RulesOfHooks.js,
+packages/eslint-plugin-react-hooks/src/index.js,'RulesOfHooks'; 'ExhaustiveDeps'; 
+packages/eslint-plugin-react-hooks/src/ExhaustiveDeps.js,import? 
+packages/react-devtools-shell/webpack.config.js,
+packages/react-devtools-shell/src/app/SuspenseTree/index.js,'react'; 'react'; 
+packages/react-devtools-shell/src/app/ReactNativeWeb/index.js,'react'; 'react'; 'react-native-web'; 
+packages/react-devtools-shell/src/app/console.js,
+packages/react-devtools-shell/src/app/PriorityLevels/index.js,'react'; 'react'; { 
+packages/react-devtools-shell/src/app/ElementTypes/index.js,'react'; { yet 
+packages/react-devtools-shell/src/app/index.js,'react'; { 'DeeplyNestedComponents'; 'Iframe'; 'EditableProps'; 'ElementTypes'; 'Hydration'; 'InspectableElements'; 'InteractionTracing'; 'PriorityLevels'; 'ReactNativeWeb'; 'ToDoList'; 'Toggle'; 'SuspenseTree'; 'console'; 'styles.css'; 
+packages/react-devtools-shell/src/app/InteractionTracing/index.js,'react'; 'react'; 'react-dom'; { 
+packages/react-devtools-shell/src/app/Hydration/index.js,'react'; 'react'; 
+packages/react-devtools-shell/src/app/InspectableElements/InspectableElements.js,'react'; 'react'; 'UnserializableProps'; 'CircularReferences'; 'Contexts'; 'CustomHooks'; 'CustomObject'; 'EdgeCaseObjects.js'; 'NestedProps'; 'SimpleValues'; 
+packages/react-devtools-shell/src/app/InspectableElements/Contexts.js,'react'; 'react'; 'prop-types'; 
+packages/react-devtools-shell/src/app/InspectableElements/NestedProps.js,'react'; 
+packages/react-devtools-shell/src/app/InspectableElements/EdgeCaseObjects.js,'react'; 
+packages/react-devtools-shell/src/app/InspectableElements/UnserializableProps.js,'react'; 'immutable'; 
+packages/react-devtools-shell/src/app/InspectableElements/index.js,'InspectableElements'; 
+packages/react-devtools-shell/src/app/InspectableElements/CircularReferences.js,'react'; 
+packages/react-devtools-shell/src/app/InspectableElements/CustomHooks.js,'react'; { 
+packages/react-devtools-shell/src/app/InspectableElements/SimpleValues.js,'react'; 'react'; 
+packages/react-devtools-shell/src/app/InspectableElements/CustomObject.js,'react'; 
+packages/react-devtools-shell/src/app/DeeplyNestedComponents/index.js,'react'; 'react'; 
+packages/react-devtools-shell/src/app/Toggle/index.js,'react'; 'react'; 
+packages/react-devtools-shell/src/app/ToDoList/ListItem.js,'react'; 'react'; 'ListItem.css'; 'List'; 
+packages/react-devtools-shell/src/app/ToDoList/List.js,'react'; 'react'; 'ListItem'; 'List.css'; 
+packages/react-devtools-shell/src/app/ToDoList/index.js,'List'; 
+packages/react-devtools-shell/src/app/EditableProps/index.js,'react'; { 
+packages/react-devtools-shell/src/app/Iframe/index.js,'react'; 'react'; 'react-dom'; 
+packages/react-devtools-shell/src/devtools.js,'react'; 'react-dom'; { 'react-devtools-inline/frontend'; 'react-devtools-shared/src/devtools'; 
+packages/react-flight-dom-relay/server.js,
+packages/react-flight-dom-relay/index.js,
+packages/react-flight-dom-relay/src/__mocks__/ReactFlightDOMRelayServerIntegration.js,
+packages/react-flight-dom-relay/src/ReactFlightDOMRelayServer.js,'react-server/src/ReactFlightServer'; 'ReactFlightDOMRelayServerHostConfig'; 'react-server/src/ReactFlightServer'; 
+packages/react-flight-dom-relay/src/ReactFlightDOMRelayClient.js,'react-client/src/ReactFlightClient'; { 
+packages/react-flight-dom-relay/src/ReactFlightDOMRelayClientHostConfig.js,
+packages/react-flight-dom-relay/src/__tests__/ReactFlightDOMRelay-test.internal.js,
+packages/react-flight-dom-relay/src/ReactFlightDOMRelayServerHostConfig.js,'react-server/src/ReactFlightServer'; 'ReactFlightDOMRelayServerIntegration'; 'react-server/src/ReactFlightServer'; 'ReactFlightDOMRelayServerIntegration'; 
+packages/react-devtools-core/backend.js,
+packages/react-devtools-core/webpack.standalone.js,
+packages/react-devtools-core/webpack.backend.js,
+packages/react-devtools-core/standalone.js,
+packages/react-devtools-core/src/backend.js,'react-devtools-shared/src/backend/agent'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/hook'; 'react-devtools-shared/src/backend'; 'react-devtools-shared/src/constants'; 'react-devtools-shared/src/backend/NativeStyleEditor/setupNativeStyleEditor'; 'react-devtools-shared/src/utils'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/types'; 'react-devtools-shared/src/backend/types'; 'react-devtools-shared/src/backend/NativeStyleEditor/setupNativeStyleEditor'; 
+packages/react-devtools-core/src/editor.js,'fs'; 'path'; 'child_process'; 'shell-quote'; 
+packages/react-devtools-core/src/standalone.js,'react'; { 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; { 'ws'; 'path'; 'fs'; 'react-devtools-shared/src/hook'; 'react-devtools-shared/src/devtools/views/DevTools'; 'editor'; 'react-devtools-shared/src/constants'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/views/Components/types'; 
+packages/react-test-renderer/npm/index.js,
+packages/react-test-renderer/npm/shallow.js,
+packages/react-test-renderer/index.js,
+packages/react-test-renderer/shallow.js,
+packages/react-test-renderer/src/ReactTestRenderer.js,'react-reconciler/src/ReactFiber'; 'react-reconciler/src/ReactFiberRoot'; 'ReactTestHostConfig'; 'scheduler/unstable_mock'; { 'react-reconciler/src/ReactFiberTreeReflection'; { 'shared/invariant'; 'shared/getComponentName'; 'shared/ReactVersion'; 'ReactTestHostConfig'; 'shared/ReactRootTags'; 
+packages/react-test-renderer/src/ReactTestHostConfig.js,{ 'shared/ReactFeatureFlags'; 
+packages/react-test-renderer/src/__tests__/ReactShallowRendererHooks-test.js,'react'; 'react-test-renderer/shallow'; 
+packages/react-test-renderer/src/__tests__/ReactShallowRendererMemo-test.js,'prop-types'; 'react'; 'react-test-renderer/shallow'; 
+packages/react-test-renderer/src/__tests__/ReactTestRendererAct-test.js,
+packages/react-test-renderer/src/__tests__/ReactTestRenderer-test.js,
+packages/react-test-renderer/src/__tests__/ReactTestRendererAsync-test.js,
+packages/react-test-renderer/src/__tests__/ReactShallowRenderer-test.js,'prop-types'; 'react'; 'react-test-renderer/shallow'; 
+packages/react-test-renderer/src/__tests__/ReactTestRendererTraversal-test.js,
+packages/react-test-renderer/src/__tests__/ReactTestRenderer-test.internal.js,
+packages/jest-mock-scheduler/npm/index.js,
+packages/react-refresh/babel.js,
+packages/react-refresh/npm/babel.js,
+packages/react-refresh/npm/runtime.js,
+packages/react-refresh/runtime.js,
+packages/react-refresh/src/ReactFreshBabelPlugin.js,import. { HOC. 
+packages/react-refresh/src/__tests__/ReactFresh-test.js,
+packages/react-refresh/src/__tests__/ReactFreshBabelPlugin-test.js,'@babel/syntax-dynamic-import', 'A'; 'Store'; 'A'; 'Store'; 'hooks'; 'fancy'; import('D'); 'import.meta.refreshReg', 'import.meta.refreshSig', 
+packages/react-refresh/src/__tests__/ReactFreshIntegration-test.js,
+packages/react-refresh/src/__tests__/ReactFreshMultipleRenderer-test.internal.js,
+packages/react-refresh/src/ReactFreshRuntime.js,'react-reconciler/src/ReactFiberHostConfig'; 'react-reconciler/src/ReactFiberRoot'; { 'shared/ReactTypes'; 'shared/ReactSymbols'; 
+packages/react-interactions/npm/focus.js,
+packages/react-interactions/npm/tap.js,
+packages/react-interactions/npm/scroll.js,
+packages/react-interactions/npm/press-legacy.js,
+packages/react-interactions/npm/drag.js,
+packages/react-interactions/npm/press.js,
+packages/react-interactions/npm/hover.js,
+packages/react-interactions/npm/swipe.js,
+packages/react-interactions/npm/input.js,
+packages/react-interactions/npm/keyboard.js,
+packages/react-interactions/events/focus.js,
+packages/react-interactions/events/tap.js,
+packages/react-interactions/events/context-menu.js,
+packages/react-interactions/events/press-legacy.js,
+packages/react-interactions/events/press.js,
+packages/react-interactions/events/hover.js,
+packages/react-interactions/events/input.js,
+packages/react-interactions/events/keyboard.js,
+packages/react-interactions/events/src/dom/PressLegacy.js,{ { 'react'; 'shared/ReactTypes'; 
+packages/react-interactions/events/src/dom/Press.js,'shared/ReactDOMTypes'; 'react'; 'react-interactions/events/tap'; 'react-interactions/events/keyboard'; 
+packages/react-interactions/events/src/dom/Focus.js,{ 'shared/ReactTypes'; 'react'; 'shared/ReactTypes'; 
+packages/react-interactions/events/src/dom/Hover.js,{ 'shared/ReactTypes'; 'react'; 'shared/ReactTypes'; 
+packages/react-interactions/events/src/dom/ContextMenu.js,{ 'shared/ReactTypes'; 'react'; 'shared/ReactTypes'; 
+packages/react-interactions/events/src/dom/shared/index.js,'shared/ReactTypes'; { 
+packages/react-interactions/events/src/dom/Keyboard.js,{ 'shared/ReactTypes'; 'react'; 'shared/ReactTypes'; 'shared'; 
+packages/react-interactions/events/src/dom/Input.js,{ 'react'; 'shared/ReactTypes'; 'shared/ReactTypes'; 
+packages/react-interactions/events/src/dom/__tests__/ContextMenu-test.internal.js,{ 
+packages/react-interactions/events/src/dom/__tests__/Keyboard-test.internal.js,'dom-event-testing-library'; 
+packages/react-interactions/events/src/dom/__tests__/Focus-test.internal.js,{ 
+packages/react-interactions/events/src/dom/__tests__/Input-test.internal.js,
+packages/react-interactions/events/src/dom/__tests__/FocusWithin-test.internal.js,'dom-event-testing-library'; 
+packages/react-interactions/events/src/dom/__tests__/MixedResponders-test-internal.js,'dom-event-testing-library'; 
+packages/react-interactions/events/src/dom/__tests__/PressLegacy-test.internal.js,{ 
+packages/react-interactions/events/src/dom/__tests__/Press-test.internal.js,{ 
+packages/react-interactions/events/src/dom/__tests__/Hover-test.internal.js,'dom-event-testing-library'; 
+packages/react-interactions/events/src/dom/__tests__/Tap-test.internal.js,{ 
+packages/react-interactions/events/src/dom/Tap.js,{ 'shared/ReactTypes'; 'react'; { 
+packages/dom-event-testing-library/constants.js,
+packages/dom-event-testing-library/domEventSequences.js,{ 'domEvents'; 'domEnvironment'; 'touchStore'; 
+packages/dom-event-testing-library/index.js,'constants'; 'domEvents'; 'domEventSequences'; 'domEnvironment'; 'testHelpers'; 
+packages/dom-event-testing-library/domEvents.js,{ 
+packages/dom-event-testing-library/testHelpers.js,'domEnvironment'; 
+packages/dom-event-testing-library/__tests__/index-test.internal.js,'.constants'; { 
+packages/dom-event-testing-library/domEnvironment.js,
+packages/dom-event-testing-library/touchStore.js,
+packages/react/index.experimental.js,
+packages/react/index.modern.fb.js,
+packages/react/npm/index.js,
+packages/react/index.js,
+packages/react/index.classic.fb.js,
+packages/react/index.stable.js,
+packages/react/src/ReactElementValidator.js,'shared/isValidElementType'; 'shared/getComponentName'; { 'shared/ReactFeatureFlags'; 'shared/checkPropTypes'; 'ReactCurrentOwner'; { 'ReactDebugCurrentFrame'; 
+packages/react/src/ReactHooks.js,{ 'shared/invariant'; 'shared/ReactSymbols'; 'ReactCurrentDispatcher'; 
+packages/react/src/ReactNoopUpdateQueue.js,
+packages/react/src/ReactBatchConfig.js,'react-reconciler/src/ReactFiberSuspenseConfig'; 'ReactCurrentBatchConfig'; 
+packages/react/src/ReactLazy.js,'shared/ReactSymbols'; + + 
+packages/react/src/ReactCreateRef.js,'shared/ReactTypes'; 
+packages/react/src/ReactSharedInternals.js,'object-assign'; 'ReactCurrentDispatcher'; 'ReactCurrentBatchConfig'; 'ReactCurrentOwner'; 'ReactDebugCurrentFrame'; 'IsSomeRendererActing'; 
+packages/react/src/memo.js,'shared/ReactSymbols'; 'shared/isValidElementType'; 
+packages/react/src/ReactCurrentBatchConfig.js,'react-reconciler/src/ReactFiberSuspenseConfig'; 
+packages/react/src/ReactChildren.js,'shared/invariant'; { 'shared/ReactFeatureFlags'; 'ReactElement'; 'ReactDebugCurrentFrame'; 
+packages/react/src/ReactCurrentOwner.js,'react-reconciler/src/ReactFiber'; 
+packages/react/src/ReactElement.js,'shared/getComponentName'; 'shared/invariant'; 'shared/ReactSymbols'; 'ReactCurrentOwner'; 
+packages/react/src/ReactCurrentDispatcher.js,'react-reconciler/src/ReactFiberHooks'; 
+packages/react/src/block.js,{ 
+packages/react/src/ReactBaseClasses.js,'shared/invariant'; 'ReactNoopUpdateQueue'; 
+packages/react/src/__tests__/forwardRef-test.js,
+packages/react/src/__tests__/ReactPureComponent-test.js,
+packages/react/src/__tests__/ReactDOMTracing-test.internal.js,
+packages/react/src/__tests__/ReactChildren-test.js,
+packages/react/src/__tests__/ReactElementValidator-test.internal.js,
+packages/react/src/__tests__/ReactProfiler-test.internal.js,
+packages/react/src/__tests__/forwardRef-test.internal.js,
+packages/react/src/__tests__/ReactTypeScriptClass-test.ts,require('react'); require('react-dom'); require('prop-types'); 
+packages/react/src/__tests__/ReactProfilerDevToolsIntegration-test.internal.js,
+packages/react/src/__tests__/ReactCreateRef-test.js,
+packages/react/src/__tests__/ReactClassEquivalence-test.js,
+packages/react/src/__tests__/ReactStrictMode-test.js,
+packages/react/src/__tests__/ReactJSXElementValidator-test.js,
+packages/react/src/__tests__/onlyChild-test.js,
+packages/react/src/__tests__/ReactES6Class-test.js,
+packages/react/src/__tests__/ReactElementClone-test.js,
+packages/react/src/__tests__/ReactProfilerDOM-test.internal.js,
+packages/react/src/__tests__/ReactElement-test.js,
+packages/react/src/__tests__/createReactClassIntegration-test.js,
+packages/react/src/__tests__/ReactElementJSX-test.js,
+packages/react/src/__tests__/ReactContextValidator-test.js,
+packages/react/src/__tests__/ReactJSXElement-test.js,
+packages/react/src/__tests__/testDefinitions/PropTypes.d.ts,
+packages/react/src/__tests__/testDefinitions/React.d.ts,
+packages/react/src/__tests__/testDefinitions/ReactDOM.d.ts,
+packages/react/src/IsSomeRendererActing.js,
+packages/react/src/React.js,'shared/ReactVersion'; { 'ReactBaseClasses'; 'ReactCreateRef'; 'ReactChildren'; { 'ReactContext'; 'ReactLazy'; 'forwardRef'; 'memo'; 'block'; { 'ReactBatchConfig'; { 'createMutableSource'; 'ReactSharedInternals'; 'shared/createFundamentalComponent'; 'shared/createEventResponder'; 'shared/createScope'; 
+packages/react/src/forks/ReactCurrentOwner.www.js,
+packages/react/src/forks/ReactCurrentDispatcher.www.js,
+packages/react/src/forks/ReactSharedInternals.umd.js,'object-assign'; 'scheduler'; 'scheduler/tracing'; '.ReactCurrentDispatcher'; '.ReactCurrentOwner'; '.ReactDebugCurrentFrame'; '.IsSomeRendererActing'; 
+packages/react/src/createMutableSource.js,'shared/ReactTypes'; 
+packages/react/src/forwardRef.js,'shared/ReactSymbols'; 
+packages/react/src/ReactDebugCurrentFrame.js,'shared/ReactElementType'; 'shared/describeComponentFrame'; 'shared/getComponentName'; 
+packages/react/src/ReactContext.js,'shared/ReactSymbols'; 'shared/ReactTypes'; 
+packages/react-flight-dom-webpack/server.node.js,
+packages/react-flight-dom-webpack/server.js,
+packages/react-flight-dom-webpack/npm/server.node.js,
+packages/react-flight-dom-webpack/npm/server.js,
+packages/react-flight-dom-webpack/npm/index.js,
+packages/react-flight-dom-webpack/npm/server.browser.js,
+packages/react-flight-dom-webpack/index.js,
+packages/react-flight-dom-webpack/server.browser.js,
+packages/react-flight-dom-webpack/src/ReactFlightDOMServerBrowser.js,'react-server/src/ReactFlightServer'; { 
+packages/react-flight-dom-webpack/src/ReactFlightDOMClient.js,'react-client/src/ReactFlightClientStream'; { 
+packages/react-flight-dom-webpack/src/ReactFlightDOMServerNode.js,'react-server/src/ReactFlightServer'; 'stream'; { 
+packages/react-flight-dom-webpack/src/__tests__/ReactFlightDOMBrowser-test.js,
+packages/react-flight-dom-webpack/src/__tests__/ReactFlightDOM-test.js,
+packages/jest-react/npm/index.js,
+packages/jest-react/index.js,
+packages/jest-react/src/JestReact.js,'shared/ReactSymbols'; 'shared/invariant'; 
+packages/react-devtools-shared/babel.config.js,
+packages/react-devtools-shared/src/bridge.js,'events'; 'types'; { 'react-devtools-shared/src/backend/NativeStyleEditor/types'; 
+packages/react-devtools-shared/src/devtools/cache.js,'react'; 'react'; 
+packages/react-devtools-shared/src/devtools/ProfilingCache.js,'ProfilerStore'; { { { { 'react-devtools-shared/src/devtools/views/Profiler/types'; 'react-devtools-shared/src/devtools/views/Profiler/FlamegraphChartBuilder'; 'react-devtools-shared/src/devtools/views/Profiler/InteractionsChartBuilder'; 'react-devtools-shared/src/devtools/views/Profiler/RankedChartBuilder'; 
+packages/react-devtools-shared/src/devtools/ProfilerStore.js,'events'; 'views/Profiler/utils'; 'ProfilingCache'; 'store'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/backend/types'; { 
+packages/react-devtools-shared/src/devtools/utils.js,{ 'views/Components/types'; 'store'; 
+packages/react-devtools-shared/src/devtools/ContextMenu/ContextMenuItem.js,'react'; 'react'; 'Contexts'; 'ContextMenuItem.css'; 'Contexts'; 
+packages/react-devtools-shared/src/devtools/ContextMenu/Contexts.js,'react'; 
+packages/react-devtools-shared/src/devtools/ContextMenu/ContextMenu.js,'react'; 'react'; 'react-dom'; 'Contexts'; 'ContextMenu.css'; 'Contexts'; 
+packages/react-devtools-shared/src/devtools/ContextMenu/useContextMenu.js,'react'; 'Contexts'; 'Contexts'; 'react'; 
+packages/react-devtools-shared/src/devtools/index.js,'react-devtools-shared/src/bridge'; 
+packages/react-devtools-shared/src/devtools/store.js,'events'; 'util'; { '.types'; { '.storage'; '.constants'; 'utils'; 'ProfilerStore'; 'views/Components/types'; '.types'; 'react-devtools-shared/src/bridge'; 
+packages/react-devtools-shared/src/devtools/views/hooks.js,'lodash.throttle'; { { '.utils'; 
+packages/react-devtools-shared/src/devtools/views/Toggle.js,'react'; 'react'; '@reach/tooltip'; 'Toggle.css'; 'Tooltip.css'; 
+packages/react-devtools-shared/src/devtools/views/DevTools.js,'@reach/menu-button/styles.css'; '@reach/tooltip/styles.css'; 'react'; 'react'; '.store'; 'context'; 'Components/Components'; 'Profiler/Profiler'; 'TabBar'; 'Settings/SettingsContext'; 'Components/TreeContext'; 'Components/ViewElementSourceContext'; 'Profiler/ProfilerContext'; 'ModalDialog'; 'ReactLogo'; 'UnsupportedVersionDialog'; 'WarnIfLegacyBackendDetected'; 'DevTools.css'; 'root.css'; 'react-devtools-shared/src/devtools/views/Components/types'; 'react-devtools-shared/src/bridge'; 
+packages/react-devtools-shared/src/devtools/views/TabBar.js,'react'; 'react'; '@reach/tooltip'; 'Icon'; 'TabBar.css'; 'Tooltip.css'; 'Icon'; 
+packages/react-devtools-shared/src/devtools/views/ButtonIcon.js,'react'; 'ButtonIcon.css'; 'import' 'import': 
+packages/react-devtools-shared/src/devtools/views/utils.js,'escape-string-regexp'; '..hydration'; '..utils'; 'react-debug-tools/src/ReactDebugHooks'; 
+packages/react-devtools-shared/src/devtools/views/ReactLogo.js,'react'; 'ReactLogo.css'; 
+packages/react-devtools-shared/src/devtools/views/context.js,'react'; '.store'; 'react-devtools-shared/src/devtools/views/DevTools'; 'react-devtools-shared/src/bridge'; 
+packages/react-devtools-shared/src/devtools/views/ModalDialog.js,'react'; { 'Button'; 'hooks'; 'ModalDialog.css'; 
+packages/react-devtools-shared/src/devtools/views/Settings/SettingsModal.js,'react'; 'react'; 'SettingsModalContext'; '.Button'; '.ButtonIcon'; '.TabBar'; '.context'; { 'ComponentsSettings'; 'GeneralSettings'; 'ProfilerSettings'; 'SettingsModal.css'; 
+packages/react-devtools-shared/src/devtools/views/Settings/GeneralSettings.js,'react'; 'react'; 'SettingsContext'; '.context'; 'react-devtools-shared/src/constants'; 'SettingsShared.css'; 
+packages/react-devtools-shared/src/devtools/views/Settings/SettingsModalContext.js,'react'; 'react'; 
+packages/react-devtools-shared/src/devtools/views/Settings/ProfilerSettings.js,'react'; 'react'; '.hooks'; '.context'; 'react-devtools-shared/src/devtools/views/Profiler/ProfilerContext'; 'SettingsShared.css'; 
+packages/react-devtools-shared/src/devtools/views/Settings/SettingsContext.js,'react'; { { '.hooks'; '.context'; '.DevTools'; 
+packages/react-devtools-shared/src/devtools/views/Settings/SettingsModalContextToggle.js,'react'; 'react'; 'SettingsModalContext'; '.Button'; '.ButtonIcon'; '.context'; '.hooks'; 
+packages/react-devtools-shared/src/devtools/views/Settings/ComponentsSettings.js,'react'; { '.hooks'; '.context'; '.Button'; '.ButtonIcon'; '.Toggle'; { 'SettingsShared.css'; { 
+packages/react-devtools-shared/src/devtools/views/ErrorBoundary.js,'react'; 'react'; 'ErrorBoundary.css'; 
+packages/react-devtools-shared/src/devtools/views/Button.js,'react'; '@reach/tooltip'; 'Button.css'; 'Tooltip.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/SelectedTreeHighlight.js,'react'; 'react'; 'TreeContext'; '.Settings/SettingsContext'; 'TreeFocusedContext'; '.context'; '.hooks'; 'SelectedTreeHighlight.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/OwnersListContext.js,'react'; 'react'; '..cache'; '.context'; 'TreeContext'; 'react-devtools-shared/src/utils'; 'react-devtools-shared/src/backend/types'; { '..cache'; 
+packages/react-devtools-shared/src/devtools/views/Components/HooksTree.js,'clipboard-js'; 'react'; 'react'; '.context'; '.Button'; '.ButtonIcon'; 'EditableValue'; 'ExpandCollapseToggle'; 'InspectedElementContext'; 'KeyValue'; '.utils'; 'HooksTree.css'; '..ContextMenu/useContextMenu'; '...hydration'; 'SelectedElement'; 'react-debug-tools/src/ReactDebugHooks'; 
+packages/react-devtools-shared/src/devtools/views/Components/ViewElementSourceContext.js,'react'; { 
+packages/react-devtools-shared/src/devtools/views/Components/EditableName.js,'react'; 'react'; 'NativeStyleEditor/AutoSizeInput'; 'EditableName.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/TreeFocusedContext.js,'react'; 
+packages/react-devtools-shared/src/devtools/views/Components/Components.js,'react'; { 'Tree'; 'InspectedElementContext'; 'OwnersListContext'; '.portaledContent'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModalContext'; { 'SelectedElement'; '.ModalDialog'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModal'; 'NativeStyleEditor/context'; 'Components.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/InspectedElementContext.js,'react'; { 'react-dom'; '..cache'; '.context'; 'react-devtools-shared/src/hydration'; 'TreeContext'; 'react-devtools-shared/src/utils'; { { '..cache'; 
+packages/react-devtools-shared/src/devtools/views/Components/SelectedElement.js,'clipboard-js'; 'react'; 'react'; 'TreeContext'; '.context'; '..ContextMenu/ContextMenu'; '..ContextMenu/ContextMenuItem'; '.Button'; '.ButtonIcon'; '.Icon'; 'HooksTree'; '.ModalDialog'; 'HocBadges'; 'InspectedElementTree'; 'InspectedElementContext'; 'ViewElementSourceContext'; 'NativeStyleEditor'; '.Toggle'; 'Badge'; { 'SelectedElement.css'; '.context'; { 'types'; 'react-devtools-shared/src/types'; 
+packages/react-devtools-shared/src/devtools/views/Components/TreeContext.js,'react'; { { '.utils'; '.context'; '..store'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Components/HocBadges.js,'react'; { 'HocBadges.css'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Components/OwnersStack.js,'react'; { '@reach/tooltip'; '@reach/menu-button'; '.Button'; '.ButtonIcon'; '.Toggle'; 'Badge'; 'OwnersListContext'; 'TreeContext'; '.hooks'; '.context'; 'types'; 'OwnersStack.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/StyleEditor.js,'react'; 'react'; 'react-dom'; 'clipboard-js'; { '..Button'; '..ButtonIcon'; '..utils'; 'AutoSizeInput'; 'StyleEditor.css'; '...utils'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/context.js,'react'; { 'react-dom'; 'react-devtools-shared/src/devtools/cache'; { '.TreeContext'; '.TreeContext'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 'react-devtools-shared/src/backend/NativeStyleEditor/types'; 'types'; 'react-devtools-shared/src/devtools/views/Components/types'; { 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/index.js,'react'; 'react'; 'react-devtools-shared/src/devtools/views/context'; 'react-devtools-shared/src/devtools/views/hooks'; 'context'; 'LayoutViewer'; 'StyleEditor'; '.TreeContext'; 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/AutoSizeInput.js,'react'; 'react'; 'AutoSizeInput.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/types.js,{ 
+packages/react-devtools-shared/src/devtools/views/Components/NativeStyleEditor/LayoutViewer.js,'react'; 'LayoutViewer.css'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Components/Element.js,'react'; 'react'; 'react-devtools-shared/src/devtools/store'; 'Badge'; '.ButtonIcon'; '.utils'; 'TreeContext'; '.context'; 'Tree'; 'types'; 'Element.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/Tree.js,'react'; { 'react-virtualized-auto-sizer'; 'react-window'; 'TreeContext'; '.Settings/SettingsContext'; '.context'; 'Element'; 'InspectHostNodesToggle'; 'OwnersStack'; 'SearchInput'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModalContextToggle'; 'SelectedTreeHighlight'; 'TreeFocusedContext'; 'Tree.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/ExpandCollapseToggle.js,'react'; '.Button'; '.ButtonIcon'; 'ExpandCollapseToggle.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/KeyValue.js,'react'; 'react'; 'EditableValue'; 'ExpandCollapseToggle'; '.utils'; '...hydration'; '..ContextMenu/useContextMenu'; 'KeyValue.css'; 'react'; 'SelectedElement'; 
+packages/react-devtools-shared/src/devtools/views/Components/types.js,'shared/ReactElementType'; { 'react-devtools-shared/src/types'; 
+packages/react-devtools-shared/src/devtools/views/Components/SearchInput.js,'react'; 'react'; 'TreeContext'; '.Button'; '.ButtonIcon'; '.Icon'; 'SearchInput.css'; 
+packages/react-devtools-shared/src/devtools/views/Components/EditableValue.js,'react'; 'react'; 'EditableValue.css'; '.hooks'; 
+packages/react-devtools-shared/src/devtools/views/Components/InspectHostNodesToggle.js,'react'; 'react'; '.context'; '.Toggle'; '.ButtonIcon'; 
+packages/react-devtools-shared/src/devtools/views/Components/InspectedElementTree.js,'clipboard-js'; 'react'; 'react'; '.Button'; '.ButtonIcon'; 'KeyValue'; 'EditableName'; 'EditableValue'; '.utils'; 'InspectedElementTree.css'; 'SelectedElement'; 
+packages/react-devtools-shared/src/devtools/views/Components/Badge.js,'react'; 'react'; { 'Badge.css'; 'react-devtools-shared/src/types'; 
+packages/react-devtools-shared/src/devtools/views/Icon.js,'react'; 'Icon.css'; 
+packages/react-devtools-shared/src/devtools/views/UnsupportedVersionDialog.js,'react'; 'react'; 'react-dom'; 'ModalDialog'; 'context'; 'react-devtools-shared/src/constants'; 'UnsupportedVersionDialog.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SidebarInteractions.js,'react'; 'react'; 'ProfilerContext'; 'utils'; '.context'; 'utils'; 'SidebarInteractions.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/HoveredFiberInfo.js,'react'; 'react'; 'ProfilerContext'; 'utils'; 'WhatChanged'; '.context'; 'HoveredFiberInfo.css'; 'FlamegraphChartBuilder'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SnapshotSelector.js,'react'; 'react'; '.Button'; '.ButtonIcon'; 'ProfilerContext'; 'SnapshotCommitList'; 'constants'; '.context'; 'SnapshotSelector.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/CommitFlamegraph.js,'react'; 'react'; 'react-virtualized-auto-sizer'; 'react-window'; 'ProfilerContext'; 'NoCommitData'; 'CommitFlamegraphListItem'; 'HoveredFiberInfo'; 'utils'; '.context'; '.Settings/SettingsContext'; 'Tooltip'; 'CommitFlamegraph.css'; 'HoveredFiberInfo'; 'FlamegraphChartBuilder'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/RootSelector.js,'react'; 'react'; 'ProfilerContext'; 'RootSelector.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/NoCommitData.js,'react'; 'NoCommitData.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/ClearProfilingDataButton.js,'react'; 'react'; 'ProfilerContext'; '.Button'; '.ButtonIcon'; '.context'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/CommitFlamegraphListItem.js,'react'; 'react'; 'react-window'; 'constants'; 'utils'; 'ChartNode'; '.Settings/SettingsContext'; 'FlamegraphChartBuilder'; 'CommitFlamegraph'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/WhatChanged.js,'react'; 'react'; '.Profiler/ProfilerContext'; '.context'; 'WhatChanged.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/Tooltip.js,'react'; 'react'; 'Tooltip.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/CommitTreeBuilder.js,{ 'react-devtools-shared/src/utils'; 'react-devtools-shared/src/types'; 'react-devtools-shared/src/devtools/ProfilerStore'; 'react-devtools-shared/src/types'; { 
+packages/react-devtools-shared/src/devtools/views/Profiler/RankedChartBuilder.js,{ 'utils'; 'react-devtools-shared/src/devtools/ProfilerStore'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/constants.js,
+packages/react-devtools-shared/src/devtools/views/Profiler/InteractionListItem.js,'react'; 'react'; 'react-window'; 'utils'; 'InteractionListItem.css'; 'Interactions'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/Interactions.js,'react'; 'react'; 'react-virtualized-auto-sizer'; 'react-window'; 'ProfilerContext'; 'InteractionListItem'; 'NoInteractions'; '.context'; 'utils'; 'Interactions.css'; 'types'; 'InteractionsChartBuilder'; 'ProfilerContext'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/utils.js,'react-devtools-shared/src/constants'; 'react-devtools-shared/src/backend/types'; { 
+packages/react-devtools-shared/src/devtools/views/Profiler/InteractionsChartBuilder.js,'react-devtools-shared/src/devtools/ProfilerStore'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/RecordToggle.js,'react'; 'react'; '.Button'; '.ButtonIcon'; 'ProfilerContext'; 'RecordToggle.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SnapshotCommitList.js,'react'; 'react'; 'react-virtualized-auto-sizer'; 'react-window'; 'SnapshotCommitListItem'; 'constants'; 'SnapshotCommitList.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/ProfilingImportExportButtons.js,'react'; 'react'; 'ProfilerContext'; '.ModalDialog'; '.Button'; '.ButtonIcon'; '.context'; { '.utils'; 'ProfilingImportExportButtons.css'; 'types'; /> 
+packages/react-devtools-shared/src/devtools/views/Profiler/NoInteractions.js,'react'; 'NoInteractions.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SidebarSelectedFiberInfo.js,'react'; 'react'; 'WhatChanged'; 'ProfilerContext'; 'utils'; '.context'; '.Button'; '.ButtonIcon'; 'SidebarSelectedFiberInfo.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SnapshotCommitListItem.js,'react'; 'react'; 'react-window'; 'utils'; 'SnapshotCommitListItem.css'; 'SnapshotCommitList'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/Profiler.js,'react'; 'react'; '.ModalDialog'; 'ProfilerContext'; '.TabBar'; 'ClearProfilingDataButton'; 'CommitFlamegraph'; 'CommitRanked'; 'Interactions'; 'RootSelector'; 'RecordToggle'; 'ReloadAndProfileButton'; 'ProfilingImportExportButtons'; 'SnapshotSelector'; 'SidebarCommitInfo'; 'SidebarInteractions'; 'SidebarSelectedFiberInfo'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModal'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModalContextToggle'; 'react-devtools-shared/src/devtools/views/Settings/SettingsModalContext'; '.portaledContent'; 'Profiler.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/CommitRankedListItem.js,'react'; 'react'; 'react-window'; 'constants'; 'utils'; 'ChartNode'; '.Settings/SettingsContext'; 'CommitRanked'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/types.js,'react-devtools-shared/src/types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/FlamegraphChartBuilder.js,{ 'utils'; 'react-devtools-shared/src/devtools/ProfilerStore'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/ProfilerContext.js,'react'; 'react'; 'react-dom'; '.hooks'; { '.context'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/CommitRanked.js,'react'; 'react'; 'react-virtualized-auto-sizer'; 'react-window'; 'ProfilerContext'; 'NoCommitData'; 'CommitRankedListItem'; 'HoveredFiberInfo'; 'utils'; '.context'; '.Settings/SettingsContext'; 'Tooltip'; 'CommitRanked.css'; 'HoveredFiberInfo'; 'RankedChartBuilder'; 'types'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/SidebarCommitInfo.js,'react'; 'react'; 'ProfilerContext'; 'utils'; '.context'; 'SidebarCommitInfo.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/ChartNode.js,'react'; 'ChartNode.css'; 
+packages/react-devtools-shared/src/devtools/views/Profiler/ReloadAndProfileButton.js,'react'; 'react'; '.Button'; '.ButtonIcon'; '.context'; '.hooks'; 
+packages/react-devtools-shared/src/devtools/views/portaledContent.js,'react'; 'react-dom'; 'ErrorBoundary'; 
+packages/react-devtools-shared/src/devtools/views/WarnIfLegacyBackendDetected.js,'react'; 'react'; 'context'; 'ModalDialog'; 'WarnIfLegacyBackendDetected.css'; 
+packages/react-devtools-shared/src/constants.js,
+packages/react-devtools-shared/src/utils.js,'es6-symbol'; 'lru-cache'; { { 'react-devtools-shared/src/types'; { 'types'; { 'storage'; 'hydration'; 'types'; 
+packages/react-devtools-shared/src/hydration.js,'es6-symbol'; { 'react-devtools-shared/src/devtools/views/Components/types'; 
+packages/react-devtools-shared/src/node_modules/react-window/dist/index-prod.umd.js,
+packages/react-devtools-shared/src/node_modules/react-window/dist/index.cjs.js,
+packages/react-devtools-shared/src/node_modules/react-window/dist/index-dev.umd.js,
+packages/react-devtools-shared/src/node_modules/react-window/dist/index.esm.js,'@babel/runtime/helpers/esm/extends'; '@babel/runtime/helpers/esm/inheritsLoose'; '@babel/runtime/helpers/esm/assertThisInitialized'; 'memoize-one'; 'react'; 'react-dom'; '@babel/runtime/helpers/esm/objectWithoutPropertiesLoose'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/shallowDiffers.js,
+packages/react-devtools-shared/src/node_modules/react-window/src/FixedSizeGrid.js,'createGridComponent'; 'createGridComponent'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/FixedSizeList.js,'createListComponent'; 'createListComponent'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/VariableSizeList.js,'createListComponent'; 'createListComponent'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/createGridComponent.js,'memoize-one'; 'react'; 'react'; 'timer'; 'domHelpers'; 'timer'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/VariableSizeGrid.js,'createGridComponent'; 'createGridComponent'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/index.js,
+packages/react-devtools-shared/src/node_modules/react-window/src/areEqual.js,'shallowDiffers'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/createListComponent.js,'memoize-one'; 'react'; 'react'; 'timer'; 'domHelpers'; 'timer'; 
+packages/react-devtools-shared/src/node_modules/react-window/src/timer.js,
+packages/react-devtools-shared/src/node_modules/react-window/src/domHelpers.js,
+packages/react-devtools-shared/src/node_modules/react-window/src/shouldComponentUpdate.js,'areEqual'; 'shallowDiffers'; 
+packages/react-devtools-shared/src/storage.js,
+packages/react-devtools-shared/src/types.js,
+packages/react-devtools-shared/src/__tests__/__mocks__/cssMock.js,
+packages/react-devtools-shared/src/__tests__/storeComponentFilters-test.js,'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/profilingCharts-test.js,'react-test-renderer'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/profilerStore-test.js,'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/storeStressSync-test.js,
+packages/react-devtools-shared/src/__tests__/storeSerializer.js,'react-devtools-shared/src/devtools/utils'; 
+packages/react-devtools-shared/src/__tests__/profilerContext-test.js,'react-test-renderer'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/views/Profiler/ProfilerContext'; 'react-devtools-shared/src/devtools/views/Components/TreeContext'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/ownersListContext-test.js,'react-test-renderer'; 'react-devtools-shared/src/devtools/views/Components/types'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/bridge-test.js,
+packages/react-devtools-shared/src/__tests__/inspectedElementContext-test.js,'react-test-renderer'; { 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/utils.js,'react-test-renderer'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 'react-devtools-shared/src/devtools/views/Profiler/types'; 'react-devtools-shared/src/types'; 
+packages/react-devtools-shared/src/__tests__/treeContext-test.js,'react-test-renderer'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; { 
+packages/react-devtools-shared/src/__tests__/storeStressTestConcurrent-test.js,
+packages/react-devtools-shared/src/__tests__/profilingCommitTreeBuilder-test.js,'react-test-renderer'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/useEditableValue-test.js,
+packages/react-devtools-shared/src/__tests__/storeOwners-test.js,
+packages/react-devtools-shared/src/__tests__/profilingCache-test.js,'react-test-renderer'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; retained. 
+packages/react-devtools-shared/src/__tests__/utils-test.js,'react-devtools-shared/src/utils'; 
+packages/react-devtools-shared/src/__tests__/store-test.js,
+packages/react-devtools-shared/src/__tests__/legacy/inspectElement-test.js,'react-devtools-shared/src/backend/types'; 'react-devtools-shared/src/devtools/views/Components/types'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 
+packages/react-devtools-shared/src/__tests__/legacy/storeLegacy-v15-test.js,
+packages/react-devtools-shared/src/__tests__/profilingUtils-test.js,
+packages/react-devtools-shared/src/__tests__/inspectedElementSerializer.js,
+packages/react-devtools-shared/src/__tests__/setupEnv.js,
+packages/react-devtools-shared/src/__tests__/setupTests.js,{ 
+packages/react-devtools-shared/src/__tests__/console-test.js,
+packages/react-devtools-shared/src/backend/console.js,'renderer'; 'describeComponentFrame'; 'react-reconciler/src/ReactFiber'; 'types'; 
+packages/react-devtools-shared/src/backend/describeComponentFrame.js,
+packages/react-devtools-shared/src/backend/agent.js,'events'; 'lodash.throttle'; { { 'views/Highlighter'; { 'console'; 'react-devtools-shared/src/bridge'; { '.types'; 
+packages/react-devtools-shared/src/backend/utils.js,'clipboard-js'; '.hydration'; 'react-devtools-shared/src/devtools/views/Components/types'; 
+packages/react-devtools-shared/src/backend/NativeStyleEditor/resolveBoxStyle.js,'types'; 
+packages/react-devtools-shared/src/backend/NativeStyleEditor/setupNativeStyleEditor.js,'react-devtools-shared/src/backend/agent'; 'resolveBoxStyle'; 'react-devtools-shared/src/bridge'; '.types'; 'types'; 
+packages/react-devtools-shared/src/backend/NativeStyleEditor/types.js,
+packages/react-devtools-shared/src/backend/index.js,'agent'; 'renderer'; 'legacy/renderer'; 'types'; 
+packages/react-devtools-shared/src/backend/types.js,'shared/ReactTypes'; 'shared/ReactElementType'; 'react-reconciler/src/ReactFiber'; { 'react-devtools-shared/src/devtools/views/Profiler/types'; 'react-devtools-shared/src/backend/NativeStyleEditor/setupNativeStyleEditor'; 
+packages/react-devtools-shared/src/backend/legacy/utils.js,'renderer'; 
+packages/react-devtools-shared/src/backend/legacy/renderer.js,{ '..utils'; '.utils'; 'react-devtools-shared/src/utils'; { 'utils'; { { '.types'; 
+packages/react-devtools-shared/src/backend/renderer.js,'semver'; { { 'react-devtools-shared/src/storage'; 'utils'; { 'react-debug-tools'; { 'react-reconciler/src/ReactFiber'; { 'react-devtools-shared/src/devtools/views/Profiler/types'; { 
+packages/react-devtools-shared/src/backend/views/Highlighter/index.js,'memoize-one'; 'lodash.throttle'; 'react-devtools-shared/src/backend/agent'; 'Highlighter'; 'react-devtools-shared/src/bridge'; 
+packages/react-devtools-shared/src/backend/views/Highlighter/Overlay.js,'object-assign'; '.utils'; 'react-devtools-shared/src/backend/types'; '.utils'; 
+packages/react-devtools-shared/src/backend/views/Highlighter/Highlighter.js,'Overlay'; 
+packages/react-devtools-shared/src/backend/views/utils.js,
+packages/react-devtools-shared/src/backend/views/TraceUpdates/canvas.js,'index'; '.utils'; '..types'; 
+packages/react-devtools-shared/src/backend/views/TraceUpdates/index.js,'react-devtools-shared/src/backend/agent'; 'canvas'; '.utils'; '..types'; '.utils'; 
+packages/react-devtools-shared/src/hook.js,{ 'react-devtools-shared/src/backend/types'; 
+packages/react-devtools-extensions/flow-typed/jest.js,
+packages/react-devtools-extensions/flow-typed/npm/react-test-renderer_v16.x.x.js,
+packages/react-devtools-extensions/build.js,
+packages/react-devtools-extensions/deploy.js,
+packages/react-devtools-extensions/firefox/build.js,
+packages/react-devtools-extensions/firefox/deploy.js,
+packages/react-devtools-extensions/firefox/test.js,
+packages/react-devtools-extensions/chrome/build.js,
+packages/react-devtools-extensions/chrome/deploy.js,
+packages/react-devtools-extensions/chrome/test.js,
+packages/react-devtools-extensions/utils.js,
+packages/react-devtools-extensions/popups/shared.js,
+packages/react-devtools-extensions/webpack.config.js,
+packages/react-devtools-extensions/webpack.backend.js,
+packages/react-devtools-extensions/src/injectGlobalHook.js,'nullthrows'; 'react-devtools-shared/src/hook'; 'react-devtools-shared/src/constants'; 'react-devtools-shared/src/storage'; 
+packages/react-devtools-extensions/src/backend.js,
+packages/react-devtools-extensions/src/background.js,
+packages/react-devtools-extensions/src/utils.js,
+packages/react-devtools-extensions/src/panel.js,
+packages/react-devtools-extensions/src/contentScript.js,
+packages/react-devtools-extensions/src/renderer.js,'react-devtools-shared/src/backend/renderer'; 
+packages/react-devtools-extensions/src/main.js,'react'; 'react-dom'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 'utils'; 'react-devtools-shared/src/constants'; { { 'react-devtools-shared/src/devtools/views/DevTools'; 
+packages/react-devtools-extensions/edge/build.js,
+packages/react-devtools-extensions/edge/deploy.js,
+packages/react-devtools-extensions/edge/test.js,
+packages/create-subscription/npm/index.js,
+packages/create-subscription/index.js,
+packages/create-subscription/src/createSubscription.js,'react'; 'shared/invariant'; 
+packages/create-subscription/src/__tests__/createSubscription-test.internal.js,
+packages/react-native-renderer/index.js,'src/ReactNativeTypes'; 'src/ReactNativeRenderer'; 
+packages/react-native-renderer/src/ReactNativeInjection.js,'ReactNativeInjectionShared'; { 'legacy-events/EventPluginUtils'; 'ReactNativeEventEmitter'; 'ReactNativeGlobalResponderHandler'; 'legacy-events/ResponderEventPlugin'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 
+packages/react-native-renderer/src/NativeMethodsMixinUtils.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/ExceptionsManager.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/Platform.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/RCTEventEmitter.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/flattenStyle.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/TextInputState.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/BatchedBridge.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/deepDiffer.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/ReactFiberErrorDialog.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/deepFreezeAndThrowOnMutationInDev.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/UIManager.js,'shared/invariant'; 
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/InitializeNativeFabricUIManager.js,'shared/invariant'; 
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/ReactNativePrivateInterface.js,
+packages/react-native-renderer/src/__mocks__/react-native/Libraries/ReactPrivate/ReactNativeViewConfigRegistry.js,{ 'shared/invariant'; 
+packages/react-native-renderer/src/ReactNativeGlobalResponderHandler.js,'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 
+packages/react-native-renderer/src/ReactNativeFiberInspector.js,'react-reconciler/src/ReactFiber'; { 'shared/getComponentName'; 'shared/ReactWorkTags'; 'shared/invariant'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'ReactNativeComponentTree'; 
+packages/react-native-renderer/src/ReactNativeFiberHostComponent.js,'react'; { 'ReactNativeHostConfig'; { 'ReactNativeAttributePayload'; { 
+packages/react-native-renderer/src/ReactNativeEventEmitter.js,'legacy-events/PluginModuleType'; 'legacy-events/EventSystemFlags'; 'react-reconciler/src/ReactFiber'; 'legacy-events/PluginModuleType'; 'legacy-events/ReactSyntheticEventType'; 'legacy-events/TopLevelEventTypes'; 'legacy-events/EventSystemFlags'; 'legacy-events/EventPluginRegistry'; 'legacy-events/ReactGenericBatching'; 'legacy-events/EventBatching'; 'legacy-events/EventPluginRegistry'; 'legacy-events/getListener'; 'legacy-events/accumulateInto'; 'ReactNativeComponentTree'; 
+packages/react-native-renderer/src/ReactNativeBridgeEventPlugin.js,'legacy-events/PluginModuleType'; 'legacy-events/EventSystemFlags'; 'legacy-events/EventPropagators'; 'legacy-events/TopLevelEventTypes'; 'legacy-events/SyntheticEvent'; 'shared/invariant'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'legacy-events/accumulateInto'; 'legacy-events/getListener'; 'shared/ReactTreeTraversal'; 'legacy-events/forEachAccumulated'; 
+packages/react-native-renderer/src/ReactNativeTypes.js,'react'; 
+packages/react-native-renderer/src/ReactNativeInjectionShared.js,'react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore'; 'legacy-events/ResponderEventPlugin'; { 'ReactNativeBridgeEventPlugin'; 'ReactNativeEventPluginOrder'; 
+packages/react-native-renderer/src/ReactNativeEventPluginOrder.js,
+packages/react-native-renderer/src/ReactFabric.js,'ReactNativeTypes'; 'shared/ReactTypes'; 'react'; 'ReactFabricInjection'; { 'shared/ReactPortal'; 'legacy-events/ReactGenericBatching'; 'shared/ReactVersion'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'ReactFabricComponentTree'; 'ReactNativeFiberInspector'; 'shared/ReactRootTags'; 'shared/ReactSharedInternals'; 'shared/getComponentName'; 
+packages/react-native-renderer/src/ReactNativeRenderer.js,'ReactNativeTypes'; 'shared/ReactTypes'; 'ReactNativeInjection'; { 'react-reconciler/src/ReactCurrentFiber'; 'shared/ReactPortal'; { 'shared/ReactVersion'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'ReactNativeComponentTree'; 'ReactNativeFiberInspector'; 'shared/ReactRootTags'; 'shared/ReactSharedInternals'; 'shared/getComponentName'; 
+packages/react-native-renderer/src/ReactNativeHostConfig.js,'shared/invariant'; { 'ReactNativeAttributePayload'; { 'ReactNativeFiberHostComponent'; 
+packages/react-native-renderer/src/ReactFabricHostConfig.js,'react'; { 'NativeMethodsMixinUtils'; 'ReactNativeAttributePayload'; 'shared/invariant'; 'ReactFabricEventEmitter'; { 
+packages/react-native-renderer/src/ReactFabricComponentTree.js,'shared/invariant'; 
+packages/react-native-renderer/src/ReactFabricInjection.js,'ReactNativeInjectionShared'; { 'legacy-events/EventPluginUtils'; 'ReactFabricGlobalResponderHandler'; 'legacy-events/ResponderEventPlugin'; 
+packages/react-native-renderer/src/ReactNativeAttributePayload.js,{ 'ReactNativeTypes'; 
+packages/react-native-renderer/src/ReactFabricEventEmitter.js,'legacy-events/PluginModuleType'; 'legacy-events/EventSystemFlags'; 'react-reconciler/src/ReactFiber'; 'legacy-events/PluginModuleType'; 'legacy-events/ReactSyntheticEventType'; 'legacy-events/TopLevelEventTypes'; 'legacy-events/EventSystemFlags'; 'legacy-events/EventPluginRegistry'; 'legacy-events/ReactGenericBatching'; 'legacy-events/accumulateInto'; 'legacy-events/EventPluginRegistry'; 'legacy-events/getListener'; 'legacy-events/EventBatching'; 
+packages/react-native-renderer/src/ReactFabricGlobalResponderHandler.js,'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 
+packages/react-native-renderer/src/__tests__/ReactNativeMount-test.internal.js,
+packages/react-native-renderer/src/__tests__/ReactFabric-test.internal.js,
+packages/react-native-renderer/src/__tests__/ReactNativeEvents-test.internal.js,
+packages/react-native-renderer/src/__tests__/ReactNativeAttributePayload-test.js,
+packages/react-native-renderer/src/__tests__/createReactNativeComponentClass-test.internal.js,
+packages/react-native-renderer/src/__tests__/ReactNativeError-test.internal.js,
+packages/react-native-renderer/src/__tests__/ReactFabricAndNative-test.internal.js,
+packages/react-native-renderer/src/ReactNativeComponentTree.js,'shared/invariant'; 
+packages/react-native-renderer/fabric.js,'src/ReactNativeTypes'; 'src/ReactFabric'; 
+packages/react-dom/index.experimental.js,
+packages/react-dom/testing.js,
+packages/react-dom/server.node.js,
+packages/react-dom/testing.stable.js,
+packages/react-dom/server.js,
+packages/react-dom/test-utils.js,
+packages/react-dom/testing.classic.fb.js,
+packages/react-dom/index.modern.fb.js,
+packages/react-dom/testing.modern.fb.js,
+packages/react-dom/npm/testing.js,
+packages/react-dom/npm/server.node.js,
+packages/react-dom/npm/server.js,
+packages/react-dom/npm/test-utils.js,
+packages/react-dom/npm/unstable-fizz.js,
+packages/react-dom/npm/unstable-fizz.browser.js,
+packages/react-dom/npm/index.js,
+packages/react-dom/npm/unstable-fizz.node.js,
+packages/react-dom/npm/unstable-native-dependencies.js,
+packages/react-dom/npm/server.browser.js,
+packages/react-dom/npm/profiling.js,
+packages/react-dom/unstable-fizz.js,
+packages/react-dom/unstable-fizz.browser.js,
+packages/react-dom/index.js,
+packages/react-dom/testing.experimental.js,
+packages/react-dom/index.classic.fb.js,'shared/ReactFeatureFlags'; 'src/events/ReactDOMEventListener'; 'src/client/ReactDOMComponentTree'; 'src/client/ReactDOM'; 
+packages/react-dom/unstable-fizz.node.js,
+packages/react-dom/index.stable.js,
+packages/react-dom/unstable-native-dependencies.js,
+packages/react-dom/server.browser.js,
+packages/react-dom/src/server/ReactDOMServerBrowser.js,'shared/ReactVersion'; 'shared/invariant'; 'ReactDOMStringRenderer'; 
+packages/react-dom/src/server/ReactDOMServerNode.js,'shared/ReactVersion'; 'ReactDOMStringRenderer'; { 
+packages/react-dom/src/server/ReactDOMNodeStreamRenderer.js,'stream'; 'ReactPartialRenderer'; 
+packages/react-dom/src/server/ReactPartialRenderer.js,'ReactThreadIDAllocator'; 'shared/ReactElementType'; 'react/src/ReactLazy'; 'shared/ReactTypes'; 'react'; 'shared/invariant'; 'shared/getComponentName'; 'shared/describeComponentFrame'; 'shared/ReactSharedInternals'; 'shared/ReactLazyComponent'; 'shared/ReactLazyStatusTags'; { { { 'ReactThreadIDAllocator'; { 'escapeTextForBrowser'; { { '.shared/ReactControlledValuePropTypes'; '.shared/assertValidProps'; '.shared/dangerousStyleValue'; '.shared/hyphenateStyleName'; '.shared/isCustomComponent'; '.shared/omittedCloseTags'; '.shared/warnValidStyle'; '.shared/ReactDOMInvalidARIAHook'; '.shared/ReactDOMNullInputValuePropHook'; '.shared/ReactDOMUnknownPropertyHook'; 
+packages/react-dom/src/server/ReactDOMFizzServerNode.js,'shared/ReactTypes'; 'stream'; { 
+packages/react-dom/src/server/quoteAttributeValueForBrowser.js,'escapeTextForBrowser'; 
+packages/react-dom/src/server/ReactDOMStringRenderer.js,'ReactPartialRenderer'; 
+packages/react-dom/src/server/DOMMarkupOperations.js,{ '.shared/sanitizeURL'; 'quoteAttributeValueForBrowser'; 
+packages/react-dom/src/server/escapeTextForBrowser.js,
+packages/react-dom/src/server/ReactPartialRendererContext.js,'ReactThreadIDAllocator'; 'shared/ReactTypes'; 'shared/ReactFeatureFlags'; 'shared/ReactSymbols'; 'shared/getComponentName'; 'shared/checkPropTypes'; 
+packages/react-dom/src/server/ReactDOMFizzServerBrowser.js,'shared/ReactTypes'; { 
+packages/react-dom/src/server/ReactThreadIDAllocator.js,'shared/invariant'; 
+packages/react-dom/src/server/ReactPartialRendererHooks.js,{ 'ReactThreadIDAllocator'; { 'react-reconciler/src/ReactFiberSuspenseConfig'; 'shared/ReactDOMTypes'; 'ReactPartialRendererContext'; 'shared/invariant'; 'shared/objectIs'; 
+packages/react-dom/src/client/getNodeForCharacterOffset.js,'.shared/HTMLNodeType'; 
+packages/react-dom/src/client/ReactDOMTextarea.js,'shared/invariant'; '.shared/ReactControlledValuePropTypes'; 'react-reconciler/src/ReactCurrentFiber'; 'ToStringValue'; 'ToStringValue'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/client/ReactDOMSelection.js,'getNodeForCharacterOffset'; '.shared/HTMLNodeType'; 
+packages/react-dom/src/client/inputValueTracking.js,
+packages/react-dom/src/client/ReactDOMUseEvent.js,'shared/ReactTypes'; { 'shared/ReactSharedInternals'; 'shared/invariant'; '.events/DOMEventProperties'; 
+packages/react-dom/src/client/getActiveElement.js,
+packages/react-dom/src/client/ReactDOMComponentTree.js,'react-reconciler/src/ReactFiber'; { 'shared/ReactDOMTypes'; { 'shared/invariant'; 'ReactDOMHostConfig'; 
+packages/react-dom/src/client/setTextContent.js,'.shared/HTMLNodeType'; 
+packages/react-dom/src/client/ReactDOMComponent.js,'legacy-events/EventPluginRegistry'; 'shared/ExecutionEnvironment'; 'shared/endsWith'; 'shared/invariant'; '.events/DeprecatedDOMEventResponderSystem'; { { { { { 'inputValueTracking'; 'setInnerHTML'; 'setTextContent'; { '.events/DOMEventListenerMap'; { '.events/DOMTopLevelEventTypes'; { '.shared/DOMNamespaces'; { '.shared/assertValidProps'; { '.shared/isCustomComponent'; '.shared/possibleStandardNames'; '.shared/ReactDOMInvalidARIAHook'; '.shared/ReactDOMNullInputValuePropHook'; '.shared/ReactDOMUnknownPropertyHook'; { { '.events/DOMModernPluginEventSystem'; 
+packages/react-dom/src/client/ReactDOMRoot.js,'ReactDOMHostConfig'; 'shared/ReactRootTags'; 'shared/ReactTypes'; 'react-reconciler/src/ReactFiberRoot'; 'react-reconciler/src/ReactFiberReconciler'; { '.events/ReactDOMEventReplaying'; { { 'shared/invariant'; 'shared/ReactRootTags'; 
+packages/react-dom/src/client/DOMPropertyOperations.js,{ '.shared/sanitizeURL'; { '.shared/DOMProperty'; 
+packages/react-dom/src/client/ReactDOMInput.js,'react-reconciler/src/ReactCurrentFiber'; 'shared/invariant'; 'DOMPropertyOperations'; 'ReactDOMComponentTree'; 'ToStringValue'; '.shared/ReactControlledValuePropTypes'; 'inputValueTracking'; 'shared/ReactFeatureFlags'; 'ToStringValue'; 
+packages/react-dom/src/client/ReactDOMSelect.js,'react-reconciler/src/ReactCurrentFiber'; '.shared/ReactControlledValuePropTypes'; 'ToStringValue'; 
+packages/react-dom/src/client/__tests__/getNodeForCharacterOffset-test.js,
+packages/react-dom/src/client/__tests__/dangerouslySetInnerHTML-test.js,
+packages/react-dom/src/client/__tests__/trustedTypes-test.internal.js,
+packages/react-dom/src/client/ReactInputSelection.js,'getActiveElement'; 'ReactDOMSelection'; '.shared/HTMLNodeType'; 
+packages/react-dom/src/client/ReactDOM.js,'shared/ReactTypes'; 'ReactDOMHostConfig'; '.shared/checkReact'; 'ReactDOMClientInjection'; { 'ReactDOMRoot'; 'ReactDOMUseEvent'; { 'shared/ReactPortal'; 'shared/ExecutionEnvironment'; 'legacy-events/ReactGenericBatching'; { 'legacy-events/EventBatching'; { 'shared/ReactVersion'; 'shared/invariant'; 'shared/ReactFeatureFlags'; { 'ReactDOMComponent'; '.events/ReactDOMEventListener'; { 
+packages/react-dom/src/client/validateDOMNesting.js,'react-reconciler/src/ReactCurrentFiber'; 
+packages/react-dom/src/client/ReactDOMClientInjection.js,'legacy-events/EventPluginUtils'; { '.events/BeforeInputEventPlugin'; '.events/ChangeEventPlugin'; '.events/EnterLeaveEventPlugin'; '.events/SelectEventPlugin'; '.events/SimpleEventPlugin'; { 
+packages/react-dom/src/client/ToStringValue.js,
+packages/react-dom/src/client/ReactDOMOption.js,'react'; 'ToStringValue'; 
+packages/react-dom/src/client/setInnerHTML.js,'.shared/DOMNamespaces'; '.shared/createMicrosoftUnsafeLocalFunction'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/client/ReactDOMHostConfig.js,'legacy-events/TopLevelEventTypes'; 'ReactDOMRoot'; { { 'ReactInputSelection'; 'setTextContent'; 'validateDOMNesting'; { '.shared/DOMNamespaces'; { '.shared/dangerousStyleValue'; { { '.events/ReactDOMEventReplaying'; { 'shared/ReactWorkTags'; { { '.events/DOMEventListenerMap'; 
+packages/react-dom/src/client/ReactDOMLegacy.js,'ReactDOMHostConfig'; 'ReactDOMRoot'; 'shared/ReactTypes'; { 'ReactDOMRoot'; '.shared/DOMProperty'; { { 'shared/getComponentName'; 'shared/invariant'; 'shared/ReactSharedInternals'; 'shared/ReactInstanceMap'; 
+packages/react-dom/src/events/getVendorPrefixedEventName.js,'shared/ExecutionEnvironment'; 
+packages/react-dom/src/events/DOMEventProperties.js,'shared/ReactTypes'; { 'legacy-events/ReactSyntheticEventType'; 'DOMTopLevelEventTypes'; { 
+packages/react-dom/src/events/getEventModifierState.js,'legacy-events/PluginModuleType'; 
+packages/react-dom/src/events/EventListener.js,
+packages/react-dom/src/events/ReactDOMEventListener.js,'legacy-events/PluginModuleType'; 'shared/ReactTypes'; 'react-reconciler/src/ReactFiberRoot'; '.client/ReactDOMHostConfig'; 'legacy-events/TopLevelEventTypes'; 'scheduler'; { 'DeprecatedDOMEventResponderSystem'; { { 'shared/ReactWorkTags'; { { 'getEventTarget'; '.client/ReactDOMComponentTree'; 'DOMTopLevelEventTypes'; 'checkPassiveEvents'; { { 'DOMEventProperties'; 'DOMLegacyEventPluginSystem'; 'DOMModernPluginEventSystem'; 
+packages/react-dom/src/events/SyntheticDragEvent.js,'SyntheticMouseEvent'; 
+packages/react-dom/src/events/SelectEventPlugin.js,'shared/ExecutionEnvironment'; 'legacy-events/SyntheticEvent'; 'shared/isTextInputElement'; 'shared/shallowEqual'; { '.client/getActiveElement'; '.client/ReactDOMComponentTree'; '.client/ReactInputSelection'; '.shared/HTMLNodeType'; 'DOMEventListenerMap'; 'accumulateTwoPhaseListeners'; 
+packages/react-dom/src/events/SyntheticInputEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/SyntheticMouseEvent.js,'SyntheticUIEvent'; 'getEventModifierState'; 
+packages/react-dom/src/events/ChangeEventPlugin.js,'legacy-events/EventBatching'; 'legacy-events/ReactControlledComponent'; 'legacy-events/ReactGenericBatching'; 'legacy-events/SyntheticEvent'; 'shared/isTextInputElement'; 'shared/ExecutionEnvironment'; { 'getEventTarget'; 'isEventSupported'; '.client/ReactDOMComponentTree'; '.client/inputValueTracking'; '.client/ReactDOMInput'; 'shared/ReactFeatureFlags'; 'accumulateTwoPhaseListeners'; 
+packages/react-dom/src/events/FallbackCompositionState.js,
+packages/react-dom/src/events/SyntheticCompositionEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/SyntheticKeyboardEvent.js,'SyntheticUIEvent'; 'getEventCharCode'; 'getEventKey'; 'getEventModifierState'; 
+packages/react-dom/src/events/SyntheticPointerEvent.js,'SyntheticMouseEvent'; 
+packages/react-dom/src/events/EnterLeaveEventPlugin.js,'legacy-events/EventPropagators'; { 'legacy-events/EventSystemFlags'; 'SyntheticMouseEvent'; 'SyntheticPointerEvent'; { 'shared/ReactWorkTags'; 'react-reconciler/src/ReactFiberTreeReflection'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/events/checkPassiveEvents.js,'shared/ExecutionEnvironment'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/events/getEventKey.js,'getEventCharCode'; 
+packages/react-dom/src/events/SyntheticClipboardEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/getEventCharCode.js,
+packages/react-dom/src/events/isEventSupported.js,'shared/ExecutionEnvironment'; 
+packages/react-dom/src/events/DOMTopLevelEventTypes.js,'legacy-events/TopLevelEventTypes'; { 'getVendorPrefixedEventName'; file. 
+packages/react-dom/src/events/SyntheticWheelEvent.js,'SyntheticMouseEvent'; 
+packages/react-dom/src/events/SyntheticAnimationEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/SyntheticUIEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/DeprecatedDOMEventResponderSystem.js,{ 'legacy-events/PluginModuleType'; 'shared/ReactWorkTags'; 'shared/ReactTypes'; { 'legacy-events/TopLevelEventTypes'; { 'legacy-events/ReactControlledComponent'; 'react-reconciler/src/ReactFiber'; 'shared/ReactFeatureFlags'; 'shared/invariant'; '.client/ReactDOMComponentTree'; { 'scheduler'; 
+packages/react-dom/src/events/accumulateTwoPhaseListeners.js,'legacy-events/ReactSyntheticEventType'; 'shared/ReactWorkTags'; 'shared/ReactFeatureFlags'; 'legacy-events/getListener'; '.client/ReactDOMComponentTree'; 
+packages/react-dom/src/events/getEventTarget.js,'.shared/HTMLNodeType'; 
+packages/react-dom/src/events/DOMModernPluginEventSystem.js,'legacy-events/PluginModuleType'; 'legacy-events/TopLevelEventTypes'; '.events/DOMEventListenerMap'; 'legacy-events/EventSystemFlags'; 'shared/ReactTypes'; 'react-reconciler/src/ReactFiber'; 'legacy-events/PluginModuleType'; 'legacy-events/ReactSyntheticEventType'; 'shared/ReactDOMTypes'; 'legacy-events/EventPluginRegistry'; 'legacy-events/ReactGenericBatching'; 'legacy-events/EventPluginUtils'; 'legacy-events/EventPluginRegistry'; 'shared/ReactWorkTags'; 'ReactDOMEventListener'; 'getEventTarget'; 'DOMEventListenerMap'; { { { 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/events/__tests__/getEventKey-test.js,
+packages/react-dom/src/events/__tests__/SyntheticKeyboardEvent-test.js,
+packages/react-dom/src/events/__tests__/SyntheticMouseEvent-test.js,
+packages/react-dom/src/events/__tests__/SyntheticEvent-test.js,
+packages/react-dom/src/events/__tests__/DeprecatedDOMEventResponderSystem-test.internal.js,
+packages/react-dom/src/events/__tests__/ChangeEventPlugin-test.internal.js,
+packages/react-dom/src/events/__tests__/SyntheticWheelEvent-test.js,
+packages/react-dom/src/events/__tests__/BeforeInputEventPlugin-test.js,
+packages/react-dom/src/events/__tests__/DOMModernPluginEventSystem-test.internal.js,
+packages/react-dom/src/events/__tests__/SelectEventPlugin-test.js,
+packages/react-dom/src/events/__tests__/SimpleEventPlugin-test.internal.js,
+packages/react-dom/src/events/__tests__/EnterLeaveEventPlugin-test.js,
+packages/react-dom/src/events/__tests__/SyntheticClipboardEvent-test.js,
+packages/react-dom/src/events/ReactDOMEventReplaying.js,'legacy-events/PluginModuleType'; '.client/ReactDOMHostConfig'; 'legacy-events/TopLevelEventTypes'; '.events/DOMEventListenerMap'; 'legacy-events/EventSystemFlags'; 'react-reconciler/src/ReactFiberRoot'; { { { { 'DOMEventListenerMap'; { 'legacy-events/TopLevelEventTypes'; 'shared/ReactWorkTags'; { 'legacy-events/EventSystemFlags'; 'DOMLegacyEventPluginSystem'; 'DOMModernPluginEventSystem'; 
+packages/react-dom/src/events/SyntheticTouchEvent.js,'SyntheticUIEvent'; 'getEventModifierState'; 
+packages/react-dom/src/events/DOMEventListenerMap.js,'legacy-events/TopLevelEventTypes'; 'legacy-events/EventPluginRegistry'; 
+packages/react-dom/src/events/forks/EventListener-www.js,'.EventListener'; 'EventListener-www'; 
+packages/react-dom/src/events/DOMLegacyEventPluginSystem.js,'legacy-events/PluginModuleType'; 'legacy-events/TopLevelEventTypes'; 'legacy-events/EventSystemFlags'; 'react-reconciler/src/ReactFiber'; 'legacy-events/PluginModuleType'; 'legacy-events/ReactSyntheticEventType'; 'legacy-events/TopLevelEventTypes'; 'shared/ReactWorkTags'; 'legacy-events/EventSystemFlags'; 'legacy-events/ReactGenericBatching'; 'legacy-events/EventBatching'; 'legacy-events/EventPluginRegistry'; 'legacy-events/accumulateInto'; 'legacy-events/EventPluginRegistry'; 'getEventTarget'; '.client/ReactDOMComponentTree'; 'DOMEventListenerMap'; 'isEventSupported'; { 'ReactDOMEventListener'; 
+packages/react-dom/src/events/SyntheticFocusEvent.js,'SyntheticUIEvent'; 
+packages/react-dom/src/events/BeforeInputEventPlugin.js,'legacy-events/TopLevelEventTypes'; 'shared/ExecutionEnvironment'; { { 'SyntheticCompositionEvent'; 'SyntheticInputEvent'; 'accumulateTwoPhaseListeners'; 
+packages/react-dom/src/events/SyntheticTransitionEvent.js,'legacy-events/SyntheticEvent'; 
+packages/react-dom/src/events/SimpleEventPlugin.js,{ 'legacy-events/ReactSyntheticEventType'; 'react-reconciler/src/ReactFiber'; 'legacy-events/PluginModuleType'; 'legacy-events/EventSystemFlags'; 'legacy-events/SyntheticEvent'; 'DOMTopLevelEventTypes'; { 'SyntheticAnimationEvent'; 'SyntheticClipboardEvent'; 'SyntheticFocusEvent'; 'SyntheticKeyboardEvent'; 'SyntheticMouseEvent'; 'SyntheticPointerEvent'; 'SyntheticDragEvent'; 'SyntheticTouchEvent'; 'SyntheticTransitionEvent'; 'SyntheticUIEvent'; 'SyntheticWheelEvent'; 'getEventCharCode'; 'accumulateTwoPhaseListeners'; 
+packages/react-dom/src/shared/possibleStandardNames.js,
+packages/react-dom/src/shared/ReactDOMUnknownPropertyHook.js,{ { 'isCustomComponent'; 'possibleStandardNames'; 
+packages/react-dom/src/shared/ReactDOMInvalidARIAHook.js,'DOMProperty'; 'isCustomComponent'; 'validAriaProperties'; 
+packages/react-dom/src/shared/CSSProperty.js,
+packages/react-dom/src/shared/createMicrosoftUnsafeLocalFunction.js,
+packages/react-dom/src/shared/ReactControlledValuePropTypes.js,'shared/checkPropTypes'; 'shared/ReactSharedInternals'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/shared/ReactDOMNullInputValuePropHook.js,
+packages/react-dom/src/shared/omittedCloseTags.js,
+packages/react-dom/src/shared/CSSShorthandProperty.js,
+packages/react-dom/src/shared/assertValidProps.js,'shared/invariant'; 'shared/ReactSharedInternals'; 'voidElementTags'; 
+packages/react-dom/src/shared/checkReact.js,'react'; 'shared/invariant'; 
+packages/react-dom/src/shared/HTMLNodeType.js,
+packages/react-dom/src/shared/voidElementTags.js,'omittedCloseTags'; 
+packages/react-dom/src/shared/hyphenateStyleName.js,
+packages/react-dom/src/shared/warnValidStyle.js,
+packages/react-dom/src/shared/isCustomComponent.js,
+packages/react-dom/src/shared/DOMProperty.js,'shared/ReactFeatureFlags'; 
+packages/react-dom/src/shared/CSSPropertyOperations.js,'CSSShorthandProperty'; 'dangerousStyleValue'; 'hyphenateStyleName'; 'warnValidStyle'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/shared/DOMNamespaces.js,
+packages/react-dom/src/shared/dangerousStyleValue.js,'CSSProperty'; 
+packages/react-dom/src/shared/sanitizeURL.js,'shared/invariant'; 'shared/ReactSharedInternals'; 'shared/ReactFeatureFlags'; 
+packages/react-dom/src/shared/validAriaProperties.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationClassContextType-test.js,
+packages/react-dom/src/__tests__/ReactDOMSuspensePlaceholder-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationModes-test.js,
+packages/react-dom/src/__tests__/quoteAttributeValueForBrowser-test.js,
+packages/react-dom/src/__tests__/ReactBrowserEventEmitter-test.internal.js,
+packages/react-dom/src/__tests__/ReactMultiChild-test.js,
+packages/react-dom/src/__tests__/ReactChildReconciler-test.js,
+packages/react-dom/src/__tests__/ReactDOMOption-test.js,
+packages/react-dom/src/__tests__/ReactComponentLifeCycle-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerPartialHydration-test.internal.js,
+packages/react-dom/src/__tests__/ReactServerRendering-test.js,it. { 
+packages/react-dom/src/__tests__/ReactDOMInput-test.js,
+packages/react-dom/src/__tests__/ReactErrorBoundaries-test.internal.js,
+packages/react-dom/src/__tests__/ReactTreeTraversal-test.js,
+packages/react-dom/src/__tests__/ReactServerRenderingHydration-test.js,
+packages/react-dom/src/__tests__/refs-test.js,
+packages/react-dom/src/__tests__/ReactDOMFizzServerBrowser-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationBasic-test.js,
+packages/react-dom/src/__tests__/ReactCompositeComponentNestedState-test.js,
+packages/react-dom/src/__tests__/ReactDOMEventListener-test.js,
+packages/react-dom/src/__tests__/ReactLegacyErrorBoundaries-test.internal.js,
+packages/react-dom/src/__tests__/ReactUpdates-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationLegacyContextDisabled-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationAttributes-test.js,
+packages/react-dom/src/__tests__/ReactMultiChildText-test.js,
+packages/react-dom/src/__tests__/ReactMultiChildReconcile-test.js,
+packages/react-dom/src/__tests__/ReactDOMComponentTree-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationTextarea-test.js,
+packages/react-dom/src/__tests__/findDOMNode-test.js,
+packages/react-dom/src/__tests__/CSSPropertyOperations-test.js,
+packages/react-dom/src/__tests__/ReactMockedComponent-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationSelect-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerSelectiveHydration-test.internal.js,'dom-event-testing-library'; 
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationRefs-test.js,
+packages/react-dom/src/__tests__/ReactErrorLoggingRecovery-test.js,
+packages/react-dom/src/__tests__/renderSubtreeIntoContainer-test.js,
+packages/react-dom/src/__tests__/ReactDOMSelect-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationHooks-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationFragment-test.js,
+packages/react-dom/src/__tests__/ReactDOMInvalidARIAHook-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationNewContext-test.js,
+packages/react-dom/src/__tests__/DOMPropertyOperations-test.js,
+packages/react-dom/src/__tests__/ReactDOMserverIntegrationProgress-test.js,
+packages/react-dom/src/__tests__/ReactUnmockedSchedulerWarning-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationUntrustedURL-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMFiberAsync-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMRoot-test.js,
+packages/react-dom/src/__tests__/ReactIdentity-test.js,
+packages/react-dom/src/__tests__/ReactRenderDocument-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationUserInteraction-test.js,
+packages/react-dom/src/__tests__/ReactDOMFizzServerNode-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationInput-test.js,
+packages/react-dom/src/__tests__/ReactDOMTextComponent-test.js,
+packages/react-dom/src/__tests__/escapeTextForBrowser-test.js,
+packages/react-dom/src/__tests__/utils/ReactDOMServerIntegrationTestUtils.js,
+packages/react-dom/src/__tests__/ReactDOMComponent-test.js,
+packages/react-dom/src/__tests__/ReactTestUtilsAct-test.js,
+packages/react-dom/src/__tests__/ReactComponent-test.js,
+packages/react-dom/src/__tests__/ReactCompositeComponent-test.js,
+packages/react-dom/src/__tests__/ReactEventIndependence-test.js,
+packages/react-dom/src/__tests__/ReactTestUtils-test.js,'react-test-renderer/shallow'; 'react'; 'react-dom'; 'react-dom/server'; 'react-dom/test-utils'; 
+packages/react-dom/src/__tests__/ReactDOMSVG-test.js,
+packages/react-dom/src/__tests__/ReactDOMShorthandCSSPropertyCollision-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationLegacyContext-test.js,
+packages/react-dom/src/__tests__/ReactEmptyComponent-test.js,
+packages/react-dom/src/__tests__/ReactMountDestruction-test.js,
+packages/react-dom/src/__tests__/ReactFunctionComponent-test.js,
+packages/react-dom/src/__tests__/ReactLegacyContextDisabled-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationElements-test.js,
+packages/react-dom/src/__tests__/ReactDOMHooks-test.js,
+packages/react-dom/src/__tests__/ReactCompositeComponentState-test.js,
+packages/react-dom/src/__tests__/ReactUnmockedSchedulerWarning-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMAttribute-test.js,
+packages/react-dom/src/__tests__/ReactTestUtilsActUnmockedScheduler-test.js,
+packages/react-dom/src/__tests__/ReactMount-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationCheckbox-test.js,
+packages/react-dom/src/__tests__/ReactDeprecationWarnings-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationSpecialTypes-test.js,
+packages/react-dom/src/__tests__/ReactDOMFiber-test.js,
+packages/react-dom/src/__tests__/ReactDOMSelection-test.internal.js,
+packages/react-dom/src/__tests__/ReactDOM-test.js,
+packages/react-dom/src/__tests__/ReactDOMTextarea-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerSuspense-test.internal.js,
+packages/react-dom/src/__tests__/ReactCompositeComponentDOMMinimalism-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerLifecycles-test.js,
+packages/react-dom/src/__tests__/ReactServerRenderingBrowser-test.js,
+packages/react-dom/src/__tests__/validateDOMNesting-test.js,
+packages/react-dom/src/__tests__/multiple-copies-of-react-test.js,
+packages/react-dom/src/__tests__/ReactDOMServerIntegrationReconnecting-test.js,
+packages/react-dom/src/__tests__/refs-destruction-test.js,
+packages/react-dom/src/__tests__/InvalidEventListeners-test.js,
+packages/react-dom/src/__tests__/ReactDOMIframe-test.js,
+packages/react-dom/src/unstable-native-dependencies/ReactDOMUnstableNativeDependencies.js,'react-dom'; 'legacy-events/EventPluginUtils'; 'legacy-events/ResponderEventPlugin'; 'legacy-events/ResponderTouchHistoryStore'; 
+packages/react-dom/src/test-utils/ReactTestUtils.js,'react'; 'react-dom'; 'react-reconciler/src/ReactFiberTreeReflection'; 'shared/ReactInstanceMap'; { 'legacy-events/SyntheticEvent'; 'shared/invariant'; '.shared/HTMLNodeType'; '.events/DOMTopLevelEventTypes'; 'legacy-events/EventSystemFlags'; 'ReactTestUtilsAct'; 'legacy-events/forEachAccumulated'; 'legacy-events/accumulateInto'; 'shared/ReactTreeTraversal'; 
+packages/react-dom/src/test-utils/ReactTestUtilsAct.js,'react-reconciler/src/ReactFiberWorkLoop'; 'react-dom'; 'shared/ReactSharedInternals'; 'shared/enqueueTask'; 'scheduler'; 
+packages/shared/ReactWorkTags.js,
+packages/shared/enqueueTask.js,
+packages/shared/ReactLazyComponent.js,{ { { + 
+packages/shared/ReactInstanceMap.js,
+packages/shared/describeComponentFrame.js,
+packages/shared/ReactTypes.js,
+packages/shared/ReactDOMTypes.js,{ 
+packages/shared/invokeGuardedCallbackImpl.js,'shared/invariant'; 
+packages/shared/objectIs.js,
+packages/shared/HostConfigWithNoPersistence.js,'shared/invariant'; 
+packages/shared/hasBadMapPolyfill.js,
+packages/shared/createFundamentalComponent.js,{ 'shared/ReactSymbols'; 'hasBadMapPolyfill'; 
+packages/shared/ReactFeatureFlags.js,
+packages/shared/ReactSharedInternals.js,'react'; 
+packages/shared/ReactVersion.js,
+packages/shared/endsWith.js,
+packages/shared/ExecutionEnvironment.js,
+packages/shared/ReactSideEffectTags.js,
+packages/shared/HostConfigWithNoMutation.js,'shared/invariant'; 
+packages/shared/ReactLazyStatusTags.js,externals. 
+packages/shared/ReactErrorUtils.js,'shared/invariant'; 'invokeGuardedCallbackImpl'; 
+packages/shared/ReactSymbols.js,
+packages/shared/isValidElementType.js,{ 
+packages/shared/checkPropTypes.js,
+packages/shared/ReactTreeTraversal.js,'ReactWorkTags'; 
+packages/shared/getComponentName.js,'react/src/ReactLazy'; { 'shared/ReactLazyComponent'; 'shared/ReactTypes'; 
+packages/shared/ReactRootTags.js,
+packages/shared/formatProdErrorMessage.js,
+packages/shared/__tests__/ReactErrorUtils-test.internal.js,
+packages/shared/__tests__/ReactSymbols-test.internal.js,
+packages/shared/__tests__/ReactDOMFrameScheduling-test.js,it. { 
+packages/shared/__tests__/ReactErrorProd-test.internal.js,
+packages/shared/__tests__/describeComponentFrame-test.js,
+packages/shared/__tests__/ReactError-test.internal.js,
+packages/shared/isTextInputElement.js,
+packages/shared/createEventResponder.js,'shared/ReactTypes'; 'shared/ReactSymbols'; 'hasBadMapPolyfill'; 
+packages/shared/forks/invokeGuardedCallbackImpl.www.js,'shared/invariant'; 
+packages/shared/forks/ReactFeatureFlags.test-renderer.www.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.test-renderer.www'; 
+packages/shared/forks/ReactFeatureFlags.www-dynamic.js,
+packages/shared/forks/ReactFeatureFlags.www.js,'shared/ReactFeatureFlags'; 'ReactFeatureFlags.www'; 'ReactFeatureFlags.www-dynamic'; 
+packages/shared/forks/ReactFeatureFlags.readonly.js,
+packages/shared/forks/object-assign.inline-umd.js,
+packages/shared/forks/ReactFeatureFlags.native-oss.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.native-oss'; 
+packages/shared/forks/ReactFeatureFlags.testing.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.testing'; 
+packages/shared/forks/SchedulerTracing.umd.js,'react'; 
+packages/shared/forks/ReactFeatureFlags.test-renderer.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.test-renderer'; 
+packages/shared/forks/consoleWithStackDev.www.js,
+packages/shared/forks/object-assign.umd.js,'react'; 
+packages/shared/forks/ReactFeatureFlags.testing.www.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.testing.www'; 
+packages/shared/forks/ReactFeatureFlags.native-fb.js,'shared/invariant'; 'shared/ReactFeatureFlags'; 'ReactFeatureFlags.native-fb'; 
+packages/shared/forks/Scheduler.umd.js,'react'; 
+packages/shared/ReactPortal.js,'shared/ReactSymbols'; 'shared/ReactTypes'; 
+packages/shared/shallowEqual.js,'objectIs'; 
+packages/shared/consoleWithStackDev.js,'shared/ReactSharedInternals'; 
+packages/shared/createScope.js,'shared/ReactTypes'; 'shared/ReactSymbols'; 
+packages/shared/HostConfigWithNoHydration.js,'shared/invariant'; 
+packages/shared/invariant.js,
+packages/shared/ReactElementType.js,
+packages/react-cache/npm/index.js,
+packages/react-cache/index.js,
+packages/react-cache/src/__tests__/ReactCache-test.internal.js,
+packages/react-cache/src/LRU.js,'scheduler'; 
+packages/react-cache/src/ReactCache.js,'react'; 'LRU'; 
+packages/react-is/npm/index.js,
+packages/react-is/index.js,
+packages/react-is/src/__tests__/ReactIs-test.js,
+packages/react-is/src/ReactIs.js,{ 'shared/isValidElementType'; 
+packages/react-client/flight.js,
+packages/react-client/npm/flight.js,
+packages/react-client/src/ReactFlightClientHostConfig.js,'shared/invariant'; 
+packages/react-client/src/ReactFlightClientHostConfigBrowser.js,
+packages/react-client/src/__tests__/ReactFlight-test.js,
+packages/react-client/src/forks/ReactFlightClientHostConfig.dom-browser.js,
+packages/react-client/src/forks/ReactFlightClientHostConfig.custom.js,
+packages/react-client/src/forks/ReactFlightClientHostConfig.dom-relay.js,
+packages/react-client/src/forks/ReactFlightClientHostConfig.dom.js,
+packages/react-client/src/ReactFlightClientStream.js,'ReactFlightClient'; 'ReactFlightClientHostConfig'; { { 
+packages/react-client/src/ReactFlightClient.js,'shared/ReactSymbols'; 
+packages/react-debug-tools/npm/index.js,
+packages/react-debug-tools/index.js,
+packages/react-debug-tools/src/ReactDebugHooks.js,{ 'react-reconciler/src/ReactFiber'; 'react-reconciler/src/ReactFiberHooks'; 'react-reconciler/src/ReactFiberHooks'; 'react-reconciler/src/ReactFiberSuspenseConfig'; 'error-stack-parser'; 'shared/ReactSharedInternals'; { 
+packages/react-debug-tools/src/__tests__/ReactDevToolsHooksIntegration-test.js,
+packages/react-debug-tools/src/__tests__/ReactHooksInspection-test.internal.js,
+packages/react-debug-tools/src/__tests__/ReactHooksInspectionIntegration-test.js,
+packages/react-debug-tools/src/__tests__/ReactHooksInspection-test.js,
+packages/react-debug-tools/src/ReactDebugTools.js,'ReactDebugHooks'; 
+packages/legacy-events/ResponderTopLevelEventTypes.js,
+packages/legacy-events/forEachAccumulated.js,
+packages/legacy-events/ReactGenericBatching.js,{ 'shared/ReactFeatureFlags'; 'shared/ReactErrorUtils'; 
+packages/legacy-events/ResponderEventPlugin.js,{ { 'EventPropagators'; 'ResponderSyntheticEvent'; 'ResponderTouchHistoryStore'; 'accumulate'; { 'getListener'; 'accumulateInto'; 'forEachAccumulated'; 
+packages/legacy-events/EventSystemFlags.js,
+packages/legacy-events/accumulate.js,'shared/invariant'; 
+packages/legacy-events/PluginModuleType.js,'react-reconciler/src/ReactFiber'; { 'TopLevelEventTypes'; 'legacy-events/EventSystemFlags'; 
+packages/legacy-events/EventPluginUtils.js,'shared/ReactErrorUtils'; 'shared/invariant'; 
+packages/legacy-events/ResponderSyntheticEvent.js,'SyntheticEvent'; 
+packages/legacy-events/getListener.js,'react-reconciler/src/ReactFiber'; 'shared/invariant'; 'EventPluginUtils'; 
+packages/legacy-events/accumulateInto.js,'shared/invariant'; 
+packages/legacy-events/EventPluginRegistry.js,'ReactSyntheticEventType'; { 'shared/invariant'; 
+packages/legacy-events/EventBatching.js,'shared/invariant'; 'shared/ReactErrorUtils'; 'ReactSyntheticEventType'; 'accumulateInto'; 'forEachAccumulated'; 'EventPluginUtils'; 
+packages/legacy-events/ResponderTouchHistoryStore.js,'shared/invariant'; 'ResponderTopLevelEventTypes'; 
+packages/legacy-events/__tests__/EventPluginRegistry-test.internal.js,
+packages/legacy-events/__tests__/accumulateInto-test.internal.js,
+packages/legacy-events/__tests__/ResponderEventPlugin-test.internal.js,
+packages/legacy-events/__tests__/accumulate-test.internal.js,
+packages/legacy-events/TopLevelEventTypes.js,
+packages/legacy-events/forks/ResponderTopLevelEventTypes.dom.js,
+packages/legacy-events/ReactControlledComponent.js,'shared/invariant'; { 
+packages/legacy-events/EventPropagators.js,'react-reconciler/src/ReactFiber'; 'legacy-events/ReactSyntheticEventType'; 'legacy-events/getListener'; 'shared/ReactTreeTraversal'; 'accumulateInto'; 'forEachAccumulated'; 
+packages/legacy-events/SyntheticEvent.js,'shared/invariant'; 
+packages/legacy-events/ReactSyntheticEventType.js,'react-reconciler/src/ReactFiber'; 'shared/ReactTypes'; 'TopLevelEventTypes'; 
+packages/react-devtools-inline/backend.js,
+packages/react-devtools-inline/frontend.js,
+packages/react-devtools-inline/webpack.config.js,
+packages/react-devtools-inline/src/backend.js,'react-devtools-shared/src/backend/agent'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/backend'; 'react-devtools-shared/src/hook'; 'react-devtools-shared/src/backend/NativeStyleEditor/setupNativeStyleEditor'; { 
+packages/react-devtools-inline/src/constants.js,
+packages/react-devtools-inline/src/frontend.js,'react'; 'react'; 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/store'; 'react-devtools-shared/src/devtools/views/DevTools'; { { 'react-devtools-shared/src/bridge'; 'react-devtools-shared/src/devtools/views/DevTools'; 
+packages/babel-plugin-react-jsx/npm/index.js,
+packages/babel-plugin-react-jsx/index.js,
+packages/babel-plugin-react-jsx/__tests__/TransformJSXToReactJSX-test.js,{ { { { { { { { { { { { { "foo"; { "react"; 
+packages/babel-plugin-react-jsx/src/TransformJSXToReactBabelPlugin.js,autoImport) anything "react"; "react"; "react"; "react"; "react"; name "react"; "react"; 
+packages/react-server/flight.js,
+packages/react-server/npm/flight.js,
+packages/react-server/npm/index.js,
+packages/react-server/index.js,
+packages/react-server/src/ReactFlightServerConfig.js,'shared/invariant'; 
+packages/react-server/src/ReactFlightServerConfigStream.js,'react-server/src/ReactFlightServer'; 'ReactServerStreamConfig'; 
+packages/react-server/src/ReactServerStreamConfigBrowser.js,
+packages/react-server/src/ReactServerStreamConfig.js,'shared/invariant'; 
+packages/react-server/src/ReactServerFormatConfig.js,'shared/invariant'; 
+packages/react-server/src/ReactDOMServerFormatConfig.js,'react-server/src/ReactServerStreamConfig'; 
+packages/react-server/src/ReactFlightServer.js,'ReactFlightServerConfig'; { 'shared/ReactSymbols'; 
+packages/react-server/src/__tests__/ReactServer-test.js,
+packages/react-server/src/ReactServerStreamConfigNode.js,'stream'; 
+packages/react-server/src/forks/ReactServerFormatConfig.dom-browser.js,
+packages/react-server/src/forks/ReactServerStreamConfig.dom-relay.js,
+packages/react-server/src/forks/ReactServerFormatConfig.dom-relay.js,
+packages/react-server/src/forks/ReactServerFormatConfig.dom.js,
+packages/react-server/src/forks/ReactFlightServerConfig.dom.js,
+packages/react-server/src/forks/ReactServerStreamConfig.dom.js,
+packages/react-server/src/forks/ReactServerStreamConfig.dom-browser.js,
+packages/react-server/src/forks/ReactFlightServerConfig.custom.js,
+packages/react-server/src/forks/ReactServerFormatConfig.custom.js,
+packages/react-server/src/forks/ReactFlightServerConfig.dom-browser.js,
+packages/react-server/src/forks/ReactFlightServerConfig.dom-relay.js,
+packages/react-server/src/forks/ReactServerStreamConfig.custom.js,
+packages/react-server/src/ReactFizzServer.js,'ReactServerStreamConfig'; 'shared/ReactTypes'; { 'ReactServerFormatConfig'; 'shared/ReactSymbols'; 
+packages/react-devtools/bin.js,
+packages/react-devtools/app.js,
+packages/react-devtools/index.js,
+packages/react-reconciler/reflection.js,
+packages/react-reconciler/npm/reflection.js,
+packages/react-reconciler/npm/index.js,
+packages/react-reconciler/index.js,
+packages/react-reconciler/src/ReactFiberHooks.js,{ 'ReactFiber'; 'ReactFiberExpirationTime'; 'ReactHookEffectTags'; 'ReactFiberSuspenseConfig'; 'SchedulerWithReactIntegration'; 'ReactFiberRoot'; { 'shared/ReactSharedInternals'; 'shared/ReactFeatureFlags'; 'ReactFiberExpirationTime'; 'ReactFiberNewContext'; 'ReactFiberDeprecatedEvents'; { { { { 'shared/invariant'; 'shared/getComponentName'; 'shared/objectIs'; 'ReactFiberBeginWork'; 'ReactFiberSuspenseConfig'; { { 'ReactFiberHostContext'; 
+packages/react-reconciler/src/ReactFiberTreeReflection.js,'ReactFiber'; 'ReactFiberHostConfig'; 'ReactFiberSuspenseComponent'; 'shared/invariant'; 'shared/ReactInstanceMap'; 'shared/ReactSharedInternals'; 'shared/getComponentName'; { 'shared/ReactSideEffectTags'; 'shared/ReactFeatureFlags'; 
+packages/react-reconciler/src/ReactCapturedValue.js,'ReactFiber'; 'ReactCurrentFiber'; 
+packages/react-reconciler/src/ReactFiberRoot.js,'ReactFiber'; 'ReactFiberExpirationTime'; 'shared/ReactRootTags'; 'ReactFiberHostConfig'; 'ReactFiberWorkLoop'; 'scheduler/src/Tracing'; 'ReactFiberSuspenseComponent'; 'SchedulerWithReactIntegration'; 'ReactFiberHostConfig'; 'ReactFiber'; 'ReactFiberExpirationTime'; { 'scheduler/tracing'; 'SchedulerWithReactIntegration'; 'ReactUpdateQueue'; 'ReactMutableSource'; 
+packages/react-reconciler/src/SchedulerWithReactIntegration.js,'scheduler'; 'scheduler/tracing'; 'shared/ReactFeatureFlags'; 'shared/invariant'; 
+packages/react-reconciler/src/ReactMutableSource.js,'react-reconciler/src/ReactFiberExpirationTime'; 'react-reconciler/src/ReactFiberRoot'; 'shared/ReactTypes'; 'ReactFiberHostConfig'; 'ReactFiberExpirationTime'; 
+packages/react-reconciler/src/ReactFiberHotReloading.js,'shared/ReactElementType'; 'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberHostConfig'; 'shared/ReactTypes'; { 'ReactFiberReconciler'; 'ReactFiberContext'; 'ReactFiberExpirationTime'; { { 
+packages/react-reconciler/src/ReactProfilerTimer.js,'ReactFiber'; { 'shared/ReactWorkTags'; 'scheduler'; 
+packages/react-reconciler/src/ReactFiberDevToolsHook.js,'shared/ReactFeatureFlags'; 'ReactFiberWorkLoop'; 'ReactFiberExpirationTime'; 'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberExpirationTime'; 'shared/ReactTypes'; 'shared/ReactSideEffectTags'; 
+packages/react-reconciler/src/ReactFiberScope.js,'ReactFiber'; { 'ReactFiberHostConfig'; { 'shared/ReactFeatureFlags'; 
+packages/react-reconciler/src/ReactHookEffectTags.js,
+packages/react-reconciler/src/ReactFiberErrorLogger.js,'ReactCapturedValue'; 'ReactFiberErrorDialog'; 
+packages/react-reconciler/src/ReactDebugFiberPerf.js,'ReactFiber'; 'shared/ReactFeatureFlags'; 'shared/getComponentName'; { 
+packages/react-reconciler/src/ReactFiberBeginWork.js,'shared/ReactTypes'; 'react/src/block'; 'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberExpirationTime'; { 'ReactFiberSuspenseContext'; 'shared/checkPropTypes'; { { 'shared/ReactSharedInternals'; { 'shared/invariant'; 'shared/shallowEqual'; 'shared/getComponentName'; 'ReactStrictModeWarnings'; 'shared/ReactLazyComponent'; 'shared/ReactSymbols'; { 'ReactDebugFiberPerf'; { { { { { { 'ReactFiberHostConfig'; 'ReactFiberReconciler'; 'ReactFiberHostContext'; { 'ReactFiberSuspenseComponent'; { 'ReactFiberHooks'; 'ReactProfilerTimer'; { { { { 'shared/ReactLazyComponent'; { { 'shared/ReactLazyStatusTags'; 
+packages/react-reconciler/src/ReactChildFiber.js,'shared/ReactElementType'; 'shared/ReactTypes'; 'react/src/block'; 'ReactFiber'; 'ReactFiberExpirationTime'; 'shared/getComponentName'; 'shared/ReactSideEffectTags'; { { 'shared/invariant'; 'shared/ReactFeatureFlags'; { 'ReactFiberClassComponent'; { 'ReactFiberHotReloading'; 'ReactTypeOfMode'; 'shared/ReactLazyComponent'; 
+packages/react-reconciler/src/ReactFiberContext.js,'ReactFiber'; 'ReactFiberStack'; 'react-reconciler/src/ReactFiberTreeReflection'; 'shared/ReactFeatureFlags'; 'shared/ReactWorkTags'; 'shared/getComponentName'; 'shared/invariant'; 'shared/checkPropTypes'; 'ReactDebugFiberPerf'; 'ReactFiberStack'; 
+packages/react-reconciler/src/ReactFiberSuspenseConfig.js,'shared/ReactSharedInternals'; 
+packages/react-reconciler/src/ReactFiberClassComponent.js,'ReactFiber'; 'ReactFiberExpirationTime'; 'ReactUpdateQueue'; 'react'; 'shared/ReactSideEffectTags'; { 'ReactStrictModeWarnings'; 'react-reconciler/src/ReactFiberTreeReflection'; 'shared/ReactInstanceMap'; 'shared/shallowEqual'; 'shared/getComponentName'; 'shared/invariant'; 'shared/ReactSymbols'; 'ReactDebugFiberPerf'; 'ReactFiberLazyComponent'; 'ReactTypeOfMode'; { 'ReactFiberExpirationTime'; { 'ReactFiberNewContext'; { 'ReactFiberSuspenseConfig'; 
+packages/react-reconciler/src/ReactFiberFundamental.js,'ReactFiber'; { 
+packages/react-reconciler/src/ReactFiberHydrationContext.js,'ReactFiber'; { 'ReactFiberSuspenseComponent'; { 'shared/ReactSideEffectTags'; 'shared/invariant'; { { 'shared/ReactFeatureFlags'; 'ReactFiberExpirationTime'; 
+packages/react-reconciler/src/ReactFiberWorkLoop.js,'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberExpirationTime'; 'SchedulerWithReactIntegration'; 'scheduler/src/Tracing'; 'ReactFiberSuspenseConfig'; 'ReactFiberSuspenseComponent'; 'ReactFiberHooks'; { 'shared/ReactSharedInternals'; 'shared/invariant'; { 'scheduler'; 'scheduler/tracing'; { 'ReactFiber'; { { { 'shared/ReactRootTags'; { { 'ReactFiberBeginWork'; 'ReactFiberCompleteWork'; 'ReactFiberUnwindWork'; { { 'ReactUpdateQueue'; 'ReactFiberNewContext'; 'ReactFiberHooks'; 'ReactCapturedValue'; { 'shared/getComponentName'; 'ReactStrictModeWarnings'; { { { 'ReactFiberDevToolsHook'; + + 
+packages/react-reconciler/src/ReactFiberReconciler.old.js,'ReactFiber'; 'ReactFiberRoot'; 'shared/ReactRootTags'; { 'shared/ReactWorkTags'; 'shared/ReactTypes'; 'ReactFiberExpirationTime'; { { 'shared/ReactInstanceMap'; { 'shared/getComponentName'; 'shared/invariant'; 'shared/ReactSharedInternals'; 'ReactFiberHostConfig'; { 'ReactFiberRoot'; 'ReactFiberDevToolsHook'; { 'ReactUpdateQueue'; { 'ReactTypeOfMode'; { 'ReactFiberSuspenseConfig'; { 'shared/enqueueTask'; 'scheduler'; 
+packages/react-reconciler/src/ReactFiberReconciler.js,'shared/ReactFeatureFlags'; { { 
+packages/react-reconciler/src/maxSigned31BitInt.js,
+packages/react-reconciler/src/ReactFiberThrow.js,'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberExpirationTime'; 'ReactCapturedValue'; 'ReactUpdateQueue'; 'ReactFiberWorkLoop'; 'ReactFiberSuspenseContext'; 'shared/getComponentName'; { { 'ReactTypeOfMode'; 'ReactFiberSuspenseComponent'; 'ReactCapturedValue'; { 'ReactFiberCommitWork'; 'ReactCurrentFiber'; 'ReactFiberHotReloading'; { { 'ReactFiberExpirationTime'; 
+packages/react-reconciler/src/__tests__/ReactPersistentUpdatesMinimalism-test.js,
+packages/react-reconciler/src/__tests__/ReactFiberHostContext-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalUpdates-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactHooks-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactExpiration-test.internal.js,the 
+packages/react-reconciler/src/__tests__/ReactFiberFundamental-test.internal.js,
+packages/react-reconciler/src/__tests__/ErrorBoundaryReconciliation-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalErrorReplay-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactHooksWithNoopRenderer-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalErrorLogging-test.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalReflection-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactSuspense-test.internal.js,call 
+packages/react-reconciler/src/__tests__/ReactFragment-test.js,
+packages/react-reconciler/src/__tests__/ReactNewContext-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalTriangle-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactTopLevelFragment-test.js,
+packages/react-reconciler/src/__tests__/ReactMemo-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactSuspensePlaceholder-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactSuspenseFuzz-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactSuspenseList-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactScope-test.internal.js,'dom-event-testing-library'; 
+packages/react-reconciler/src/__tests__/ReactIncrementalErrorReplay-test.js,
+packages/react-reconciler/src/__tests__/ReactBlocks-test.js,
+packages/react-reconciler/src/__tests__/ReactTopLevelText-test.js,
+packages/react-reconciler/src/__tests__/useMutableSource-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactLazy-test.internal.js,call', + + + 
+packages/react-reconciler/src/__tests__/ReactTracing-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalUpdatesMinimalism-test.js,
+packages/react-reconciler/src/__tests__/ReactSuspenseCallback-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactDisableSchedulerTimeoutBasedOnReactExpirationTime-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalScheduling-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactTransition-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactPersistent-test.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalErrorHandling-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalPerf-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncrementalSideEffects-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactNoopRendererAct-test.js,
+packages/react-reconciler/src/__tests__/ReactSuspenseWithNoopRenderer-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactIncremental-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactBatchedMode-test.internal.js,
+packages/react-reconciler/src/__tests__/ReactSchedulerIntegration-test.internal.js,
+packages/react-reconciler/src/ReactFiberSuspenseContext.js,'ReactFiber'; 'ReactFiberStack'; 'ReactFiberStack'; 
+packages/react-reconciler/src/ReactFiberStack.js,'ReactFiber'; 
+packages/react-reconciler/src/ReactFiberCompleteWork.js,'ReactFiber'; 'ReactFiberExpirationTime'; { 'ReactFiberRoot'; { { 'ReactFiberSuspenseContext'; 'ReactMutableSource'; 'SchedulerWithReactIntegration'; { 'ReactTypeOfMode'; { 'shared/invariant'; { { { 'ReactFiberSuspenseComponent'; { 'ReactFiberNewContext'; { { { 'ReactFiberFundamental'; 'ReactFiberExpirationTime'; 'ReactChildFiber'; 'ReactFiberDeprecatedEvents'; 'ReactFiberScope'; 
+packages/react-reconciler/src/ReactTypeOfMode.js,
+packages/react-reconciler/src/ReactUpdateQueue.js,'ReactFiber'; 'ReactFiberExpirationTime'; 'ReactFiberSuspenseConfig'; 'SchedulerWithReactIntegration'; 'ReactFiberExpirationTime'; { 'shared/ReactSideEffectTags'; 'shared/ReactFeatureFlags'; 'ReactTypeOfMode'; { 'shared/invariant'; 'SchedulerWithReactIntegration'; 
+packages/react-reconciler/src/ReactCurrentFiber.js,'ReactFiber'; 'shared/ReactSharedInternals'; { 'shared/describeComponentFrame'; 'shared/getComponentName'; 
+packages/react-reconciler/src/ReactFiberExpirationTime.js,'SchedulerWithReactIntegration'; 'maxSigned31BitInt'; { 
+packages/react-reconciler/src/ReactFiberNewContext.js,'shared/ReactTypes'; 'ReactFiber'; 'ReactFiberStack'; 'ReactFiberExpirationTime'; 'ReactFiberHostConfig'; 'ReactFiberStack'; 'maxSigned31BitInt'; { 'shared/invariant'; 'shared/objectIs'; { 'ReactFiberExpirationTime'; 'ReactFiberBeginWork'; 'shared/ReactFeatureFlags'; 
+packages/react-reconciler/src/ReactFiberErrorDialog.js,'ReactCapturedValue'; 
+packages/react-reconciler/src/ReactFiberSuspenseComponent.js,'ReactFiber'; 'ReactFiberHostConfig'; 'ReactFiberExpirationTime'; 'shared/ReactWorkTags'; 'shared/ReactSideEffectTags'; { 
+packages/react-reconciler/src/forks/ReactFiberErrorDialog.www.js,'.ReactCapturedValue'; 'shared/invariant'; 
+packages/react-reconciler/src/forks/ReactFiberHostConfig.custom.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.dom-relay.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.art.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.test.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.fabric.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.dom.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.dom-browser.js,
+packages/react-reconciler/src/forks/ReactFiberHostConfig.native.js,
+packages/react-reconciler/src/forks/ReactFiberErrorDialog.native.js,'.ReactCapturedValue'; 'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'shared/invariant'; 
+packages/react-reconciler/src/ReactFiberHostConfig.js,'shared/invariant'; 
+packages/react-reconciler/src/ReactFiberDeprecatedEvents.js,'ReactFiber'; 'ReactFiberHostConfig'; { { 'ReactFiberExpirationTime'; 'shared/ReactSymbols'; 'shared/invariant'; 'shared/ReactWorkTags'; 
+packages/react-reconciler/src/ReactStrictModeWarnings.js,'ReactFiber'; 'ReactCurrentFiber'; 'shared/getComponentName'; 'ReactTypeOfMode'; 
+packages/react-reconciler/src/ReactFiberHostContext.js,'ReactFiber'; 'ReactFiberStack'; 'ReactFiberHostConfig'; 'shared/invariant'; 'ReactFiberHostConfig'; 'ReactFiberStack'; 
+packages/react-reconciler/src/ReactFiberUnwindWork.js,'ReactFiber'; 'ReactFiberExpirationTime'; 'ReactFiberSuspenseComponent'; 'ReactMutableSource'; { 'shared/ReactSideEffectTags'; 'shared/ReactFeatureFlags'; 'ReactFiberHostContext'; 'ReactFiberSuspenseContext'; 'ReactFiberHydrationContext'; { 'ReactFiberNewContext'; 'shared/invariant'; 
+packages/react-reconciler/src/ReactFiber.js,'shared/ReactElementType'; { 'shared/ReactRootTags'; 'shared/ReactWorkTags'; 'ReactTypeOfMode'; 'shared/ReactSideEffectTags'; 'ReactFiberExpirationTime'; 'ReactUpdateQueue'; 'ReactFiberNewContext'; 'ReactFiberHooks'; 'ReactFiberHostConfig'; 'shared/invariant'; { 'shared/ReactSideEffectTags'; 'shared/ReactRootTags'; { 'shared/getComponentName'; 'ReactFiberDevToolsHook'; { 'ReactFiberExpirationTime'; { { 
+packages/react-reconciler/src/ReactFiberCommitWork.js,{ 'ReactFiber'; 'ReactFiberRoot'; 'ReactFiberExpirationTime'; 'ReactCapturedValue'; 'ReactFiberSuspenseComponent'; 'ReactFiberHooks'; 'ReactFiberWorkLoop'; 'SchedulerWithReactIntegration'; 'scheduler/tracing'; { { { { 'shared/getComponentName'; 'shared/invariant'; 'ReactFiberDevToolsHook'; 'ReactDebugFiberPerf'; 'ReactCurrentFiber'; 'ReactFiberErrorLogger'; 'ReactFiberLazyComponent'; { 'ReactTypeOfMode'; 'ReactUpdateQueue'; { { { 'ReactFiberBeginWork'; 'SchedulerWithReactIntegration'; { 
+packages/react-reconciler/src/ReactFiberLazyComponent.js,'react/src/ReactLazy'; 'shared/ReactLazyStatusTags'; 'shared/ReactLazyComponent'; 
+packages/scheduler/tracing.js,
+packages/scheduler/npm/tracing.js,
+packages/scheduler/npm/tracing-profiling.js,
+packages/scheduler/npm/umd/scheduler-tracing.profiling.min.js,
+packages/scheduler/npm/umd/scheduler.production.min.js,
+packages/scheduler/npm/umd/scheduler.profiling.min.js,
+packages/scheduler/npm/umd/scheduler.development.js,
+packages/scheduler/npm/umd/scheduler-tracing.development.js,
+packages/scheduler/npm/umd/scheduler-tracing.production.min.js,
+packages/scheduler/npm/index.js,
+packages/scheduler/npm/unstable_mock.js,
+packages/scheduler/index.js,
+packages/scheduler/unstable_mock.js,
+packages/scheduler/src/SchedulerFeatureFlags.js,
+packages/scheduler/src/Tracing.js,'shared/ReactFeatureFlags'; 
+packages/scheduler/src/SchedulerPriorities.js,
+packages/scheduler/src/Scheduler.js,{ { 'SchedulerMinHeap'; { { 
+packages/scheduler/src/TracingSubscriptions.js,'Tracing'; 'shared/ReactFeatureFlags'; 'Tracing'; 
+packages/scheduler/src/__tests__/Tracing-test.js,
+packages/scheduler/src/__tests__/Scheduler-test.js,
+packages/scheduler/src/__tests__/SchedulerProfiling-test.js,
+packages/scheduler/src/__tests__/SchedulerNoDOM-test.js,
+packages/scheduler/src/__tests__/SchedulerBrowser-test.js,
+packages/scheduler/src/__tests__/SchedulerUMDBundle-test.internal.js,
+packages/scheduler/src/__tests__/Tracing-test.internal.js,
+packages/scheduler/src/__tests__/TracingSubscriptions-test.internal.js,
+packages/scheduler/src/SchedulerHostConfig.js,
+packages/scheduler/src/forks/SchedulerFeatureFlags.www.js,
+packages/scheduler/src/forks/SchedulerHostConfig.mock.js,
+packages/scheduler/src/forks/SchedulerHostConfig.default.js,'.SchedulerFeatureFlags'; 
+packages/scheduler/src/SchedulerProfiling.js,'SchedulerPriorities'; 'SchedulerFeatureFlags'; 'SchedulerPriorities'; 
+packages/scheduler/src/SchedulerMinHeap.js,
+packages/react-noop-renderer/persistent.js,
+packages/react-noop-renderer/flight-server.js,
+packages/react-noop-renderer/server.js,
+packages/react-noop-renderer/npm/persistent.js,
+packages/react-noop-renderer/npm/flight-server.js,
+packages/react-noop-renderer/npm/server.js,
+packages/react-noop-renderer/npm/index.js,
+packages/react-noop-renderer/npm/flight-client.js,
+packages/react-noop-renderer/index.js,
+packages/react-noop-renderer/flight-client.js,
+packages/react-noop-renderer/src/ReactNoopServer.js,'react-server'; 
+packages/react-noop-renderer/src/createReactNoop.js,'react-reconciler/src/ReactFiber'; 'react-reconciler/src/ReactUpdateQueue'; 'shared/ReactTypes'; 'shared/ReactRootTags'; 'scheduler/unstable_mock'; 'shared/ReactPortal'; 'shared/ReactSymbols'; 'shared/ReactRootTags'; 
+packages/react-noop-renderer/src/ReactNoopFlightClient.js,'react-client/flight'; 'react-client/flight'; 
+packages/react-noop-renderer/src/ReactNoop.js,'react-reconciler'; 'createReactNoop'; 
+packages/react-noop-renderer/src/ReactNoopFlightServer.js,'react-server/src/ReactFlightServer'; 'react-server/flight'; 
+packages/react-noop-renderer/src/ReactNoopPersistent.js,'react-reconciler'; 'createReactNoop'; 
+.prettierrc.js,
+babel.config.js,
+fixtures/flight/server/index.js,
+fixtures/flight/server/handler.js,
+fixtures/flight/src/index.js,'react'; 'react-dom'; 'react-flight-dom-webpack'; 'App'; 
+fixtures/flight/src/App.js,'react'; 
+fixtures/devtools/regression/server.js,
+fixtures/devtools/regression/shared.js,
+fixtures/ssr/server/index.js,
+fixtures/ssr/server/render.js,'react'; 'react-dom/server'; '.src/components/App'; 
+fixtures/ssr/src/index.js,'react'; 'react-dom'; 'components/App'; 
+fixtures/ssr/src/components/Chrome.js,'react'; 'Theme'; 'Chrome.css'; 
+fixtures/ssr/src/components/Page2.js,'react'; 'Theme'; 'Suspend'; 'Page.css'; 
+fixtures/ssr/src/components/Page.js,'react'; 'Theme'; 'Suspend'; 'Page.css'; 
+fixtures/ssr/src/components/Theme.js,'react'; 
+fixtures/ssr/src/components/App.js,'react'; 'Chrome'; 'Page'; 'Page2'; 'Theme'; 
+fixtures/ssr/src/components/Suspend.js,
+fixtures/attribute-behavior/src/App.test.js,'react'; 'react-dom'; 'App'; 
+fixtures/attribute-behavior/src/attributes.js,
+fixtures/attribute-behavior/src/index.js,'index.css'; 'react'; 'react-dom'; 'App'; 
+fixtures/attribute-behavior/src/App.js,'react'; eslint-disable-line 'react-virtualized'; 'react-virtualized/styles.css'; 'file-saver'; { 'attributes'; 
+fixtures/fiber-debugger/src/describeFibers.js,
+fixtures/fiber-debugger/src/index.js,'react'; 'react-dom'; 'App'; 'index.css'; 
+fixtures/fiber-debugger/src/App.js,'react'; 'react-draggable'; 'react-noop-renderer'; 'Editor'; 'Fibers'; 'describeFibers'; 
+fixtures/fiber-debugger/src/Fibers.js,'react'; 'react-motion'; 'dagre'; 'pretty-format'; 'pretty-format/plugins/ReactElement'; 
+fixtures/fiber-debugger/src/Editor.js,'react'; 
+fixtures/dom/src/toWarnDev.js,
+fixtures/dom/src/tags.js,
+fixtures/dom/src/find-dom-node.js,'react-loader'; 
+fixtures/dom/src/react-loader.js,'semver'; 
+fixtures/dom/src/index.js,'polyfills'; 'react-loader'; import('components/App')) 
+fixtures/dom/src/__tests__/wrong-act-test.js,
+fixtures/dom/src/__tests__/nested-act-test.js,
+fixtures/dom/src/components/Fixture.js,'prop-types'; 
+fixtures/dom/src/components/propTypes.js,'prop-types'; 'semver'; 
+fixtures/dom/src/components/VersionPicker.js,'.tags'; 
+fixtures/dom/src/components/fixtures/suspense/index.js,'..Fixture'; '..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/form-state/ControlledFormFixture.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/form-state/index.js,'..FixtureSet'; '..TestCase'; 'ControlledFormFixture'; 
+fixtures/dom/src/components/fixtures/buttons/index.js,'..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/number-inputs/index.js,'..FixtureSet'; '..TestCase'; 'NumberTestCase'; 'NumberInputDecimal'; 'NumberInputExtraZeroes'; 
+fixtures/dom/src/components/fixtures/number-inputs/NumberTestCase.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/number-inputs/NumberInputExtraZeroes.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/number-inputs/NumberInputDecimal.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/event-pooling/mouse-move.js,'..TestCase'; 'hit-box'; 
+fixtures/dom/src/components/fixtures/event-pooling/persistence.js,'..TestCase'; 'hit-box'; 
+fixtures/dom/src/components/fixtures/event-pooling/hit-box.js,
+fixtures/dom/src/components/fixtures/event-pooling/index.js,'..FixtureSet'; 'mouse-move'; 'persistence'; 
+fixtures/dom/src/components/fixtures/password-inputs/PasswordTestCase.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/password-inputs/index.js,'..FixtureSet'; '..TestCase'; 'PasswordTestCase'; 
+fixtures/dom/src/components/fixtures/custom-elements/index.js,'..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/media-events/index.js,'..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/input-change-events/RadioGroupFixture.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/input-change-events/RangeKeyboardFixture.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/input-change-events/InputPlaceholderFixture.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/input-change-events/index.js,'..FixtureSet'; '..TestCase'; 'RangeKeyboardFixture'; 'RadioClickFixture'; 'RadioGroupFixture'; 'RadioNameChangeFixture'; 'InputPlaceholderFixture'; 
+fixtures/dom/src/components/fixtures/input-change-events/RadioClickFixture.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/input-change-events/RadioNameChangeFixture.js,
+fixtures/dom/src/components/fixtures/range-inputs/index.js,'..FixtureSet'; 
+fixtures/dom/src/components/fixtures/selects/index.js,'..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/mouse-events/mouse-enter.js,'..TestCase'; 
+fixtures/dom/src/components/fixtures/mouse-events/index.js,'..FixtureSet'; 'mouse-movement'; 'mouse-enter'; 
+fixtures/dom/src/components/fixtures/mouse-events/mouse-movement.js,'..TestCase'; 
+fixtures/dom/src/components/fixtures/index.js,import(`.${fixturePath}`); 
+fixtures/dom/src/components/fixtures/pointer-events/hover-box.js,
+fixtures/dom/src/components/fixtures/pointer-events/drag.js,'..TestCase'; 'drag-box'; 
+fixtures/dom/src/components/fixtures/pointer-events/index.js,'..FixtureSet'; 'drag'; 'hover'; 
+fixtures/dom/src/components/fixtures/pointer-events/hover.js,'..TestCase'; 'hover-box'; 
+fixtures/dom/src/components/fixtures/pointer-events/drag-box.js,
+fixtures/dom/src/components/fixtures/selection-events/OnSelectEventTestCase.js,'..TestCase'; '..Iframe'; 
+fixtures/dom/src/components/fixtures/selection-events/index.js,'..FixtureSet'; 'ReorderedInputsTestCase'; 'OnSelectEventTestCase'; 
+fixtures/dom/src/components/fixtures/selection-events/ReorderedInputsTestCase.js,'..TestCase'; '..Iframe'; 
+fixtures/dom/src/components/fixtures/error-handling/index.js,'..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/text-inputs/InputTestCase.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/text-inputs/index.js,'..Fixture'; '..FixtureSet'; '..TestCase'; 'InputTestCase'; 'ReplaceEmailInput'; 
+fixtures/dom/src/components/fixtures/text-inputs/ReplaceEmailInput.js,'..Fixture'; 
+fixtures/dom/src/components/fixtures/textareas/index.js,'..Fixture'; '..FixtureSet'; '..TestCase'; 
+fixtures/dom/src/components/fixtures/hydration/data.js,
+fixtures/dom/src/components/fixtures/hydration/Code.js,'...find-dom-node'; import('codemirror'), import('codemirror/mode/jsx/jsx'), import('codemirror/lib/codemirror.css'), import('codemirror-paraiso-dark.css'), 
+fixtures/dom/src/components/fixtures/hydration/code-transformer.js,'core-js/es6/weak-map'; 'core-js/es6/weak-set'; 'core-js/es6/number'; 'core-js/es6/string'; 'core-js/es6/array'; 'core-js/modules/es6.object.set-prototype-of'; '@babel/standalone'; 
+fixtures/dom/src/components/fixtures/hydration/index.js,'hydration.css'; '..VersionPicker'; 'data'; 'Code'; 'code-transformer'; '...react-loader'; 'query-string'; 
+fixtures/dom/src/components/fixtures/date-inputs/switch-date-test-case.js,
+fixtures/dom/src/components/fixtures/date-inputs/index.js,'..Fixture'; '..FixtureSet'; '..TestCase'; 'switch-date-test-case'; 
+fixtures/dom/src/components/fixtures/home.js,
+fixtures/dom/src/components/Header.js,'query-string'; 'VersionPicker'; 
+fixtures/dom/src/components/IssueList.js,
+fixtures/dom/src/components/App.js,'Header'; 'fixtures'; '.style.css'; 
+fixtures/dom/src/components/Iframe.js,
+fixtures/dom/src/components/TestCase.js,'classnames'; 'semver'; 'prop-types'; 'IssueList'; 'query-string'; 'propTypes'; 
+fixtures/dom/src/components/FixtureSet.js,'prop-types'; 
+fixtures/dom/src/polyfills.js,'core-js/es6/symbol'; 'core-js/es6/promise'; 'core-js/es6/set'; 'core-js/es6/map'; 
+fixtures/dom/public/renderer.js,
+fixtures/tracing/script.js,
+fixtures/tracing/test.js,
+fixtures/packaging/webpack/prod/config.js,
+fixtures/packaging/webpack/prod/input.js,
+fixtures/packaging/webpack/dev/config.js,
+fixtures/packaging/webpack/dev/input.js,
+fixtures/packaging/systemjs-builder/prod/build.js,
+fixtures/packaging/systemjs-builder/prod/config.js,
+fixtures/packaging/systemjs-builder/prod/input.js,'react'; 'react-dom'; 
+fixtures/packaging/systemjs-builder/dev/build.js,
+fixtures/packaging/systemjs-builder/dev/config.js,
+fixtures/packaging/systemjs-builder/dev/input.js,'react'; 'react-dom'; 
+fixtures/packaging/webpack-alias/prod/config.js,
+fixtures/packaging/webpack-alias/prod/input.js,
+fixtures/packaging/webpack-alias/dev/config.js,
+fixtures/packaging/webpack-alias/dev/input.js,
+fixtures/packaging/browserify/prod/input.js,
+fixtures/packaging/browserify/dev/input.js,
+fixtures/packaging/build-all.js,
+fixtures/packaging/rjs/prod/config.js,
+fixtures/packaging/rjs/prod/input.js,
+fixtures/packaging/rjs/dev/config.js,
+fixtures/packaging/rjs/dev/input.js,
+fixtures/packaging/brunch/prod/app/initialize.js,
+fixtures/packaging/brunch/prod/config.js,
+fixtures/packaging/brunch/prod/input.js,
+fixtures/packaging/brunch/dev/app/initialize.js,
+fixtures/packaging/brunch/dev/config.js,
+fixtures/packaging/brunch/dev/input.js,
+fixtures/expiration/src/index.js,
+fixtures/art/app.js,
+fixtures/art/VectorWidget.js,
+fixtures/art/webpack.config.js,
+fixtures/concurrent/time-slicing/src/Clock.js,'react'; 
+fixtures/concurrent/time-slicing/src/Charts.js,'react'; { 
+fixtures/concurrent/time-slicing/src/index.js,'react'; 'react-dom'; 'scheduler'; 'lodash'; 'Charts'; 'Clock'; 'index.css'; 
+fixtures/eslint/proxy/index.js,
+fixtures/eslint/index.js,
+dangerfile.js,
+scripts/yarn/downloadReactIsForPrettyFormat.js,
+scripts/jest/config.build.js,
+scripts/jest/config.source.js,
+scripts/jest/typescript/preprocessor.js,
+scripts/jest/typescript/jest.d.ts,
+scripts/jest/config.source-www.js,
+scripts/jest/spec-equivalence-reporter/setupTests.js,
+scripts/jest/setupTests.www.js,
+scripts/jest/config.build-devtools.js,
+scripts/jest/setupTests.build.js,
+scripts/jest/dont-run-jest-directly.js,
+scripts/jest/preprocessor.js,
+scripts/jest/config.source-persistent.js,
+scripts/jest/matchers/toWarnDev.js,
+scripts/jest/matchers/schedulerTestMatchers.js,
+scripts/jest/matchers/profilerMatchers.js,
+scripts/jest/matchers/interactionTracingMatchers.js,
+scripts/jest/matchers/reactTestMatchers.js,
+scripts/jest/matchers/__tests__/toWarnDev-test.js,
+scripts/jest/setupEnvironment.js,
+scripts/jest/shouldIgnoreConsoleError.js,
+scripts/jest/config.base.js,
+scripts/jest/setupTests.persistent.js,
+scripts/jest/setupHostConfigs.js,inside 
+scripts/jest/noHaste.js,
+scripts/jest/setupTests.js,
+scripts/perf-counters/index.js,
+scripts/perf-counters/src/hardware-counter.h, thread-local.h   cstdint   memory   vector  
+scripts/perf-counters/src/perf-counters.cpp, node.h   hardware-counter.h  
+scripts/perf-counters/src/jsc-perf.cpp, errno.h   stdlib.h   string.h   fstream   iostream   string   JavaScriptCore/JavaScript.h   hardware-counter.h  
+scripts/perf-counters/src/thread-local.h, assert.h   stdio.h   stdlib.h   stdint.h   pthread.h   errno.h   stdexcept   type_traits   utility   portability.h  
+scripts/perf-counters/src/portability.h,can  sys/param.h  include 
+scripts/perf-counters/src/thread-local.cpp, thread-local.h   link.h   asm/prctl.h   sys/prctl.h  
+scripts/perf-counters/src/hardware-counter.cpp, hardware-counter.h   stdio.h   stdlib.h   string.h   unistd.h   fcntl.h   errno.h   assert.h   sys/mman.h   sys/ioctl.h   asm/unistd.h   sys/prctl.h   linux/perf_event.h  
+scripts/rollup/build.js,+ 
+scripts/rollup/sync.js,
+scripts/rollup/validate/eslintrc.rn.js,
+scripts/rollup/validate/eslintrc.fb.js,
+scripts/rollup/validate/index.js,
+scripts/rollup/validate/eslintrc.cjs.js,
+scripts/rollup/validate/eslintrc.umd.js,
+scripts/rollup/shims/facebook-www/findDOMNode.js,
+scripts/rollup/shims/facebook-www/ReactBrowserEventEmitter_DO_NOT_USE.js,
+scripts/rollup/shims/facebook-www/renderSubtreeIntoContainer_DO_NOT_USE.js,
+scripts/rollup/shims/react-native/ReactFeatureFlags.js,
+scripts/rollup/shims/react-native/ReactFabric.js,'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'ReactNativeTypes'; 
+scripts/rollup/shims/react-native/ReactNative.js,'ReactNativeTypes'; 
+scripts/rollup/shims/react-native/createReactNativeComponentClass.js,'react-native/Libraries/ReactPrivate/ReactNativePrivateInterface'; 'ReactNativeTypes'; 
+scripts/rollup/shims/react-native/ReactNativeViewConfigRegistry.js,{ 
+scripts/rollup/modules.js,lets 
+scripts/rollup/bundles.js,
+scripts/rollup/stats.js,
+scripts/rollup/utils.js,
+scripts/rollup/consolidateBundleSizes.js,
+scripts/rollup/plugins/closure-plugin.js,
+scripts/rollup/plugins/strip-unused-imports.js,
+scripts/rollup/plugins/use-forks-plugin.js,
+scripts/rollup/plugins/sizes-plugin.js,
+scripts/rollup/forks.js,
+scripts/rollup/wrappers.js,
+scripts/rollup/packaging.js,
+scripts/prettier/index.js,
+scripts/babel/transform-object-assign-require.js,
+scripts/babel/transform-prevent-infinite-loops.js,
+scripts/babel/__tests__/transform-prevent-infinite-loops-test.js,
+scripts/babel/transform-replace-console-calls.js,
+scripts/eslint-rules/no-production-logging.js,
+scripts/eslint-rules/no-primitive-constructors.js,
+scripts/eslint-rules/index.js,
+scripts/eslint-rules/invariant-args.js,
+scripts/eslint-rules/__tests__/no-primitive-constructors-test.internal.js,
+scripts/eslint-rules/__tests__/no-to-warn-dev-within-to-throw-test.internal.js,
+scripts/eslint-rules/__tests__/no-production-logging-test.internal.js,
+scripts/eslint-rules/__tests__/warning-args-test.internal.js,
+scripts/eslint-rules/__tests__/invariant-args-test.internal.js,
+scripts/eslint-rules/no-to-warn-dev-within-to-throw.js,
+scripts/eslint-rules/warning-args.js,
+scripts/shared/evalToString.js,
+scripts/shared/pathsByLanguageVersion.js,
+scripts/shared/__tests__/evalToString-test.js,
+scripts/shared/listChangedFiles.js,
+scripts/shared/inlinedHostConfigs.js,
+scripts/tasks/linc.js,
+scripts/tasks/eslint.js,
+scripts/tasks/version-check.js,
+scripts/tasks/danger.js,
+scripts/tasks/flow.js,
+scripts/tasks/flow-ci.js,
+scripts/flow/react-native-host-hooks.js,{ 'legacy-events/TopLevelEventTypes'; 'react-reconciler/src/ReactCapturedValue'; 
+scripts/flow/createFlowConfigs.js,
+scripts/flow/react-relay-hooks.js,
+scripts/flow/environment.js,
+scripts/flow/react-devtools.js,
+scripts/flow/runFlow.js,
+scripts/print-warnings/print-warnings.js,as 
+scripts/eslint/index.js,
+scripts/error-codes/invertObject.js,*/ 
+scripts/error-codes/transform-error-messages.js,
+scripts/error-codes/Types.js,
+scripts/error-codes/extract-errors.js,as 
+scripts/error-codes/__tests__/invertObject-test.js,
+scripts/error-codes/__tests__/transform-error-messages.js,'shared/invariant'; 'shared/invariant'; 'shared/invariant'; 'shared/invariant'; 'shared/invariant'; 'shared/invariant'; 'shared/invariant'; 
+scripts/bench/build.js,
+scripts/bench/server.js,
+scripts/bench/stats.js,
+scripts/bench/benchmarks/pe-class-components/build.js,
+scripts/bench/benchmarks/pe-class-components/benchmark.js,
+scripts/bench/benchmarks/hacker-news/build.js,
+scripts/bench/benchmarks/hacker-news/generate.js,
+scripts/bench/benchmarks/hacker-news/top-stories.js,
+scripts/bench/benchmarks/hacker-news/benchmark.js,
+scripts/bench/benchmarks/pe-no-components/build.js,
+scripts/bench/benchmarks/pe-no-components/benchmark.js,
+scripts/bench/benchmarks/pe-functional-components/build.js,
+scripts/bench/benchmarks/pe-functional-components/benchmark.js,
+scripts/bench/runner.js,
+scripts/bench/benchmark.js,
+scripts/release/publish-commands/update-stable-version-numbers.js,
+scripts/release/publish-commands/download-error-codes-from-ci.js,
+scripts/release/publish-commands/validate-skip-packages.js,
+scripts/release/publish-commands/validate-tags.js,
+scripts/release/publish-commands/check-npm-permissions.js,
+scripts/release/publish-commands/parse-params.js,
+scripts/release/publish-commands/publish-to-npm.js,
+scripts/release/publish-commands/prompt-for-otp.js,
+scripts/release/publish-commands/confirm-version-and-tags.js,
+scripts/release/publish-commands/confirm-skipped-packages.js,
+scripts/release/publish-commands/print-follow-up-instructions.js,
+scripts/release/ci-update-package-versions.js,
+scripts/release/prepare-stable-commands/update-stable-version-numbers.js,
+scripts/release/prepare-stable-commands/guess-stable-version-numbers.js,
+scripts/release/prepare-stable-commands/parse-params.js,
+scripts/release/prepare-stable-commands/confirm-stable-version-numbers.js,
+scripts/release/prepare-stable-commands/get-latest-next-version.js,
+scripts/release/prepare-stable-commands/check-out-packages.js,
+scripts/release/ci-add-build-info-json.js,
+scripts/release/theme.js,
+scripts/release/download-experimental-build.js,
+scripts/release/shared-commands/print-prerelease-summary.js,
+scripts/release/shared-commands/test-packaging-fixture.js,
+scripts/release/shared-commands/parse-params.js,
+scripts/release/shared-commands/download-build-artifacts.js,
+scripts/release/shared-commands/check-environment-variables.js,
+scripts/release/shared-commands/test-tracing-fixture.js,
+scripts/release/shared-commands/get-latest-master-build-number.js,
+scripts/release/prepare-stable.js,
+scripts/release/snapshot-test.js,
+scripts/release/utils.js,
+scripts/release/create-next-commands/build-artifacts.js,
+scripts/release/create-next-commands/copy-repo-to-temp-directory.js,
+scripts/release/create-next-commands/npm-pack-and-unpack.js,
+scripts/release/create-next-commands/confirm-automated-testing.js,
+scripts/release/create-next-commands/update-version-numbers.js,
+scripts/release/create-next-commands/add-build-info-json.js,
+scripts/release/create-next.js,
+scripts/release/publish.js,
+scripts/release/download-experimental-build-commands/print-summary.js,
+scripts/release/prepare-next.js,
+.eslintrc.js,

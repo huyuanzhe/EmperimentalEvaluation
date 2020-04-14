@@ -1,0 +1,91 @@
+{"3760": []}
+{"5923": [["chulian1819", 1.0], ["gkalpak", 0.7526315789473683], ["Narretz", 0.5526315789473684], ["thorn0", 0.25263157894736843], ["googlebot", 0.2], ["petebacondarwin", 0.05263157894736842]]}
+{"12524": [["Narretz", 6.8999999999999995], ["jbedard", 4.75], ["gkalpak", 3.85], ["petebacondarwin", 1.25], ["mgol", 1.0], ["hieutranagi47", 1.0], ["edmorley", 0.5], ["thorn0", 0.2], ["googlebot", 0.03333333333333333]]}
+{"14833": [["Narretz", 1.0], ["gkalpak", 1.0]]}
+{"15799": [["Narretz", 6.299310776942356], ["gkalpak", 3.280263157894737], ["jbedard", 3.125], ["petebacondarwin", 2.0159774436090228], ["mgol", 1.3409090909090908], ["wyrfel", 1.0], ["hieutranagi47", 1.0], ["googlebot", 0.9357142857142857], ["thorn0", 0.5052631578947369], ["ashclarke", 0.5], ["alirezamirian", 0.2857142857142857], ["edmorley", 0.25], ["moshere", 0.1]]}
+{"16053": []}
+{"16471": [["gkalpak", 1.0], ["googlebot", 0.3333333333333333]]}
+{"16506": [["Narretz", 3.862155388471178], ["petebacondarwin", 2.945488721804511], ["jbedard", 2.7], ["mgol", 2.106060606060606], ["thorn0", 1.0526315789473684], ["gkalpak", 0.9359649122807018], ["googlebot", 0.8428571428571427], ["wyrfel", 0.5], ["sod", 0.5], ["ashclarke", 0.25], ["alirezamirian", 0.14285714285714285]]}
+{"16606": [["googlebot", 1.4], ["jbedard", 1.4], ["gkalpak", 0.5052631578947369], ["mgol", 0.18181818181818182], ["Narretz", 0.10526315789473684], ["thorn0", 0.10526315789473684], ["petebacondarwin", 0.10526315789473684]]}
+{"16645": [["Narretz", 2.5], ["mgol", 1.6742424242424243], ["petebacondarwin", 1.0833333333333333], ["thorn0", 1.0], ["jbedard", 0.75], ["gkalpak", 0.5833333333333333], ["googlebot", 0.25]]}
+{"16667": [["gkalpak", 1.5], ["googlebot", 1.0333333333333334], ["hoeni", 1.0], ["Narretz", 0.5333333333333333]]}
+{"16680": [["Narretz", 1.0], ["gkalpak", 1.0], ["Splaktar", 1.0]]}
+{"16681": [["Narretz", 1.9523809523809526], ["googlebot", 1.1666666666666665], ["swuttich", 1.0], ["gkalpak", 0.2857142857142857]]}
+{"16682": []}
+{"16684": []}
+{"16688": [["Narretz", 1.0], ["mgol", 0.25], ["googlebot", 0.03333333333333333]]}
+{"16699": [["Narretz", 0.25]]}
+{"16700": [["Narretz", 2.6121553884711775], ["petebacondarwin", 0.7788220551378446], ["gkalpak", 0.5526315789473684], ["wyrfel", 0.5], ["googlebot", 0.39285714285714285], ["ashclarke", 0.25], ["alirezamirian", 0.14285714285714285], ["mgol", 0.09090909090909091], ["thorn0", 0.05263157894736842]]}
+{"16704": [["googlebot", 2.0], ["gkalpak", 2.0], ["jknepfle", 1.0], ["Narretz", 1.0]]}
+{"16706": [["Narretz", 1.0], ["sibiraj-s", 0.5], ["gkalpak", 0.5], ["googlebot", 0.03333333333333333]]}
+{"16709": []}
+{"16713": [["Narretz", 1.419298245614035], ["gkalpak", 1.2859649122807015], ["thorn0", 1.2026315789473685], ["googlebot", 0.7333333333333334], ["susisu", 0.3333333333333333], ["petebacondarwin", 0.3026315789473684], ["edmorley", 0.25], ["jbedard", 0.2], ["mgol", 0.09090909090909091]]}
+{"16714": [["googlebot", 1.4], ["petebacondarwin", 1.0], ["Narretz", 0.95], ["moshere", 0.1]]}
+{"16715": [["Narretz", 0.3333333333333333], ["gkalpak", 0.3333333333333333]]}
+{"16730": []}
+{"16735": [["Narretz", 5.167710944026734], ["gkalpak", 2.3859649122807016], ["googlebot", 2.2261904761904763], ["petebacondarwin", 1.2788220551378446], ["wyrfel", 0.5], ["m-amr", 0.5], ["mgol", 0.31313131313131315], ["ashclarke", 0.25], ["alirezamirian", 0.14285714285714285], ["thorn0", 0.05263157894736842]]}
+{"16737": [["Narretz", 1.9583333333333333], ["jbedard", 1.625], ["gkalpak", 1.375], ["petebacondarwin", 0.625], ["edmorley", 0.25], ["moshere", 0.1]]}
+{"16740": []}
+{"16742": []}
+{"16743": [["Narretz", 3.727777777777778], ["mgol", 2.4044011544011545], ["thorn0", 2.0], ["googlebot", 1.9023809523809523], ["petebacondarwin", 1.5833333333333333], ["jbedard", 1.0357142857142856], ["gkalpak", 0.5833333333333333], ["moshere", 0.1]]}
+{"16745": [["googlebot", 1.0], ["frederikprijck", 1.0], ["Narretz", 1.0]]}
+{"16746": [["googlebot", 2.0], ["frederikprijck", 1.0], ["Narretz", 1.0], ["hbrotan", 1.0]]}
+{"16749": [["Narretz", 2.033333333333333], ["gkalpak", 2.0], ["googlebot", 1.0333333333333334], ["hoeni", 1.0]]}
+{"16750": [["Narretz", 2.033333333333333], ["googlebot", 2.033333333333333], ["gkalpak", 2.0], ["hoeni", 1.0]]}
+{"16751": [["Narretz", 2.0], ["googlebot", 1.0333333333333334], ["sibiraj-s", 0.5], ["gkalpak", 0.5]]}
+{"16752": [["googlebot", 4.619047619047619], ["gkalpak", 3.0], ["Narretz", 2.0555555555555554], ["jknepfle", 1.0], ["oalbacha", 1.0], ["mgol", 0.5079365079365079], ["petebacondarwin", 0.5], ["jbedard", 0.2857142857142857]]}
+{"16753": [["gkalpak", 5.066666666666666], ["googlebot", 4.0], ["jknepfle", 1.0], ["Narretz", 1.0], ["oalbacha", 1.0], ["joej164", 1.0]]}
+{"16756": [["Narretz", 8.463888888888889], ["jbedard", 5.160714285714286], ["gkalpak", 4.375000000000001], ["petebacondarwin", 2.125], ["googlebot", 1.869047619047619], ["mgol", 1.507936507936508], ["hieutranagi47", 1.0], ["edmorley", 0.5], ["fbrandel", 0.25], ["thorn0", 0.2], ["moshere", 0.2]]}
+{"16757": [["Narretz", 3.5138888888888884], ["jbedard", 2.9384920634920637], ["gkalpak", 2.802777777777778], ["petebacondarwin", 2.4027777777777777], ["googlebot", 1.869047619047619], ["mgol", 0.5079365079365079], ["edmorley", 0.25], ["fbrandel", 0.25], ["moshere", 0.1]]}
+{"16762": [["Narretz", 2.0], ["gkalpak", 2.0], ["Splaktar", 1.0]]}
+{"16763": [["Narretz", 3.117710944026733], ["googlebot", 2.6095238095238096], ["gkalpak", 2.5026315789473683], ["petebacondarwin", 1.4454887218045114], ["hoeni", 1.0], ["ghost", 0.5], ["wyrfel", 0.5], ["mgol", 0.4722222222222222], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["alirezamirian", 0.14285714285714285], ["moshere", 0.1]]}
+{"16764": [["Narretz", 3.1666666666666665], ["mgol", 2.015151515151515], ["thorn0", 2.0], ["petebacondarwin", 1.3333333333333333], ["jbedard", 1.0], ["gkalpak", 0.8333333333333333], ["googlebot", 0.25]]}
+{"16767": [["gkalpak", 1.1], ["googlebot", 1.0], ["joej164", 1.0]]}
+{"16768": [["googlebot", 2.0], ["joej164", 2.0], ["gkalpak", 1.1]]}
+{"16774": [["gkalpak", 0.43333333333333335]]}
+{"16775": [["googlebot", 0.25], ["fbrandel", 0.25], ["petebacondarwin", 0.25], ["Narretz", 0.25]]}
+{"16777": [["googlebot", 1.0], ["john-mantas", 1.0], ["gkalpak", 1.0], ["mgol", 0.3333333333333333]]}
+{"16779": [["Narretz", 7.283333333333333], ["jbedard", 5.097222222222222], ["gkalpak", 4.072222222222223], ["petebacondarwin", 1.7222222222222223], ["mgol", 1.0], ["hieutranagi47", 1.0], ["edmorley", 0.5], ["googlebot", 0.25], ["fbrandel", 0.25], ["thorn0", 0.2], ["moshere", 0.2]]}
+{"16780": [["googlebot", 10.595238095238095], ["Narretz", 9.220091896407686], ["petebacondarwin", 5.703425229741019], ["gkalpak", 5.474853801169591], ["mgol", 2.7222222222222223], ["hbrotan", 2.0], ["hoeni", 1.0], ["ghost", 1.0], ["sibiraj-s", 1.0], ["matthew-manuel", 1.0], ["frederikprijck", 1.0], ["jbedard", 0.7222222222222222], ["wyrfel", 0.5], ["FRSgit", 0.5], ["alirezamirian", 0.42857142857142855], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["peacecwz", 0.16666666666666666], ["moshere", 0.1]]}
+{"16781": []}
+{"16789": []}
+{"16793": [["googlebot", 1.619047619047619], ["Narretz", 1.0555555555555556], ["jbedard", 0.7579365079365079], ["petebacondarwin", 0.7222222222222223], ["gkalpak", 0.6222222222222222], ["mgol", 0.5079365079365079]]}
+{"16798": [["Narretz", 5.2], ["jbedard", 3.5972222222222223], ["gkalpak", 3.3222222222222224], ["mgol", 1.5], ["hieutranagi47", 1.0], ["petebacondarwin", 0.9722222222222223], ["edmorley", 0.25], ["thorn0", 0.2], ["moshere", 0.1]]}
+{"16806": [["Narretz", 2.75], ["mgol", 1.619047619047619], ["googlebot", 1.619047619047619], ["jbedard", 0.7579365079365079], ["petebacondarwin", 0.7222222222222223], ["gkalpak", 0.6222222222222222]]}
+{"16808": []}
+{"16810": [["gkalpak", 3.0], ["Narretz", 2.0], ["Splaktar", 1.0], ["googlebot", 1.0], ["Eblax", 1.0]]}
+{"16812": [["Narretz", 6.0], ["gkalpak", 2.583333333333333], ["thorn0", 2.0], ["mgol", 1.817099567099567], ["petebacondarwin", 1.4166666666666665], ["jbedard", 0.8928571428571428], ["googlebot", 0.8928571428571428], ["reda-alaoui", 0.5], ["m-amr", 0.5]]}
+{"16813": [["Narretz", 7.3510442773600655], ["googlebot", 5.776190476190475], ["gkalpak", 5.002631578947368], ["petebacondarwin", 1.4454887218045114], ["hoeni", 1.0], ["frederikprijck", 1.0], ["ghost", 0.5], ["sibiraj-s", 0.5], ["wyrfel", 0.5], ["mgol", 0.4722222222222222], ["peacecwz", 0.26666666666666666], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["alirezamirian", 0.14285714285714285], ["moshere", 0.1]]}
+{"16815": []}
+{"16823": [["Narretz", 5.075], ["jbedard", 3.736111111111111], ["gkalpak", 3.0861111111111112], ["mgol", 1.5], ["hieutranagi47", 1.0], ["petebacondarwin", 0.7361111111111112], ["edmorley", 0.25], ["thorn0", 0.2], ["moshere", 0.1]]}
+{"16831": []}
+{"16833": [["Narretz", 1.0], ["kambleaa007", 1.0]]}
+{"16835": []}
+{"16836": [["codymikol", 1.0], ["Narretz", 1.0]]}
+{"16837": []}
+{"16838": [["codymikol", 0.5], ["Narretz", 0.5], ["kambleaa007", 0.5]]}
+{"16839": [["Narretz", 0.7], ["thorn0", 0.2], ["gkalpak", 0.1]]}
+{"16840": []}
+{"16842": [["googlebot", 11.76190476190476], ["Narretz", 9.253425229741019], ["petebacondarwin", 5.703425229741019], ["gkalpak", 5.474853801169591], ["hbrotan", 2.0], ["mgol", 1.7222222222222223], ["hoeni", 1.0], ["ghost", 1.0], ["sibiraj-s", 1.0], ["matthew-manuel", 1.0], ["bkiselka", 1.0], ["frederikprijck", 1.0], ["jbedard", 0.7222222222222222], ["wyrfel", 0.5], ["FRSgit", 0.5], ["alirezamirian", 0.42857142857142855], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["peacecwz", 0.19999999999999998], ["moshere", 0.1]]}
+{"16843": [["kambleaa007", 2.0], ["Narretz", 1.0], ["googlebot", 1.0], ["petebacondarwin", 1.0], ["gkalpak", 1.0]]}
+{"16844": [["Narretz", 1.5], ["codymikol", 0.5], ["kambleaa007", 0.5]]}
+{"16845": [["Narretz", 1.5], ["petebacondarwin", 1.0], ["codymikol", 0.5], ["kambleaa007", 0.5]]}
+{"16846": [["petebacondarwin", 3.0], ["Narretz", 2.5], ["kambleaa007", 2.5], ["googlebot", 2.0], ["gkalpak", 1.0], ["codymikol", 0.5]]}
+{"16847": [["kambleaa007", 2.5], ["googlebot", 2.0], ["gkalpak", 1.5], ["Narretz", 1.0], ["petebacondarwin", 1.0]]}
+{"16848": [["kambleaa007", 3.5], ["googlebot", 2.0], ["gkalpak", 1.5], ["Narretz", 1.0], ["petebacondarwin", 1.0]]}
+{"16849": [["kambleaa007", 4.5], ["gkalpak", 2.5], ["googlebot", 2.0], ["Narretz", 1.0], ["petebacondarwin", 1.0]]}
+{"16850": [["kambleaa007", 4.5], ["gkalpak", 3.5], ["googlebot", 2.0], ["Narretz", 1.0], ["petebacondarwin", 1.0]]}
+{"16851": [["kambleaa007", 4.5], ["gkalpak", 4.5], ["googlebot", 2.0], ["Narretz", 1.0], ["petebacondarwin", 1.0]]}
+{"16852": [["gkalpak", 6.0], ["kambleaa007", 5.5], ["petebacondarwin", 3.0], ["Narretz", 2.5], ["googlebot", 2.0], ["codymikol", 0.5]]}
+{"16854": [["Narretz", 0.19999999999999998], ["googlebot", 0.03333333333333333]]}
+{"16857": [["googlebot", 0.03333333333333333]]}
+{"16875": []}
+{"16876": [["gkalpak", 1.0], ["googlebot", 0.5666666666666667], ["petebacondarwin", 0.5333333333333333], ["Narretz", 0.5], ["ghost", 0.5], ["kambleaa007", 0.03333333333333333]]}
+{"16878": [["googlebot", 10.228571428571424], ["Narretz", 7.986758563074353], ["petebacondarwin", 7.103425229741019], ["gkalpak", 5.47485380116959], ["mgol", 1.7222222222222223], ["hoeni", 1.0], ["askhalil", 1.0], ["sibiraj-s", 1.0], ["matthew-manuel", 1.0], ["kambleaa007", 0.8999999999999999], ["jbedard", 0.7222222222222222], ["ghost", 0.5], ["wyrfel", 0.5], ["FRSgit", 0.5], ["alirezamirian", 0.42857142857142855], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["peacecwz", 0.2333333333333333], ["moshere", 0.1]]}
+{"16879": [["Narretz", 0.34444444444444444], ["googlebot", 0.19999999999999998], ["mgol", 0.1111111111111111], ["moshere", 0.1], ["peacecwz", 0.03333333333333333], ["petebacondarwin", 0.03333333333333333], ["kambleaa007", 0.03333333333333333]]}
+{"16880": []}
+{"16885": [["Narretz", 7.3510442773600655], ["googlebot", 7.176190476190475], ["gkalpak", 5.002631578947368], ["petebacondarwin", 2.645488721804511], ["ghatwala", 1.0], ["hoeni", 1.0], ["frederikprijck", 1.0], ["ghost", 0.5], ["sibiraj-s", 0.5], ["wyrfel", 0.5], ["mgol", 0.4722222222222222], ["peacecwz", 0.26666666666666666], ["thorn0", 0.25263157894736843], ["ashclarke", 0.25], ["kambleaa007", 0.19999999999999998], ["alirezamirian", 0.14285714285714285], ["moshere", 0.1]]}
+{"16889": []}
+{"16893": []}
+{"16896": []}
+0.004998

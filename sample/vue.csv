@@ -1,0 +1,451 @@
+packages/vue-server-renderer/server-plugin.d.ts,'types/plugin'; 
+packages/vue-server-renderer/types/plugin.d.ts,'webpack'; 
+packages/vue-server-renderer/types/index.d.ts,'vue'; 'stream'; 
+packages/vue-server-renderer/client-plugin.d.ts,'types/plugin'; 
+packages/vue-server-renderer/basic.js,+ 
+packages/vue-server-renderer/build.prod.js,i=c.renderToStream(n,e);i.on("error",function(e){ko(e,o),t.emit("error",e)}),r&&r.template&&(i.on("beforeStart",function(){t.emit("beforeStart")}),i.on("beforeEnd",function(){t.emit("beforeEnd")})),i.pipe(t)}}),t}}}}(Po);exports.createRenderer=Po,exports.createBundleRenderer=Eo; 
+packages/vue-server-renderer/index.js,
+packages/vue-server-renderer/build.dev.js,+ 
+packages/vue-server-renderer/server-plugin.js,
+packages/vue-server-renderer/client-plugin.js,
+packages/weex-template-compiler/build.js,+ 'core/util/index' 
+packages/weex-template-compiler/index.js,
+packages/weex-vue-framework/factory.js,
+packages/weex-vue-framework/index.js,
+packages/vue-template-compiler/build.js,+ 
+packages/vue-template-compiler/types/test.ts,"vue"; { 
+packages/vue-template-compiler/types/index.d.ts,"vue" 
+packages/vue-template-compiler/browser.js,+ 
+packages/vue-template-compiler/index.js,
+dist/vue.js,+ 
+dist/vue.common.dev.js,+ 
+dist/vue.runtime.common.dev.js,
+dist/vue.esm.browser.js,+ 
+dist/vue.runtime.min.js,
+dist/vue.runtime.esm.js,
+dist/vue.runtime.common.prod.js,
+dist/vue.common.js,
+dist/vue.esm.browser.min.js,yn; 
+dist/vue.min.js,cs.call(this,e,t)},wn.compile=rs,wn}); 
+dist/vue.esm.js,+ 
+dist/vue.runtime.common.js,
+dist/vue.runtime.js,
+dist/vue.common.prod.js,cs.call(this,e,t)},wn.compile=rs,module.exports=wn; 
+types/umd.d.ts,"index"; { 
+types/options.d.ts,"vue"; "vnode"; 
+types/plugin.d.ts,"vue"; 
+types/test/plugin-test.ts,".index"; ".index"; 
+types/test/umd-test.ts,
+types/test/options-test.ts,".index"; ".index"; ".vue"; import('es-module')) 
+types/test/ssr-test.ts,'.index'; require('..packages/vue-server-renderer/client-plugin'); require('..packages/vue-server-renderer/server-plugin'); require('webpack'); 'fs'; '..packages/vue-server-renderer'; 
+types/test/vue-test.ts,".index"; ".options"; 
+types/test/es-module.ts,
+types/test/augmentation-test.ts,".index"; 
+types/vnode.d.ts,"vue"; 
+types/vue.d.ts,{ "vnode"; "plugin"; 
+types/index.d.ts,"vue"; "umd"; 
+test/e2e/specs/markdown.js,
+test/e2e/specs/async-edge-cases.js,
+test/e2e/specs/grid.js,
+test/e2e/specs/basic-ssr.js,
+test/e2e/specs/select2.js,
+test/e2e/specs/modal.js,
+test/e2e/specs/svg.js,
+test/e2e/specs/todomvc.js,
+test/e2e/specs/tree.js,
+test/e2e/specs/commits.js,
+test/e2e/nightwatch.config.js,
+test/e2e/runner.js,
+test/ssr/ssr-basic-renderer.spec.js,'..dist/vue.runtime.common.js' '..packages/vue-server-renderer/basic' 
+test/ssr/ssr-stream.spec.js,'..dist/vue.runtime.common.js' '..packages/vue-server-renderer' 
+test/ssr/jasmine.js,
+test/ssr/async-loader.js,
+test/ssr/fixtures/async-bar.js,
+test/ssr/fixtures/split.js,'...dist/vue.runtime.common.js' import('async-foo') eslint-disable-line 
+test/ssr/fixtures/cache.js,'...dist/vue.runtime.common.js' 
+test/ssr/fixtures/error.js,
+test/ssr/fixtures/app.js,'...dist/vue.runtime.common.js' 
+test/ssr/fixtures/cache-opt-out.js,'...dist/vue.runtime.common.js' 
+test/ssr/fixtures/async-foo.js,font 'test.css' 'test.woff2' 'test.png' 
+test/ssr/fixtures/nested-cache.js,'...dist/vue.runtime.common.js' 
+test/ssr/fixtures/promise-rejection.js,
+test/ssr/ssr-bundle-render.spec.js,'lru-cache' 'compile-with-webpack' '..packages/vue-server-renderer' '..packages/vue-server-renderer/server-plugin' 
+test/ssr/compile-with-webpack.js,'path' 'webpack' 'memory-fs' 
+test/ssr/ssr-template.spec.js,'..dist/vue.runtime.common.js' 'compile-with-webpack' '..packages/vue-server-renderer' '..packages/vue-server-renderer/client-plugin' 'ssr-bundle-render.spec.js' 
+test/ssr/ssr-string.spec.js,'..dist/vue.runtime.common.js' 'vm' '..packages/vue-server-renderer' 
+test/unit/karma.unit.config.js,
+test/unit/karma.dev.config.js,
+test/unit/karma.cover.config.js,
+test/unit/index.js,helpers 
+test/unit/modules/observer/scheduler.spec.js,'vue' { 
+test/unit/modules/observer/dep.spec.js,'core/observer/dep' 
+test/unit/modules/observer/watcher.spec.js,'vue' 'core/observer/watcher' 
+test/unit/modules/observer/observer.spec.js,'vue' { 'core/observer/dep' 'core/util/index' 
+test/unit/modules/sfc/sfc-parser.spec.js,'sfc/parser' 
+test/unit/modules/server-compiler/compiler-options.spec.js,'web/server/compiler' 
+test/unit/modules/server-compiler/optimizer.spec.js,
+test/unit/modules/compiler/codegen.spec.js,'compiler/parser/index' 'compiler/optimizer' 'compiler/codegen' 'shared/util' 'web/util/index' 'web/compiler/options' 
+test/unit/modules/compiler/parser.spec.js,'compiler/parser/index' 'shared/util' 'web/compiler/options' 'core/util/env' 
+test/unit/modules/compiler/compiler-options.spec.js,'vue' 'web/compiler' 'compiler/helpers' 
+test/unit/modules/compiler/codeframe.spec.js,'compiler/codeframe' 
+test/unit/modules/compiler/optimizer.spec.js,'compiler/parser/index' 'shared/util' 'compiler/optimizer' 'web/compiler/options' 
+test/unit/modules/util/error.spec.js,'vue' 'core/util/error' 
+test/unit/modules/util/next-tick.spec.js,'core/util/next-tick' 
+test/unit/modules/vdom/create-component.spec.js,'vue' 'core/vdom/create-component' 'core/instance/render' 
+test/unit/modules/vdom/create-element.spec.js,'vue' 'core/vdom/vnode' 
+test/unit/modules/vdom/patch/edge-cases.spec.js,'vue' 
+test/unit/modules/vdom/patch/hooks.spec.js,'web/runtime/patch' 'core/vdom/patch' 'core/vdom/modules/index' 'web/runtime/node-ops' 'web/runtime/modules/index' 'core/vdom/vnode' 
+test/unit/modules/vdom/patch/hydration.spec.js,'vue' 'core/vdom/vnode' 'web/runtime/patch' 'shared/constants' 
+test/unit/modules/vdom/patch/children.spec.js,'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/patch/element.spec.js,'vue' 'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/modules/attrs.spec.js,'vue' 'web/runtime/patch' 'core/vdom/vnode' 'web/util/index' 
+test/unit/modules/vdom/modules/style.spec.js,'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/modules/class.spec.js,'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/modules/events.spec.js,'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/modules/dom-props.spec.js,'vue' 'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/modules/vdom/modules/directive.spec.js,'vue' 'web/runtime/patch' 'core/vdom/vnode' 
+test/unit/features/transition/transition-mode.spec.js,'vue' 'inject-styles' 'core/util/env' 'web/runtime/transition-util' 
+test/unit/features/transition/transition-group.spec.js,'vue' 'inject-styles' 'core/util/env' 'web/runtime/transition-util' 
+test/unit/features/transition/inject-styles.js,
+test/unit/features/transition/transition.spec.js,'vue' 'inject-styles' 'core/util/env' 'web/runtime/transition-util' 
+test/unit/features/debug.spec.js,'vue' 'core/util/debug' 
+test/unit/features/component/component.spec.js,'vue' 
+test/unit/features/component/component-keep-alive.spec.js,'vue' '.transition/inject-styles' 'core/util/env' 'web/runtime/transition-util' 
+test/unit/features/component/component-slot.spec.js,'vue' 
+test/unit/features/component/component-scoped-slot.spec.js,'vue' 
+test/unit/features/component/component-async.spec.js,'vue' 'es6-promise' 
+test/unit/features/filter/filter.spec.js,'vue' 'compiler/parser/filter-parser' 
+test/unit/features/global-api/set-delete.spec.js,'vue' 
+test/unit/features/global-api/mixin.spec.js,'vue' 
+test/unit/features/global-api/assets.spec.js,'vue' 
+test/unit/features/global-api/config.spec.js,'vue' 'core/util/debug' 
+test/unit/features/global-api/extend.spec.js,'vue' 
+test/unit/features/global-api/compile.spec.js,'vue' 
+test/unit/features/global-api/use.spec.js,'vue' 
+test/unit/features/global-api/observable.spec.js,'vue' 
+test/unit/features/instance/properties.spec.js,'vue' 
+test/unit/features/instance/init.spec.js,'vue' 
+test/unit/features/instance/methods-lifecycle.spec.js,'vue' 'core/observer/dep' 
+test/unit/features/instance/methods-data.spec.js,'vue' 
+test/unit/features/instance/methods-events.spec.js,'vue' 
+test/unit/features/instance/render-proxy.spec.js,'vue' 
+test/unit/features/directives/model-dynamic.spec.js,'vue' 
+test/unit/features/directives/text.spec.js,'vue' 
+test/unit/features/directives/model-checkbox.spec.js,'vue' 
+test/unit/features/directives/style.spec.js,'vue' 
+test/unit/features/directives/show.spec.js,'vue' 
+test/unit/features/directives/html.spec.js,'vue' 
+test/unit/features/directives/model-parse.spec.js,'compiler/directives/model' 
+test/unit/features/directives/model-file.spec.js,'vue' 
+test/unit/features/directives/model-component.spec.js,'vue' 
+test/unit/features/directives/pre.spec.js,'vue' 
+test/unit/features/directives/cloak.spec.js,'vue' 
+test/unit/features/directives/class.spec.js,'vue' 
+test/unit/features/directives/model-text.spec.js,'vue' 'core/util/env' 
+test/unit/features/directives/on.spec.js,'vue' 'core/util/env' 
+test/unit/features/directives/model-select.spec.js,'vue' 'shared/util' 
+test/unit/features/directives/model-radio.spec.js,'vue' 
+test/unit/features/directives/static-style-parser.spec.js,'web/util/style' 
+test/unit/features/directives/once.spec.js,'vue' 
+test/unit/features/directives/for.spec.js,'vue' 'core/util/env' 
+test/unit/features/directives/bind.spec.js,'vue' 
+test/unit/features/directives/if.spec.js,'vue' 
+test/unit/features/ref.spec.js,'vue' 
+test/unit/features/error-handling.spec.js,'vue' 
+test/unit/features/options/el.spec.js,'vue' 
+test/unit/features/options/props.spec.js,'vue' 'core/util/env' '...helpers/test-object-option' 
+test/unit/features/options/mixins.spec.js,'vue' 'core/util/index' 
+test/unit/features/options/methods.spec.js,'vue' '...helpers/test-object-option' 
+test/unit/features/options/propsData.spec.js,'vue' 
+test/unit/features/options/functional.spec.js,'vue' 'core/vdom/vnode' 
+test/unit/features/options/renderError.spec.js,'vue' 
+test/unit/features/options/watch.spec.js,'vue' '...helpers/test-object-option' 'stream'; 
+test/unit/features/options/computed.spec.js,'vue' '...helpers/test-object-option' 
+test/unit/features/options/errorCaptured.spec.js,'vue' 
+test/unit/features/options/parent.spec.js,'vue' 
+test/unit/features/options/components.spec.js,'vue' 'core/util/env' '...helpers/test-object-option' 
+test/unit/features/options/comments.spec.js,'vue' 
+test/unit/features/options/inject.spec.js,'vue' 'core/observer/index' 'core/util/index' '...helpers/test-object-option' 
+test/unit/features/options/_scopeId.spec.js,'vue' 
+test/unit/features/options/template.spec.js,'vue' 
+test/unit/features/options/name.spec.js,'vue' 
+test/unit/features/options/delimiters.spec.js,'vue' 
+test/unit/features/options/render.spec.js,'vue' 
+test/unit/features/options/extends.spec.js,'vue' 'core/util/env' 
+test/unit/features/options/lifecycle.spec.js,'vue' 
+test/unit/features/options/directives.spec.js,'vue' 
+test/unit/features/options/data.spec.js,'vue' 
+test/unit/features/options/inheritAttrs.spec.js,'vue' 
+test/unit/karma.base.config.js,
+test/unit/karma.sauce.config.js,
+test/helpers/to-have-been-warned.js,
+test/helpers/classlist.js,
+test/helpers/test-object-option.js,'vue' 
+test/helpers/to-equal.js,'lodash' 
+test/helpers/vdom.js,'core/vdom/vnode' 
+test/helpers/trigger-event.js,
+test/helpers/wait-for-update.js,'vue' 
+test/weex/jasmine.js,
+test/weex/compiler/props.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/compiler/style.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/compiler/parser.spec.js,'...src/platforms/weex/util/parser' 
+test/weex/compiler/append.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/compiler/class.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/compiler/compile.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/compiler/v-model.spec.js,'...packages/weex-template-compiler' '.helpers/index' 
+test/weex/helpers/index.js,'fs' 'path' '...packages/weex-vue-framework' '...packages/weex-template-compiler' 'weex-js-runtime' 'weex-styler' 
+test/weex/cases/cases.spec.js,{ 
+test/weex/cases/recycle-list/v-for-iterator.vdom.js,
+test/weex/cases/recycle-list/inline-style.vdom.js,
+test/weex/cases/recycle-list/attrs.vdom.js,
+test/weex/cases/recycle-list/v-on.vdom.js,
+test/weex/cases/recycle-list/text-node.vdom.js,
+test/weex/cases/recycle-list/classname.vdom.js,
+test/weex/cases/recycle-list/v-if.vdom.js,
+test/weex/cases/recycle-list/v-else-if.vdom.js,
+test/weex/cases/recycle-list/v-else.vdom.js,
+test/weex/cases/recycle-list/components/stateless-with-props.vdom.js,
+test/weex/cases/recycle-list/components/stateful.vdom.js,
+test/weex/cases/recycle-list/components/stateful-lifecycle.vdom.js,
+test/weex/cases/recycle-list/components/stateless-multi-components.vdom.js,
+test/weex/cases/recycle-list/components/stateless.vdom.js,
+test/weex/cases/recycle-list/components/stateful-v-model.vdom.js,
+test/weex/cases/recycle-list/v-once.vdom.js,
+test/weex/cases/recycle-list/v-on-inline.vdom.js,
+test/weex/cases/recycle-list/v-for.vdom.js,
+test/weex/cases/render/sample.vdom.js,
+test/weex/cases/render/class.vdom.js,
+test/weex/cases/event/click.before.vdom.js,
+test/weex/cases/event/click.after.vdom.js,
+test/weex/runtime/attrs.spec.js,'.helpers/index' 
+test/weex/runtime/style.spec.js,'.helpers/index' 
+test/weex/runtime/framework.spec.js,'.helpers/index' 
+test/weex/runtime/class.spec.js,'.helpers/index' 
+test/weex/runtime/events.spec.js,'.helpers/index' 
+test/weex/runtime/components/richtext.spec.js,{ 
+test/weex/runtime/node.spec.js,{ 
+.babelrc.js,require('@babel/plugin-syntax-dynamic-import') 
+benchmarks/dbmon/lib/monitor.js,
+benchmarks/dbmon/lib/memory-stats.js,
+benchmarks/dbmon/app.js,
+benchmarks/dbmon/ENV.js,
+benchmarks/ssr/renderToString.js,
+benchmarks/ssr/common.js,
+benchmarks/ssr/renderToStream.js,
+flow/global-api.js,
+flow/modules.js,
+flow/vnode.js,
+flow/options.js,
+flow/weex.js,
+flow/compiler.js,
+flow/component.js,'.src/core/config' '.src/core/vdom/vnode' '.src/core/observer/watcher' 
+flow/ssr.js,
+scripts/build.js,
+scripts/gen-release-note.js,
+scripts/verify-commit-msg.js,
+scripts/config.js,browser) browser) 
+scripts/alias.js,
+scripts/feature-flags.js,
+scripts/get-weex-version.js,
+examples/firebase/app.js,
+examples/commits/app.js,
+examples/commits/mock.js,
+examples/todomvc/app.js,
+examples/svg/svg.js,
+examples/tree/tree.js,
+examples/grid/grid.js,
+.eslintrc.js,
+src/core/observer/array.js,'.util/index' 
+src/core/observer/dep.js,'watcher' '.util/index' '.config' 
+src/core/observer/watcher.js,{ 'traverse' 'scheduler' 'dep' '.util/index' 
+src/core/observer/index.js,'dep' '.vdom/vnode' 'array' { 
+src/core/observer/traverse.js,'.util/index' '.util/index' '.vdom/vnode' 
+src/core/observer/scheduler.js,'watcher' '.config' '.instance/lifecycle' { 
+src/core/global-api/use.js,'.util/index' 
+src/core/global-api/index.js,'.config' 'use' 'mixin' 'extend' 'assets' '.observer/index' 'shared/constants' '.components/index' 'core/observer/index' { 
+src/core/global-api/extend.js,'shared/constants' '.instance/state' '.util/index' 
+src/core/global-api/mixin.js,'.util/index' 
+src/core/global-api/assets.js,'shared/constants' '.util/index' 
+src/core/instance/proxy.js,'core/config' '.util/index' 
+src/core/instance/render-helpers/check-keycodes.js,'core/config' 'shared/util' 
+src/core/instance/render-helpers/render-slot.js,'core/util/index' 
+src/core/instance/render-helpers/render-list.js,'core/util/index' 
+src/core/instance/render-helpers/bind-dynamic-keys.js,'core/util/debug' 
+src/core/instance/render-helpers/resolve-scoped-slots.js,
+src/core/instance/render-helpers/resolve-slots.js,'core/vdom/vnode' 
+src/core/instance/render-helpers/index.js,'shared/util' 'core/vdom/vnode' 'render-list' 'render-slot' 'resolve-filter' 'check-keycodes' 'bind-object-props' 'render-static' 'bind-object-listeners' 'resolve-scoped-slots' 'bind-dynamic-keys' 
+src/core/instance/render-helpers/resolve-filter.js,'core/util/index' 
+src/core/instance/render-helpers/bind-object-listeners.js,'core/util/index' 
+src/core/instance/render-helpers/bind-object-props.js,'core/config' { 
+src/core/instance/render-helpers/render-static.js,
+src/core/instance/init.js,'.config' 'proxy' 'state' 'render' 'events' '.util/perf' 'lifecycle' 'inject' '.util/index' 
+src/core/instance/index.js,'init' 'state' 'render' 'events' 'lifecycle' '.util/index' 
+src/core/instance/render.js,{ '.vdom/create-element' 'render-helpers/index' 'render-helpers/resolve-slots' '.vdom/helpers/normalize-scoped-slots' '.vdom/vnode' 'lifecycle' 
+src/core/instance/events.js,{ '.vdom/helpers/index' 
+src/core/instance/state.js,'.config' '.observer/watcher' '.observer/dep' 'lifecycle' { { 
+src/core/instance/lifecycle.js,'.config' '.observer/watcher' '.util/perf' '.vdom/vnode' 'events' 'render-helpers/resolve-slots' '.observer/index' '.observer/dep' { 
+src/core/instance/inject.js,'shared/util' '.util/index' '.observer/index' 
+src/core/config.js,{ 'shared/constants' 
+src/core/index.js,'instance/index' 'global-api/index' 'core/util/env' 'core/vdom/create-functional-component' 
+src/core/util/error.js,'.config' 'debug' 'env' 'shared/util' '.observer/dep' 
+src/core/util/props.js,'debug' '.observer/index' { 
+src/core/util/options.js,'.config' 'debug' '.observer/index' 'lang' 'env' { { 
+src/core/util/lang.js,
+src/core/util/index.js,
+src/core/util/perf.js,'env' 
+src/core/util/debug.js,'.config' 'shared/util' 
+src/core/util/env.js,
+src/core/util/next-tick.js,'shared/util' 'error' 'env' 
+src/core/components/index.js,'keep-alive' 
+src/core/components/keep-alive.js,'shared/util' 'core/vdom/helpers/index' 
+src/core/vdom/create-element.js,'.config' 'vnode' 'create-component' '.observer/traverse' { { 
+src/core/vdom/vnode.js,
+src/core/vdom/patch.js,'vnode' '.config' 'shared/constants' 'modules/ref' '.observer/traverse' '.instance/lifecycle' 'web/util/element' { 
+src/core/vdom/modules/directives.js,'core/vdom/patch' 'core/util/index' 'core/vdom/helpers/index' 
+src/core/vdom/modules/index.js,'directives' 'ref' 
+src/core/vdom/modules/ref.js,'shared/util' 
+src/core/vdom/helpers/is-async-placeholder.js,
+src/core/vdom/helpers/resolve-async-component.js,{ 'core/vdom/vnode' 'core/instance/render' 
+src/core/vdom/helpers/normalize-children.js,'core/vdom/vnode' 'shared/util' 
+src/core/vdom/helpers/update-listeners.js,{ { 
+src/core/vdom/helpers/index.js,
+src/core/vdom/helpers/extract-props.js,{ 
+src/core/vdom/helpers/normalize-scoped-slots.js,'core/util/lang' 'core/vdom/helpers/normalize-children' 'shared/util' 
+src/core/vdom/helpers/get-first-component-child.js,'shared/util' 'is-async-placeholder' 
+src/core/vdom/helpers/merge-hook.js,'.vnode' 'update-listeners' 'shared/util' 
+src/core/vdom/create-component.js,'vnode' 'core/instance/init' 'core/observer/scheduler' 'create-functional-component' { { { { 
+src/core/vdom/create-functional-component.js,'vnode' 'create-element' '.instance/inject' '.vdom/helpers/normalize-children' '.instance/render-helpers/resolve-slots' '.vdom/helpers/normalize-scoped-slots' '.instance/render-helpers/index' { 
+src/sfc/parser.js,'de-indent' 'compiler/parser/html-parser' 'shared/util' 
+src/platforms/web/entry-server-basic-renderer.js,'server/modules/index' 'server/directives/index' 'compiler/util' 'server/create-basic-renderer' 
+src/platforms/web/entry-runtime-with-compiler.js,'core/config' 'core/util/index' 'core/util/perf' 'runtime/index' 'util/index' 'compiler/index' 'util/compat' 
+src/platforms/web/entry-compiler.js,
+src/platforms/web/server/directives/model.js,'shared/util' 
+src/platforms/web/server/directives/index.js,'show' 'model' 
+src/platforms/web/server/directives/show.js,
+src/platforms/web/server/util.js,'shared/util' 
+src/platforms/web/server/modules/dom-props.js,'core/vdom/vnode' 'attrs' 'shared/util' '.util' 
+src/platforms/web/server/modules/class.js,'.util' 'web/util/index' 
+src/platforms/web/server/modules/attrs.js,'.util' { { 'web/server/util' 
+src/platforms/web/server/modules/index.js,'attrs' 'dom-props' 'class' 'style' 
+src/platforms/web/server/modules/style.js,'.util' 'shared/util' 'web/util/style' 
+src/platforms/web/server/compiler.js,'.compiler/options' 'server/optimizing-compiler/index' 
+src/platforms/web/entry-runtime.js,'runtime/index' 
+src/platforms/web/compiler/options.js,{ 'modules/index' 'directives/index' 'shared/util' 'util' 
+src/platforms/web/compiler/directives/model.js,'core/config' 'compiler/helpers' 'compiler/directives/model' 
+src/platforms/web/compiler/directives/index.js,'model' 'text' 'html' 
+src/platforms/web/compiler/directives/text.js,'compiler/helpers' 
+src/platforms/web/compiler/directives/html.js,'compiler/helpers' 
+src/platforms/web/compiler/util.js,'shared/util' 
+src/platforms/web/compiler/index.js,'options' 'compiler/index' 
+src/platforms/web/compiler/modules/class.js,'compiler/parser/text-parser' { 
+src/platforms/web/compiler/modules/model.js,{ { 
+src/platforms/web/compiler/modules/index.js,'class' 'style' 'model' 
+src/platforms/web/compiler/modules/style.js,'compiler/parser/text-parser' 'web/util/style' { 
+src/platforms/web/util/class.js,'shared/util' 
+src/platforms/web/util/attrs.js,'shared/util' 
+src/platforms/web/util/element.js,'core/util/env' 'shared/util' 
+src/platforms/web/util/index.js,'core/util/index' 
+src/platforms/web/util/style.js,'shared/util' 
+src/platforms/web/util/compat.js,'core/util/index' 
+src/platforms/web/entry-server-renderer.js,'shared/util' 'server/modules/index' 'server/directives/index' 'compiler/util' 'server/create-renderer' 'server/bundle-renderer/create-bundle-renderer' 
+src/platforms/web/runtime/class-util.js,
+src/platforms/web/runtime/transition-util.js,'core/util/index' 'class-util' 'shared/util' 
+src/platforms/web/runtime/directives/model.js,'web/util/element' 'shared/util' 'core/vdom/helpers/index' 'core/util/index' 
+src/platforms/web/runtime/directives/index.js,'model' 'show' 
+src/platforms/web/runtime/directives/show.js,'.modules/transition' 
+src/platforms/web/runtime/index.js,'core/index' 'core/config' 'shared/util' 'core/instance/lifecycle' 'core/util/index' { 'patch' 'directives/index' 'components/index' 
+src/platforms/web/runtime/patch.js,'web/runtime/node-ops' 'core/vdom/patch' 'core/vdom/modules/index' 'web/runtime/modules/index' 
+src/platforms/web/runtime/modules/dom-props.js,'shared/util' 'web/util/index' 
+src/platforms/web/runtime/modules/class.js,{ { 
+src/platforms/web/runtime/modules/attrs.js,'core/util/env' { { 
+src/platforms/web/runtime/modules/index.js,'attrs' 'class' 'events' 'dom-props' 'style' 'transition' 
+src/platforms/web/runtime/modules/style.js,'web/util/style' 'shared/util' 
+src/platforms/web/runtime/modules/events.js,'shared/util' 'core/vdom/helpers/index' 'core/util/index' 'web/compiler/directives/model' 'core/observer/scheduler' 
+src/platforms/web/runtime/modules/transition.js,'core/util/index' 'core/vdom/helpers/index' 'core/instance/lifecycle' { { 
+src/platforms/web/runtime/node-ops.js,'web/util/index' 
+src/platforms/web/runtime/components/transition-group.js,'core/util/index' '.class-util' 'transition' 'core/instance/lifecycle' { 
+src/platforms/web/runtime/components/index.js,'transition' 'transition-group' 
+src/platforms/web/runtime/components/transition.js,'core/util/index' 'shared/util' { 
+src/platforms/weex/entry-compiler.js,
+src/platforms/weex/entry-runtime-factory.js,'runtime/index' 
+src/platforms/weex/compiler/directives/model.js,'compiler/helpers' 'compiler/directives/model' 
+src/platforms/weex/compiler/directives/index.js,'model' 
+src/platforms/weex/compiler/index.js,'shared/util' 'compiler/index' 'modules/index' 'directives/index' { 
+src/platforms/weex/compiler/modules/class.js,'compiler/parser/text-parser' { 
+src/platforms/weex/compiler/modules/props.js,'shared/util' 
+src/platforms/weex/compiler/modules/recycle-list/v-on.js,
+src/platforms/weex/compiler/modules/recycle-list/recycle-list.js,'compiler/parser/index' 'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/v-if.js,'compiler/parser/index' 'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/component-root.js,'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/index.js,'recycle-list' 'component' 'component-root' 'text' 'v-bind' 'v-if' 'v-for' 'v-on' 'v-once' 
+src/platforms/weex/compiler/modules/recycle-list/component.js,'compiler/helpers' 'weex/util/index' 
+src/platforms/weex/compiler/modules/recycle-list/v-for.js,'compiler/parser/index' 'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/text.js,'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/v-once.js,'compiler/helpers' 
+src/platforms/weex/compiler/modules/recycle-list/v-bind.js,'shared/util' 'weex/util/parser' 'compiler/parser/index' 'compiler/helpers' 
+src/platforms/weex/compiler/modules/index.js,'class' 'style' 'props' 'append' 'recycle-list/index' 
+src/platforms/weex/compiler/modules/style.js,'shared/util' 'compiler/parser/text-parser' { 
+src/platforms/weex/compiler/modules/append.js,'shared/util' 
+src/platforms/weex/util/parser.js,'core/util/index' 
+src/platforms/weex/util/element.js,'shared/util' 
+src/platforms/weex/util/index.js,'core/util/index' 
+src/platforms/weex/entry-framework.js,
+src/platforms/weex/runtime/directives/index.js,
+src/platforms/weex/runtime/recycle-list/render-component-template.js,'core/util/debug' 'core/util/error' 'weex/util/index' 'core/vdom/create-component' 'virtual-component' 
+src/platforms/weex/runtime/recycle-list/virtual-component.js,'core/util/index' 'core/observer/watcher' 'core/instance/proxy' 'core/instance/state' 'core/instance/render' 'core/instance/events' 'core/instance/inject' 'core/instance/lifecycle' 'core/instance/init' '..util/index' 
+src/platforms/weex/runtime/text-node.js,
+src/platforms/weex/runtime/index.js,'core/index' 'weex/runtime/patch' 'core/instance/lifecycle' 'weex/runtime/directives/index' 'weex/runtime/components/index' { 
+src/platforms/weex/runtime/patch.js,'weex/runtime/node-ops' 'core/vdom/patch' 'core/vdom/modules/index' 'weex/runtime/modules/index' 
+src/platforms/weex/runtime/modules/class.js,'shared/util' 
+src/platforms/weex/runtime/modules/attrs.js,'shared/util' 
+src/platforms/weex/runtime/modules/index.js,'attrs' 'class' 'events' 'style' 'transition' 
+src/platforms/weex/runtime/modules/style.js,'shared/util' 
+src/platforms/weex/runtime/modules/events.js,'core/vdom/helpers/update-listeners' 
+src/platforms/weex/runtime/modules/transition.js,'core/util/debug' 'shared/util' 'core/instance/lifecycle' 'web/runtime/transition-util' 
+src/platforms/weex/runtime/node-ops.js,'weex/runtime/text-node' 
+src/platforms/weex/runtime/components/richtext.js,
+src/platforms/weex/runtime/components/transition-group.js,'core/util/index' 'transition' 
+src/platforms/weex/runtime/components/index.js,'richtext' 'transition' 'transition-group' 
+src/platforms/weex/runtime/components/transition.js,'web/runtime/components/transition' 
+src/server/create-basic-renderer.js,'write' 'render' 'create-renderer' 
+src/server/bundle-renderer/create-bundle-renderer.js,'.util' 'create-bundle-runner' '.create-renderer' 'source-map-support' 
+src/server/bundle-renderer/create-bundle-runner.js,'shared/util' 
+src/server/bundle-renderer/source-map-support.js,
+src/server/optimizing-compiler/runtime-helpers.js,'web/server/util' 'shared/util' 'web/server/modules/attrs' 'web/util/class' 'web/server/modules/style' 'web/util/style' { { 
+src/server/optimizing-compiler/modules.js,{ { { 'codegen' 'compiler/codegen/index' 
+src/server/optimizing-compiler/optimizer.js,'shared/util' 
+src/server/optimizing-compiler/index.js,'compiler/parser/index' 'codegen' 'optimizer' 'compiler/create-compiler' 
+src/server/optimizing-compiler/codegen.js,{ { 'web/server/util' 'optimizer' 'compiler/codegen/index' 
+src/server/util.js,
+src/server/template-renderer/parse-template.js,
+src/server/template-renderer/template-stream.js,'index' 'parse-template' 
+src/server/template-renderer/create-async-file-mapper.js,'index' 
+src/server/template-renderer/index.js,'.util' 'template-stream' 'parse-template' 'create-async-file-mapper' 'parse-template' 'create-async-file-mapper' 
+src/server/webpack-plugin/server.js,'util' 
+src/server/webpack-plugin/util.js,
+src/server/webpack-plugin/client.js,'util' 
+src/server/render.js,'web/server/util' 'shared/constants' 'render-context' 'core/util/options' 'core/util/debug' 'web/server/compiler' 'optimizing-compiler/runtime-helpers' 'shared/util' { 
+src/server/render-context.js,'shared/util' 
+src/server/write.js,
+src/server/render-stream.js,'shared/util' 'write' 
+src/server/create-renderer.js,'render-stream' 'write' 'render' 'util' 'template-renderer/index' 'template-renderer/index' 
+src/compiler/codegen/index.js,'events' '.directives/index' 'shared/util' '.helpers' '.parser/index' 
+src/compiler/codegen/events.js,
+src/compiler/parser/entity-decoder.js,
+src/compiler/parser/filter-parser.js,
+src/compiler/parser/html-parser.js,'shared/util' 'web/compiler/util' 'core/util/lang' 
+src/compiler/parser/index.js,'he' 'html-parser' 'text-parser' 'filter-parser' '.directives/model' 'shared/util' 'core/util/env' { 
+src/compiler/parser/text-parser.js,'shared/util' 'filter-parser' 
+src/compiler/directives/model.js,
+src/compiler/directives/index.js,'on' 'bind' 'shared/util' 
+src/compiler/directives/bind.js,
+src/compiler/directives/on.js,'core/util/index' 
+src/compiler/optimizer.js,'shared/util' 
+src/compiler/index.js,'parser/index' 'optimizer' 'codegen/index' 'create-compiler' 
+src/compiler/error-detector.js,'parser/index' + 
+src/compiler/helpers.js,'shared/util' 'parser/filter-parser' 
+src/compiler/create-compiler.js,'shared/util' 'error-detector' 'to-function' 
+src/compiler/codeframe.js,
+src/compiler/to-function.js,'shared/util' 'core/util/debug' 'codeframe' 
+src/shared/constants.js,
+src/shared/util.js,

@@ -1,0 +1,1895 @@
+build/three.js,
+build/three.min.js,
+build/three.module.js,
+test/e2e/deterministic-injection.js,
+test/e2e/puppeteer.js,
+test/e2e/clean-page.js,
+test/three.example.unit.js,'unit/qunit-utils.js'; 'unit/example/utils/BufferGeometryUtils.tests'; 'unit/example/exporters/GLTFExporter.tests'; 'unit/example/loaders/GLTFLoader.tests'; 'unit/example/objects/Lensflare.tests'; 
+test/unit/qunit-utils.js,'SmartComparer'; '..src/loaders/ObjectLoader'; 
+test/unit/editor/Menubar.File.tests.js,'...editor/js/Menubar.File'; 
+test/unit/editor/Sidebar.Geometry.TeapotBufferGeometry.tests.js,'...editor/js/Sidebar.Geometry.TeapotBufferGeometry'; 
+test/unit/editor/History.tests.js,'...editor/js/History'; 
+test/unit/editor/Command.tests.js,'...editor/js/Command'; 
+test/unit/editor/Sidebar.Project.tests.js,'...editor/js/Sidebar.Project'; 
+test/unit/editor/Menubar.Edit.tests.js,'...editor/js/Menubar.Edit'; 
+test/unit/editor/Toolbar.tests.js,'...editor/js/Toolbar'; 
+test/unit/editor/Sidebar.Geometry.BoxGeometry.tests.js,'...editor/js/Sidebar.Geometry.BoxGeometry'; 
+test/unit/editor/Config.tests.js,'...editor/js/Config'; 
+test/unit/editor/Sidebar.Properties.tests.js,'...editor/js/Sidebar.Properties'; 
+test/unit/editor/Sidebar.Geometry.Geometry.tests.js,'...editor/js/Sidebar.Geometry'; 
+test/unit/editor/Sidebar.Geometry.SphereGeometry.tests.js,'...editor/js/Sidebar.Geometry.SphereGeometry'; 
+test/unit/editor/Sidebar.Animation.tests.js,'...editor/js/Sidebar.Animation'; 
+test/unit/editor/Sidebar.Geometry.LatheGeometry.tests.js,'...editor/js/Sidebar.Geometry.LatheGeometry'; 
+test/unit/editor/Sidebar.Material.tests.js,'...editor/js/Sidebar.Material'; 
+test/unit/editor/Sidebar.Geometry.PlaneGeometry.tests.js,'...editor/js/Sidebar.Geometry.PlaneGeometry'; 
+test/unit/editor/Menubar.Examples.tests.js,'...editor/js/Menubar.Examples'; 
+test/unit/editor/Sidebar.Geometry.TorusGeometry.tests.js,'...editor/js/Sidebar.Geometry.TorusGeometry'; 
+test/unit/editor/Menubar.Help.tests.js,'...editor/js/Menubar.Help'; 
+test/unit/editor/Sidebar.Scene.tests.js,'...editor/js/Sidebar.Scene'; 
+test/unit/editor/Sidebar.Geometry.CircleGeometry.tests.js,'...editor/js/Sidebar.Geometry.CircleGeometry'; 
+test/unit/editor/commands/SetPositionCommand.tests.js,'....editor/js/commands/SetPositionCommand'; 
+test/unit/editor/commands/AddScriptCommand.tests.js,'....editor/js/commands/AddScriptCommand'; 
+test/unit/editor/commands/AddObjectCommand.tests.js,'....editor/js/commands/AddObjectCommand'; 
+test/unit/editor/commands/SetColorCommand.tests.js,'....editor/js/commands/SetColorCommand'; 
+test/unit/editor/commands/SetScriptValueCommand.tests.js,'....editor/js/commands/SetScriptValueCommand'; 
+test/unit/editor/commands/SetMaterialMapCommand.tests.js,'....editor/js/commands/SetMaterialMapCommand'; 
+test/unit/editor/commands/SetMaterialColorCommand.tests.js,'....editor/js/commands/SetMaterialColorCommand'; 
+test/unit/editor/commands/SetMaterialValueCommand.tests.js,'....editor/js/commands/SetMaterialValueCommand'; 
+test/unit/editor/commands/SetScaleCommand.tests.js,'....editor/js/commands/SetScaleCommand'; 
+test/unit/editor/commands/SetRotationCommand.tests.js,'....editor/js/commands/SetRotationCommand'; 
+test/unit/editor/commands/SetValueCommand.tests.js,'....editor/js/commands/SetValueCommand'; 
+test/unit/editor/commands/RemoveScriptCommand.tests.js,'....editor/js/commands/RemoveScriptCommand'; 
+test/unit/editor/commands/RemoveObjectCommand.tests.js,'....editor/js/commands/RemoveObjectCommand'; 
+test/unit/editor/commands/SetGeometryValueCommand.tests.js,'....editor/js/commands/SetGeometryValueCommand'; 
+test/unit/editor/commands/SetSceneCommand.tests.js,'....editor/js/commands/SetSceneCommand'; 
+test/unit/editor/commands/SetMaterialCommand.tests.js,'....editor/js/commands/SetMaterialCommand'; 
+test/unit/editor/commands/MultiCmdsCommand.tests.js,'....editor/js/commands/MultiCmdsCommand'; 
+test/unit/editor/commands/SetUuidCommand.tests.js,'....editor/js/commands/SetUuidCommand'; 
+test/unit/editor/commands/SetGeometryCommand.tests.js,'....editor/js/commands/SetGeometryCommand'; 
+test/unit/editor/commands/MoveObjectCommand.tests.js,'....editor/js/commands/MoveObjectCommand'; 
+test/unit/editor/CommonUtilities.js,
+test/unit/editor/Menubar.Play.tests.js,'...editor/js/Menubar.Play'; 
+test/unit/editor/Sidebar.Geometry.TorusKnotGeometry.tests.js,'...editor/js/Sidebar.Geometry.TorusKnotGeometry'; 
+test/unit/editor/Sidebar.Settings.tests.js,'...editor/js/Sidebar.Settings'; 
+test/unit/editor/Sidebar.Geometry.tests.js,'...editor/js/Sidebar.Geometry'; 
+test/unit/editor/Sidebar.tests.js,'...editor/js/Sidebar'; 
+test/unit/editor/Viewport.Info.tests.js,'...editor/js/Viewport.Info'; 
+test/unit/editor/Sidebar.Geometry.IcosahedronGeometry.tests.js,'...editor/js/Sidebar.Geometry.IcosahedronGeometry'; 
+test/unit/editor/Loader.tests.js,'...editor/js/Loader'; 
+test/unit/editor/Sidebar.History.tests.js,'...editor/js/Sidebar.History'; 
+test/unit/editor/Sidebar.Script.tests.js,'...editor/js/Sidebar.Script'; 
+test/unit/editor/Viewport.tests.js,'...editor/js/Viewport'; 
+test/unit/editor/Menubar.tests.js,'...editor/js/Menubar'; 
+test/unit/editor/Menubar.Status.tests.js,'...editor/js/Menubar.Status'; 
+test/unit/editor/Menubar.View.tests.js,'...editor/js/Menubar.View'; 
+test/unit/editor/Sidebar.Geometry.Modifiers.tests.js,'...editor/js/Sidebar.Geometry.Modifiers'; 
+test/unit/editor/Menubar.Add.tests.js,'...editor/js/Menubar.Add'; 
+test/unit/editor/Sidebar.Object.tests.js,'...editor/js/Sidebar.Object'; 
+test/unit/editor/old_to_convert/SetPositionCommand.tests.js,
+test/unit/editor/old_to_convert/AddScriptCommand.tests.js,
+test/unit/editor/old_to_convert/SetColorCommand.tests.js,
+test/unit/editor/old_to_convert/SetScriptValueCommand.tests.js,
+test/unit/editor/old_to_convert/SetMaterialMapCommand.tests.js,
+test/unit/editor/old_to_convert/SetMaterialColorCommand.tests.js,
+test/unit/editor/old_to_convert/SetMaterialValueCommand.tests.js,
+test/unit/editor/old_to_convert/AddObjectCommandAndRemoveObjectCommand.tests.js,
+test/unit/editor/old_to_convert/SetScaleCommand.tests.js,
+test/unit/editor/old_to_convert/SetRotationCommand.tests.js,
+test/unit/editor/old_to_convert/SetValueCommand.tests.js,
+test/unit/editor/old_to_convert/Serialization.tests.js,
+test/unit/editor/old_to_convert/MassUndoAndRedo.tests.js,
+test/unit/editor/old_to_convert/RemoveScriptCommand.tests.js,
+test/unit/editor/old_to_convert/NestedDoUndoRedo.tests.js,
+test/unit/editor/old_to_convert/SetGeometryValueCommand.tests.js,
+test/unit/editor/old_to_convert/SetSceneCommand.tests.js,
+test/unit/editor/old_to_convert/SetMaterialCommand.tests.js,
+test/unit/editor/old_to_convert/MultiCmdsCommand.tests.js,
+test/unit/editor/old_to_convert/SetUuidCommand.tests.js,
+test/unit/editor/old_to_convert/SetGeometryCommand.tests.js,
+test/unit/editor/old_to_convert/NegativeCases.tests.js,
+test/unit/editor/old_to_convert/MoveObjectCommand.tests.js,
+test/unit/editor/Script.tests.js,'...editor/js/Script'; 
+test/unit/editor/Storage.tests.js,'...editor/js/Storage'; 
+test/unit/editor/Editor.tests.js,'...editor/js/Editor'; 
+test/unit/editor/Sidebar.Geometry.CylinderGeometry.tests.js,'...editor/js/Sidebar.Geometry.CylinderGeometry'; 
+test/unit/editor/Player.tests.js,'...editor/js/Player'; 
+test/unit/editor/Sidebar.Geometry.BufferGeometry.tests.js,'...editor/js/Sidebar.Geometry.BufferGeometry'; 
+test/unit/example/objects/Lensflare.tests.js,'....examples/jsm/objects/Lensflare'; 
+test/unit/example/exporters/GLTFExporter.tests.js,'....examples/jsm/exporters/GLTFExporter'; '....src/animation/AnimationClip'; '....src/geometries/BoxGeometry'; '....src/core/BufferAttribute'; '....src/core/BufferGeometry'; '....src/objects/Mesh'; '....src/materials/MeshBasicMaterial'; '....src/materials/MeshStandardMaterial'; '....src/core/Object3D'; '....src/animation/tracks/NumberKeyframeTrack'; '....src/scenes/Scene'; '....src/animation/tracks/VectorKeyframeTrack'; { 
+test/unit/example/utils/BufferGeometryUtils.tests.js,'....examples/jsm/utils/BufferGeometryUtils'; '....src/core/BufferAttribute'; '....src/core/BufferGeometry'; '....src/constants'; 
+test/unit/example/loaders/GLTFLoader.tests.js,'....examples/jsm/exporters/GLTFExporter'; '....examples/jsm/loaders/GLTFLoader'; '....src/animation/AnimationClip'; '....src/core/BufferAttribute'; '....src/core/BufferGeometry'; '....src/objects/Mesh'; '....src/materials/MeshStandardMaterial'; '....src/core/Object3D'; '....src/scenes/Scene'; '....src/animation/tracks/VectorKeyframeTrack'; 
+test/unit/SmartComparer.js,
+test/unit/src/core/InterleavedBufferAttribute.tests.js,'....src/core/InterleavedBuffer'; '....src/core/InterleavedBufferAttribute'; 
+test/unit/src/core/InstancedBufferAttribute.tests.js,'....src/core/InstancedBufferAttribute'; 
+test/unit/src/core/Geometry.tests.js,'....src/core/Geometry'; '....src/core/BufferAttribute'; '....src/core/BufferGeometry'; '....src/geometries/BoxGeometry'; '....src/geometries/DodecahedronGeometry'; '....src/math/Vector3'; '....src/math/Matrix4'; '....src/core/Face3'; { 
+test/unit/src/core/DirectGeometry.tests.js,'....src/core/DirectGeometry'; '....src/math/Vector2'; '....src/math/Vector3'; '....src/math/Vector4'; '....src/math/Color'; '....src/core/Face3'; '....src/core/Geometry'; 
+test/unit/src/core/BufferAttribute.tests.js,'....src/core/BufferAttribute'; '....src/math/Color'; '....src/math/Vector2'; '....src/math/Vector3'; '....src/math/Vector4'; '....src/constants'; 
+test/unit/src/core/Layers.tests.js,'....src/core/Layers'; 
+test/unit/src/core/BufferGeometry.tests.js,'....src/core/BufferGeometry'; { '....src/math/Color'; '....src/math/Vector2'; '....src/math/Vector3'; '....src/math/Vector4'; '....src/math/Matrix4'; '....src/math/Sphere'; '....src/core/Geometry'; '....src/core/Face3'; '....src/objects/Mesh'; '....src/objects/Line.js'; { 
+test/unit/src/core/Raycaster.tests.js,'....src/core/Raycaster'; '....src/math/Vector3'; '....src/objects/Mesh'; '....src/geometries/SphereGeometry'; '....src/core/BufferGeometry'; '....src/objects/Line.js'; '....src/objects/Points.js'; '....src/cameras/PerspectiveCamera'; '....src/cameras/OrthographicCamera'; 
+test/unit/src/core/Object3D.tests.js,'....src/core/Object3D'; '....src/math/Vector3'; '....src/math/Euler'; '....src/math/Quaternion'; '....src/math/Matrix4'; { 
+test/unit/src/core/InstancedInterleavedBuffer.tests.js,'....src/core/InstancedInterleavedBuffer'; 
+test/unit/src/core/EventDispatcher.tests.js,'....src/core/EventDispatcher'; 
+test/unit/src/core/Face3.tests.js,'....src/core/Face3'; '....src/math/Color'; '....src/math/Vector3'; 
+test/unit/src/core/Clock.tests.js,'....src/core/Clock'; 
+test/unit/src/core/InterleavedBuffer.tests.js,'....src/core/InterleavedBuffer'; '....src/constants'; 
+test/unit/src/core/Uniform.tests.js,'....src/core/Uniform'; '....src/math/Vector3'; { 
+test/unit/src/core/InstancedBufferGeometry.tests.js,'....src/core/InstancedBufferGeometry'; '....src/core/BufferAttribute'; 
+test/unit/src/cameras/CubeCamera.tests.js,'....src/cameras/CubeCamera'; 
+test/unit/src/cameras/OrthographicCamera.tests.js,'....src/cameras/OrthographicCamera'; 
+test/unit/src/cameras/Camera.tests.js,'....src/cameras/Camera'; '....src/math/Vector3'; 
+test/unit/src/cameras/StereoCamera.tests.js,'....src/cameras/StereoCamera'; 
+test/unit/src/cameras/PerspectiveCamera.tests.js,'....src/cameras/PerspectiveCamera'; '....src/math/Matrix4'; 
+test/unit/src/cameras/ArrayCamera.tests.js,'....src/cameras/ArrayCamera'; 
+test/unit/src/polyfills.tests.js,'...src/polyfills'; '...src/math/Vector3'; 
+test/unit/src/utils.tests.js,'...src/utils'; 
+test/unit/src/textures/VideoTexture.tests.js,'....src/textures/VideoTexture'; 
+test/unit/src/textures/DepthTexture.tests.js,'....src/textures/DepthTexture'; 
+test/unit/src/textures/CompressedTexture.tests.js,'....src/textures/CompressedTexture'; 
+test/unit/src/textures/CubeTexture.tests.js,'....src/textures/CubeTexture'; 
+test/unit/src/textures/CanvasTexture.tests.js,'....src/textures/CanvasTexture'; 
+test/unit/src/textures/DataTexture.tests.js,'....src/textures/DataTexture'; 
+test/unit/src/textures/Texture.tests.js,'....src/textures/Texture'; 
+test/unit/src/math/Vector3.tests.js,'....src/math/Vector3'; '....src/math/Vector4'; '....src/math/Matrix3'; '....src/math/Matrix4'; '....src/math/Spherical'; '....src/math/Quaternion'; '....src/math/Euler'; '....src/math/Cylindrical'; '....src/core/BufferAttribute'; '....src/cameras/PerspectiveCamera'; { 
+test/unit/src/math/Matrix4.tests.js,'....src/math/Matrix4'; '....src/math/Vector3'; '....src/math/Euler'; '....src/math/Quaternion'; '....src/math/MathUtils'; 'Constants.tests'; print_function np 
+test/unit/src/math/Quaternion.tests.js,'....src/math/Quaternion'; '....src/math/Vector3'; '....src/math/Vector4'; '....src/math/Euler'; '....src/math/Matrix4'; { 
+test/unit/src/math/Spherical.tests.js,'....src/math/Spherical'; '....src/math/Vector3'; { 
+test/unit/src/math/Interpolant.tests.js,'....src/math/Interpolant'; 
+test/unit/src/math/Sphere.tests.js,'....src/math/Box3'; '....src/math/Vector3'; '....src/math/Sphere'; '....src/math/Plane'; '....src/math/Matrix4'; { 
+test/unit/src/math/Constants.tests.js,'....src/math/Vector2'; '....src/math/Vector3'; 
+test/unit/src/math/Euler.tests.js,'....src/math/Euler'; '....src/math/Matrix4'; '....src/math/Quaternion'; '....src/math/Vector3'; 'Constants.tests'; 
+test/unit/src/math/Box2.tests.js,'....src/math/Box2'; '....src/math/Vector2'; { 
+test/unit/src/math/Cylindrical.tests.js,'....src/math/Cylindrical'; '....src/math/Vector3'; 'Constants.tests'; 
+test/unit/src/math/Frustum.tests.js,'....src/math/Frustum'; '....src/math/Sphere'; '....src/math/Plane'; '....src/objects/Sprite'; '....src/math/Vector3'; '....src/math/Matrix4'; '....src/math/Box3'; '....src/objects/Mesh'; '....src/geometries/BoxGeometry'; 'Constants.tests'; 
+test/unit/src/math/Matrix3.tests.js,'....src/math/Matrix3'; '....src/math/Matrix4'; print_function np 
+test/unit/src/math/Color.tests.js,'....src/math/Color'; 'Constants.tests'; 
+test/unit/src/math/Ray.tests.js,'....src/math/Ray'; '....src/math/Box3'; '....src/math/Vector3'; '....src/math/Sphere'; '....src/math/Plane'; '....src/math/Matrix4'; { 
+test/unit/src/math/Plane.tests.js,'....src/math/Plane'; '....src/math/Vector3'; '....src/math/Line3'; '....src/math/Sphere'; '....src/math/Box3'; '....src/math/Matrix4'; { 
+test/unit/src/math/Vector2.tests.js,'....src/math/Vector2'; '....src/math/Matrix3'; '....src/core/BufferAttribute'; { 
+test/unit/src/math/Triangle.tests.js,'....src/math/Triangle'; '....src/math/Box3'; '....src/math/Plane'; '....src/math/Vector3'; { 
+test/unit/src/math/Box3.tests.js,'....src/math/Box3'; '....src/math/Sphere'; '....src/math/Triangle'; '....src/math/Plane'; '....src/math/Vector3'; '....src/math/Matrix4'; '....src/objects/Mesh'; '....src/core/BufferAttribute'; { { 
+test/unit/src/math/interpolants/LinearInterpolant.tests.js,'.....src/math/interpolants/LinearInterpolant'; 
+test/unit/src/math/interpolants/CubicInterpolant.tests.js,'.....src/math/interpolants/CubicInterpolant'; 
+test/unit/src/math/interpolants/DiscreteInterpolant.tests.js,'.....src/math/interpolants/DiscreteInterpolant'; 
+test/unit/src/math/interpolants/QuaternionLinearInterpolant.tests.js,'.....src/math/interpolants/QuaternionLinearInterpolant'; 
+test/unit/src/math/Line3.tests.js,'....src/math/Line3'; '....src/math/Vector3'; '....src/math/Vector4'; '....src/math/Matrix4'; { 
+test/unit/src/math/Vector4.tests.js,'....src/math/Vector4'; '....src/math/Matrix4'; '....src/core/BufferAttribute'; { 
+test/unit/src/math/MathUtils.tests.js,'....src/math/MathUtils'; 
+test/unit/src/extras/core/Interpolations.tests.js,'.....src/extras/core/Interpolations'; 
+test/unit/src/extras/core/Curve.tests.js,'.....src/extras/core/Curve'; 
+test/unit/src/extras/core/Font.tests.js,'.....src/extras/core/Font'; 
+test/unit/src/extras/core/ShapePath.tests.js,'.....src/extras/core/ShapePath'; 
+test/unit/src/extras/core/Path.tests.js,'.....src/extras/core/Path'; 
+test/unit/src/extras/core/Shape.tests.js,'.....src/extras/core/Shape'; 
+test/unit/src/extras/core/CurvePath.tests.js,'.....src/extras/core/CurvePath'; 
+test/unit/src/extras/objects/ImmediateRenderObject.tests.js,'.....src/extras/objects/ImmediateRenderObject'; 
+test/unit/src/extras/ShapeUtils.tests.js,'....src/extras/ShapeUtils'; 
+test/unit/src/extras/curves/SplineCurve.tests.js,'.....src/extras/curves/SplineCurve'; '.....src/math/Vector2'; 
+test/unit/src/extras/curves/CubicBezierCurve.tests.js,'.....src/extras/curves/CubicBezierCurve'; '.....src/math/Vector2'; 
+test/unit/src/extras/curves/ArcCurve.tests.js,'.....src/extras/curves/ArcCurve'; 
+test/unit/src/extras/curves/LineCurve.tests.js,'.....src/extras/curves/LineCurve'; '.....src/math/Vector2'; 
+test/unit/src/extras/curves/QuadraticBezierCurve.tests.js,'.....src/extras/curves/QuadraticBezierCurve'; '.....src/math/Vector2'; 
+test/unit/src/extras/curves/QuadraticBezierCurve3.tests.js,'.....src/extras/curves/QuadraticBezierCurve3'; '.....src/math/Vector3'; 
+test/unit/src/extras/curves/CubicBezierCurve3.tests.js,'.....src/extras/curves/CubicBezierCurve3'; '.....src/math/Vector3'; 
+test/unit/src/extras/curves/LineCurve3.tests.js,'.....src/extras/curves/LineCurve3'; '.....src/math/Vector3'; 
+test/unit/src/extras/curves/CatmullRomCurve3.tests.js,'.....src/extras/curves/CatmullRomCurve3'; '.....src/math/Vector3'; 
+test/unit/src/extras/curves/EllipseCurve.tests.js,'.....src/extras/curves/EllipseCurve'; '.....src/math/Vector2'; 
+test/unit/src/lights/AmbientLight.tests.js,'..qunit-utils'; '....src/lights/AmbientLight'; 
+test/unit/src/lights/RectAreaLight.tests.js,'..qunit-utils'; '....src/lights/RectAreaLight'; 
+test/unit/src/lights/LightShadow.tests.js,'....src/lights/LightShadow'; '....src/cameras/OrthographicCamera'; 
+test/unit/src/lights/SpotLightShadow.tests.js,'....src/lights/SpotLightShadow'; '....src/lights/SpotLight'; '....src/loaders/ObjectLoader'; 
+test/unit/src/lights/HemisphereLight.tests.js,'..qunit-utils'; '....src/lights/HemisphereLight'; 
+test/unit/src/lights/Light.tests.js,'..qunit-utils'; '....src/lights/Light'; 
+test/unit/src/lights/DirectionalLight.tests.js,'..qunit-utils'; '....src/lights/DirectionalLight'; 
+test/unit/src/lights/DirectionalLightShadow.tests.js,'....src/loaders/ObjectLoader'; '....src/lights/DirectionalLight'; '....src/lights/DirectionalLightShadow'; 
+test/unit/src/lights/PointLight.tests.js,'..qunit-utils'; '....src/lights/PointLight'; 
+test/unit/src/lights/SpotLight.tests.js,'..qunit-utils'; '....src/lights/SpotLight'; 
+test/unit/src/objects/Line.tests.js,'....src/objects/Line'; 
+test/unit/src/objects/SkinnedMesh.tests.js,'....src/objects/SkinnedMesh'; 
+test/unit/src/objects/Group.tests.js,'....src/objects/Group'; 
+test/unit/src/objects/Sprite.tests.js,'....src/objects/Sprite'; 
+test/unit/src/objects/LineLoop.tests.js,'....src/objects/LineLoop'; 
+test/unit/src/objects/LineSegments.tests.js,'....src/objects/LineSegments'; 
+test/unit/src/objects/Mesh.tests.js,'....src/objects/Mesh'; 
+test/unit/src/objects/Points.tests.js,'....src/objects/Points'; 
+test/unit/src/objects/Bone.tests.js,'....src/objects/Bone'; 
+test/unit/src/objects/Skeleton.tests.js,'....src/objects/Skeleton'; 
+test/unit/src/objects/LOD.tests.js,'....src/core/Object3D'; '....src/core/Raycaster'; '....src/objects/LOD'; 
+test/unit/src/renderers/WebGLCubeRenderTarget.tests.js,'....src/renderers/WebGLCubeRenderTarget'; 
+test/unit/src/renderers/WebGLRenderer.tests.js,'....src/renderers/WebGLRenderer'; 
+test/unit/src/renderers/WebGLRenderTarget.tests.js,'....src/renderers/WebGLRenderTarget'; 
+test/unit/src/renderers/shaders/ShaderChunk.tests.js,'.....src/renderers/shaders/ShaderChunk'; 
+test/unit/src/renderers/shaders/UniformsLib.tests.js,'.....src/renderers/shaders/UniformsLib'; 
+test/unit/src/renderers/shaders/UniformsUtils.tests.js,'.....src/renderers/shaders/UniformsUtils'; 
+test/unit/src/renderers/shaders/ShaderLib.tests.js,'.....src/renderers/shaders/ShaderLib'; 
+test/unit/src/renderers/webgl/WebGLGeometries.tests.js,'.....src/renderers/webgl/WebGLGeometries'; 
+test/unit/src/renderers/webgl/WebGLProgram.tests.js,'.....src/renderers/webgl/WebGLProgram'; 
+test/unit/src/renderers/webgl/WebGLRenderLists.tests.js,'.....src/renderers/webgl/WebGLRenderLists'; 
+test/unit/src/renderers/webgl/WebGLExtensions.tests.js,'.....src/renderers/webgl/WebGLExtensions'; 
+test/unit/src/renderers/webgl/WebGLClipping.tests.js,'.....src/renderers/webgl/WebGLClipping'; 
+test/unit/src/renderers/webgl/WebGLIndexedBufferRenderer.tests.js,'.....src/renderers/webgl/WebGLIndexedBufferRenderer'; 
+test/unit/src/renderers/webgl/WebGLBufferRenderer.tests.js,'.....src/renderers/webgl/WebGLBufferRenderer'; 
+test/unit/src/renderers/webgl/WebGLObjects.tests.js,'.....src/renderers/webgl/WebGLObjects'; 
+test/unit/src/renderers/webgl/WebGLBackground.tests.js,'.....src/renderers/webgl/WebGLBackground'; 
+test/unit/src/renderers/webgl/WebGLLights.tests.js,'.....src/renderers/webgl/WebGLLights'; 
+test/unit/src/renderers/webgl/WebGLUtils.tests.js,'.....src/renderers/webgl/WebGLUtils'; 
+test/unit/src/renderers/webgl/WebGLState.tests.js,'.....src/renderers/webgl/WebGLState'; 
+test/unit/src/renderers/webgl/WebGLCapabilities.tests.js,'.....src/renderers/webgl/WebGLCapabilities'; 
+test/unit/src/renderers/webgl/WebGLTextures.tests.js,'.....src/renderers/webgl/WebGLTextures'; 
+test/unit/src/renderers/webgl/WebGLPrograms.tests.js,'.....src/renderers/webgl/WebGLPrograms'; 
+test/unit/src/renderers/webgl/WebGLUniforms.tests.js,'.....src/renderers/webgl/WebGLUniforms'; 
+test/unit/src/renderers/webgl/WebGLMorphtargets.tests.js,'.....src/renderers/webgl/WebGLMorphtargets'; 
+test/unit/src/renderers/webgl/WebGLProperties.tests.js,'.....src/renderers/webgl/WebGLProperties'; 
+test/unit/src/renderers/webgl/WebGLAttributes.tests.js,'.....src/renderers/webgl/WebGLAttributes'; 
+test/unit/src/renderers/webgl/WebGLShader.tests.js,'.....src/renderers/webgl/WebGLShader'; 
+test/unit/src/renderers/webgl/WebGLShadowMap.tests.js,'.....src/renderers/webgl/WebGLShadowMap'; 
+test/unit/src/helpers/PolarGridHelper.tests.js,'....src/helpers/PolarGridHelper'; 
+test/unit/src/helpers/DirectionalLightHelper.tests.js,'....src/helpers/DirectionalLightHelper'; 
+test/unit/src/helpers/PlaneHelper.tests.js,'....src/helpers/PlaneHelper'; 
+test/unit/src/helpers/BoxHelper.tests.js,'..qunit-utils'; '....src/helpers/BoxHelper'; '....src/geometries/BoxGeometry'; '....src/geometries/SphereGeometry'; '....src/objects/Mesh'; 
+test/unit/src/helpers/SpotLightHelper.tests.js,'....src/helpers/SpotLightHelper'; 
+test/unit/src/helpers/SkeletonHelper.tests.js,'....src/helpers/SkeletonHelper'; 
+test/unit/src/helpers/Box3Helper.tests.js,'....src/helpers/Box3Helper'; 
+test/unit/src/helpers/HemisphereLightHelper.tests.js,'....src/helpers/HemisphereLightHelper'; 
+test/unit/src/helpers/PointLightHelper.tests.js,'....src/helpers/PointLightHelper'; 
+test/unit/src/helpers/CameraHelper.tests.js,'....src/helpers/CameraHelper'; 
+test/unit/src/helpers/ArrowHelper.tests.js,'....src/helpers/ArrowHelper'; 
+test/unit/src/helpers/GridHelper.tests.js,'....src/helpers/GridHelper'; 
+test/unit/src/helpers/AxesHelper.tests.js,'....src/helpers/AxesHelper'; 
+test/unit/src/animation/AnimationMixer.tests.js,'....src/animation/AnimationMixer'; 
+test/unit/src/animation/PropertyMixer.tests.js,'....src/animation/PropertyMixer'; 
+test/unit/src/animation/AnimationUtils.tests.js,'....src/animation/AnimationUtils'; 
+test/unit/src/animation/tracks/ColorKeyframeTrack.tests.js,'.....src/animation/tracks/ColorKeyframeTrack'; 
+test/unit/src/animation/tracks/StringKeyframeTrack.tests.js,'.....src/animation/tracks/StringKeyframeTrack'; 
+test/unit/src/animation/tracks/BooleanKeyframeTrack.tests.js,'.....src/animation/tracks/BooleanKeyframeTrack'; 
+test/unit/src/animation/tracks/VectorKeyframeTrack.tests.js,'.....src/animation/tracks/VectorKeyframeTrack'; 
+test/unit/src/animation/tracks/QuaternionKeyframeTrack.tests.js,'.....src/animation/tracks/QuaternionKeyframeTrack'; 
+test/unit/src/animation/tracks/NumberKeyframeTrack.tests.js,'.....src/animation/tracks/NumberKeyframeTrack'; 
+test/unit/src/animation/AnimationAction.tests.js,'....src/animation/AnimationAction'; '....src/animation/AnimationMixer'; '....src/animation/AnimationClip'; '....src/animation/tracks/NumberKeyframeTrack'; '....src/core/Object3D'; '....src/constants'; 
+test/unit/src/animation/AnimationObjectGroup.tests.js,'....src/animation/AnimationObjectGroup'; '....src/core/Object3D'; '....src/animation/PropertyBinding'; 
+test/unit/src/animation/AnimationClip.tests.js,'....src/animation/AnimationClip'; 
+test/unit/src/animation/KeyframeTrack.tests.js,'....src/animation/KeyframeTrack'; '....src/animation/tracks/NumberKeyframeTrack'; 
+test/unit/src/animation/PropertyBinding.tests.js,'....src/animation/PropertyBinding'; '....src/geometries/BoxGeometry'; '....src/objects/Mesh'; '....src/materials/MeshBasicMaterial'; 
+test/unit/src/constants.tests.js,'...src/constants'; 
+test/unit/src/audio/AudioListener.tests.js,'....src/audio/AudioListener.js'; 
+test/unit/src/audio/AudioAnalyser.tests.js,'....src/audio/AudioAnalyser.js'; 
+test/unit/src/audio/PositionalAudio.tests.js,'....src/audio/PositionalAudio.js'; 
+test/unit/src/audio/AudioContext.tests.js,'....src/audio/AudioContext.js'; 
+test/unit/src/audio/Audio.tests.js,'....src/audio/Audio'; 
+test/unit/src/materials/ShaderMaterial.tests.js,'....src/materials/ShaderMaterial'; 
+test/unit/src/materials/LineBasicMaterial.tests.js,'....src/materials/LineBasicMaterial'; 
+test/unit/src/materials/MeshBasicMaterial.tests.js,'....src/materials/MeshBasicMaterial'; 
+test/unit/src/materials/MeshDistanceMaterial.tests.js,'....src/materials/MeshDistanceMaterial'; 
+test/unit/src/materials/MeshToonMaterial.tests.js,'....src/materials/MeshToonMaterial'; 
+test/unit/src/materials/MeshDepthMaterial.tests.js,'....src/materials/MeshDepthMaterial'; 
+test/unit/src/materials/RawShaderMaterial.tests.js,'....src/materials/RawShaderMaterial'; 
+test/unit/src/materials/SpriteMaterial.tests.js,'....src/materials/SpriteMaterial'; 
+test/unit/src/materials/MeshPhysicalMaterial.tests.js,'....src/materials/MeshPhysicalMaterial'; 
+test/unit/src/materials/MeshLambertMaterial.tests.js,'....src/materials/MeshLambertMaterial'; 
+test/unit/src/materials/Material.tests.js,'....src/materials/Material'; 
+test/unit/src/materials/ShadowMaterial.tests.js,'....src/materials/ShadowMaterial'; 
+test/unit/src/materials/LineDashedMaterial.tests.js,'....src/materials/LineDashedMaterial'; 
+test/unit/src/materials/MeshNormalMaterial.tests.js,'....src/materials/MeshNormalMaterial'; 
+test/unit/src/materials/MeshStandardMaterial.tests.js,'....src/materials/MeshStandardMaterial'; 
+test/unit/src/materials/MeshPhongMaterial.tests.js,'....src/materials/MeshPhongMaterial'; 
+test/unit/src/materials/PointsMaterial.tests.js,'....src/materials/PointsMaterial'; 
+test/unit/src/scenes/FogExp2.tests.js,'....src/scenes/FogExp2'; 
+test/unit/src/scenes/Scene.tests.js,'....src/scenes/Scene'; 
+test/unit/src/scenes/Fog.tests.js,'....src/scenes/Fog'; 
+test/unit/src/geometries/ParametricGeometry.tests.js,{ 
+test/unit/src/geometries/IcosahedronGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/EdgesGeometry.tests.js,'....src/geometries/EdgesGeometry'; '....src/core/Geometry'; '....src/core/BufferGeometry'; '....src/core/BufferAttribute'; '....src/math/Vector3'; '....src/scenes/Scene'; '....src/objects/Mesh'; '....src/objects/LineSegments'; '....src/materials/LineBasicMaterial'; '....src/renderers/WebGLRenderer'; '....src/cameras/PerspectiveCamera'; 
+test/unit/src/geometries/DodecahedronGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/TorusGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/CylinderGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/TubeGeometry.tests.js,{ '....src/extras/curves/LineCurve3'; '....src/math/Vector3'; 
+test/unit/src/geometries/CircleGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/SphereGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/WireframeGeometry.tests.js,'....src/geometries/WireframeGeometry'; 
+test/unit/src/geometries/RingGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/PolyhedronGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/BoxGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/PlaneGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/LatheGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/ShapeGeometry.tests.js,{ '....src/extras/core/Shape'; 
+test/unit/src/geometries/TorusKnotGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/ExtrudeGeometry.tests.js,'....src/geometries/ExtrudeGeometry'; 
+test/unit/src/geometries/ConeGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/TextGeometry.tests.js,{ 
+test/unit/src/geometries/TetrahedronGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/geometries/OctahedronGeometry.tests.js,'..qunit-utils'; { 
+test/unit/src/loaders/CubeTextureLoader.tests.js,'....src/loaders/CubeTextureLoader'; 
+test/unit/src/loaders/ObjectLoader.tests.js,'....src/loaders/ObjectLoader'; 
+test/unit/src/loaders/ImageLoader.tests.js,'....src/loaders/ImageLoader'; 
+test/unit/src/loaders/DataTextureLoader.tests.js,'....src/loaders/DataTextureLoader'; 
+test/unit/src/loaders/FileLoader.tests.js,'....src/loaders/FileLoader'; 
+test/unit/src/loaders/AnimationLoader.tests.js,'....src/loaders/AnimationLoader'; 
+test/unit/src/loaders/LoadingManager.tests.js,'....src/loaders/LoadingManager'; '....src/loaders/Loader'; 
+test/unit/src/loaders/TextureLoader.tests.js,'....src/loaders/TextureLoader'; 
+test/unit/src/loaders/FontLoader.tests.js,'....src/loaders/FontLoader'; 
+test/unit/src/loaders/LoaderUtils.tests.js,'....src/loaders/LoaderUtils'; 
+test/unit/src/loaders/Loader.tests.js,
+test/unit/src/loaders/CompressedTextureLoader.tests.js,'....src/loaders/CompressedTextureLoader'; 
+test/unit/src/loaders/Cache.tests.js,'....src/loaders/Cache'; 
+test/unit/src/loaders/AudioLoader.tests.js,'....src/loaders/AudioLoader'; 
+test/unit/src/loaders/MaterialLoader.tests.js,'....src/loaders/MaterialLoader'; 
+test/unit/src/loaders/BufferGeometryLoader.tests.js,'....src/loaders/BufferGeometryLoader'; 
+test/three.editor.unit.js,'unit/qunit-utils.js'; 'unit/editor/Command.tests'; 'unit/editor/Config.tests'; 'unit/editor/Editor.tests'; 'unit/editor/History.tests'; 'unit/editor/Loader.tests'; 'unit/editor/Player.tests'; 'unit/editor/Script.tests'; 'unit/editor/Menubar.tests'; 'unit/editor/Menubar.Add.tests'; 'unit/editor/Menubar.Edit.tests'; 'unit/editor/Menubar.Examples.tests'; 'unit/editor/Menubar.File.tests'; 'unit/editor/Menubar.Help.tests'; 'unit/editor/Menubar.Play.tests'; 'unit/editor/Menubar.Status.tests'; 'unit/editor/Menubar.View.tests'; 'unit/editor/Sidebar.tests'; 'unit/editor/Sidebar.Animation.tests'; 'unit/editor/Sidebar.Geometry.tests'; 'unit/editor/Sidebar.Geometry.BoxGeometry.tests'; 'unit/editor/Sidebar.Geometry.BufferGeometry.tests'; 'unit/editor/Sidebar.Geometry.CircleGeometry.tests'; 'unit/editor/Sidebar.Geometry.CylinderGeometry.tests'; 'unit/editor/Sidebar.Geometry.Geometry.tests'; 'unit/editor/Sidebar.Geometry.IcosahedronGeometry.tests'; 'unit/editor/Sidebar.Geometry.LatheGeometry.tests'; 'unit/editor/Sidebar.Geometry.Modifiers.tests'; 'unit/editor/Sidebar.Geometry.PlaneGeometry.tests'; 'unit/editor/Sidebar.Geometry.SphereGeometry.tests'; 'unit/editor/Sidebar.Geometry.TeapotBufferGeometry.tests'; 'unit/editor/Sidebar.Geometry.TorusGeometry.tests'; 'unit/editor/Sidebar.Geometry.TorusKnotGeometry.tests'; 'unit/editor/Sidebar.History.tests'; 'unit/editor/Sidebar.Material.tests'; 'unit/editor/Sidebar.Object.tests'; 'unit/editor/Sidebar.Project.tests'; 'unit/editor/Sidebar.Properties.tests'; 'unit/editor/Sidebar.Scene.tests'; 'unit/editor/Sidebar.Script.tests'; 'unit/editor/Sidebar.Settings.tests'; 'unit/editor/Storage.tests'; 'unit/editor/Toolbar.tests'; 'unit/editor/Viewport.tests'; 'unit/editor/Viewport.Info.tests'; 'unit/editor/commands/AddObjectCommand.tests'; 'unit/editor/commands/AddScriptCommand.tests'; 'unit/editor/commands/MoveObjectCommand.tests'; 'unit/editor/commands/MultiCmdsCommand.tests'; 'unit/editor/commands/RemoveObjectCommand.tests'; 'unit/editor/commands/RemoveScriptCommand.tests'; 'unit/editor/commands/SetColorCommand.tests'; 'unit/editor/commands/SetGeometryCommand.tests'; 'unit/editor/commands/SetGeometryValueCommand.tests'; 'unit/editor/commands/SetMaterialColorCommand.tests'; 'unit/editor/commands/SetMaterialCommand.tests'; 'unit/editor/commands/SetMaterialMapCommand.tests'; 'unit/editor/commands/SetMaterialValueCommand.tests'; 'unit/editor/commands/SetPositionCommand.tests'; 'unit/editor/commands/SetRotationCommand.tests'; 'unit/editor/commands/SetScaleCommand.tests'; 'unit/editor/commands/SetSceneCommand.tests'; 'unit/editor/commands/SetScriptValueCommand.tests'; 'unit/editor/commands/SetUuidCommand.tests'; 'unit/editor/commands/SetValueCommand.tests'; 
+test/benchmark/core/Vector3Components.js,
+test/benchmark/core/UpdateMatrixWorld.js,
+test/benchmark/core/Float32Array.js,
+test/benchmark/core/Vector3Storage.js,
+test/benchmark/core/Vector3Length.js,
+test/benchmark/core/TriangleClosestPoint.js,
+test/benchmark/vendor/lodash.min.js,
+test/benchmark/vendor/benchmark-2.1.0.min.js,
+test/benchmark/benchmark.js,
+test/three.source.unit.js,'unit/qunit-utils.js'; 'unit/src/constants.tests'; 'unit/src/polyfills.tests'; 'unit/src/utils.tests'; 'unit/src/animation/AnimationAction.tests'; 'unit/src/animation/AnimationClip.tests'; 'unit/src/animation/AnimationMixer.tests'; 'unit/src/animation/AnimationObjectGroup.tests'; 'unit/src/animation/AnimationUtils.tests'; 'unit/src/animation/KeyframeTrack.tests'; 'unit/src/animation/PropertyBinding.tests'; 'unit/src/animation/PropertyMixer.tests'; 'unit/src/animation/tracks/BooleanKeyframeTrack.tests'; 'unit/src/animation/tracks/ColorKeyframeTrack.tests'; 'unit/src/animation/tracks/NumberKeyframeTrack.tests'; 'unit/src/animation/tracks/QuaternionKeyframeTrack.tests'; 'unit/src/animation/tracks/StringKeyframeTrack.tests'; 'unit/src/animation/tracks/VectorKeyframeTrack.tests'; 'unit/src/audio/Audio.tests'; 'unit/src/audio/AudioAnalyser.tests'; 'unit/src/audio/AudioContext.tests'; 'unit/src/audio/AudioListener.tests'; 'unit/src/audio/PositionalAudio.tests'; 'unit/src/cameras/ArrayCamera.tests'; 'unit/src/cameras/Camera.tests'; 'unit/src/cameras/CubeCamera.tests'; 'unit/src/cameras/OrthographicCamera.tests'; 'unit/src/cameras/PerspectiveCamera.tests'; 'unit/src/cameras/StereoCamera.tests'; 'unit/src/core/BufferAttribute.tests'; 'unit/src/core/BufferGeometry.tests'; 'unit/src/core/Clock.tests'; 'unit/src/core/DirectGeometry.tests'; 'unit/src/core/EventDispatcher.tests'; 'unit/src/core/Face3.tests'; 'unit/src/core/Geometry.tests'; 'unit/src/core/InstancedBufferAttribute.tests'; 'unit/src/core/InstancedBufferGeometry.tests'; 'unit/src/core/InstancedInterleavedBuffer.tests'; 'unit/src/core/InterleavedBuffer.tests'; 'unit/src/core/InterleavedBufferAttribute.tests'; 'unit/src/core/Layers.tests'; 'unit/src/core/Object3D.tests'; 'unit/src/core/Raycaster.tests'; 'unit/src/core/Uniform.tests'; 'unit/src/extras/ShapeUtils.tests'; 'unit/src/extras/core/Curve.tests'; 'unit/src/extras/core/CurvePath.tests'; 'unit/src/extras/core/Font.tests'; 'unit/src/extras/core/Interpolations.tests'; 'unit/src/extras/core/Path.tests'; 'unit/src/extras/core/Shape.tests'; 'unit/src/extras/core/ShapePath.tests'; 'unit/src/extras/curves/ArcCurve.tests'; 'unit/src/extras/curves/CatmullRomCurve3.tests'; 'unit/src/extras/curves/CubicBezierCurve.tests'; 'unit/src/extras/curves/CubicBezierCurve3.tests'; 'unit/src/extras/curves/EllipseCurve.tests'; 'unit/src/extras/curves/LineCurve.tests'; 'unit/src/extras/curves/LineCurve3.tests'; 'unit/src/extras/curves/QuadraticBezierCurve.tests'; 'unit/src/extras/curves/QuadraticBezierCurve3.tests'; 'unit/src/extras/curves/SplineCurve.tests'; 'unit/src/extras/objects/ImmediateRenderObject.tests'; 'unit/src/geometries/BoxGeometry.tests'; 'unit/src/geometries/CircleGeometry.tests'; 'unit/src/geometries/ConeGeometry.tests'; 'unit/src/geometries/CylinderGeometry.tests'; 'unit/src/geometries/DodecahedronGeometry.tests'; 'unit/src/geometries/EdgesGeometry.tests'; 'unit/src/geometries/ExtrudeGeometry.tests'; 'unit/src/geometries/IcosahedronGeometry.tests'; 'unit/src/geometries/LatheGeometry.tests'; 'unit/src/geometries/OctahedronGeometry.tests'; 'unit/src/geometries/ParametricGeometry.tests'; 'unit/src/geometries/PlaneGeometry.tests'; 'unit/src/geometries/PolyhedronGeometry.tests'; 'unit/src/geometries/RingGeometry.tests'; 'unit/src/geometries/ShapeGeometry.tests'; 'unit/src/geometries/SphereGeometry.tests'; 'unit/src/geometries/TetrahedronGeometry.tests'; 'unit/src/geometries/TextGeometry.tests'; 'unit/src/geometries/TorusGeometry.tests'; 'unit/src/geometries/TorusKnotGeometry.tests'; 'unit/src/geometries/TubeGeometry.tests'; 'unit/src/geometries/WireframeGeometry.tests'; 'unit/src/helpers/ArrowHelper.tests'; 'unit/src/helpers/AxesHelper.tests'; 'unit/src/helpers/Box3Helper.tests'; 'unit/src/helpers/BoxHelper.tests'; 'unit/src/helpers/CameraHelper.tests'; 'unit/src/helpers/DirectionalLightHelper.tests'; 'unit/src/helpers/GridHelper.tests'; 'unit/src/helpers/HemisphereLightHelper.tests'; 'unit/src/helpers/PlaneHelper.tests'; 'unit/src/helpers/PointLightHelper.tests'; 'unit/src/helpers/PolarGridHelper.tests'; 'unit/src/helpers/SkeletonHelper.tests'; 'unit/src/helpers/SpotLightHelper.tests'; 'unit/src/lights/AmbientLight.tests'; 'unit/src/lights/DirectionalLight.tests'; 'unit/src/lights/DirectionalLightShadow.tests'; 'unit/src/lights/HemisphereLight.tests'; 'unit/src/lights/Light.tests'; 'unit/src/lights/LightShadow.tests'; 'unit/src/lights/PointLight.tests'; 'unit/src/lights/RectAreaLight.tests'; 'unit/src/lights/SpotLight.tests'; 'unit/src/lights/SpotLightShadow.tests'; 'unit/src/loaders/AnimationLoader.tests'; 'unit/src/loaders/AudioLoader.tests'; 'unit/src/loaders/BufferGeometryLoader.tests'; 'unit/src/loaders/Cache.tests'; 'unit/src/loaders/CompressedTextureLoader.tests'; 'unit/src/loaders/CubeTextureLoader.tests'; 'unit/src/loaders/DataTextureLoader.tests'; 'unit/src/loaders/FileLoader.tests'; 'unit/src/loaders/FontLoader.tests'; 'unit/src/loaders/ImageLoader.tests'; 'unit/src/loaders/Loader.tests'; 'unit/src/loaders/LoaderUtils.tests'; 'unit/src/loaders/LoadingManager.tests'; 'unit/src/loaders/MaterialLoader.tests'; 'unit/src/loaders/ObjectLoader.tests'; 'unit/src/loaders/TextureLoader.tests'; 'unit/src/materials/LineBasicMaterial.tests'; 'unit/src/materials/LineDashedMaterial.tests'; 'unit/src/materials/Material.tests'; 'unit/src/materials/MeshBasicMaterial.tests'; 'unit/src/materials/MeshDepthMaterial.tests'; 'unit/src/materials/MeshDistanceMaterial.tests'; 'unit/src/materials/MeshLambertMaterial.tests'; 'unit/src/materials/MeshNormalMaterial.tests'; 'unit/src/materials/MeshPhongMaterial.tests'; 'unit/src/materials/MeshPhysicalMaterial.tests'; 'unit/src/materials/MeshStandardMaterial.tests'; 'unit/src/materials/MeshToonMaterial.tests'; 'unit/src/materials/PointsMaterial.tests'; 'unit/src/materials/RawShaderMaterial.tests'; 'unit/src/materials/ShaderMaterial.tests'; 'unit/src/materials/ShadowMaterial.tests'; 'unit/src/materials/SpriteMaterial.tests'; 'unit/src/math/Box2.tests'; 'unit/src/math/Box3.tests'; 'unit/src/math/Color.tests'; 'unit/src/math/Cylindrical.tests'; 'unit/src/math/Euler.tests'; 'unit/src/math/Frustum.tests'; 'unit/src/math/Interpolant.tests'; 'unit/src/math/Line3.tests'; 'unit/src/math/MathUtils.tests'; 'unit/src/math/Matrix3.tests'; 'unit/src/math/Matrix4.tests'; 'unit/src/math/Plane.tests'; 'unit/src/math/Quaternion.tests'; 'unit/src/math/Ray.tests'; 'unit/src/math/Sphere.tests'; 'unit/src/math/Spherical.tests'; 'unit/src/math/Triangle.tests'; 'unit/src/math/Vector2.tests'; 'unit/src/math/Vector3.tests'; 'unit/src/math/Vector4.tests'; 'unit/src/math/interpolants/CubicInterpolant.tests'; 'unit/src/math/interpolants/DiscreteInterpolant.tests'; 'unit/src/math/interpolants/LinearInterpolant.tests'; 'unit/src/math/interpolants/QuaternionLinearInterpolant.tests'; 'unit/src/objects/Bone.tests'; 'unit/src/objects/Group.tests'; 'unit/src/objects/Line.tests'; 'unit/src/objects/LineLoop.tests'; 'unit/src/objects/LineSegments.tests'; 'unit/src/objects/LOD.tests'; 'unit/src/objects/Mesh.tests'; 'unit/src/objects/Points.tests'; 'unit/src/objects/Skeleton.tests'; 'unit/src/objects/SkinnedMesh.tests'; 'unit/src/objects/Sprite.tests'; 'unit/src/renderers/WebGLRenderer.tests'; 'unit/src/renderers/WebGLRenderTarget.tests'; 'unit/src/renderers/WebGLCubeRenderTarget.tests'; 'unit/src/renderers/shaders/ShaderChunk.tests'; 'unit/src/renderers/shaders/ShaderLib.tests'; 'unit/src/renderers/shaders/UniformsLib.tests'; 'unit/src/renderers/shaders/UniformsUtils.tests'; 'unit/src/renderers/webgl/WebGLAttributes.tests'; 'unit/src/renderers/webgl/WebGLBackground.tests'; 'unit/src/renderers/webgl/WebGLBufferRenderer.tests'; 'unit/src/renderers/webgl/WebGLCapabilities.tests'; 'unit/src/renderers/webgl/WebGLClipping.tests'; 'unit/src/renderers/webgl/WebGLExtensions.tests'; 'unit/src/renderers/webgl/WebGLGeometries.tests'; 'unit/src/renderers/webgl/WebGLIndexedBufferRenderer.tests'; 'unit/src/renderers/webgl/WebGLLights.tests'; 'unit/src/renderers/webgl/WebGLMorphtargets.tests'; 'unit/src/renderers/webgl/WebGLObjects.tests'; 'unit/src/renderers/webgl/WebGLProgram.tests'; 'unit/src/renderers/webgl/WebGLPrograms.tests'; 'unit/src/renderers/webgl/WebGLProperties.tests'; 'unit/src/renderers/webgl/WebGLRenderLists.tests'; 'unit/src/renderers/webgl/WebGLShader.tests'; 'unit/src/renderers/webgl/WebGLShadowMap.tests'; 'unit/src/renderers/webgl/WebGLState.tests'; 'unit/src/renderers/webgl/WebGLTextures.tests'; 'unit/src/renderers/webgl/WebGLUniforms.tests'; 'unit/src/renderers/webgl/WebGLUtils.tests'; 'unit/src/scenes/Fog.tests'; 'unit/src/scenes/FogExp2.tests'; 'unit/src/scenes/Scene.tests'; 'unit/src/textures/CanvasTexture.tests'; 'unit/src/textures/CompressedTexture.tests'; 'unit/src/textures/CubeTexture.tests'; 'unit/src/textures/DataTexture.tests'; 'unit/src/textures/DepthTexture.tests'; 'unit/src/textures/Texture.tests'; 'unit/src/textures/VideoTexture.tests'; 
+test/rollup.unit.config.js,
+utils/build/rollup-examples.config.js,We 
+utils/build/rollup.config.js,'rollup-plugin-buble'; 
+utils/build/externs.js,
+utils/converters/obj2three.js,'fs'; 'path'; '..examples/jsm/loaders/OBJLoader.js'; 
+utils/converters/fbx2three.js,'fs'; 'path'; '..examples/jsm/loaders/FBXLoader.js'; '..build/three.module.js'; 
+utils/modularize.js,"${pathPrefix}..build/three.module.js";`; 
+utils/packLDrawModel.js,
+editor/sw.js,
+editor/js/Sidebar.Geometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryValueCommand.js'; 'Sidebar.Geometry.Geometry.js'; 'Sidebar.Geometry.BufferGeometry.js'; 'Sidebar.Geometry.Modifiers.js'; 'Sidebar.Geometry.BoxGeometry.js'; 'Sidebar.Geometry.CircleGeometry.js'; 'Sidebar.Geometry.CylinderGeometry.js'; 'Sidebar.Geometry.DodecahedronGeometry.js'; 'Sidebar.Geometry.ExtrudeGeometry.js'; 'Sidebar.Geometry.IcosahedronGeometry.js'; 'Sidebar.Geometry.LatheGeometry.js'; 'Sidebar.Geometry.OctahedronGeometry.js'; 'Sidebar.Geometry.PlaneGeometry.js'; 'Sidebar.Geometry.RingGeometry.js'; 'Sidebar.Geometry.ShapeGeometry.js'; 'Sidebar.Geometry.SphereGeometry.js'; 'Sidebar.Geometry.TeapotBufferGeometry.js'; 'Sidebar.Geometry.TetrahedronGeometry.js'; 'Sidebar.Geometry.TorusGeometry.js'; 'Sidebar.Geometry.TorusKnotGeometry.js'; 'Sidebar.Geometry.TubeGeometry.js'; 
+editor/js/Sidebar.Geometry.PlaneGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Settings.js,'libs/ui.js'; 'Sidebar.Settings.Viewport.js'; 'Sidebar.Settings.Shortcuts.js'; 
+editor/js/Viewport.Info.js,'libs/ui.js'; 
+editor/js/Sidebar.Properties.js,'libs/ui.js'; 'Sidebar.Object.js'; 'Sidebar.Geometry.js'; 'Sidebar.Material.js'; 
+editor/js/Menubar.Edit.js,'libs/ui.js'; 'commands/AddObjectCommand.js'; 'commands/RemoveObjectCommand.js'; 'commands/MultiCmdsCommand.js'; 'commands/SetMaterialValueCommand.js'; 
+editor/js/Sidebar.Geometry.ExtrudeGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Menubar.File.js,'..build/three.module.js'; '..examples/jsm/exporters/ColladaExporter.js'; '..examples/jsm/exporters/GLTFExporter.js'; '..examples/jsm/exporters/OBJExporter.js'; '..examples/jsm/exporters/PLYExporter.js'; '..examples/jsm/exporters/STLExporter.js'; 'libs/ui.js'; ); 
+editor/js/Strings.js,'Import', 'Importer', '导入', 
+editor/js/Config.js,
+editor/js/Sidebar.Geometry.Modifiers.js,'libs/ui.js'; 
+editor/js/Sidebar.History.js,'libs/ui.js'; 'libs/ui.three.js'; 
+editor/js/Menubar.Status.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 
+editor/js/Sidebar.Geometry.LatheGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Menubar.View.js,'libs/ui.js'; 
+editor/js/Storage.js,
+editor/js/Sidebar.js,'libs/ui.js'; 'Sidebar.Scene.js'; 'Sidebar.Properties.js'; 'Sidebar.Script.js'; 'Sidebar.Animation.js'; 'Sidebar.Project.js'; 'Sidebar.History.js'; 'Sidebar.Settings.js'; 
+editor/js/Sidebar.Geometry.DodecahedronGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Animation.js,'libs/ui.js'; 
+editor/js/Sidebar.Settings.Viewport.js,'libs/ui.js'; 'libs/ui.three.js'; 
+editor/js/Sidebar.Scene.js,'libs/ui.js'; 'libs/ui.three.js'; 
+editor/js/Sidebar.Geometry.SphereGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Viewport.Camera.js,'libs/ui.js'; 
+editor/js/Sidebar.Settings.Shortcuts.js,'libs/ui.js'; 'commands/RemoveObjectCommand.js'; 
+editor/js/commands/SetScaleCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/MultiCmdsCommand.js,'.Command.js'; 
+editor/js/commands/SetColorCommand.js,'.Command.js'; 
+editor/js/commands/AddScriptCommand.js,'.Command.js'; 
+editor/js/commands/SetMaterialValueCommand.js,'.Command.js'; 
+editor/js/commands/RemoveScriptCommand.js,'.Command.js'; 
+editor/js/commands/SetMaterialColorCommand.js,'.Command.js'; 
+editor/js/commands/Commands.js,
+editor/js/commands/MoveObjectCommand.js,'.Command.js'; 
+editor/js/commands/SetRotationCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/SetPositionCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/SetGeometryCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/RemoveObjectCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/SetSceneCommand.js,'.Command.js'; 'SetUuidCommand.js'; 'SetValueCommand.js'; 'AddObjectCommand.js'; import 
+editor/js/commands/SetGeometryValueCommand.js,'.Command.js'; 
+editor/js/commands/SetScriptValueCommand.js,'.Command.js'; 
+editor/js/commands/AddObjectCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/SetValueCommand.js,'.Command.js'; 
+editor/js/commands/SetMaterialMapCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/commands/SetUuidCommand.js,'.Command.js'; 
+editor/js/commands/SetMaterialVectorCommand.js,'.Command.js'; 
+editor/js/commands/SetMaterialCommand.js,'.Command.js'; '...build/three.module.js'; 
+editor/js/Command.js,
+editor/js/LoaderUtils.js,
+editor/js/Sidebar.Geometry.CylinderGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/EditorControls.js,'..build/three.module.js'; 
+editor/js/Sidebar.Geometry.RingGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Script.js,'libs/ui.js'; 'commands/SetScriptValueCommand.js'; 'commands/SetMaterialValueCommand.js'; 
+editor/js/Loader.js,'..build/three.module.js'; '..examples/jsm/loaders/AMFLoader.js'; '..examples/jsm/loaders/ColladaLoader.js'; '..examples/jsm/loaders/DRACOLoader.js'; '..examples/jsm/loaders/FBXLoader.js'; '..examples/jsm/loaders/GLTFLoader.js'; '..examples/jsm/loaders/KMZLoader.js'; '..examples/jsm/loaders/MD2Loader.js'; '..examples/jsm/loaders/MTLLoader.js'; '..examples/jsm/loaders/OBJLoader.js'; '..examples/jsm/loaders/PLYLoader.js'; '..examples/jsm/loaders/STLLoader.js'; '..examples/jsm/loaders/SVGLoader.js'; '..examples/jsm/loaders/TDSLoader.js'; '..examples/jsm/loaders/VTKLoader.js'; '..examples/jsm/loaders/VRMLLoader.js'; 'commands/AddObjectCommand.js'; 'commands/SetSceneCommand.js'; 'LoaderUtils.js'; 
+editor/js/Sidebar.Geometry.BufferGeometry.js,'libs/ui.js'; 
+editor/js/Menubar.Add.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/AddObjectCommand.js'; 
+editor/js/Sidebar.Object.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 'commands/SetUuidCommand.js'; 'commands/SetValueCommand.js'; 'commands/SetPositionCommand.js'; 'commands/SetRotationCommand.js'; 'commands/SetScaleCommand.js'; 'commands/SetColorCommand.js'; 
+editor/js/History.js,'commands/Commands.js'; 
+editor/js/Menubar.Play.js,'libs/ui.js'; 
+editor/js/Player.js,'libs/ui.js'; 'libs/app.js'; 
+editor/js/Sidebar.Project.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 'commands/SetMaterialCommand.js'; 
+editor/js/Sidebar.Geometry.TubeGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Menubar.Help.js,'libs/ui.js'; 
+editor/js/Viewport.js,'..build/three.module.js'; '..examples/jsm/controls/TransformControls.js'; 'libs/ui.js'; 'EditorControls.js'; 'Viewport.Camera.js'; 'Viewport.Info.js'; 'commands/SetPositionCommand.js'; 'commands/SetRotationCommand.js'; 'commands/SetScaleCommand.js'; 
+editor/js/Sidebar.Geometry.TetrahedronGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Geometry.TorusKnotGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Geometry.IcosahedronGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Geometry.Geometry.js,'libs/ui.js'; 
+editor/js/Sidebar.Geometry.TeapotBufferGeometry.js,'libs/ui.js'; '..examples/jsm/geometries/TeapotBufferGeometry.js'; 
+editor/js/Editor.js,'..build/three.module.js'; 'Config.js'; 'Loader.js'; 'History.js'; 'Strings.js'; 'Storage.js'; 
+editor/js/Toolbar.js,'libs/ui.js'; 'libs/ui.three.js'; 
+editor/js/Sidebar.Geometry.BoxGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Geometry.CircleGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Geometry.TorusGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Sidebar.Material.js,'..build/three.module.js'; 'libs/ui.js'; 'libs/ui.three.js'; 'commands/SetMaterialCommand.js'; 'commands/SetMaterialColorCommand.js'; 'commands/SetMaterialMapCommand.js'; 'commands/SetMaterialValueCommand.js'; 'commands/SetMaterialVectorCommand.js'; 
+editor/js/Menubar.js,'libs/ui.js'; 'Menubar.Add.js'; 'Menubar.Edit.js'; 'Menubar.File.js'; 'Menubar.Examples.js'; 'Menubar.Help.js'; 'Menubar.Play.js'; 'Menubar.Status.js'; 
+editor/js/Sidebar.Script.js,'libs/ui.js'; 'commands/AddScriptCommand.js'; 'commands/SetScriptValueCommand.js'; 'commands/RemoveScriptCommand.js'; 
+editor/js/Sidebar.Geometry.ShapeGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+editor/js/Menubar.Examples.js,'..build/three.module.js'; 'libs/ui.js'; 
+editor/js/libs/acorn/acorn.js,volatile"), import"), super") to level"); module'"); declaration. '...' '...' kw("import"); 
+editor/js/libs/acorn/walk.js,
+editor/js/libs/acorn/acorn_loose.js,
+editor/js/libs/signals.min.js,
+editor/js/libs/ui.js,
+editor/js/libs/glslprep.min.js,
+editor/js/libs/esprima.js,'import': 'import'); 
+editor/js/libs/jsonlint.js,
+editor/js/libs/app.js,
+editor/js/libs/tern-threejs/threejs.js,
+editor/js/libs/ui.three.js,'...build/three.module.js'; '...examples/jsm/loaders/RGBELoader.js'; '...examples/jsm/loaders/TGALoader.js'; 'ui.js'; '.commands/MoveObjectCommand.js'; 
+editor/js/libs/codemirror/mode/glsl.js,
+editor/js/libs/codemirror/mode/javascript.js,C poplex); 
+editor/js/libs/codemirror/codemirror.js,
+editor/js/libs/codemirror/addon/dialog.js,
+editor/js/libs/codemirror/addon/show-hint.js,
+editor/js/libs/codemirror/addon/tern.js,
+editor/js/libs/ternjs/doc_comment.js,
+editor/js/libs/ternjs/infer.js,
+editor/js/libs/ternjs/comment.js,
+editor/js/libs/ternjs/def.js,
+editor/js/libs/ternjs/tern.js,
+editor/js/libs/ternjs/polyfill.js,
+editor/js/libs/ternjs/signal.js,
+editor/js/Sidebar.Geometry.OctahedronGeometry.js,'..build/three.module.js'; 'libs/ui.js'; 'commands/SetGeometryCommand.js'; 
+examples/jsm/WebGL.js,
+examples/jsm/cameras/CinematicCamera.js,{ ".shaders/BokehShader2.js"; ".shaders/BokehShader2.js"; 
+examples/jsm/cameras/CinematicCamera.d.ts,{ 
+examples/jsm/WebGL.d.ts,
+examples/jsm/controls/DeviceOrientationControls.js,{ 
+examples/jsm/controls/TransformControls.d.ts,{ 
+examples/jsm/controls/TrackballControls.js,{ 
+examples/jsm/controls/FirstPersonControls.d.ts,{ 
+examples/jsm/controls/DeviceOrientationControls.d.ts,{ 
+examples/jsm/controls/FirstPersonControls.js,{ 
+examples/jsm/controls/DragControls.d.ts,{ 
+examples/jsm/controls/DragControls.js,{ 
+examples/jsm/controls/FlyControls.d.ts,{ 
+examples/jsm/controls/experimental/CameraControls.js,{ 
+examples/jsm/controls/TrackballControls.d.ts,'...src/Three'; 
+examples/jsm/controls/FlyControls.js,{ 
+examples/jsm/controls/PointerLockControls.d.ts,{ 
+examples/jsm/controls/PointerLockControls.js,{ 
+examples/jsm/controls/OrbitControls.d.ts,'...src/Three'; 
+examples/jsm/controls/TransformControls.js,{ 
+examples/jsm/controls/OrbitControls.js,{ 
+examples/jsm/textures/FlakesTexture.js,
+examples/jsm/math/ConvexHull.d.ts,{ 
+examples/jsm/math/MeshSurfaceSampler.js,{ 
+examples/jsm/math/Lut.d.ts,{ 
+examples/jsm/math/OBB.d.ts,{ 
+examples/jsm/math/ColorConverter.js,{ 
+examples/jsm/math/SimplexNoise.js,
+examples/jsm/math/ColorConverter.d.ts,{ 
+examples/jsm/math/ImprovedNoise.d.ts,
+examples/jsm/math/SimplexNoise.d.ts,
+examples/jsm/math/OBB.js,{ 
+examples/jsm/math/MeshSurfaceSampler.d.ts,{ 
+examples/jsm/math/Lut.js,{ 
+examples/jsm/math/ImprovedNoise.js,
+examples/jsm/math/ConvexHull.js,{ 
+examples/jsm/physics/CannonPhysics.js,
+examples/jsm/lines/Wireframe.d.ts,{ 'LineMaterial'; 'LineSegmentsGeometry'; 
+examples/jsm/lines/LineMaterial.js,{ 
+examples/jsm/lines/Line2.d.ts,'LineGeometry'; 'LineSegments2'; 'LineMaterial'; 
+examples/jsm/lines/LineSegmentsGeometry.d.ts,{ 
+examples/jsm/lines/Line2.js,".lines/LineSegments2.js"; ".lines/LineGeometry.js"; ".lines/LineMaterial.js"; 
+examples/jsm/lines/LineGeometry.d.ts,{ 'LineSegmentsGeometry'; 
+examples/jsm/lines/LineMaterial.d.ts,{ 
+examples/jsm/lines/Wireframe.js,{ ".lines/LineSegmentsGeometry.js"; ".lines/LineMaterial.js"; 
+examples/jsm/lines/WireframeGeometry2.js,{ ".lines/LineSegmentsGeometry.js"; 
+examples/jsm/lines/WireframeGeometry2.d.ts,{ 'LineSegmentsGeometry'; 
+examples/jsm/lines/LineGeometry.js,".lines/LineSegmentsGeometry.js"; 
+examples/jsm/lines/LineSegments2.d.ts,{ 'LineMaterial'; 'LineSegmentsGeometry'; 
+examples/jsm/lines/LineSegmentsGeometry.js,{ 
+examples/jsm/lines/LineSegments2.js,{ ".lines/LineSegmentsGeometry.js"; ".lines/LineMaterial.js"; 
+examples/jsm/lights/RectAreaLightUniformsLib.d.ts,
+examples/jsm/lights/RectAreaLightUniformsLib.js,{ 
+examples/jsm/lights/LightProbeGenerator.js,{ 
+examples/jsm/lights/LightProbeGenerator.d.ts,{ 
+examples/jsm/webxr/ARButton.d.ts,{ 
+examples/jsm/webxr/ARButton.js,
+examples/jsm/webxr/XRControllerModelFactory.d.ts,{ '.loaders/GLTFLoader'; 
+examples/jsm/webxr/VRButton.js,
+examples/jsm/webxr/VRButton.d.ts,{ 
+examples/jsm/webxr/XRControllerModelFactory.js,{ '.loaders/GLTFLoader.js'; { 
+examples/jsm/offscreen/jank.js,
+examples/jsm/offscreen/scene.js,'...build/three.module.js'; 
+examples/jsm/offscreen/offscreen.js,'scene.js'; 
+examples/jsm/objects/LightningStorm.js,{ ".geometries/LightningStrike.js"; 
+examples/jsm/objects/Lensflare.d.ts,{ 
+examples/jsm/objects/Water.js,{ 
+examples/jsm/objects/Refractor.js,{ 
+examples/jsm/objects/MarchingCubes.d.ts,{ 
+examples/jsm/objects/ShadowMesh.js,{ 
+examples/jsm/objects/Refractor.d.ts,{ 
+examples/jsm/objects/Fire.js,{ 
+examples/jsm/objects/Water2.d.ts,{ 
+examples/jsm/objects/ReflectorRTT.d.ts,'...src/Three'; 'Reflector'; 
+examples/jsm/objects/ShadowMesh.d.ts,{ 
+examples/jsm/objects/ReflectorRTT.js,".objects/Reflector.js"; 
+examples/jsm/objects/Reflector.js,{ 
+examples/jsm/objects/Reflector.d.ts,{ 
+examples/jsm/objects/Lensflare.js,{ 
+examples/jsm/objects/LightningStorm.d.ts,{ '.geometries/LightningStrike'; 
+examples/jsm/objects/Sky.js,{ 
+examples/jsm/objects/Water.d.ts,{ 
+examples/jsm/objects/Sky.d.ts,{ 
+examples/jsm/objects/Water2.js,{ ".objects/Reflector.js"; ".objects/Refractor.js"; 
+examples/jsm/objects/Fire.d.ts,{ 
+examples/jsm/objects/MarchingCubes.js,{ 
+examples/jsm/exporters/TypedGeometryExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/STLExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/MMDExporter.js,{ ".libs/mmdparser.module.js"; 
+examples/jsm/exporters/DRACOExporter.d.ts,{ 
+examples/jsm/exporters/PLYExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/STLExporter.js,{ 
+examples/jsm/exporters/GLTFExporter.js,{ 
+examples/jsm/exporters/DRACOExporter.js,{ 
+examples/jsm/exporters/ColladaExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/OBJExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/PLYExporter.js,{ 
+examples/jsm/exporters/TypedGeometryExporter.js,
+examples/jsm/exporters/OBJExporter.js,{ 
+examples/jsm/exporters/GLTFExporter.d.ts,{ 
+examples/jsm/exporters/MMDExporter.d.ts,'...src/Three'; 
+examples/jsm/exporters/ColladaExporter.js,{ 
+examples/jsm/nodes/core/VarNode.d.ts,'Node'; 'NodeBuilder'; 
+examples/jsm/nodes/core/Node.js,'....build/three.module.js'; 
+examples/jsm/nodes/core/NodeLib.js,
+examples/jsm/nodes/core/StructNode.d.ts,'TempNode'; 'NodeBuilder'; 
+examples/jsm/nodes/core/ExpressionNode.js,'FunctionNode.js'; 
+examples/jsm/nodes/core/FunctionNode.d.ts,'TempNode'; 'NodeBuilder'; 
+examples/jsm/nodes/core/FunctionNode.js,'TempNode.js'; 'NodeLib.js'; 
+examples/jsm/nodes/core/NodeFrame.js,
+examples/jsm/nodes/core/NodeUniform.js,
+examples/jsm/nodes/core/TempNode.js,'....build/three.module.js'; 'Node.js'; 
+examples/jsm/nodes/core/NodeBuilder.js,{ 'NodeUniform.js'; 'NodeUtils.js'; 'NodeLib.js'; 'FunctionNode.js'; 'ConstNode.js'; 'StructNode.js'; '.inputs/Vector2Node.js'; '.inputs/Vector3Node.js'; '.inputs/Vector4Node.js'; '.inputs/TextureNode.js'; '.inputs/CubeTextureNode.js'; '.misc/TextureCubeNode.js'; 
+examples/jsm/nodes/core/NodeFrame.d.ts,{ 'Node'; 
+examples/jsm/nodes/core/NodeUtils.d.ts,'Node'; 
+examples/jsm/nodes/core/FunctionCallNode.d.ts,'Node'; 'FunctionNode'; 'TempNode'; 
+examples/jsm/nodes/core/AttributeNode.js,'Node.js'; 
+examples/jsm/nodes/core/NodeLib.d.ts,'Node'; 'NodeBuilder'; 
+examples/jsm/nodes/core/InputNode.js,'TempNode.js'; 
+examples/jsm/nodes/core/ExpressionNode.d.ts,'FunctionNode'; 
+examples/jsm/nodes/core/VarNode.js,'Node.js'; 
+examples/jsm/nodes/core/AttributeNode.d.ts,'TempNode'; 'NodeBuilder'; 
+examples/jsm/nodes/core/FunctionCallNode.js,'TempNode.js'; 
+examples/jsm/nodes/core/Node.d.ts,'NodeBuilder'; 
+examples/jsm/nodes/core/ConstNode.d.ts,'TempNode'; 'NodeBuilder'; 
+examples/jsm/nodes/core/TempNode.d.ts,'Node'; 'NodeBuilder'; 
+examples/jsm/nodes/core/StructNode.js,'TempNode.js'; 
+examples/jsm/nodes/core/NodeUtils.js,
+examples/jsm/nodes/core/NodeUniform.d.ts,'Node'; 
+examples/jsm/nodes/core/NodeBuilder.d.ts,{ 'Node'; 'NodeUniform'; 
+examples/jsm/nodes/core/ConstNode.js,'TempNode.js'; 
+examples/jsm/nodes/core/InputNode.d.ts,'TempNode'; 'NodeBuilder'; 
+examples/jsm/nodes/math/MathNode.d.ts,'.core/TempNode'; '.core/NodeBuilder'; '.core/Node'; 
+examples/jsm/nodes/math/MathNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/math/OperatorNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/math/CondNode.d.ts,'.core/TempNode'; '.core/NodeBuilder'; '.core/Node'; 
+examples/jsm/nodes/math/CondNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/math/OperatorNode.d.ts,'.core/TempNode'; '.core/Node'; 
+examples/jsm/nodes/procedural/CheckerNode.js,'.core/TempNode.js'; '.core/FunctionNode.js'; '.accessors/UVNode.js'; 
+examples/jsm/nodes/procedural/NoiseNode.js,'.core/TempNode.js'; '.core/FunctionNode.js'; '.accessors/UVNode.js'; 
+examples/jsm/nodes/procedural/NoiseNode.d.ts,'.core/TempNode'; '.core/FunctionNode'; '.accessors/UVNode'; '.utils/UVTransformNode'; 
+examples/jsm/nodes/procedural/CheckerNode.d.ts,'.core/TempNode'; '.core/FunctionNode'; '.accessors/UVNode'; '.utils/UVTransformNode'; 
+examples/jsm/nodes/Nodes.d.ts,
+examples/jsm/nodes/effects/LuminanceNode.d.ts,'.core/TempNode'; '.core/FunctionNode'; '.core/ConstNode'; '.core/Node'; 
+examples/jsm/nodes/effects/LuminanceNode.js,'.core/TempNode.js'; '.core/ConstNode.js'; '.core/FunctionNode.js'; 
+examples/jsm/nodes/effects/ColorAdjustmentNode.d.ts,'.core/TempNode'; '.inputs/FloatNode'; '.core/FunctionNode'; '.core/Node'; 
+examples/jsm/nodes/effects/ColorAdjustmentNode.js,'.core/TempNode.js'; '.core/FunctionNode.js'; 'LuminanceNode.js'; 
+examples/jsm/nodes/effects/BlurNode.js,'....build/three.module.js'; '.core/TempNode.js'; '.core/FunctionNode.js'; '.inputs/FloatNode.js'; '.inputs/Vector2Node.js'; '.accessors/UVNode.js'; 
+examples/jsm/nodes/effects/BlurNode.d.ts,'....src/Three'; '.core/TempNode'; '.core/NodeFrame'; '.accessors/UVNode'; '.inputs/Vector2Node'; '.inputs/FloatNode'; '.core/FunctionNode'; '.inputs/TextureNode'; 
+examples/jsm/nodes/utils/UVTransformNode.d.ts,'.core/ExpressionNode'; '.inputs/Matrix3Node'; '.accessors/UVNode'; 
+examples/jsm/nodes/utils/VelocityNode.d.ts,{ '.core/NodeFrame'; '.inputs/Vector3Node'; 
+examples/jsm/nodes/utils/SpecularMIPLevelNode.js,'.core/TempNode.js'; '.core/FunctionNode.js'; 'MaxMIPLevelNode.js'; 
+examples/jsm/nodes/utils/SwitchNode.d.ts,'.core/Node'; 
+examples/jsm/nodes/utils/UVTransformNode.js,'.core/ExpressionNode.js'; '.inputs/Matrix3Node.js'; '.accessors/UVNode.js'; 
+examples/jsm/nodes/utils/MaxMIPLevelNode.d.ts,'.inputs/FloatNode'; '.core/Node'; 
+examples/jsm/nodes/utils/JoinNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/utils/JoinNode.js,'.core/TempNode.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/utils/BypassNode.js,'.core/Node.js'; 
+examples/jsm/nodes/utils/BypassNode.d.ts,'.core/Node'; 
+examples/jsm/nodes/utils/SwitchNode.js,'.core/Node.js'; 
+examples/jsm/nodes/utils/SubSlot.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/utils/ColorSpaceNode.d.ts,'.core/Node'; '.core/TempNode'; '.core/FunctionNode'; 
+examples/jsm/nodes/utils/SubSlotNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/utils/TimerNode.js,'.inputs/FloatNode.js'; '.core/NodeLib.js'; 
+examples/jsm/nodes/utils/TimerNode.d.ts,'.core/NodeFrame'; '.inputs/FloatNode'; 
+examples/jsm/nodes/utils/ColorSpaceNode.js,{ '.core/TempNode.js'; '.core/ConstNode.js'; '.inputs/FloatNode.js'; '.core/FunctionNode.js'; '.core/ExpressionNode.js'; 
+examples/jsm/nodes/utils/SpecularMIPLevelNode.d.ts,'.core/TempNode'; '.utils/MaxMIPLevelNode'; '.core/FunctionNode'; 
+examples/jsm/nodes/utils/MaxMIPLevelNode.js,'.inputs/FloatNode.js'; 
+examples/jsm/nodes/utils/VelocityNode.js,'....build/three.module.js'; '.inputs/Vector3Node.js'; 
+examples/jsm/nodes/misc/NormalMapNode.d.ts,'.core/TempNode'; '.core/FunctionNode'; '.inputs/TextureNode'; '.inputs/Vector2Node'; 
+examples/jsm/nodes/misc/TextureCubeNode.d.ts,'.core/TempNode'; '.core/NodeBuilder'; '.inputs/TextureNode'; '.inputs/FloatNode'; 'TextureCubeUVNode'; 
+examples/jsm/nodes/misc/TextureCubeUVNode.d.ts,'.core/TempNode'; '.inputs/FloatNode'; '.core/StructNode'; '.core/FunctionNode'; '.core/Node'; 
+examples/jsm/nodes/misc/TextureCubeNode.js,'.core/TempNode.js'; '.inputs/FloatNode.js'; 'TextureCubeUVNode.js'; '.accessors/ReflectNode.js'; '.accessors/NormalNode.js'; 
+examples/jsm/nodes/misc/BumpMapNode.js,'.core/TempNode.js'; '.inputs/FloatNode.js'; '.core/FunctionNode.js'; '.accessors/NormalNode.js'; '.accessors/PositionNode.js'; 
+examples/jsm/nodes/misc/TextureCubeUVNode.js,'.core/TempNode.js'; '.core/ConstNode.js'; '.core/StructNode.js'; '.core/FunctionNode.js'; '.core/FunctionCallNode.js'; '.core/ExpressionNode.js'; '.inputs/FloatNode.js'; '.math/OperatorNode.js'; '.math/MathNode.js'; '.utils/ColorSpaceNode.js'; 
+examples/jsm/nodes/misc/NormalMapNode.js,{ '.core/TempNode.js'; '.inputs/Vector2Node.js'; '.core/FunctionNode.js'; '.accessors/UVNode.js'; '.accessors/NormalNode.js'; '.accessors/PositionNode.js'; 
+examples/jsm/nodes/misc/BumpMapNode.d.ts,'.core/TempNode'; '.inputs/FloatNode'; '.core/FunctionNode'; '.inputs/TextureNode'; 
+examples/jsm/nodes/postprocessing/NodePostProcessing.js,{ '.materials/NodeMaterial.js'; '.inputs/ScreenNode.js'; 
+examples/jsm/nodes/postprocessing/NodePostProcessing.d.ts,{ '.inputs/ScreenNode'; '.materials/NodeMaterial'; '.core/NodeFrame'; 
+examples/jsm/nodes/postprocessing/NodePass.js,'....build/three.module.js'; '..postprocessing/ShaderPass.js'; '.materials/NodeMaterial.js'; '.inputs/ScreenNode.js'; 
+examples/jsm/nodes/postprocessing/NodePass.d.ts,'..postprocessing/ShaderPass'; '.inputs/ScreenNode'; 
+examples/jsm/nodes/accessors/NormalNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/UVNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/ReflectNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/ColorsNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/accessors/ColorsNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/ScreenUVNode.js,'.core/TempNode.js'; 'ResolutionNode.js'; 
+examples/jsm/nodes/accessors/LightNode.js,'.core/TempNode.js'; 
+examples/jsm/nodes/accessors/NormalNode.js,'.core/TempNode.js'; '.core/NodeLib.js'; 
+examples/jsm/nodes/accessors/LightNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/PositionNode.js,'.core/TempNode.js'; '.core/NodeLib.js'; 
+examples/jsm/nodes/accessors/ScreenUVNode.d.ts,'.core/TempNode'; 'ResolutionNode'; 
+examples/jsm/nodes/accessors/CameraNode.d.ts,'....src/Three'; '.core/NodeFrame'; '.core/TempNode'; '.core/FunctionNode'; '.inputs/FloatNode'; 
+examples/jsm/nodes/accessors/CameraNode.js,'.core/TempNode.js'; '.core/FunctionNode.js'; '.inputs/FloatNode.js'; '.accessors/PositionNode.js'; 
+examples/jsm/nodes/accessors/PositionNode.d.ts,'.core/TempNode'; 
+examples/jsm/nodes/accessors/ResolutionNode.js,'....build/three.module.js'; '.inputs/Vector2Node.js'; 
+examples/jsm/nodes/accessors/ResolutionNode.d.ts,'....src/Three'; '.core/NodeFrame'; '.inputs/Vector2Node'; 
+examples/jsm/nodes/accessors/UVNode.js,'.core/TempNode.js'; '.core/NodeLib.js'; 
+examples/jsm/nodes/accessors/ReflectNode.js,'.core/TempNode.js'; 'PositionNode.js'; 'NormalNode.js'; 
+examples/jsm/nodes/Nodes.js,
+examples/jsm/nodes/inputs/TextureNode.d.ts,{ '.core/InputNode'; '.core/NodeBuilder'; '.core/Node'; '.accessors/UVNode'; 
+examples/jsm/nodes/inputs/ReflectorNode.d.ts,'.core/TempNode'; 'Matrix4Node'; '.math/OperatorNode'; '..objects/ReflectorRTT'; 'TextureNode'; '.accessors/PositionNode'; 
+examples/jsm/nodes/inputs/Matrix4Node.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/Matrix4Node.js,'....build/three.module.js'; '.core/InputNode.js'; 
+examples/jsm/nodes/inputs/FloatNode.d.ts,'.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/Vector4Node.js,'....build/three.module.js'; '.core/InputNode.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/inputs/CubeTextureNode.js,'.core/InputNode.js'; '.accessors/ReflectNode.js'; '.utils/ColorSpaceNode.js'; '.core/ExpressionNode.js'; 
+examples/jsm/nodes/inputs/Matrix3Node.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/Matrix3Node.js,'....build/three.module.js'; '.core/InputNode.js'; 
+examples/jsm/nodes/inputs/Vector2Node.js,'....build/three.module.js'; '.core/InputNode.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/inputs/BoolNode.js,'.core/InputNode.js'; 
+examples/jsm/nodes/inputs/Vector3Node.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/Vector4Node.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/Vector3Node.js,'....build/three.module.js'; '.core/InputNode.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/inputs/BoolNode.d.ts,'.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/ScreenNode.d.ts,'.core/NodeBuilder'; 'TextureNode'; '.accessors/UVNode'; 
+examples/jsm/nodes/inputs/ScreenNode.js,'.core/InputNode.js'; 'TextureNode.js'; 
+examples/jsm/nodes/inputs/TextureNode.js,'.core/InputNode.js'; '.accessors/UVNode.js'; '.utils/ColorSpaceNode.js'; '.core/ExpressionNode.js'; 
+examples/jsm/nodes/inputs/PropertyNode.js,'.core/InputNode.js'; 
+examples/jsm/nodes/inputs/PropertyNode.d.ts,'.core/InputNode'; 
+examples/jsm/nodes/inputs/FloatNode.js,'.core/InputNode.js'; 
+examples/jsm/nodes/inputs/IntNode.d.ts,'.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/RTTNode.d.ts,{ '.core/NodeBuilder'; '.core/NodeFrame'; 'TextureNode'; 
+examples/jsm/nodes/inputs/Vector2Node.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/CubeTextureNode.d.ts,'....src/Three'; '.core/InputNode'; '.core/Node'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/ReflectorNode.js,'.core/TempNode.js'; '.core/InputNode.js'; '.accessors/PositionNode.js'; '.math/OperatorNode.js'; 'TextureNode.js'; 'Matrix4Node.js'; 
+examples/jsm/nodes/inputs/ColorNode.d.ts,'....src/Three'; '.core/InputNode'; '.core/NodeBuilder'; 
+examples/jsm/nodes/inputs/RTTNode.js,{ '.core/NodeBuilder.js'; '.materials/NodeMaterial.js'; 'TextureNode.js'; 
+examples/jsm/nodes/inputs/IntNode.js,'.core/InputNode.js'; 
+examples/jsm/nodes/inputs/ColorNode.js,'....build/three.module.js'; '.core/InputNode.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/materials/NodeMaterial.js,{ '.core/NodeBuilder.js'; '.inputs/ColorNode.js'; '.accessors/PositionNode.js'; 'nodes/RawNode.js'; 
+examples/jsm/nodes/materials/StandardNodeMaterial.d.ts,'.core/Node'; 'NodeMaterial'; 
+examples/jsm/nodes/materials/StandardNodeMaterial.js,'nodes/StandardNode.js'; 'NodeMaterial.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/materials/PhongNodeMaterial.js,'nodes/PhongNode.js'; 'NodeMaterial.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/materials/MeshStandardNodeMaterial.js,'nodes/MeshStandardNode.js'; 'NodeMaterial.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/materials/nodes/RawNode.d.ts,'..core/Node'; 
+examples/jsm/nodes/materials/nodes/PhongNode.d.ts,'..core/NodeBuilder'; '..core/Node'; 
+examples/jsm/nodes/materials/nodes/StandardNode.d.ts,'..core/NodeBuilder'; '..core/Node'; 
+examples/jsm/nodes/materials/nodes/RawNode.js,'..core/Node.js'; 
+examples/jsm/nodes/materials/nodes/PhongNode.js,{ '..core/Node.js'; '..inputs/ColorNode.js'; '..inputs/FloatNode.js'; 
+examples/jsm/nodes/materials/nodes/SpriteNode.js,{ '..core/Node.js'; '..inputs/ColorNode.js'; 
+examples/jsm/nodes/materials/nodes/MeshStandardNode.d.ts,{ '..core/NodeBuilder'; 'StandardNode'; '..inputs/PropertyNode'; 
+examples/jsm/nodes/materials/nodes/MeshStandardNode.js,{ 'StandardNode.js'; '..inputs/PropertyNode.js'; '..math/OperatorNode.js'; '..utils/SwitchNode.js'; '..misc/NormalMapNode.js'; 
+examples/jsm/nodes/materials/nodes/StandardNode.js,{ '..core/Node.js'; '..core/ExpressionNode.js'; '..inputs/ColorNode.js'; '..inputs/FloatNode.js'; '..utils/SpecularMIPLevelNode.js'; 
+examples/jsm/nodes/materials/nodes/SpriteNode.d.ts,'..core/NodeBuilder'; '..core/Node'; 
+examples/jsm/nodes/materials/NodeMaterial.d.ts,{ '.core/NodeBuilder'; '.core/NodeFrame'; 'nodes/MeshStandardNode'; 'nodes/RawNode'; 
+examples/jsm/nodes/materials/SpriteNodeMaterial.d.ts,'.core/Node'; 'NodeMaterial'; 
+examples/jsm/nodes/materials/SpriteNodeMaterial.js,'nodes/SpriteNode.js'; 'NodeMaterial.js'; '.core/NodeUtils.js'; 
+examples/jsm/nodes/materials/PhongNodeMaterial.d.ts,'.core/Node'; 'NodeMaterial'; 
+examples/jsm/nodes/materials/MeshStandardNodeMaterial.d.ts,'....src/math/Color'; '....src/textures/Texture'; '....src/textures/CubeTexture'; '....src/math/Vector2'; '.core/Node'; 'NodeMaterial'; 
+examples/jsm/renderers/CSS3DRenderer.d.ts,{ 
+examples/jsm/renderers/SVGRenderer.d.ts,{ 
+examples/jsm/renderers/CSS3DRenderer.js,{ 
+examples/jsm/renderers/CSS2DRenderer.js,{ 
+examples/jsm/renderers/Projector.js,{ 
+examples/jsm/renderers/Projector.d.ts,{ 
+examples/jsm/renderers/CSS2DRenderer.d.ts,{ 
+examples/jsm/renderers/SVGRenderer.js,{ ".renderers/Projector.js"; ".renderers/Projector.js"; ".renderers/Projector.js"; ".renderers/Projector.js"; 
+examples/jsm/effects/ParallaxBarrierEffect.js,{ 
+examples/jsm/effects/AnaglyphEffect.d.ts,{ 
+examples/jsm/effects/StereoEffect.d.ts,{ 
+examples/jsm/effects/AnaglyphEffect.js,{ 
+examples/jsm/effects/AsciiEffect.d.ts,{ 
+examples/jsm/effects/OutlineEffect.d.ts,{ 
+examples/jsm/effects/PeppersGhostEffect.js,{ 
+examples/jsm/effects/AsciiEffect.js,
+examples/jsm/effects/PeppersGhostEffect.d.ts,{ 
+examples/jsm/effects/ParallaxBarrierEffect.d.ts,{ 
+examples/jsm/effects/OutlineEffect.js,{ 
+examples/jsm/effects/StereoEffect.js,{ 
+examples/jsm/utils/TypedArrayUtils.d.ts,
+examples/jsm/utils/UVsDebug.d.ts,'...src/Three'; 
+examples/jsm/utils/RoughnessMipmapper.js,{ 
+examples/jsm/utils/GeometryUtils.d.ts,{ 
+examples/jsm/utils/SceneUtils.js,{ 
+examples/jsm/utils/GeometryCompressionUtils.d.ts,'...src/Three'; 
+examples/jsm/utils/SkeletonUtils.d.ts,'...src/Three'; 
+examples/jsm/utils/GeometryCompressionUtils.js,{ 
+examples/jsm/utils/BufferGeometryUtils.d.ts,'...src/Three'; 
+examples/jsm/utils/SceneUtils.d.ts,'...src/Three'; 
+examples/jsm/utils/ShadowMapViewer.js,{ ".shaders/UnpackDepthRGBAShader.js"; 
+examples/jsm/utils/SkeletonUtils.js,{ 
+examples/jsm/utils/BufferGeometryUtils.js,{ 
+examples/jsm/utils/ShadowMapViewer.d.ts,'...src/Three'; 
+examples/jsm/utils/TypedArrayUtils.js,
+examples/jsm/utils/GeometryUtils.js,{ 
+examples/jsm/utils/UVsDebug.js,{ 
+examples/jsm/utils/RoughnessMipmapper.d.ts,{ 
+examples/jsm/misc/MD2CharacterComplex.d.ts,{ 
+examples/jsm/misc/GPUComputationRenderer.d.ts,{ 
+examples/jsm/misc/Volume.d.ts,{ 'VolumeSlice.js'; 
+examples/jsm/misc/MorphBlendMesh.js,{ 
+examples/jsm/misc/ConvexObjectBreaker.js,{ ".geometries/ConvexGeometry.js"; 
+examples/jsm/misc/RollerCoaster.js,{ 
+examples/jsm/misc/MorphAnimMesh.d.ts,{ 
+examples/jsm/misc/GPUComputationRenderer.js,{ 
+examples/jsm/misc/MorphBlendMesh.d.ts,{ 
+examples/jsm/misc/ConvexObjectBreaker.d.ts,{ 
+examples/jsm/misc/Ocean.js,{ ".shaders/OceanShaders.js"; 
+examples/jsm/misc/VolumeSlice.d.ts,{ 'Volume'; 
+examples/jsm/misc/Ocean.d.ts,{ 
+examples/jsm/misc/Gyroscope.d.ts,{ 
+examples/jsm/misc/TubePainter.d.ts,{ 
+examples/jsm/misc/MD2Character.js,{ ".loaders/MD2Loader.js"; 
+examples/jsm/misc/MorphAnimMesh.js,{ 
+examples/jsm/misc/Volume.js,{ ".misc/VolumeSlice.js"; 
+examples/jsm/misc/Gyroscope.js,{ 
+examples/jsm/misc/VolumeSlice.js,{ 
+examples/jsm/misc/MD2CharacterComplex.js,{ ".loaders/MD2Loader.js"; ".misc/MorphBlendMesh.js"; 
+examples/jsm/misc/MD2Character.d.ts,{ 
+examples/jsm/misc/RollerCoaster.d.ts,{ 
+examples/jsm/misc/TubePainter.js,{ 
+examples/jsm/postprocessing/EffectComposer.d.ts,{ 'Pass'; 'ShaderPass'; 
+examples/jsm/postprocessing/HalftonePass.js,{ ".postprocessing/Pass.js"; ".shaders/HalftoneShader.js"; 
+examples/jsm/postprocessing/SSAARenderPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/MaskPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/SSAARenderPass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; 
+examples/jsm/postprocessing/TexturePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/SSAOPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/FilmPass.js,{ ".postprocessing/Pass.js"; ".shaders/FilmShader.js"; 
+examples/jsm/postprocessing/Pass.js,{ 
+examples/jsm/postprocessing/UnrealBloomPass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; ".shaders/LuminosityHighPassShader.js"; 
+examples/jsm/postprocessing/SavePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/RenderPass.js,".postprocessing/Pass.js"; 
+examples/jsm/postprocessing/OutlinePass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; 
+examples/jsm/postprocessing/SAOPass.js,{ ".postprocessing/Pass.js"; ".shaders/SAOShader.js"; ".shaders/DepthLimitedBlurShader.js"; ".shaders/DepthLimitedBlurShader.js"; ".shaders/CopyShader.js"; ".shaders/UnpackDepthRGBAShader.js"; 
+examples/jsm/postprocessing/TAARenderPass.d.ts,{ 'SSAARenderPass'; 
+examples/jsm/postprocessing/RenderPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/DotScreenPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/ShaderPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/AdaptiveToneMappingPass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; ".shaders/LuminosityShader.js"; ".shaders/ToneMapShader.js"; 
+examples/jsm/postprocessing/TAARenderPass.js,{ ".postprocessing/SSAARenderPass.js"; 
+examples/jsm/postprocessing/BloomPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/ShaderPass.js,{ ".postprocessing/Pass.js"; 
+examples/jsm/postprocessing/ClearPass.js,".postprocessing/Pass.js"; 
+examples/jsm/postprocessing/GlitchPass.js,{ ".postprocessing/Pass.js"; ".shaders/DigitalGlitch.js"; 
+examples/jsm/postprocessing/Pass.d.ts,{ 
+examples/jsm/postprocessing/EffectComposer.js,{ ".shaders/CopyShader.js"; ".postprocessing/ShaderPass.js"; ".postprocessing/MaskPass.js"; ".postprocessing/MaskPass.js"; 
+examples/jsm/postprocessing/SMAAPass.js,{ ".postprocessing/Pass.js"; ".shaders/SMAAShader.js"; ".shaders/SMAAShader.js"; ".shaders/SMAAShader.js"; 
+examples/jsm/postprocessing/AfterimagePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/CubeTexturePass.js,{ ".postprocessing/Pass.js"; 
+examples/jsm/postprocessing/AfterimagePass.js,{ ".postprocessing/Pass.js"; ".shaders/AfterimageShader.js"; 
+examples/jsm/postprocessing/SSAOPass.js,{ ".postprocessing/Pass.js"; ".math/SimplexNoise.js"; ".shaders/SSAOShader.js"; ".shaders/SSAOShader.js"; ".shaders/SSAOShader.js"; ".shaders/CopyShader.js"; 
+examples/jsm/postprocessing/MaskPass.js,".postprocessing/Pass.js"; 
+examples/jsm/postprocessing/BloomPass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; ".shaders/ConvolutionShader.js"; 
+examples/jsm/postprocessing/AdaptiveToneMappingPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/SMAAPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/DotScreenPass.js,{ ".postprocessing/Pass.js"; ".shaders/DotScreenShader.js"; 
+examples/jsm/postprocessing/TexturePass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; 
+examples/jsm/postprocessing/UnrealBloomPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/GlitchPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/SavePass.js,{ ".postprocessing/Pass.js"; ".shaders/CopyShader.js"; 
+examples/jsm/postprocessing/FilmPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/OutlinePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/CubeTexturePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/ClearPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/BokehPass.js,{ ".postprocessing/Pass.js"; ".shaders/BokehShader.js"; 
+examples/jsm/postprocessing/HalftonePass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/SAOPass.d.ts,{ 'Pass'; 
+examples/jsm/postprocessing/BokehPass.d.ts,{ 'Pass'; 
+examples/jsm/csm/Shader.js,'...build/three.module.js'; 
+examples/jsm/csm/CSMHelper.js,{ 
+examples/jsm/csm/Frustum.js,'...build/three.module.js'; 
+examples/jsm/csm/CSM.js,{ 'Frustum.js'; 'Shader.js'; 
+examples/jsm/helpers/LightProbeHelper.d.ts,{ 
+examples/jsm/helpers/VertexNormalsHelper.js,{ 
+examples/jsm/helpers/FaceNormalsHelper.js,{ 
+examples/jsm/helpers/PositionalAudioHelper.js,{ 
+examples/jsm/helpers/LightProbeHelper.js,{ 
+examples/jsm/helpers/FaceNormalsHelper.d.ts,{ 
+examples/jsm/helpers/VertexTangentsHelper.js,{ 
+examples/jsm/helpers/VertexTangentsHelper.d.ts,{ 
+examples/jsm/helpers/VertexNormalsHelper.d.ts,{ 
+examples/jsm/helpers/PositionalAudioHelper.d.ts,{ 
+examples/jsm/helpers/RectAreaLightHelper.js,{ 
+examples/jsm/helpers/RectAreaLightHelper.d.ts,{ 
+examples/jsm/shaders/FresnelShader.d.ts,{ 
+examples/jsm/shaders/BlendShader.js,
+examples/jsm/shaders/RGBShiftShader.js,
+examples/jsm/shaders/LuminosityHighPassShader.js,{ 
+examples/jsm/shaders/HorizontalBlurShader.d.ts,{ 
+examples/jsm/shaders/SMAAShader.js,{ 
+examples/jsm/shaders/KaleidoShader.d.ts,{ 
+examples/jsm/shaders/DotScreenShader.d.ts,{ 
+examples/jsm/shaders/TriangleBlurShader.js,{ 
+examples/jsm/shaders/BokehShader.d.ts,{ 
+examples/jsm/shaders/OceanShaders.js,{ 
+examples/jsm/shaders/PixelShader.d.ts,{ 
+examples/jsm/shaders/TranslucentShader.js,{ 
+examples/jsm/shaders/ColorifyShader.d.ts,{ 
+examples/jsm/shaders/DOFMipMapShader.d.ts,{ 
+examples/jsm/shaders/GammaCorrectionShader.d.ts,{ 
+examples/jsm/shaders/FXAAShader.d.ts,{ 
+examples/jsm/shaders/FreiChenShader.js,{ 
+examples/jsm/shaders/HalftoneShader.d.ts,{ 
+examples/jsm/shaders/HueSaturationShader.js,
+examples/jsm/shaders/BasicShader.d.ts,
+examples/jsm/shaders/PixelShader.js,
+examples/jsm/shaders/VerticalBlurShader.d.ts,{ 
+examples/jsm/shaders/MirrorShader.js,
+examples/jsm/shaders/ParallaxShader.js,
+examples/jsm/shaders/FresnelShader.js,
+examples/jsm/shaders/VolumeShader.d.ts,{ 
+examples/jsm/shaders/BasicShader.js,
+examples/jsm/shaders/DotScreenShader.js,{ 
+examples/jsm/shaders/SSAOShader.d.ts,{ 
+examples/jsm/shaders/ColorCorrectionShader.js,{ 
+examples/jsm/shaders/SepiaShader.js,
+examples/jsm/shaders/ToneMapShader.js,
+examples/jsm/shaders/DepthLimitedBlurShader.d.ts,{ 
+examples/jsm/shaders/ToneMapShader.d.ts,{ 
+examples/jsm/shaders/TechnicolorShader.js,
+examples/jsm/shaders/CopyShader.js,
+examples/jsm/shaders/BrightnessContrastShader.d.ts,{ 
+examples/jsm/shaders/HueSaturationShader.d.ts,{ 
+examples/jsm/shaders/ColorifyShader.js,{ 
+examples/jsm/shaders/BlendShader.d.ts,{ 
+examples/jsm/shaders/NormalMapShader.js,{ 
+examples/jsm/shaders/SAOShader.js,{ 
+examples/jsm/shaders/BleachBypassShader.d.ts,{ 
+examples/jsm/shaders/TechnicolorShader.d.ts,{ 
+examples/jsm/shaders/LuminosityShader.js,
+examples/jsm/shaders/UnpackDepthRGBAShader.js,
+examples/jsm/shaders/ColorCorrectionShader.d.ts,{ 
+examples/jsm/shaders/VignetteShader.d.ts,{ 
+examples/jsm/shaders/BokehShader2.d.ts,{ 
+examples/jsm/shaders/FocusShader.js,
+examples/jsm/shaders/GodRaysShader.js,{ 
+examples/jsm/shaders/VignetteShader.js,
+examples/jsm/shaders/HorizontalTiltShiftShader.js,
+examples/jsm/shaders/FreiChenShader.d.ts,{ 
+examples/jsm/shaders/HorizontalTiltShiftShader.d.ts,{ 
+examples/jsm/shaders/FXAAShader.js,{ 
+examples/jsm/shaders/FilmShader.js,
+examples/jsm/shaders/NormalMapShader.d.ts,{ 
+examples/jsm/shaders/AfterimageShader.js,
+examples/jsm/shaders/ConvolutionShader.js,{ 
+examples/jsm/shaders/FilmShader.d.ts,{ 
+examples/jsm/shaders/BrightnessContrastShader.js,
+examples/jsm/shaders/HalftoneShader.js,
+examples/jsm/shaders/ToonShader.js,{ 
+examples/jsm/shaders/DigitalGlitch.d.ts,{ 
+examples/jsm/shaders/VerticalTiltShiftShader.js,
+examples/jsm/shaders/TriangleBlurShader.d.ts,{ 
+examples/jsm/shaders/DigitalGlitch.js,
+examples/jsm/shaders/SMAAShader.d.ts,{ 
+examples/jsm/shaders/ToonShader.d.ts,{ 
+examples/jsm/shaders/GodRaysShader.d.ts,{ 
+examples/jsm/shaders/SSAOShader.js,{ 
+examples/jsm/shaders/UnpackDepthRGBAShader.d.ts,{ 
+examples/jsm/shaders/SobelOperatorShader.js,{ 
+examples/jsm/shaders/DepthLimitedBlurShader.js,{ 
+examples/jsm/shaders/VerticalBlurShader.js,
+examples/jsm/shaders/CopyShader.d.ts,{ 
+examples/jsm/shaders/SepiaShader.d.ts,{ 
+examples/jsm/shaders/SAOShader.d.ts,{ 
+examples/jsm/shaders/DOFMipMapShader.js,
+examples/jsm/shaders/OceanShaders.d.ts,{ 
+examples/jsm/shaders/SobelOperatorShader.d.ts,{ 
+examples/jsm/shaders/GammaCorrectionShader.js,
+examples/jsm/shaders/FocusShader.d.ts,{ 
+examples/jsm/shaders/AfterimageShader.d.ts,{ 
+examples/jsm/shaders/BokehShader2.js,{ 
+examples/jsm/shaders/BleachBypassShader.js,
+examples/jsm/shaders/VerticalTiltShiftShader.d.ts,{ 
+examples/jsm/shaders/KaleidoShader.js,
+examples/jsm/shaders/WaterRefractionShader.js,
+examples/jsm/shaders/HorizontalBlurShader.js,
+examples/jsm/shaders/LuminosityHighPassShader.d.ts,{ 
+examples/jsm/shaders/TranslucentShader.d.ts,{ 
+examples/jsm/shaders/ParallaxShader.d.ts,{ 
+examples/jsm/shaders/ConvolutionShader.d.ts,{ 
+examples/jsm/shaders/WaterRefractionShader.d.ts,{ 
+examples/jsm/shaders/RGBShiftShader.d.ts,{ 
+examples/jsm/shaders/MirrorShader.d.ts,{ 
+examples/jsm/shaders/BokehShader.js,
+examples/jsm/shaders/VolumeShader.js,{ 
+examples/jsm/shaders/LuminosityShader.d.ts,{ 
+examples/jsm/curves/NURBSUtils.d.ts,{ 
+examples/jsm/curves/CurveExtras.js,{ 
+examples/jsm/curves/CurveExtras.d.ts,{ 
+examples/jsm/curves/NURBSSurface.js,{ ".curves/NURBSUtils.js"; 
+examples/jsm/curves/NURBSCurve.js,{ ".curves/NURBSUtils.js"; 
+examples/jsm/curves/NURBSUtils.js,{ 
+examples/jsm/curves/NURBSCurve.d.ts,{ 
+examples/jsm/curves/NURBSSurface.d.ts,{ 
+examples/jsm/animation/TimelinerController.js,{ 
+examples/jsm/animation/CCDIKSolver.d.ts,{ 
+examples/jsm/animation/AnimationClipCreator.d.ts,{ 
+examples/jsm/animation/MMDAnimationHelper.js,{ ".animation/CCDIKSolver.js"; ".animation/MMDPhysics.js"; 
+examples/jsm/animation/AnimationClipCreator.js,{ 
+examples/jsm/animation/CCDIKSolver.js,{ 
+examples/jsm/animation/TimelinerController.d.ts,{ 
+examples/jsm/animation/MMDPhysics.js,{ 
+examples/jsm/animation/MMDPhysics.d.ts,{ 
+examples/jsm/animation/MMDAnimationHelper.d.ts,{ 
+examples/jsm/interactive/SelectionHelper.js,{ 
+examples/jsm/interactive/SelectionBox.d.ts,{ 
+examples/jsm/interactive/SelectionBox.js,{ 
+examples/jsm/interactive/SelectionHelper.d.ts,{ 'SelectionBox'; 
+examples/jsm/modifiers/TessellateModifier.js,{ 
+examples/jsm/modifiers/SubdivisionModifier.d.ts,{ 
+examples/jsm/modifiers/ExplodeModifier.js,
+examples/jsm/modifiers/SubdivisionModifier.js,{ 
+examples/jsm/modifiers/SimplifyModifier.js,{ 
+examples/jsm/modifiers/SimplifyModifier.d.ts,{ 
+examples/jsm/modifiers/ExplodeModifier.d.ts,{ 
+examples/jsm/modifiers/TessellateModifier.d.ts,{ 
+examples/jsm/geometries/ConvexGeometry.js,{ ".math/ConvexHull.js"; 
+examples/jsm/geometries/LightningStrike.d.ts,{ 
+examples/jsm/geometries/TeapotBufferGeometry.js,{ 
+examples/jsm/geometries/TeapotBufferGeometry.d.ts,{ 
+examples/jsm/geometries/DecalGeometry.d.ts,{ 
+examples/jsm/geometries/ConvexGeometry.d.ts,{ 
+examples/jsm/geometries/DecalGeometry.js,{ 
+examples/jsm/geometries/ParametricGeometries.js,{ 
+examples/jsm/geometries/BoxLineGeometry.d.ts,{ 
+examples/jsm/geometries/ParametricGeometries.d.ts,{ 
+examples/jsm/geometries/LightningStrike.js,{ ".math/SimplexNoise.js"; 
+examples/jsm/geometries/BoxLineGeometry.js,{ 
+examples/jsm/loaders/LDrawLoader.js,{ 
+examples/jsm/loaders/PCDLoader.d.ts,{ 
+examples/jsm/loaders/MDDLoader.d.ts,{ 
+examples/jsm/loaders/DRACOLoader.js,{ 
+examples/jsm/loaders/GCodeLoader.d.ts,{ 
+examples/jsm/loaders/NRRDLoader.js,{ ".libs/gunzip.module.min.js"; ".misc/Volume.js"; 
+examples/jsm/loaders/BasisTextureLoader.d.ts,{ 
+examples/jsm/loaders/GLTFLoader.js,{ 
+examples/jsm/loaders/RGBELoader.js,{ 
+examples/jsm/loaders/OBJLoader2.js,{ "obj2/worker/parallel/OBJLoader2Parser.js"; "obj2/shared/MeshReceiver.js"; "obj2/shared/MaterialHandler.js"; 
+examples/jsm/loaders/OBJLoader2.d.ts,{ 'obj2/worker/parallel/OBJLoader2Parser'; 'obj2/shared/MaterialHandler'; 'obj2/shared/MeshReceiver'; 
+examples/jsm/loaders/PDBLoader.d.ts,{ 
+examples/jsm/loaders/AWDLoader.d.ts,{ 
+examples/jsm/loaders/TTFLoader.d.ts,{ 
+examples/jsm/loaders/FBXLoader.js,{ ".libs/inflate.module.min.js"; ".curves/NURBSCurve.js"; ); 
+examples/jsm/loaders/MMDLoader.js,{ ".loaders/TGALoader.js"; ".libs/mmdparser.module.js"; 
+examples/jsm/loaders/GLTFLoader.d.ts,{ 'DRACOLoader'; 'DDSLoader'; 
+examples/jsm/loaders/MTLLoader.js,{ 
+examples/jsm/loaders/BVHLoader.d.ts,{ 
+examples/jsm/loaders/AssimpLoader.js,{ 
+examples/jsm/loaders/DDSLoader.js,{ 
+examples/jsm/loaders/HDRCubeTextureLoader.js,{ ".loaders/RGBELoader.js"; 
+examples/jsm/loaders/obj2/worker/main/WorkerExecutionSupport.d.ts,
+examples/jsm/loaders/obj2/worker/main/WorkerExecutionSupport.js,
+examples/jsm/loaders/obj2/worker/parallel/WorkerRunner.d.ts,
+examples/jsm/loaders/obj2/worker/parallel/jsm/OBJLoader2Worker.js,".OBJLoader2Parser.js"; { 
+examples/jsm/loaders/obj2/worker/parallel/OBJLoader2Parser.js,
+examples/jsm/loaders/obj2/worker/parallel/OBJLoader2Parser.d.ts,
+examples/jsm/loaders/obj2/worker/parallel/WorkerRunner.js,
+examples/jsm/loaders/obj2/utils/CodeSerializer.d.ts,
+examples/jsm/loaders/obj2/utils/CodeSerializer.js,
+examples/jsm/loaders/obj2/shared/MaterialHandler.js,{ 
+examples/jsm/loaders/obj2/shared/MeshReceiver.d.ts,{ 'MaterialHandler'; 
+examples/jsm/loaders/obj2/shared/MeshReceiver.js,{ 
+examples/jsm/loaders/obj2/shared/MaterialHandler.d.ts,{ 
+examples/jsm/loaders/obj2/bridge/MtlObjBridge.js,"....jsm/loaders/MTLLoader.js"; 
+examples/jsm/loaders/obj2/bridge/MtlObjBridge.d.ts,{ 
+examples/jsm/loaders/BasisTextureLoader.js,{ 
+examples/jsm/loaders/LWOLoader.d.ts,{ 
+examples/jsm/loaders/AMFLoader.d.ts,{ 
+examples/jsm/loaders/KTXLoader.js,{ 
+examples/jsm/loaders/FBXLoader.d.ts,{ 
+examples/jsm/loaders/HDRCubeTextureLoader.d.ts,{ 'RGBELoader'; 
+examples/jsm/loaders/PRWMLoader.js,{ 
+examples/jsm/loaders/GCodeLoader.js,{ 
+examples/jsm/loaders/AMFLoader.js,{ 
+examples/jsm/loaders/OBJLoader.d.ts,{ { 
+examples/jsm/loaders/EXRLoader.d.ts,{ 
+examples/jsm/loaders/PCDLoader.js,{ 
+examples/jsm/loaders/EXRLoader.js,{ ".libs/inflate.module.min.js"; ); 
+examples/jsm/loaders/TTFLoader.js,{ 
+examples/jsm/loaders/OBJLoader2Parallel.d.ts,{ 'OBJLoader2'; 'obj2/worker/main/WorkerExecutionSupport'; 
+examples/jsm/loaders/OBJLoader2Parallel.js,{ { "obj2/utils/CodeSerializer.js"; "OBJLoader2.js"; "obj2/worker/parallel/OBJLoader2Parser.js"; { 
+examples/jsm/loaders/VRMLLoader.js,{ ".libs/chevrotain.module.min.js"; 
+examples/jsm/loaders/SVGLoader.js,{ 
+examples/jsm/loaders/XLoader.js,{ 
+examples/jsm/loaders/MD2Loader.d.ts,{ 
+examples/jsm/loaders/XLoader.d.ts,{ 
+examples/jsm/loaders/PVRLoader.d.ts,{ 
+examples/jsm/loaders/VTKLoader.js,{ ".libs/inflate.module.min.js"; 
+examples/jsm/loaders/ColladaLoader.d.ts,{ 
+examples/jsm/loaders/MD2Loader.js,{ 
+examples/jsm/loaders/TGALoader.d.ts,{ 
+examples/jsm/loaders/OBJLoader.js,{ 
+examples/jsm/loaders/3MFLoader.d.ts,{ 
+examples/jsm/loaders/SVGLoader.d.ts,{ 
+examples/jsm/loaders/STLLoader.js,{ 
+examples/jsm/loaders/STLLoader.d.ts,{ 
+examples/jsm/loaders/PLYLoader.d.ts,{ 
+examples/jsm/loaders/3MFLoader.js,{ 
+examples/jsm/loaders/MTLLoader.d.ts,{ 
+examples/jsm/loaders/RGBELoader.d.ts,{ 
+examples/jsm/loaders/NodeMaterialLoader.js,{ ".nodes/Nodes.js"; 
+examples/jsm/loaders/ColladaLoader.js,{ ".loaders/TGALoader.js"; 
+examples/jsm/loaders/PVRLoader.js,{ 
+examples/jsm/loaders/VTKLoader.d.ts,{ 
+examples/jsm/loaders/PLYLoader.js,{ 
+examples/jsm/loaders/AWDLoader.js,{ 
+examples/jsm/loaders/KMZLoader.js,{ ".loaders/ColladaLoader.js"; 
+examples/jsm/loaders/TDSLoader.js,{ 
+examples/jsm/loaders/DRACOLoader.d.ts,{ 
+examples/jsm/loaders/VRMLLoader.d.ts,{ 
+examples/jsm/loaders/BVHLoader.js,{ 
+examples/jsm/loaders/PRWMLoader.d.ts,{ 
+examples/jsm/loaders/MMDLoader.d.ts,{ 
+examples/jsm/loaders/LDrawLoader.d.ts,{ 
+examples/jsm/loaders/TDSLoader.d.ts,{ 
+examples/jsm/loaders/TGALoader.js,{ 
+examples/jsm/loaders/LWOLoader.js,{ 
+examples/jsm/loaders/MDDLoader.js,{ 
+examples/jsm/loaders/NRRDLoader.d.ts,{ { 
+examples/jsm/loaders/KMZLoader.d.ts,{ 'ColladaLoader'; 
+examples/jsm/loaders/VRMLoader.d.ts,{ 'GLTFLoader'; 'DRACOLoader'; 
+examples/jsm/loaders/KTXLoader.d.ts,{ 
+examples/jsm/loaders/AssimpLoader.d.ts,{ 
+examples/jsm/loaders/VRMLoader.js,{ ".loaders/GLTFLoader.js"; 
+examples/jsm/loaders/DDSLoader.d.ts,{ 
+examples/jsm/loaders/PDBLoader.js,{ 
+examples/jsm/libs/gunzip.module.min.js,
+examples/jsm/libs/chevrotain.module.min.js,
+examples/jsm/libs/stats.module.d.ts,
+examples/jsm/libs/dat.gui.module.js,
+examples/jsm/libs/inflate.module.min.js,
+examples/jsm/libs/tween.module.min.js,
+examples/jsm/libs/motion-controllers.module.js,
+examples/jsm/libs/mmdparser.module.js,
+examples/jsm/libs/stats.module.js,
+examples/models/obj/verify/gulpfile.js,
+examples/files.js,
+examples/js/WebGL.js,
+examples/js/cameras/CinematicCamera.js,
+examples/js/controls/DeviceOrientationControls.js,
+examples/js/controls/TrackballControls.js,
+examples/js/controls/FirstPersonControls.js,
+examples/js/controls/DragControls.js,
+examples/js/controls/FlyControls.js,
+examples/js/controls/PointerLockControls.js,
+examples/js/controls/TransformControls.js,
+examples/js/controls/OrbitControls.js,
+examples/js/math/ColorConverter.js,
+examples/js/math/SimplexNoise.js,
+examples/js/math/Lut.js,
+examples/js/math/ImprovedNoise.js,
+examples/js/math/ConvexHull.js,
+examples/js/lines/LineMaterial.js,
+examples/js/lines/Line2.js,
+examples/js/lines/Wireframe.js,
+examples/js/lines/WireframeGeometry2.js,
+examples/js/lines/LineGeometry.js,
+examples/js/lines/LineSegmentsGeometry.js,
+examples/js/lines/LineSegments2.js,
+examples/js/lights/RectAreaLightUniformsLib.js,
+examples/js/lights/LightProbeGenerator.js,
+examples/js/objects/LightningStorm.js,
+examples/js/objects/Water.js,
+examples/js/objects/Refractor.js,
+examples/js/objects/ShadowMesh.js,
+examples/js/objects/Fire.js,
+examples/js/objects/ReflectorRTT.js,
+examples/js/objects/Reflector.js,
+examples/js/objects/Lensflare.js,
+examples/js/objects/Sky.js,
+examples/js/objects/Water2.js,
+examples/js/objects/MarchingCubes.js,
+examples/js/exporters/MMDExporter.js,
+examples/js/exporters/STLExporter.js,
+examples/js/exporters/GLTFExporter.js,
+examples/js/exporters/DRACOExporter.js,
+examples/js/exporters/PLYExporter.js,
+examples/js/exporters/TypedGeometryExporter.js,
+examples/js/exporters/OBJExporter.js,
+examples/js/exporters/ColladaExporter.js,
+examples/js/renderers/CSS3DRenderer.js,
+examples/js/renderers/CSS2DRenderer.js,
+examples/js/renderers/Projector.js,
+examples/js/renderers/SVGRenderer.js,
+examples/js/effects/ParallaxBarrierEffect.js,
+examples/js/effects/AnaglyphEffect.js,
+examples/js/effects/PeppersGhostEffect.js,
+examples/js/effects/AsciiEffect.js,
+examples/js/effects/OutlineEffect.js,
+examples/js/effects/StereoEffect.js,
+examples/js/utils/SceneUtils.js,
+examples/js/utils/ShadowMapViewer.js,
+examples/js/utils/SkeletonUtils.js,
+examples/js/utils/BufferGeometryUtils.js,
+examples/js/utils/TypedArrayUtils.js,
+examples/js/utils/GeometryUtils.js,
+examples/js/utils/UVsDebug.js,
+examples/js/misc/MorphBlendMesh.js,
+examples/js/misc/ConvexObjectBreaker.js,
+examples/js/misc/RollerCoaster.js,
+examples/js/misc/GPUComputationRenderer.js,
+examples/js/misc/Ocean.js,
+examples/js/misc/MD2Character.js,
+examples/js/misc/MorphAnimMesh.js,
+examples/js/misc/Volume.js,
+examples/js/misc/Gyroscope.js,
+examples/js/misc/VolumeSlice.js,
+examples/js/misc/MD2CharacterComplex.js,
+examples/js/postprocessing/HalftonePass.js,
+examples/js/postprocessing/SSAARenderPass.js,
+examples/js/postprocessing/FilmPass.js,
+examples/js/postprocessing/UnrealBloomPass.js,
+examples/js/postprocessing/RenderPass.js,
+examples/js/postprocessing/OutlinePass.js,
+examples/js/postprocessing/SAOPass.js,
+examples/js/postprocessing/AdaptiveToneMappingPass.js,
+examples/js/postprocessing/TAARenderPass.js,
+examples/js/postprocessing/ShaderPass.js,
+examples/js/postprocessing/ClearPass.js,
+examples/js/postprocessing/GlitchPass.js,
+examples/js/postprocessing/EffectComposer.js,
+examples/js/postprocessing/SMAAPass.js,
+examples/js/postprocessing/CubeTexturePass.js,
+examples/js/postprocessing/AfterimagePass.js,
+examples/js/postprocessing/SSAOPass.js,
+examples/js/postprocessing/MaskPass.js,
+examples/js/postprocessing/BloomPass.js,
+examples/js/postprocessing/DotScreenPass.js,
+examples/js/postprocessing/TexturePass.js,
+examples/js/postprocessing/SavePass.js,
+examples/js/postprocessing/BokehPass.js,
+examples/js/shaders/BlendShader.js,
+examples/js/shaders/RGBShiftShader.js,
+examples/js/shaders/LuminosityHighPassShader.js,
+examples/js/shaders/SMAAShader.js,
+examples/js/shaders/TriangleBlurShader.js,
+examples/js/shaders/OceanShaders.js,
+examples/js/shaders/TranslucentShader.js,
+examples/js/shaders/FreiChenShader.js,
+examples/js/shaders/HueSaturationShader.js,
+examples/js/shaders/PixelShader.js,
+examples/js/shaders/MirrorShader.js,
+examples/js/shaders/ParallaxShader.js,
+examples/js/shaders/FresnelShader.js,
+examples/js/shaders/BasicShader.js,
+examples/js/shaders/DotScreenShader.js,
+examples/js/shaders/ColorCorrectionShader.js,
+examples/js/shaders/SepiaShader.js,
+examples/js/shaders/ToneMapShader.js,
+examples/js/shaders/TechnicolorShader.js,
+examples/js/shaders/CopyShader.js,
+examples/js/shaders/ColorifyShader.js,
+examples/js/shaders/NormalMapShader.js,
+examples/js/shaders/SAOShader.js,
+examples/js/shaders/LuminosityShader.js,
+examples/js/shaders/UnpackDepthRGBAShader.js,
+examples/js/shaders/FocusShader.js,
+examples/js/shaders/GodRaysShader.js,
+examples/js/shaders/VignetteShader.js,
+examples/js/shaders/HorizontalTiltShiftShader.js,
+examples/js/shaders/FXAAShader.js,
+examples/js/shaders/FilmShader.js,
+examples/js/shaders/AfterimageShader.js,
+examples/js/shaders/ConvolutionShader.js,
+examples/js/shaders/BrightnessContrastShader.js,
+examples/js/shaders/HalftoneShader.js,
+examples/js/shaders/ToonShader.js,
+examples/js/shaders/VerticalTiltShiftShader.js,
+examples/js/shaders/DigitalGlitch.js,
+examples/js/shaders/SSAOShader.js,
+examples/js/shaders/SobelOperatorShader.js,
+examples/js/shaders/DepthLimitedBlurShader.js,
+examples/js/shaders/VerticalBlurShader.js,
+examples/js/shaders/DOFMipMapShader.js,
+examples/js/shaders/GammaCorrectionShader.js,
+examples/js/shaders/BokehShader2.js,
+examples/js/shaders/BleachBypassShader.js,
+examples/js/shaders/KaleidoShader.js,
+examples/js/shaders/WaterRefractionShader.js,
+examples/js/shaders/HorizontalBlurShader.js,
+examples/js/shaders/BokehShader.js,
+examples/js/shaders/VolumeShader.js,
+examples/js/curves/CurveExtras.js,
+examples/js/curves/NURBSSurface.js,
+examples/js/curves/NURBSCurve.js,
+examples/js/curves/NURBSUtils.js,
+examples/js/animation/TimelinerController.js,
+examples/js/animation/MMDAnimationHelper.js,
+examples/js/animation/AnimationClipCreator.js,
+examples/js/animation/CCDIKSolver.js,
+examples/js/animation/MMDPhysics.js,
+examples/js/interactive/SelectionHelper.js,
+examples/js/interactive/SelectionBox.js,
+examples/js/vr/HelioWebXRPolyfill.js,
+examples/js/modifiers/TessellateModifier.js,
+examples/js/modifiers/ExplodeModifier.js,
+examples/js/modifiers/SubdivisionModifier.js,
+examples/js/modifiers/SimplifyModifier.js,
+examples/js/geometries/ConvexGeometry.js,
+examples/js/geometries/TeapotBufferGeometry.js,
+examples/js/geometries/DecalGeometry.js,
+examples/js/geometries/ParametricGeometries.js,
+examples/js/geometries/LightningStrike.js,
+examples/js/geometries/BoxLineGeometry.js,
+examples/js/loaders/LDrawLoader.js,
+examples/js/loaders/DRACOLoader.js,
+examples/js/loaders/NRRDLoader.js,
+examples/js/loaders/GLTFLoader.js,
+examples/js/loaders/RGBELoader.js,
+examples/js/loaders/FBXLoader.js,); 
+examples/js/loaders/MMDLoader.js,
+examples/js/loaders/MTLLoader.js,
+examples/js/loaders/AssimpLoader.js,
+examples/js/loaders/DDSLoader.js,
+examples/js/loaders/HDRCubeTextureLoader.js,
+examples/js/loaders/BasisTextureLoader.js,
+examples/js/loaders/KTXLoader.js,
+examples/js/loaders/PRWMLoader.js,
+examples/js/loaders/GCodeLoader.js,
+examples/js/loaders/AMFLoader.js,
+examples/js/loaders/PCDLoader.js,
+examples/js/loaders/EXRLoader.js,); 
+examples/js/loaders/TTFLoader.js,
+examples/js/loaders/VRMLLoader.js,
+examples/js/loaders/SVGLoader.js,
+examples/js/loaders/XLoader.js,
+examples/js/loaders/VTKLoader.js,
+examples/js/loaders/MD2Loader.js,
+examples/js/loaders/OBJLoader.js,
+examples/js/loaders/STLLoader.js,
+examples/js/loaders/3MFLoader.js,
+examples/js/loaders/ColladaLoader.js,
+examples/js/loaders/PVRLoader.js,
+examples/js/loaders/PLYLoader.js,
+examples/js/loaders/KMZLoader.js,
+examples/js/loaders/TDSLoader.js,
+examples/js/loaders/BVHLoader.js,
+examples/js/loaders/TGALoader.js,
+examples/js/loaders/LWOLoader.js,
+examples/js/loaders/VRMLoader.js,
+examples/js/loaders/PDBLoader.js,
+examples/js/libs/opentype.min.js,
+examples/js/libs/cannon.js,
+examples/js/libs/inflate.min.js,
+examples/js/libs/timeliner_gui.min.js,undo=require("undo"),Dispatcher=require("dispatcher"),Theme=require("theme"),UndoManager=undo.UndoManager,UndoState=undo.UndoState,LayoutConstants=require("layout_constants"),utils=require("utils"),LayerCabinet=require("layer_cabinet"),TimelinePanel=require("timeline_panel"),package_json=require(".package.json"),IconButton=require("widget/icon_button"),style=utils.style,saveToFile=utils.saveToFile,openAs=utils.openAs,STORAGE_PREFIX=utils.STORAGE_PREFIX,ScrollBar=require("widget/scrollbar"),Z_INDEX=999;Timeliner.binarySearch=utils.binarySearch,window.Timeliner=Timeliner; 
+examples/js/libs/draco/draco_decoder.js,
+examples/js/libs/draco/gltf/draco_decoder.js,
+examples/js/libs/draco/gltf/draco_encoder.js,
+examples/js/libs/draco/gltf/draco_wasm_wrapper.js,
+examples/js/libs/draco/draco_encoder.js,
+examples/js/libs/draco/draco_wasm_wrapper.js,
+examples/js/libs/dat.gui.min.js,
+examples/js/libs/basis/basis_transcoder.js,
+examples/js/libs/chevrotain.min.js,
+examples/js/libs/stats.min.js,
+examples/js/libs/ammo.js,
+examples/js/libs/jszip.min.js,
+docs/list.js,
+docs/page.js,
+docs/prettify/prettify.js,"catch,class,delete,false,import,new,operator,private,protected,public,this,throw,true,try,typeof"],F=[w,"alignof,align_union,asm,axiom,bool,concept,concept_map,const_cast,constexpr,decltype,dynamic_cast,explicit,export,friend,inline,late_check,mutable,namespace,nullptr,reinterpret_cast,static_assert,static_cast,template,typeid,typename,using,virtual,where"],G=[w,"abstract,boolean,byte,extends,final,finally,implements,import,instanceof,null,native,package,strictfp,super,synchronized,throws,transient"], H=[G,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,implicit,in,interface,internal,into,is,lock,object,out,override,orderby,params,partial,readonly,ref,sbyte,sealed,stackalloc,string,select,uint,ulong,unchecked,unsafe,ushort,var"],w=[w,"debugger,eval,export,function,get,null,set,undefined,var,with,Infinity,NaN"],I=[v,"and,as,assert,class,def,del,elif,except,exec,finally,from,global,import,in,is,lambda,nonlocal,not,or,pass,print,raise,try,with,yield,False,True,None"], J=[v,"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,redo,rescue,retry,self,super,then,true,undef,unless,until,when,yield,BEGIN,END"],v=[v,"case,done,elif,esac,eval,fi,function,in,local,set,then,until"],K=/^(DIR|FILE|vector|(de|priority_)?queue|list|stack|(const_)?iterator|(multi)?(set|map)|bitset|u?(int|float)\d*)/,N=/\S/,O=u({keywords:[F,H,w,"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,import,last,local,my,next,no,our,print,package,redo,require,sub,undef,unless,until,use,wantarray,while,BEGIN,END"+ ["cv","py"]);k(u({keywords:"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,import,last,local,my,next,no,our,print,package,redo,require,sub,undef,unless,until,use,wantarray,while,BEGIN,END",hashComments:!0,multiLineStrings:!0,regexLiterals:!0}),["perl","pl","pm"]);k(u({keywords:J,hashComments:!0,multiLineStrings:!0,regexLiterals:!0}),["rb"]);k(u({keywords:w,cStyleComments:!0,regexLiterals:!0}),["js"]);k(u({keywords:"all,and,by,catch,class,else,extends,false,finally,for,if,in,is,isnt,loop,new,no,not,null,of,off,on,or,return,super,then,true,try,unless,until,when,while,yes", 
+src/Three.js,'polyfills.js'; 'constants.js'; 
+src/core/InterleavedBuffer.d.ts,'InterleavedBufferAttribute'; '.constants'; 
+src/core/Layers.js,
+src/core/InstancedBufferGeometry.d.ts,'BufferGeometry'; 
+src/core/InstancedBufferAttribute.d.ts,'BufferGeometry'; 'BufferAttribute'; 
+src/core/Object3D.js,'.math/Quaternion.js'; '.math/Vector3.js'; '.math/Matrix4.js'; 'EventDispatcher.js'; '.math/Euler.js'; 'Layers.js'; '.math/Matrix3.js'; '.math/MathUtils.js'; 
+src/core/InstancedInterleavedBuffer.d.ts,'InterleavedBuffer'; 
+src/core/Geometry.js,'EventDispatcher.js'; 'Face3.js'; '.math/Matrix3.js'; '.math/Sphere.js'; '.math/Box3.js'; '.math/Vector3.js'; '.math/Matrix4.js'; '.math/Vector2.js'; '.math/Color.js'; 'Object3D.js'; '.math/MathUtils.js'; 
+src/core/Face3.js,'.math/Color.js'; '.math/Vector3.js'; 
+src/core/InterleavedBufferAttribute.js,'.math/Vector3.js'; 
+src/core/Layers.d.ts,
+src/core/Uniform.d.ts,
+src/core/Face3.d.ts,'.math/Vector3'; '.math/Color'; 
+src/core/EventDispatcher.d.ts,
+src/core/BufferGeometry.js,'.math/Vector3.js'; '.math/Box3.js'; 'EventDispatcher.js'; 'BufferAttribute.js'; '.math/Sphere.js'; 'DirectGeometry.js'; 'Object3D.js'; '.math/Matrix4.js'; '.math/Matrix3.js'; '.math/MathUtils.js'; '.utils.js'; 
+src/core/Clock.d.ts,
+src/core/BufferAttribute.d.ts,'.constants'; '.math/Matrix3'; '.math/Matrix4'; 
+src/core/Clock.js,
+src/core/Geometry.d.ts,'.math/Vector3'; '.math/Color'; 'Face3'; '.math/Vector2'; '.math/Vector4'; '.math/Box3'; '.math/Sphere'; '.math/Matrix4'; 'BufferGeometry'; '.math/Matrix3'; '.objects/Mesh'; '.objects/Bone'; '.animation/AnimationClip'; 'EventDispatcher'; 
+src/core/Raycaster.js,'.math/Ray.js'; 'Layers.js'; 
+src/core/BufferAttribute.js,'.math/Vector4.js'; '.math/Vector3.js'; '.math/Vector2.js'; '.math/Color.js'; '.constants.js'; 
+src/core/BufferGeometry.d.ts,'BufferAttribute'; '.math/Box3'; '.math/Sphere'; '.math/Matrix4'; '.math/Vector2'; '.math/Vector3'; 'Object3D'; 'Geometry'; 'DirectGeometry'; 'EventDispatcher'; 'InterleavedBufferAttribute'; 
+src/core/Uniform.js,
+src/core/DirectGeometry.js,'.math/Vector2.js'; 
+src/core/EventDispatcher.js,
+src/core/InterleavedBuffer.js,'.constants.js'; 
+src/core/Raycaster.d.ts,'.math/Vector3'; 'Face3'; 'Object3D'; '.math/Vector2'; '.math/Ray'; '.cameras/Camera'; 'Layers'; 
+src/core/InstancedInterleavedBuffer.js,'InterleavedBuffer.js'; 
+src/core/InstancedBufferAttribute.js,'BufferAttribute.js'; 
+src/core/Object3D.d.ts,'.math/Vector3'; '.math/Euler'; '.math/Quaternion'; '.math/Matrix4'; '.math/Matrix3'; 'Layers'; '.renderers/WebGLRenderer'; '.scenes/Scene'; '.cameras/Camera'; 'Geometry'; '.materials/Material'; '.objects/Group'; 'Raycaster'; 'EventDispatcher'; 'BufferGeometry'; 'Raycaster'; 
+src/core/DirectGeometry.d.ts,'.math/Vector3'; '.math/Color'; '.math/Vector2'; '.math/Vector4'; '.math/Box3'; '.math/Sphere'; 'Geometry'; 'Geometry'; 
+src/core/InstancedBufferGeometry.js,'BufferGeometry.js'; 
+src/core/InterleavedBufferAttribute.d.ts,'InterleavedBuffer'; '.math/Matrix4'; 
+src/cameras/OrthographicCamera.d.ts,'Camera'; 
+src/cameras/CubeCamera.d.ts,'.renderers/WebGLCubeRenderTarget'; '.renderers/WebGLRenderTarget'; '.scenes/Scene'; '.renderers/WebGLRenderer'; '.core/Object3D'; 
+src/cameras/StereoCamera.js,'.math/Matrix4.js'; '.math/MathUtils.js'; 'PerspectiveCamera.js'; 
+src/cameras/PerspectiveCamera.js,'Camera.js'; '.core/Object3D.js'; '.math/MathUtils.js'; 
+src/cameras/CubeCamera.js,'.core/Object3D.js'; '.renderers/WebGLCubeRenderTarget.js'; '.constants.js'; '.math/Vector3.js'; 'PerspectiveCamera.js'; 
+src/cameras/ArrayCamera.d.ts,'PerspectiveCamera'; 
+src/cameras/Camera.js,'.math/Matrix4.js'; '.core/Object3D.js'; '.math/Vector3.js'; 
+src/cameras/OrthographicCamera.js,'Camera.js'; '.core/Object3D.js'; 
+src/cameras/Camera.d.ts,'.math/Matrix4'; '.math/Vector3'; '.core/Object3D'; 
+src/cameras/StereoCamera.d.ts,'PerspectiveCamera'; 'Camera'; 
+src/cameras/PerspectiveCamera.d.ts,'Camera'; 
+src/cameras/ArrayCamera.js,'PerspectiveCamera.js'; 
+src/utils.d.ts,
+src/textures/DepthTexture.d.ts,'Texture'; { 
+src/textures/DataTexture3D.d.ts,'Texture'; '.polyfills'; 
+src/textures/VideoTexture.js,'.constants.js'; 'Texture.js'; 
+src/textures/CubeTexture.d.ts,'Texture'; { 
+src/textures/CubeTexture.js,'Texture.js'; '.constants.js'; 
+src/textures/DataTexture.d.ts,'Texture'; { '.polyfills'; 
+src/textures/Texture.d.ts,'.math/Vector2'; '.core/EventDispatcher'; { 
+src/textures/CompressedTexture.js,'Texture.js'; 
+src/textures/DataTexture2DArray.js,'Texture.js'; '.constants.js'; 
+src/textures/CanvasTexture.js,'Texture.js'; 
+src/textures/Texture.js,'.core/EventDispatcher.js'; { '.math/MathUtils.js'; '.math/Vector2.js'; '.math/Matrix3.js'; '.extras/ImageUtils.js'; 
+src/textures/VideoTexture.d.ts,'Texture'; { 
+src/textures/DataTexture3D.js,'Texture.js'; '.constants.js'; 
+src/textures/CanvasTexture.d.ts,'Texture'; { 
+src/textures/CompressedTexture.d.ts,'Texture'; { 
+src/textures/DataTexture.js,'Texture.js'; '.constants.js'; 
+src/textures/DataTexture2DArray.d.ts,'Texture'; '.polyfills'; 
+src/textures/DepthTexture.js,'Texture.js'; '.constants.js'; 
+src/math/Box3.js,'Vector3.js'; 
+src/math/MathUtils.js,
+src/math/Color.d.ts,
+src/math/Triangle.js,'Vector3.js'; 'Plane.js'; 
+src/math/Interpolant.d.ts,
+src/math/Vector3.d.ts,'Euler'; 'Matrix3'; 'Matrix4'; 'Quaternion'; '.cameras/Camera'; 'Spherical'; 'Cylindrical'; '.core/BufferAttribute'; 'Vector2'; 
+src/math/Color.js,'MathUtils.js'; 
+src/math/Cylindrical.js,
+src/math/Ray.js,'Vector3.js'; 
+src/math/Vector4.d.ts,'Matrix4'; 'Quaternion'; 'Matrix3'; '.core/BufferAttribute'; 'Vector2'; 
+src/math/Ray.d.ts,'Vector3'; 'Sphere'; 'Plane'; 'Box3'; 'Matrix4'; 
+src/math/Matrix4.d.ts,'Vector3'; 'Euler'; 'Quaternion'; 'Matrix3'; 
+src/math/Cylindrical.d.ts,'Vector3'; 
+src/math/Euler.d.ts,'Matrix4'; 'Quaternion'; 'Vector3'; 
+src/math/Frustum.d.ts,'Plane'; 'Matrix4'; '.core/Object3D'; '.objects/Sprite'; 'Sphere'; 'Box3'; 'Vector3'; 
+src/math/Triangle.d.ts,'Vector2'; 'Vector3'; 'Plane'; 'Box3'; 
+src/math/Sphere.d.ts,'Vector3'; 'Box3'; 'Plane'; 'Matrix4'; 
+src/math/Vector3.js,'MathUtils.js'; 'Quaternion.js'; 
+src/math/MathUtils.d.ts,'Quaternion'; 
+src/math/Interpolant.js,
+src/math/Spherical.d.ts,'Vector3'; 
+src/math/Vector2.js,
+src/math/Box3.d.ts,'.core/BufferAttribute'; 'Vector3'; '.core/Object3D'; 'Sphere'; 'Plane'; 'Matrix4'; 'Triangle'; 
+src/math/Plane.js,'Matrix3.js'; 'Vector3.js'; 
+src/math/Matrix4.js,'Vector3.js'; 
+src/math/Line3.js,'Vector3.js'; 'MathUtils.js'; 
+src/math/Spherical.js,'MathUtils.js'; 
+src/math/Vector2.d.ts,'Matrix3'; '.core/BufferAttribute'; 
+src/math/Quaternion.d.ts,'Euler'; 'Vector3'; 'Matrix4'; 
+src/math/Matrix3.js,
+src/math/Sphere.js,'Box3.js'; 'Vector3.js'; 
+src/math/Vector4.js,
+src/math/Plane.d.ts,'Vector3'; 'Sphere'; 'Line3'; 'Box3'; 'Matrix4'; 'Matrix3'; 
+src/math/SphericalHarmonics3.d.ts,'Vector3'; 
+src/math/interpolants/DiscreteInterpolant.js,'.Interpolant.js'; 
+src/math/interpolants/LinearInterpolant.d.ts,'.Interpolant'; 
+src/math/interpolants/QuaternionLinearInterpolant.d.ts,'.Interpolant'; 
+src/math/interpolants/CubicInterpolant.js,'..constants.js'; '.Interpolant.js'; '..constants.js'; 
+src/math/interpolants/DiscreteInterpolant.d.ts,'.Interpolant'; 
+src/math/interpolants/QuaternionLinearInterpolant.js,'.Interpolant.js'; '.Quaternion.js'; 
+src/math/interpolants/CubicInterpolant.d.ts,'.Interpolant'; 
+src/math/interpolants/LinearInterpolant.js,'.Interpolant.js'; 
+src/math/Box2.d.ts,'Vector2'; 
+src/math/Box2.js,'Vector2.js'; 
+src/math/Euler.js,'Quaternion.js'; 'Vector3.js'; 'Matrix4.js'; 'MathUtils.js'; 
+src/math/Frustum.js,'Vector3.js'; 'Sphere.js'; 'Plane.js'; 
+src/math/Quaternion.js,'MathUtils.js'; 
+src/math/SphericalHarmonics3.js,'Vector3.js'; 
+src/math/Matrix3.d.ts,'Matrix4'; 'Vector3'; 
+src/math/Line3.d.ts,'Vector3'; 'Matrix4'; 
+src/extras/PMREMGenerator.d.ts,'.renderers/WebGLRenderer'; '.renderers/WebGLRenderTarget'; '.textures/Texture'; '.textures/CubeTexture'; '.scenes/Scene'; 
+src/extras/core/Shape.d.ts,'..math/Vector2'; 'Path'; '..geometries/ExtrudeGeometry'; '..geometries/ShapeGeometry'; 
+src/extras/core/CurvePath.d.ts,'Curve'; '..core/Geometry'; '..math/Vector2'; 
+src/extras/core/ShapePath.js,'..math/Color.js'; 'Path.js'; 'Shape.js'; '.ShapeUtils.js'; 
+src/extras/core/Shape.js,'Path.js'; '..math/MathUtils.js'; 
+src/extras/core/Path.d.ts,'..math/Vector2'; 'CurvePath'; 
+src/extras/core/Curve.d.ts,'..math/Vector2'; 
+src/extras/core/Font.d.ts,'Shape'; 
+src/extras/core/Path.js,'..math/Vector2.js'; 'CurvePath.js'; '.curves/EllipseCurve.js'; '.curves/SplineCurve.js'; '.curves/CubicBezierCurve.js'; '.curves/QuadraticBezierCurve.js'; '.curves/LineCurve.js'; 
+src/extras/core/Curve.js,'..math/MathUtils.js'; '..math/Vector3.js'; '..math/Matrix4.js'; 
+src/extras/core/ShapePath.d.ts,'..math/Vector2'; 'Shape'; 
+src/extras/core/Font.js,'ShapePath.js'; 
+src/extras/core/Interpolations.js,
+src/extras/core/Interpolations.d.ts,
+src/extras/core/CurvePath.js,'Curve.js'; '.curves/Curves.js'; 
+src/extras/PMREMGenerator.js,{ ".core/BufferAttribute.js"; ".core/BufferGeometry.js"; ".objects/Mesh.js"; ".cameras/OrthographicCamera.js"; ".cameras/PerspectiveCamera.js"; ".materials/RawShaderMaterial.js"; ".scenes/Scene.js"; ".math/Vector2.js"; ".math/Vector3.js"; ".renderers/WebGLRenderTarget.js"; 
+src/extras/ImageUtils.js,
+src/extras/objects/ImmediateRenderObject.d.ts,'..core/Object3D'; '..materials/Material'; 
+src/extras/objects/ImmediateRenderObject.js,'..core/Object3D.js'; 
+src/extras/Earcut.js,
+src/extras/ShapeUtils.js,'Earcut.js'; 
+src/extras/ShapeUtils.d.ts,
+src/extras/ImageUtils.d.ts,'.constants'; '.textures/Texture'; 
+src/extras/curves/Curves.js,
+src/extras/curves/Curves.d.ts,
+src/extras/curves/LineCurve3.d.ts,'..math/Vector3'; '.core/Curve'; 
+src/extras/curves/QuadraticBezierCurve3.js,'.core/Curve.js'; '.core/Interpolations.js'; '..math/Vector3.js'; 
+src/extras/curves/ArcCurve.js,'EllipseCurve.js'; 
+src/extras/curves/EllipseCurve.d.ts,'.core/Curve'; '..math/Vector2'; 
+src/extras/curves/CubicBezierCurve.d.ts,'..math/Vector2'; '.core/Curve'; 
+src/extras/curves/QuadraticBezierCurve.d.ts,'..math/Vector2'; '.core/Curve'; 
+src/extras/curves/CubicBezierCurve.js,'.core/Curve.js'; '.core/Interpolations.js'; '..math/Vector2.js'; 
+src/extras/curves/CubicBezierCurve3.js,'.core/Curve.js'; '.core/Interpolations.js'; '..math/Vector3.js'; 
+src/extras/curves/CubicBezierCurve3.d.ts,'..math/Vector3'; '.core/Curve'; 
+src/extras/curves/CatmullRomCurve3.d.ts,'..math/Vector3'; '.core/Curve'; 
+src/extras/curves/SplineCurve.js,'.core/Curve.js'; '.core/Interpolations.js'; '..math/Vector2.js'; 
+src/extras/curves/QuadraticBezierCurve3.d.ts,'..math/Vector3'; '.core/Curve'; 
+src/extras/curves/SplineCurve.d.ts,'..math/Vector2'; '.core/Curve'; 
+src/extras/curves/LineCurve.d.ts,'..math/Vector2'; '.core/Curve'; 
+src/extras/curves/CatmullRomCurve3.js,'..math/Vector3.js'; '.core/Curve.js'; 
+src/extras/curves/LineCurve3.js,'..math/Vector3.js'; '.core/Curve.js'; 
+src/extras/curves/EllipseCurve.js,'.core/Curve.js'; '..math/Vector2.js'; 
+src/extras/curves/ArcCurve.d.ts,'EllipseCurve'; 
+src/extras/curves/LineCurve.js,'..math/Vector2.js'; '.core/Curve.js'; 
+src/extras/curves/QuadraticBezierCurve.js,'.core/Curve.js'; '.core/Interpolations.js'; '..math/Vector2.js'; 
+src/lights/RectAreaLight.d.ts,'Light'; '.math/Color'; 
+src/lights/Light.js,'.core/Object3D.js'; '.math/Color.js'; 
+src/lights/PointLightShadow.d.ts,'.cameras/PerspectiveCamera'; 'LightShadow'; 
+src/lights/SpotLightShadow.d.ts,'.cameras/PerspectiveCamera'; 'LightShadow'; 
+src/lights/SpotLight.js,'Light.js'; 'SpotLightShadow.js'; '.core/Object3D.js'; 
+src/lights/SpotLightShadow.js,'LightShadow.js'; '.math/MathUtils.js'; '.cameras/PerspectiveCamera.js'; 
+src/lights/DirectionalLightShadow.js,'LightShadow.js'; '.cameras/OrthographicCamera.js'; 
+src/lights/HemisphereLightProbe.js,'.math/Color.js'; '.math/Vector3.js'; 'LightProbe.js'; 
+src/lights/AmbientLightProbe.js,'.math/Color.js'; 'LightProbe.js'; 
+src/lights/PointLightShadow.js,'LightShadow.js'; '.cameras/PerspectiveCamera.js'; '.math/Vector2.js'; '.math/Vector3.js'; '.math/Vector4.js'; 
+src/lights/HemisphereLight.js,'Light.js'; '.math/Color.js'; '.core/Object3D.js'; 
+src/lights/LightProbe.js,'.math/SphericalHarmonics3.js'; 'Light.js'; 
+src/lights/LightShadow.d.ts,'.cameras/Camera'; '.lights/Light'; '.math/Vector2'; '.math/Vector4'; '.math/Matrix4'; '.renderers/webgl/WebGLRenderLists'; 
+src/lights/LightShadow.js,'.math/Matrix4.js'; '.math/Vector2.js'; '.math/Vector3.js'; '.math/Vector4.js'; '.math/Frustum.js'; 
+src/lights/HemisphereLightProbe.d.ts,'.math/Color'; 'LightProbe'; 
+src/lights/SpotLight.d.ts,'.math/Color'; '.core/Object3D'; 'SpotLightShadow'; 'Light'; 
+src/lights/HemisphereLight.d.ts,'.math/Color'; 'Light'; 
+src/lights/DirectionalLightShadow.d.ts,'.cameras/OrthographicCamera'; 'LightShadow'; 
+src/lights/AmbientLight.d.ts,'.math/Color'; 'Light'; 
+src/lights/DirectionalLight.d.ts,'.math/Color'; '.core/Object3D'; 'DirectionalLightShadow'; 'Light'; 
+src/lights/PointLight.js,'Light.js'; 'PointLightShadow.js'; 
+src/lights/AmbientLight.js,'Light.js'; 
+src/lights/DirectionalLight.js,'Light.js'; 'DirectionalLightShadow.js'; '.core/Object3D.js'; 
+src/lights/PointLight.d.ts,'.math/Color'; 'Light'; 'PointLightShadow'; 
+src/lights/RectAreaLight.js,'Light.js'; 
+src/lights/LightProbe.d.ts,'.math/SphericalHarmonics3'; 'Light'; 
+src/lights/Light.d.ts,'.math/Color'; 'LightShadow'; '.core/Object3D'; 
+src/lights/AmbientLightProbe.d.ts,'.math/Color'; 'LightProbe'; 
+src/Three.Legacy.js,'audio/Audio.js'; 'audio/AudioAnalyser.js'; 'cameras/PerspectiveCamera.js'; { { 'core/BufferGeometry.js'; 'core/InterleavedBuffer.js'; 'core/Face3.js'; 'core/Geometry.js'; 'core/Object3D.js'; 'core/Uniform.js'; 'core/Raycaster.js'; 'extras/core/Curve.js'; 'extras/core/CurvePath.js'; 'extras/core/Path.js'; 'extras/curves/CatmullRomCurve3.js'; 'helpers/AxesHelper.js'; 'helpers/BoxHelper.js'; 'helpers/GridHelper.js'; 'helpers/SkeletonHelper.js'; 'geometries/BoxGeometry.js'; 'geometries/EdgesGeometry.js'; 'geometries/ExtrudeGeometry.js'; 'geometries/ExtrudeGeometry.js'; 'geometries/ShapeGeometry.js'; 'geometries/WireframeGeometry.js'; 'lights/Light.js'; 'loaders/Loader.js'; 'loaders/LoaderUtils.js'; 'loaders/FileLoader.js'; 'loaders/AudioLoader.js'; 'loaders/CubeTextureLoader.js'; 'loaders/DataTextureLoader.js'; 'loaders/ObjectLoader.js'; 'loaders/TextureLoader.js'; 'materials/Material.js'; 'materials/LineBasicMaterial.js'; 'materials/MeshPhongMaterial.js'; 'materials/PointsMaterial.js'; 'materials/ShaderMaterial.js'; 'math/Box2.js'; 'math/Box3.js'; 'math/Color.js'; 'math/Frustum.js'; 'math/Line3.js'; 'math/MathUtils.js'; 'math/Matrix3.js'; 'math/Matrix4.js'; 'math/Plane.js'; 'math/Quaternion.js'; 'math/Ray.js'; 'math/Triangle.js'; 'math/Vector2.js'; 'math/Vector3.js'; 'math/Vector4.js'; 'objects/Mesh.js'; 'objects/LineSegments.js'; 'objects/LOD.js'; 'objects/Points.js'; 'objects/Sprite.js'; 'objects/Skeleton.js'; 'objects/SkinnedMesh.js'; 'renderers/WebGLRenderer.js'; 'renderers/WebGLRenderTarget.js'; 'renderers/WebGLCubeRenderTarget.js'; 'renderers/webgl/WebGLShadowMap.js'; 'extras/ImageUtils.js'; 'extras/core/Shape.js'; 'cameras/CubeCamera.js'; 
+src/constants.d.ts,
+src/constants.js,
+src/objects/Bone.d.ts,'.core/Object3D'; 
+src/objects/InstancedMesh.js,'.core/BufferAttribute.js'; 'Mesh.js'; '.math/Matrix4.js'; 
+src/objects/LineSegments.js,'Line.js'; '.math/Vector3.js'; '.core/BufferAttribute.js'; 
+src/objects/Sprite.d.ts,'.math/Vector2'; '.core/Raycaster'; '.core/Object3D'; '.core/Raycaster'; '.materials/Materials'; '.core/BufferGeometry'; 
+src/objects/LineSegments.d.ts,'.core/Geometry'; '.materials/Material'; 'Line'; '.core/BufferGeometry'; 
+src/objects/Mesh.d.ts,'.core/Geometry'; '.materials/Material'; '.core/Raycaster'; '.core/Object3D'; '.core/BufferGeometry'; '.core/Raycaster'; 
+src/objects/LineLoop.d.ts,'Line'; '.core/Geometry'; '.materials/Material'; '.core/BufferGeometry'; 
+src/objects/InstancedMesh.d.ts,'.core/Geometry'; '.core/BufferGeometry'; '.materials/Material'; '.core/BufferAttribute'; 'Mesh'; '.math/Matrix4'; 
+src/objects/Line.js,'.math/Sphere.js'; '.math/Ray.js'; '.math/Matrix4.js'; '.core/Object3D.js'; '.math/Vector3.js'; '.materials/LineBasicMaterial.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; 
+src/objects/Mesh.js,'.math/Vector3.js'; '.math/Vector2.js'; '.math/Sphere.js'; '.math/Ray.js'; '.math/Matrix4.js'; '.core/Object3D.js'; '.math/Triangle.js'; '.core/Face3.js'; '.constants.js'; '.materials/MeshBasicMaterial.js'; '.core/BufferGeometry.js'; 
+src/objects/Group.d.ts,'.core/Object3D'; 
+src/objects/SkinnedMesh.d.ts,'.core/Geometry'; '.materials/Material'; '.math/Matrix4'; 'Skeleton'; 'Mesh'; '.core/BufferGeometry'; 
+src/objects/LineLoop.js,'Line.js'; 
+src/objects/Skeleton.js,'.math/Matrix4.js'; 
+src/objects/Bone.js,'.core/Object3D.js'; 
+src/objects/LOD.js,'.math/Vector3.js'; '.core/Object3D.js'; 
+src/objects/Line.d.ts,'.core/Geometry'; '.materials/Material'; '.core/Raycaster'; '.core/Object3D'; '.core/BufferGeometry'; '.core/Raycaster'; 
+src/objects/Points.js,'.math/Sphere.js'; '.math/Ray.js'; '.math/Matrix4.js'; '.core/Object3D.js'; '.math/Vector3.js'; '.materials/PointsMaterial.js'; '.core/BufferGeometry.js'; 
+src/objects/Skeleton.d.ts,'Bone'; '.math/Matrix4'; '.textures/DataTexture'; 
+src/objects/Sprite.js,'.math/Vector2.js'; '.math/Vector3.js'; '.math/Matrix4.js'; '.math/Triangle.js'; '.core/Object3D.js'; '.core/BufferGeometry.js'; '.core/InterleavedBuffer.js'; '.core/InterleavedBufferAttribute.js'; '.materials/SpriteMaterial.js'; 
+src/objects/SkinnedMesh.js,'Mesh.js'; '.math/Matrix4.js'; '.math/Vector4.js'; 
+src/objects/Points.d.ts,'.core/Geometry'; '.materials/Material'; '.core/Raycaster'; '.core/Object3D'; '.core/BufferGeometry'; '.core/Raycaster'; 
+src/objects/Group.js,'.core/Object3D.js'; 
+src/objects/LOD.d.ts,'.core/Object3D'; '.core/Raycaster'; '.cameras/Camera'; '.core/Raycaster'; 
+src/utils.js,
+src/renderers/WebGLRenderer.d.ts,'.scenes/Scene'; '.cameras/Camera'; 'webgl/WebGLExtensions'; 'webgl/WebGLInfo'; 'webgl/WebGLShadowMap'; 'webgl/WebGLCapabilities'; 'webgl/WebGLProperties'; 'webgl/WebGLProgram'; 'webgl/WebGLRenderLists'; 'webgl/WebGLState'; '.math/Vector2'; '.math/Vector4'; '.math/Color'; 'WebGLRenderTarget'; '.core/Object3D'; '.materials/Material'; '.constants'; '.renderers/webxr/WebXRManager'; 'webgl/WebGLRenderLists'; '.core/Geometry'; '.core/BufferGeometry'; '.textures/Texture'; 
+src/renderers/WebGLMultisampleRenderTarget.js,'WebGLRenderTarget.js'; 
+src/renderers/WebGLRenderer.js,{ '.math/MathUtils.js'; '.textures/DataTexture.js'; '.math/Frustum.js'; '.math/Matrix4.js'; 'shaders/UniformsLib.js'; '.math/Vector2.js'; '.math/Vector3.js'; '.math/Vector4.js'; '.scenes/Scene.js'; 'webgl/WebGLAnimation.js'; 'webgl/WebGLAttributes.js'; 'webgl/WebGLBackground.js'; 'webgl/WebGLBufferRenderer.js'; 'webgl/WebGLCapabilities.js'; 'webgl/WebGLClipping.js'; 'webgl/WebGLExtensions.js'; 'webgl/WebGLGeometries.js'; 'webgl/WebGLIndexedBufferRenderer.js'; 'webgl/WebGLInfo.js'; 'webgl/WebGLMorphtargets.js'; 'webgl/WebGLObjects.js'; 'webgl/WebGLPrograms.js'; 'webgl/WebGLProperties.js'; 'webgl/WebGLRenderLists.js'; 'webgl/WebGLRenderStates.js'; 'webgl/WebGLShadowMap.js'; 'webgl/WebGLState.js'; 'webgl/WebGLTextures.js'; 'webgl/WebGLUniforms.js'; 'webgl/WebGLUtils.js'; 'webxr/WebXRManager.js'; 
+src/renderers/webxr/WebXRManager.d.ts,'..objects/Group'; '..cameras/Camera'; 
+src/renderers/webxr/WebXRManager.js,'..cameras/ArrayCamera.js'; '..core/EventDispatcher.js'; '..objects/Group.js'; '..cameras/PerspectiveCamera.js'; '..math/Vector3.js'; '..math/Vector4.js'; '.webgl/WebGLAnimation.js'; 
+src/renderers/WebGLRenderTarget.js,'.core/EventDispatcher.js'; '.textures/Texture.js'; '.constants.js'; '.math/Vector4.js'; 
+src/renderers/shaders/ShaderChunk/logdepthbuf_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/begin_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/cube_uv_reflection_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/morphtarget_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/fog_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_physical_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/fog_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/specularmap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/shadowmap_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/color_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/uv2_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/tonemapping_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/aomap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clipping_planes_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/beginnormal_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_fragment_begin.glsl.js,
+src/renderers/shaders/ShaderChunk/common.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/packing.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_lambert_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/shadowmask_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/shadowmap_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/project_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/skinning_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/map_particle_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/emissivemap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_physical_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clipping_planes_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/dithering_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clearcoat_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/uv_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/gradientmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/roughnessmap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/lightmap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/map_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/morphtarget_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_pars_begin.glsl.js,
+src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/bumpmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/aomap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/normal_fragment_maps.glsl.js,
+src/renderers/shaders/ShaderChunk/emissivemap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/uv_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/encodings_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_fragment_end.glsl.js,
+src/renderers/shaders/ShaderChunk/morphnormal_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/uv2_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/fog_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/logdepthbuf_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/metalnessmap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/normal_fragment_begin.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_phong_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/dithering_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/fog_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/logdepthbuf_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/tonemapping_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/uv2_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clipping_planes_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/encodings_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clipping_planes_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/roughnessmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_fragment_maps.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_toon_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clearcoat_normal_fragment_begin.glsl.js,
+src/renderers/shaders/ShaderChunk/uv_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_common_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/color_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/displacementmap_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/premultiplied_alpha_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/alphamap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/metalnessmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/bsdfs.glsl.js,
+src/renderers/shaders/ShaderChunk/logdepthbuf_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/displacementmap_pars_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/shadowmap_pars_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/default_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_toon_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/clearcoat_normal_fragment_maps.glsl.js,
+src/renderers/shaders/ShaderChunk/alphamap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/default_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/skinbase_vertex.glsl.js,
+src/renderers/shaders/ShaderChunk/envmap_fragment.glsl.js,
+src/renderers/shaders/ShaderChunk/lights_physical_fragment.glsl.js,
+src/renderers/shaders/ShaderLib/meshphong_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshbasic_vert.glsl.js,
+src/renderers/shaders/ShaderLib/cube_frag.glsl.js,
+src/renderers/shaders/ShaderLib/cube_vert.glsl.js,
+src/renderers/shaders/ShaderLib/points_vert.glsl.js,
+src/renderers/shaders/ShaderLib/equirect_frag.glsl.js,
+src/renderers/shaders/ShaderLib/normal_vert.glsl.js,
+src/renderers/shaders/ShaderLib/distanceRGBA_frag.glsl.js,
+src/renderers/shaders/ShaderLib/equirect_vert.glsl.js,
+src/renderers/shaders/ShaderLib/distanceRGBA_vert.glsl.js,
+src/renderers/shaders/ShaderLib/background_vert.glsl.js,
+src/renderers/shaders/ShaderLib/meshphysical_vert.glsl.js,
+src/renderers/shaders/ShaderLib/sprite_vert.glsl.js,
+src/renderers/shaders/ShaderLib/meshmatcap_vert.glsl.js,
+src/renderers/shaders/ShaderLib/linedashed_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshphysical_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshlambert_vert.glsl.js,
+src/renderers/shaders/ShaderLib/normal_frag.glsl.js,
+src/renderers/shaders/ShaderLib/shadow_vert.glsl.js,
+src/renderers/shaders/ShaderLib/depth_vert.glsl.js,
+src/renderers/shaders/ShaderLib/sprite_frag.glsl.js,
+src/renderers/shaders/ShaderLib/points_frag.glsl.js,
+src/renderers/shaders/ShaderLib/vsm_vert.glsl.js,
+src/renderers/shaders/ShaderLib/meshphong_vert.glsl.js,
+src/renderers/shaders/ShaderLib/meshtoon_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshmatcap_frag.glsl.js,
+src/renderers/shaders/ShaderLib/depth_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshlambert_frag.glsl.js,
+src/renderers/shaders/ShaderLib/linedashed_vert.glsl.js,
+src/renderers/shaders/ShaderLib/meshbasic_frag.glsl.js,
+src/renderers/shaders/ShaderLib/shadow_frag.glsl.js,
+src/renderers/shaders/ShaderLib/vsm_frag.glsl.js,
+src/renderers/shaders/ShaderLib/background_frag.glsl.js,
+src/renderers/shaders/ShaderLib/meshtoon_vert.glsl.js,
+src/renderers/shaders/UniformsUtils.js,
+src/renderers/shaders/UniformsLib.d.ts,
+src/renderers/shaders/ShaderLib.d.ts,'UniformsLib'; 
+src/renderers/shaders/ShaderLib.js,'ShaderChunk.js'; 'UniformsUtils.js'; '..math/Vector2.js'; '..math/Vector3.js'; 'UniformsLib.js'; '..math/Color.js'; '..math/Matrix3.js'; 
+src/renderers/shaders/UniformsUtils.d.ts,
+src/renderers/shaders/ShaderChunk.d.ts,
+src/renderers/shaders/UniformsLib.js,'..math/Color.js'; '..math/Vector2.js'; '..math/Matrix3.js'; 
+src/renderers/shaders/ShaderChunk.js,'ShaderChunk/alphamap_fragment.glsl.js'; 'ShaderChunk/alphamap_pars_fragment.glsl.js'; 'ShaderChunk/alphatest_fragment.glsl.js'; 'ShaderChunk/aomap_fragment.glsl.js'; 'ShaderChunk/aomap_pars_fragment.glsl.js'; 'ShaderChunk/begin_vertex.glsl.js'; 'ShaderChunk/beginnormal_vertex.glsl.js'; 'ShaderChunk/bsdfs.glsl.js'; 'ShaderChunk/bumpmap_pars_fragment.glsl.js'; 'ShaderChunk/clipping_planes_fragment.glsl.js'; 'ShaderChunk/clipping_planes_pars_fragment.glsl.js'; 'ShaderChunk/clipping_planes_pars_vertex.glsl.js'; 'ShaderChunk/clipping_planes_vertex.glsl.js'; 'ShaderChunk/color_fragment.glsl.js'; 'ShaderChunk/color_pars_fragment.glsl.js'; 'ShaderChunk/color_pars_vertex.glsl.js'; 'ShaderChunk/color_vertex.glsl.js'; 'ShaderChunk/common.glsl.js'; 'ShaderChunk/cube_uv_reflection_fragment.glsl.js'; 'ShaderChunk/defaultnormal_vertex.glsl.js'; 'ShaderChunk/displacementmap_pars_vertex.glsl.js'; 'ShaderChunk/displacementmap_vertex.glsl.js'; 'ShaderChunk/emissivemap_fragment.glsl.js'; 'ShaderChunk/emissivemap_pars_fragment.glsl.js'; 'ShaderChunk/encodings_fragment.glsl.js'; 'ShaderChunk/encodings_pars_fragment.glsl.js'; 'ShaderChunk/envmap_fragment.glsl.js'; 'ShaderChunk/envmap_common_pars_fragment.glsl.js'; 'ShaderChunk/envmap_pars_fragment.glsl.js'; 'ShaderChunk/envmap_pars_vertex.glsl.js'; 'ShaderChunk/envmap_vertex.glsl.js'; 'ShaderChunk/fog_vertex.glsl.js'; 'ShaderChunk/fog_pars_vertex.glsl.js'; 'ShaderChunk/fog_fragment.glsl.js'; 'ShaderChunk/fog_pars_fragment.glsl.js'; 'ShaderChunk/gradientmap_pars_fragment.glsl.js'; 'ShaderChunk/lightmap_fragment.glsl.js'; 'ShaderChunk/lightmap_pars_fragment.glsl.js'; 'ShaderChunk/lights_lambert_vertex.glsl.js'; 'ShaderChunk/lights_pars_begin.glsl.js'; 'ShaderChunk/envmap_physical_pars_fragment.glsl.js'; 'ShaderChunk/lights_toon_fragment.glsl.js'; 'ShaderChunk/lights_toon_pars_fragment.glsl.js'; 'ShaderChunk/lights_phong_fragment.glsl.js'; 'ShaderChunk/lights_phong_pars_fragment.glsl.js'; 'ShaderChunk/lights_physical_fragment.glsl.js'; 'ShaderChunk/lights_physical_pars_fragment.glsl.js'; 'ShaderChunk/lights_fragment_begin.glsl.js'; 'ShaderChunk/lights_fragment_maps.glsl.js'; 'ShaderChunk/lights_fragment_end.glsl.js'; 'ShaderChunk/logdepthbuf_fragment.glsl.js'; 'ShaderChunk/logdepthbuf_pars_fragment.glsl.js'; 'ShaderChunk/logdepthbuf_pars_vertex.glsl.js'; 'ShaderChunk/logdepthbuf_vertex.glsl.js'; 'ShaderChunk/map_fragment.glsl.js'; 'ShaderChunk/map_pars_fragment.glsl.js'; 'ShaderChunk/map_particle_fragment.glsl.js'; 'ShaderChunk/map_particle_pars_fragment.glsl.js'; 'ShaderChunk/metalnessmap_fragment.glsl.js'; 'ShaderChunk/metalnessmap_pars_fragment.glsl.js'; 'ShaderChunk/morphnormal_vertex.glsl.js'; 'ShaderChunk/morphtarget_pars_vertex.glsl.js'; 'ShaderChunk/morphtarget_vertex.glsl.js'; 'ShaderChunk/normal_fragment_begin.glsl.js'; 'ShaderChunk/normal_fragment_maps.glsl.js'; 'ShaderChunk/normalmap_pars_fragment.glsl.js'; 'ShaderChunk/clearcoat_normal_fragment_begin.glsl.js'; 'ShaderChunk/clearcoat_normal_fragment_maps.glsl.js'; 'ShaderChunk/clearcoat_pars_fragment.glsl.js'; 'ShaderChunk/packing.glsl.js'; 'ShaderChunk/premultiplied_alpha_fragment.glsl.js'; 'ShaderChunk/project_vertex.glsl.js'; 'ShaderChunk/dithering_fragment.glsl.js'; 'ShaderChunk/dithering_pars_fragment.glsl.js'; 'ShaderChunk/roughnessmap_fragment.glsl.js'; 'ShaderChunk/roughnessmap_pars_fragment.glsl.js'; 'ShaderChunk/shadowmap_pars_fragment.glsl.js'; 'ShaderChunk/shadowmap_pars_vertex.glsl.js'; 'ShaderChunk/shadowmap_vertex.glsl.js'; 'ShaderChunk/shadowmask_pars_fragment.glsl.js'; 'ShaderChunk/skinbase_vertex.glsl.js'; 'ShaderChunk/skinning_pars_vertex.glsl.js'; 'ShaderChunk/skinning_vertex.glsl.js'; 'ShaderChunk/skinnormal_vertex.glsl.js'; 'ShaderChunk/specularmap_fragment.glsl.js'; 'ShaderChunk/specularmap_pars_fragment.glsl.js'; 'ShaderChunk/tonemapping_fragment.glsl.js'; 'ShaderChunk/tonemapping_pars_fragment.glsl.js'; 'ShaderChunk/uv_pars_fragment.glsl.js'; 'ShaderChunk/uv_pars_vertex.glsl.js'; 'ShaderChunk/uv_vertex.glsl.js'; 'ShaderChunk/uv2_pars_fragment.glsl.js'; 'ShaderChunk/uv2_pars_vertex.glsl.js'; 'ShaderChunk/uv2_vertex.glsl.js'; 'ShaderChunk/worldpos_vertex.glsl.js'; 'ShaderLib/background_frag.glsl.js'; 'ShaderLib/background_vert.glsl.js'; 'ShaderLib/cube_frag.glsl.js'; 'ShaderLib/cube_vert.glsl.js'; 'ShaderLib/depth_frag.glsl.js'; 'ShaderLib/depth_vert.glsl.js'; 'ShaderLib/distanceRGBA_frag.glsl.js'; 'ShaderLib/distanceRGBA_vert.glsl.js'; 'ShaderLib/equirect_frag.glsl.js'; 'ShaderLib/equirect_vert.glsl.js'; 'ShaderLib/linedashed_frag.glsl.js'; 'ShaderLib/linedashed_vert.glsl.js'; 'ShaderLib/meshbasic_frag.glsl.js'; 'ShaderLib/meshbasic_vert.glsl.js'; 'ShaderLib/meshlambert_frag.glsl.js'; 'ShaderLib/meshlambert_vert.glsl.js'; 'ShaderLib/meshmatcap_frag.glsl.js'; 'ShaderLib/meshmatcap_vert.glsl.js'; 'ShaderLib/meshtoon_frag.glsl.js'; 'ShaderLib/meshtoon_vert.glsl.js'; 'ShaderLib/meshphong_frag.glsl.js'; 'ShaderLib/meshphong_vert.glsl.js'; 'ShaderLib/meshphysical_frag.glsl.js'; 'ShaderLib/meshphysical_vert.glsl.js'; 'ShaderLib/normal_frag.glsl.js'; 'ShaderLib/normal_vert.glsl.js'; 'ShaderLib/points_frag.glsl.js'; 'ShaderLib/points_vert.glsl.js'; 'ShaderLib/shadow_frag.glsl.js'; 'ShaderLib/shadow_vert.glsl.js'; 'ShaderLib/sprite_frag.glsl.js'; 'ShaderLib/sprite_vert.glsl.js'; 
+src/renderers/webgl/WebGLAnimation.js,
+src/renderers/webgl/WebGLIndexedBufferRenderer.js,
+src/renderers/webgl/WebGLBufferRenderer.js,
+src/renderers/webgl/WebGLState.js,'..constants.js'; '..math/Vector4.js'; 
+src/renderers/webgl/WebGLMorphtargets.js,
+src/renderers/webgl/WebGLProgram.js,'WebGLUniforms.js'; 'WebGLShader.js'; '.shaders/ShaderChunk.js'; '..constants.js'; 
+src/renderers/webgl/WebGLAnimation.d.ts,
+src/renderers/webgl/WebGLUtils.d.ts,
+src/renderers/webgl/WebGLShader.d.ts,
+src/renderers/webgl/WebGLInfo.d.ts,'WebGLProgram'; 
+src/renderers/webgl/WebGLRenderStates.d.ts,'..scenes/Scene'; '..cameras/Camera'; '..lights/Light'; 'WebGLLights'; 
+src/renderers/webgl/WebGLProperties.js,
+src/renderers/webgl/WebGLCapabilities.d.ts,
+src/renderers/webgl/WebGLCapabilities.js,
+src/renderers/webgl/WebGLShadowMap.js,'..constants.js'; '.WebGLRenderTarget.js'; '..materials/MeshDepthMaterial.js'; '..materials/MeshDistanceMaterial.js'; '..materials/ShaderMaterial.js'; '..core/BufferAttribute.js'; '..core/BufferGeometry.js'; '..objects/Mesh.js'; '..math/Vector4.js'; '..math/Vector2.js'; '..math/Frustum.js'; '.shaders/ShaderLib/vsm_frag.glsl.js'; '.shaders/ShaderLib/vsm_vert.glsl.js'; 
+src/renderers/webgl/WebGLUniforms.js,'..textures/CubeTexture.js'; '..textures/Texture.js'; '..textures/DataTexture2DArray.js'; '..textures/DataTexture3D.js'; 
+src/renderers/webgl/WebGLIndexedBufferRenderer.d.ts,
+src/renderers/webgl/WebGLLights.d.ts,
+src/renderers/webgl/WebGLPrograms.d.ts,'.WebGLRenderer'; 'WebGLProgram'; 'WebGLCapabilities'; 'WebGLExtensions'; '..materials/Material'; '..scenes/Scene'; 
+src/renderers/webgl/WebGLUtils.js,'..constants.js'; 
+src/renderers/webgl/WebGLRenderLists.js,
+src/renderers/webgl/WebGLExtensions.d.ts,
+src/renderers/webgl/WebGLState.d.ts,'..constants'; 'WebGLCapabilities'; 'WebGLExtensions'; '..materials/Material'; '..math/Vector4'; 
+src/renderers/webgl/WebGLInfo.js,
+src/renderers/webgl/WebGLRenderStates.js,'WebGLLights.js'; 
+src/renderers/webgl/WebGLBackground.d.ts,'..math/Color'; '.WebGLRenderer'; 'WebGLState'; 'WebGLObjects'; 'WebGLRenderLists'; '..scenes/Scene'; 
+src/renderers/webgl/WebGLExtensions.js,
+src/renderers/webgl/WebGLClipping.js,'..math/Matrix3.js'; '..math/Plane.js'; 
+src/renderers/webgl/WebGLAttributes.js,
+src/renderers/webgl/WebGLClipping.d.ts,'..cameras/Camera'; 
+src/renderers/webgl/WebGLTextures.d.ts,'WebGLExtensions'; 'WebGLState'; 'WebGLProperties'; 'WebGLCapabilities'; 'WebGLUtils'; 'WebGLInfo'; 
+src/renderers/webgl/WebGLAttributes.d.ts,"WebGLCapabilities"; "..core/BufferAttribute"; "..core/InterleavedBufferAttribute"; 
+src/renderers/webgl/WebGLRenderLists.d.ts,'..core/Object3D'; '..materials/Material'; 'WebGLProgram'; '..objects/Group'; '..scenes/Scene'; '..cameras/Camera'; '..core/BufferGeometry'; 
+src/renderers/webgl/WebGLProperties.d.ts,
+src/renderers/webgl/WebGLBackground.js,'..constants.js'; '..geometries/BoxGeometry.js'; '..geometries/PlaneGeometry.js'; '..materials/ShaderMaterial.js'; '..math/Color.js'; '..objects/Mesh.js'; '.shaders/ShaderLib.js'; '.shaders/UniformsUtils.js'; 
+src/renderers/webgl/WebGLBufferRenderer.d.ts,
+src/renderers/webgl/WebGLMorphtargets.d.ts,'..core/Object3D'; '..core/BufferGeometry'; '..materials/Material'; 'WebGLProgram'; 
+src/renderers/webgl/WebGLShader.js,
+src/renderers/webgl/WebGLShadowMap.d.ts,'..scenes/Scene'; '..cameras/Camera'; '.WebGLRenderer'; '..constants'; 
+src/renderers/webgl/WebGLObjects.d.ts,
+src/renderers/webgl/WebGLObjects.js,
+src/renderers/webgl/WebGLProgram.d.ts,'.WebGLRenderer'; 'WebGLShader'; 'WebGLUniforms'; 
+src/renderers/webgl/WebGLPrograms.js,'..constants.js'; 'WebGLProgram.js'; '.shaders/ShaderLib.js'; '.shaders/UniformsUtils.js'; 
+src/renderers/webgl/WebGLTextures.js,'..constants.js'; '..math/MathUtils.js'; 
+src/renderers/webgl/WebGLGeometries.js,'..core/BufferAttribute.js'; '..core/BufferGeometry.js'; '..utils.js'; 
+src/renderers/webgl/WebGLLights.js,'..math/Color.js'; '..math/Matrix4.js'; '..math/Vector2.js'; '..math/Vector3.js'; 
+src/renderers/webgl/WebGLGeometries.d.ts,'WebGLAttributes'; 'WebGLInfo'; '..core/BufferAttribute'; '..core/BufferGeometry'; '..core/Geometry'; '..core/Object3D'; 
+src/renderers/webgl/WebGLUniforms.d.ts,'WebGLProgram'; 'WebGLTextures'; 
+src/renderers/WebGLCubeRenderTarget.js,'.constants.js'; '.scenes/Scene.js'; '.objects/Mesh.js'; '.geometries/BoxGeometry.js'; '.materials/ShaderMaterial.js'; 'shaders/UniformsUtils.js'; 'WebGLRenderTarget.js'; '.cameras/CubeCamera.js'; 
+src/renderers/WebGLCubeRenderTarget.d.ts,'WebGLRenderTarget'; 'WebGLRenderer'; '.textures/Texture'; 
+src/renderers/WebGLMultisampleRenderTarget.d.ts,{ 
+src/renderers/WebGLRenderTarget.d.ts,'.math/Vector4'; '.textures/Texture'; '.textures/DepthTexture'; '.core/EventDispatcher'; '.constants'; 
+src/Three.d.ts,
+src/helpers/DirectionalLightHelper.js,'.math/Vector3.js'; '.core/Object3D.js'; '.objects/Line.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.materials/LineBasicMaterial.js'; 
+src/helpers/Box3Helper.js,'.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.core/Object3D.js'; 
+src/helpers/AxesHelper.js,'.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; 
+src/helpers/GridHelper.js,'.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.math/Color.js'; 
+src/helpers/HemisphereLightHelper.d.ts,'.lights/HemisphereLight'; '.math/Color'; '.math/Matrix4'; '.materials/MeshBasicMaterial'; '.core/Object3D'; 
+src/helpers/PolarGridHelper.js,'.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.math/Color.js'; 
+src/helpers/HemisphereLightHelper.js,'.math/Vector3.js'; '.math/Color.js'; '.core/Object3D.js'; '.objects/Mesh.js'; '.materials/MeshBasicMaterial.js'; '.geometries/OctahedronGeometry.js'; '.core/BufferAttribute.js'; 
+src/helpers/PointLightHelper.js,'.objects/Mesh.js'; '.materials/MeshBasicMaterial.js'; '.geometries/SphereGeometry.js'; 
+src/helpers/PointLightHelper.d.ts,'.lights/PointLight'; '.math/Color'; '.math/Matrix4'; '.core/Object3D'; 
+src/helpers/PlaneHelper.js,'.objects/Line.js'; '.objects/Mesh.js'; '.materials/LineBasicMaterial.js'; '.materials/MeshBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.core/Object3D.js'; '.constants.js'; 
+src/helpers/Box3Helper.d.ts,'.math/Box3'; '.math/Color'; '.objects/LineSegments'; 
+src/helpers/BoxHelper.js,'.math/Box3.js'; '.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; 
+src/helpers/SpotLightHelper.d.ts,'.lights/Light'; '.math/Color'; '.math/Matrix4'; '.core/Object3D'; '.objects/LineSegments'; 
+src/helpers/ArrowHelper.d.ts,'.math/Vector3'; '.objects/Line'; '.objects/Mesh'; '.math/Color'; '.core/Object3D'; 
+src/helpers/PlaneHelper.d.ts,'.math/Plane'; '.objects/LineSegments'; 
+src/helpers/BoxHelper.d.ts,'.core/Object3D'; '.math/Color'; '.objects/LineSegments'; 
+src/helpers/PolarGridHelper.d.ts,'.objects/LineSegments'; '.math/Color'; 
+src/helpers/SpotLightHelper.js,'.math/Vector3.js'; '.core/Object3D.js'; '.objects/LineSegments.js'; '.materials/LineBasicMaterial.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; 
+src/helpers/AxesHelper.d.ts,'.objects/LineSegments'; 
+src/helpers/CameraHelper.js,'.cameras/Camera.js'; '.math/Vector3.js'; '.objects/LineSegments.js'; '.math/Color.js'; '.materials/LineBasicMaterial.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; 
+src/helpers/SkeletonHelper.d.ts,'.core/Object3D'; '.objects/Bone'; '.objects/LineSegments'; 
+src/helpers/SkeletonHelper.js,'.objects/LineSegments.js'; '.math/Matrix4.js'; '.materials/LineBasicMaterial.js'; '.math/Color.js'; '.math/Vector3.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.core/Object3D.js'; 
+src/helpers/CameraHelper.d.ts,'.cameras/Camera'; '.objects/LineSegments'; 
+src/helpers/DirectionalLightHelper.d.ts,'.lights/DirectionalLight'; '.math/Color'; '.objects/Line'; '.math/Matrix4'; '.core/Object3D'; 
+src/helpers/GridHelper.d.ts,'.math/Color'; '.objects/LineSegments'; 
+src/helpers/ArrowHelper.js,'.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.core/Object3D.js'; '.geometries/CylinderGeometry.js'; '.materials/MeshBasicMaterial.js'; '.materials/LineBasicMaterial.js'; '.objects/Mesh.js'; '.objects/Line.js'; '.math/Vector3.js'; 
+src/animation/AnimationAction.d.ts,'AnimationMixer'; 'AnimationClip'; '.constants'; '.core/Object3D'; 
+src/animation/AnimationUtils.d.ts,'AnimationClip'; 
+src/animation/AnimationClip.d.ts,'KeyframeTrack'; '.objects/Bone'; '.core/Geometry'; 
+src/animation/AnimationObjectGroup.js,'PropertyBinding.js'; '.math/MathUtils.js'; 
+src/animation/KeyframeTrack.js,{ '.math/interpolants/CubicInterpolant.js'; '.math/interpolants/LinearInterpolant.js'; '.math/interpolants/DiscreteInterpolant.js'; 'AnimationUtils.js'; 
+src/animation/PropertyBinding.d.ts,
+src/animation/PropertyMixer.d.ts,
+src/animation/KeyframeTrack.d.ts,'.math/interpolants/DiscreteInterpolant'; '.math/interpolants/LinearInterpolant'; '.math/interpolants/CubicInterpolant'; '.constants'; 
+src/animation/AnimationObjectGroup.d.ts,
+src/animation/AnimationAction.js,'.constants.js'; 
+src/animation/AnimationMixer.js,'AnimationAction.js'; '.core/EventDispatcher.js'; '.math/interpolants/LinearInterpolant.js'; 'PropertyBinding.js'; 'PropertyMixer.js'; 'AnimationClip.js'; 
+src/animation/tracks/NumberKeyframeTrack.js,'.KeyframeTrack.js'; 
+src/animation/tracks/QuaternionKeyframeTrack.js,'..constants.js'; '.KeyframeTrack.js'; '..math/interpolants/QuaternionLinearInterpolant.js'; 
+src/animation/tracks/ColorKeyframeTrack.js,'.KeyframeTrack.js'; 
+src/animation/tracks/StringKeyframeTrack.js,'..constants.js'; '.KeyframeTrack.js'; 
+src/animation/tracks/BooleanKeyframeTrack.d.ts,'.KeyframeTrack'; 
+src/animation/tracks/ColorKeyframeTrack.d.ts,'.KeyframeTrack'; '..constants'; 
+src/animation/tracks/BooleanKeyframeTrack.js,'..constants.js'; '.KeyframeTrack.js'; 
+src/animation/tracks/NumberKeyframeTrack.d.ts,'.KeyframeTrack'; '..constants'; 
+src/animation/tracks/QuaternionKeyframeTrack.d.ts,'.KeyframeTrack'; '..constants'; 
+src/animation/tracks/StringKeyframeTrack.d.ts,'.KeyframeTrack'; '..constants'; 
+src/animation/tracks/VectorKeyframeTrack.js,'.KeyframeTrack.js'; 
+src/animation/tracks/VectorKeyframeTrack.d.ts,'.KeyframeTrack'; '..constants'; 
+src/animation/AnimationClip.js,'AnimationUtils.js'; 'KeyframeTrack.js'; 'tracks/BooleanKeyframeTrack.js'; 'tracks/ColorKeyframeTrack.js'; 'tracks/NumberKeyframeTrack.js'; 'tracks/QuaternionKeyframeTrack.js'; 'tracks/StringKeyframeTrack.js'; 'tracks/VectorKeyframeTrack.js'; '.math/MathUtils.js'; 
+src/animation/AnimationUtils.js,
+src/animation/AnimationMixer.d.ts,'AnimationClip'; 'AnimationAction'; '.core/EventDispatcher'; '.core/Object3D'; 
+src/animation/PropertyMixer.js,'.math/Quaternion.js'; 
+src/animation/PropertyBinding.js,
+src/audio/AudioAnalyser.d.ts,'Audio'; 
+src/audio/AudioContext.d.ts,
+src/audio/AudioAnalyser.js,
+src/audio/AudioListener.d.ts,'.core/Object3D'; 'AudioContext'; 
+src/audio/PositionalAudio.d.ts,'AudioListener'; 'Audio'; 
+src/audio/AudioListener.js,'.math/Vector3.js'; '.math/Quaternion.js'; '.core/Clock.js'; '.core/Object3D.js'; 'AudioContext.js'; 
+src/audio/Audio.js,'.core/Object3D.js'; 
+src/audio/PositionalAudio.js,'.math/Vector3.js'; '.math/Quaternion.js'; 'Audio.js'; '.core/Object3D.js'; 
+src/audio/AudioContext.js,
+src/audio/Audio.d.ts,'.core/Object3D'; 'AudioListener'; 'AudioContext'; 
+src/Three.Legacy.d.ts,'core/Geometry'; 'materials/Material'; 'core/Object3D'; 'scenes/Scene'; 
+src/materials/ShaderMaterial.d.ts,'.renderers/shaders/UniformsLib'; 'Material'; 
+src/materials/MeshMatcapMaterial.d.ts,'.math/Color'; '.textures/Texture'; '.math/Vector2'; 'Material'; '.constants'; 
+src/materials/PointsMaterial.js,'Material.js'; '.math/Color.js'; 
+src/materials/MeshDistanceMaterial.js,'Material.js'; '.math/Vector3.js'; 
+src/materials/Materials.js,
+src/materials/LineBasicMaterial.js,'Material.js'; '.math/Color.js'; 
+src/materials/MeshLambertMaterial.js,'Material.js'; '.constants.js'; '.math/Color.js'; 
+src/materials/Materials.d.ts,
+src/materials/MeshPhongMaterial.js,'.constants.js'; 'Material.js'; '.math/Vector2.js'; '.math/Color.js'; 
+src/materials/PointsMaterial.d.ts,'Material'; '.math/Color'; '.textures/Texture'; 
+src/materials/MeshLambertMaterial.d.ts,'.math/Color'; '.textures/Texture'; 'Material'; '.constants'; 
+src/materials/MeshDepthMaterial.d.ts,'.constants'; 'Material'; '.textures/Texture'; 
+src/materials/MeshBasicMaterial.js,'Material.js'; '.constants.js'; '.math/Color.js'; 
+src/materials/LineBasicMaterial.d.ts,'.math/Color'; 'Material'; 
+src/materials/MeshToonMaterial.js,'.constants.js'; 'Material.js'; '.math/Vector2.js'; '.math/Color.js'; 
+src/materials/SpriteMaterial.js,'Material.js'; '.math/Color.js'; 
+src/materials/RawShaderMaterial.js,'ShaderMaterial.js'; 
+src/materials/MeshDepthMaterial.js,'Material.js'; '.constants.js'; 
+src/materials/MeshNormalMaterial.js,'.constants.js'; 'Material.js'; '.math/Vector2.js'; 
+src/materials/Material.d.ts,'.math/Plane'; '.renderers/shaders/ShaderLib'; '.core/EventDispatcher'; '.renderers/WebGLRenderer'; { 
+src/materials/MeshPhongMaterial.d.ts,'.math/Color'; '.textures/Texture'; '.math/Vector2'; 'Material'; '.constants'; 
+src/materials/MeshMatcapMaterial.js,'.constants.js'; 'Material.js'; '.math/Vector2.js'; '.math/Color.js'; 
+src/materials/RawShaderMaterial.d.ts,'ShaderMaterial'; 
+src/materials/MeshToonMaterial.d.ts,'.math/Color'; '.textures/Texture'; '.math/Vector2'; 'Material'; '.constants'; 
+src/materials/MeshStandardMaterial.d.ts,'.math/Color'; '.textures/Texture'; '.math/Vector2'; 'Material'; '.constants'; 
+src/materials/ShadowMaterial.d.ts,'.math/Color'; 'Material'; 
+src/materials/ShadowMaterial.js,'Material.js'; '.math/Color.js'; 
+src/materials/MeshStandardMaterial.js,'.constants.js'; 'Material.js'; '.math/Vector2.js'; '.math/Color.js'; 
+src/materials/Material.js,'.core/EventDispatcher.js'; '.constants.js'; '.math/MathUtils.js'; 
+src/materials/ShaderMaterial.js,'Material.js'; '.renderers/shaders/UniformsUtils.js'; '.renderers/shaders/ShaderChunk/default_vertex.glsl.js'; '.renderers/shaders/ShaderChunk/default_fragment.glsl.js'; 
+src/materials/LineDashedMaterial.d.ts,'LineBasicMaterial'; 
+src/materials/MeshDistanceMaterial.d.ts,'Material'; '.math/Vector3'; '.textures/Texture'; 
+src/materials/MeshPhysicalMaterial.d.ts,'.textures/Texture'; '.math/Vector2'; { '.math/Color'; 
+src/materials/LineDashedMaterial.js,'LineBasicMaterial.js'; 
+src/materials/MeshBasicMaterial.d.ts,'.math/Color'; '.textures/Texture'; 'Material'; '.constants'; 
+src/materials/MeshNormalMaterial.d.ts,'Material'; '.textures/Texture'; '.math/Vector2'; '.constants'; 
+src/materials/SpriteMaterial.d.ts,'.math/Color'; '.textures/Texture'; 'Material'; 
+src/materials/MeshPhysicalMaterial.js,'.math/Vector2.js'; 'MeshStandardMaterial.js'; '.math/Color.js'; 
+src/scenes/Fog.js,'.math/Color.js'; 
+src/scenes/FogExp2.d.ts,'.math/Color'; 'Fog'; 
+src/scenes/Fog.d.ts,'.math/Color'; 
+src/scenes/FogExp2.js,'.math/Color.js'; 
+src/scenes/Scene.d.ts,'Fog'; '.materials/Material'; '.core/Object3D'; '.math/Color'; '.textures/Texture'; 
+src/scenes/Scene.js,'.core/Object3D.js'; 
+src/geometries/ConeGeometry.d.ts,'CylinderGeometry'; 'CylinderGeometry'; 
+src/geometries/DodecahedronGeometry.d.ts,'.core/Geometry'; 'PolyhedronGeometry'; 
+src/geometries/ShapeGeometry.d.ts,'.extras/core/Shape'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/PlaneGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/ExtrudeGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector2.js'; '.math/Vector3.js'; '.extras/ShapeUtils.js'; 
+src/geometries/SphereGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/DodecahedronGeometry.js,'.core/Geometry.js'; 'PolyhedronGeometry.js'; 
+src/geometries/PlaneGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; 
+src/geometries/EdgesGeometry.js,'.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.core/Geometry.js'; '.math/MathUtils.js'; 
+src/geometries/Geometries.js,
+src/geometries/TorusKnotGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/ConeGeometry.js,'CylinderGeometry.js'; 'CylinderGeometry.js'; 
+src/geometries/RingGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector2.js'; '.math/Vector3.js'; 
+src/geometries/CylinderGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/TetrahedronGeometry.d.ts,'PolyhedronGeometry'; 
+src/geometries/BoxGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/TorusGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/OctahedronGeometry.d.ts,{ 
+src/geometries/PolyhedronGeometry.d.ts,'.math/Sphere'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/BoxGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/ExtrudeGeometry.d.ts,'.extras/core/Curve'; '.math/Vector2'; '.math/Vector3'; '.extras/core/Shape'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/Geometries.d.ts,
+src/geometries/EdgesGeometry.d.ts,'.core/BufferGeometry'; '.core/Geometry'; 
+src/geometries/PolyhedronGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; '.math/Vector2.js'; 
+src/geometries/ParametricGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/WireframeGeometry.js,'.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; 
+src/geometries/RingGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/ParametricGeometry.d.ts,'.math/Vector3'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/TubeGeometry.d.ts,'.extras/core/Curve'; '.math/Vector3'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/TorusGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/TubeGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector2.js'; '.math/Vector3.js'; 
+src/geometries/TetrahedronGeometry.js,'.core/Geometry.js'; 'PolyhedronGeometry.js'; 
+src/geometries/IcosahedronGeometry.d.ts,{ 
+src/geometries/OctahedronGeometry.js,'.core/Geometry.js'; 'PolyhedronGeometry.js'; 
+src/geometries/TorusKnotGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/IcosahedronGeometry.js,'.core/Geometry.js'; 'PolyhedronGeometry.js'; 
+src/geometries/LatheGeometry.d.ts,'.math/Vector2'; '.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/ShapeGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.extras/ShapeUtils.js'; 
+src/geometries/SphereGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/LatheGeometry.js,'.core/Geometry.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; '.math/Vector3.js'; '.math/Vector2.js'; '.math/MathUtils.js'; 
+src/geometries/CircleGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; '.math/Vector2.js'; 
+src/geometries/CircleGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/WireframeGeometry.d.ts,'.core/Geometry'; '.core/BufferGeometry'; 
+src/geometries/TextGeometry.d.ts,'.extras/core/Font'; 'ExtrudeGeometry'; 
+src/geometries/TextGeometry.js,'.core/Geometry.js'; 'ExtrudeGeometry.js'; 
+src/geometries/CylinderGeometry.js,'.core/Geometry.js'; '.core/BufferGeometry.js'; '.core/BufferAttribute.js'; '.math/Vector3.js'; '.math/Vector2.js'; 
+src/polyfills.js,
+src/polyfills.d.ts,
+src/loaders/LoadingManager.js,
+src/loaders/DataTextureLoader.d.ts,'Loader'; 'LoadingManager'; '.textures/DataTexture'; 
+src/loaders/FontLoader.js,'.extras/core/Font.js'; 'FileLoader.js'; 'Loader.js'; 
+src/loaders/AnimationLoader.js,'.animation/AnimationClip.js'; 'FileLoader.js'; 'Loader.js'; 
+src/loaders/FileLoader.d.ts,'Loader'; 'LoadingManager'; 
+src/loaders/CubeTextureLoader.js,'ImageLoader.js'; '.textures/CubeTexture.js'; 'Loader.js'; 
+src/loaders/AudioLoader.js,'.audio/AudioContext.js'; 'FileLoader.js'; 'Loader.js'; 
+src/loaders/FontLoader.d.ts,'Loader'; 'LoadingManager'; '.extras/core/Font'; 
+src/loaders/CubeTextureLoader.d.ts,'Loader'; 'LoadingManager'; '.textures/CubeTexture'; 
+src/loaders/MaterialLoader.js,'.math/Color.js'; '.math/Vector2.js'; '.math/Vector3.js'; '.math/Vector4.js'; '.math/Matrix3.js'; '.math/Matrix4.js'; 'FileLoader.js'; 'Loader.js'; '.materials/Materials.js'; 
+src/loaders/ImageBitmapLoader.js,'Cache.js'; 'Loader.js'; 
+src/loaders/FileLoader.js,'Cache.js'; 'Loader.js'; 
+src/loaders/Loader.d.ts,'LoadingManager'; 
+src/loaders/BufferGeometryLoader.d.ts,'Loader'; 'LoadingManager'; '.core/BufferGeometry'; '.core/InstancedBufferGeometry'; 
+src/loaders/DataTextureLoader.js,'.constants.js'; 'FileLoader.js'; '.textures/DataTexture.js'; 'Loader.js'; 
+src/loaders/AudioLoader.d.ts,'Loader'; 'LoadingManager'; 
+src/loaders/LoaderUtils.js,
+src/loaders/LoadingManager.d.ts,'Loader'; 
+src/loaders/Loader.js,'LoadingManager.js'; 
+src/loaders/ImageBitmapLoader.d.ts,'Loader'; 'LoadingManager'; 
+src/loaders/TextureLoader.d.ts,'Loader'; 'LoadingManager'; '.textures/Texture'; 
+src/loaders/MaterialLoader.d.ts,'Loader'; 'LoadingManager'; '.textures/Texture'; '.materials/Material'; 
+src/loaders/LoaderUtils.d.ts,'.polyfills'; 
+src/loaders/Cache.d.ts,
+src/loaders/ImageLoader.js,'Cache.js'; 'Loader.js'; 
+src/loaders/ObjectLoader.d.ts,'Loader'; 'LoadingManager'; '.core/Object3D'; '.textures/Texture'; '.materials/Material'; '.animation/AnimationClip'; 
+src/loaders/Cache.js,
+src/loaders/ObjectLoader.js,{ '.core/BufferAttribute.js'; '.math/Color.js'; '.core/Object3D.js'; '.objects/Group.js'; '.objects/InstancedMesh.js'; '.objects/Sprite.js'; '.objects/Points.js'; '.objects/Line.js'; '.objects/LineLoop.js'; '.objects/LineSegments.js'; '.objects/LOD.js'; '.objects/Mesh.js'; '.objects/SkinnedMesh.js'; '.extras/core/Shape.js'; '.scenes/Fog.js'; '.scenes/FogExp2.js'; '.lights/HemisphereLight.js'; '.lights/SpotLight.js'; '.lights/PointLight.js'; '.lights/DirectionalLight.js'; '.lights/AmbientLight.js'; '.lights/RectAreaLight.js'; '.cameras/OrthographicCamera.js'; '.cameras/PerspectiveCamera.js'; '.scenes/Scene.js'; '.textures/CubeTexture.js'; '.textures/Texture.js'; 'ImageLoader.js'; 'LoadingManager.js'; '.animation/AnimationClip.js'; 'MaterialLoader.js'; 'LoaderUtils.js'; 'BufferGeometryLoader.js'; 'Loader.js'; 'FileLoader.js'; '.geometries/Geometries.js'; '.extras/curves/Curves.js'; 
+src/loaders/ImageLoader.d.ts,'Loader'; 'LoadingManager'; 
+src/loaders/TextureLoader.js,'.constants.js'; 'ImageLoader.js'; '.textures/Texture.js'; 'Loader.js'; 
+src/loaders/BufferGeometryLoader.js,'.math/Sphere.js'; '.math/Vector3.js'; '.core/BufferAttribute.js'; '.core/BufferGeometry.js'; 'FileLoader.js'; 'Loader.js'; '.core/InstancedBufferGeometry.js'; '.core/InstancedBufferAttribute.js'; 
+src/loaders/CompressedTextureLoader.js,'.constants.js'; 'FileLoader.js'; '.textures/CompressedTexture.js'; 'Loader.js'; 
+src/loaders/CompressedTextureLoader.d.ts,'Loader'; 'LoadingManager'; '.textures/CompressedTexture'; 
+src/loaders/AnimationLoader.d.ts,'LoadingManager'; 'Loader'; '.animation/AnimationClip'; 

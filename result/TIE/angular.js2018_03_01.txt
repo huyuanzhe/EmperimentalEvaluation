@@ -1,0 +1,99 @@
+{"16680": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16681": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16682": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16683": "this pull number no comment info!"}
+{"16684": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16688": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16694": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16699": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16700": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16704": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16706": ["Narretz", "gkalpak", "jbedard", "petebacondarwin", "googlebot"]}
+{"16709": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16712": "this pull number no comment info!"}
+{"16713": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16714": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16715": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16729": "this pull number no comment info!"}
+{"16730": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16735": ["Narretz", "googlebot", "gkalpak", "jbedard", "petebacondarwin"]}
+{"16737": ["Narretz", "gkalpak", "googlebot", "petebacondarwin", "jbedard"]}
+{"16738": "this pull number no comment info!"}
+{"16740": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16742": ["Narretz", "googlebot", "gkalpak", "jbedard", "petebacondarwin"]}
+{"16743": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "mgol"]}
+{"16745": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "mgol"]}
+{"16746": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "mgol"]}
+{"16749": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16750": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16751": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16752": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16753": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16754": "this pull number no comment info!"}
+{"16756": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16757": ["gkalpak", "Narretz", "jbedard", "petebacondarwin", "mgol"]}
+{"16760": "this pull number no comment info!"}
+{"16762": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16763": ["Narretz", "gkalpak", "googlebot", "petebacondarwin", "thorn0"]}
+{"16764": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16767": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16768": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16774": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16775": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16777": ["Narretz", "googlebot", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16779": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16780": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16781": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16783": "this pull number no comment info!"}
+{"16786": "this pull number no comment info!"}
+{"16789": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16790": "this pull number no comment info!"}
+{"16793": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "jbedard"]}
+{"16798": ["Narretz", "gkalpak", "googlebot", "jbedard", "petebacondarwin"]}
+{"16800": "this pull number no comment info!"}
+{"16801": "this pull number no comment info!"}
+{"16806": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16808": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "jbedard"]}
+{"16810": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "jbedard"]}
+{"16812": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16813": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16815": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16820": "this pull number no comment info!"}
+{"16823": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16831": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16833": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16835": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16836": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16837": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16838": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16839": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16840": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16842": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16843": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16844": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16845": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16846": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16847": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16848": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16849": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "kambleaa007"]}
+{"16850": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "kambleaa007"]}
+{"16851": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16852": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16854": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "mgol"]}
+{"16857": ["googlebot", "Narretz", "gkalpak", "petebacondarwin", "jbedard"]}
+{"16862": "this pull number no comment info!"}
+{"16863": "this pull number no comment info!"}
+{"16868": "this pull number no comment info!"}
+{"16875": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16876": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16878": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16879": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "jbedard"]}
+{"16880": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16882": "this pull number no comment info!"}
+{"16885": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16888": "this pull number no comment info!"}
+{"16889": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16893": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+{"16896": ["googlebot", "gkalpak", "Narretz", "petebacondarwin", "kambleaa007"]}
+"38.75%""83.75%""91.25%"
+spend_time is 49.11

@@ -1,0 +1,82 @@
+{"4760": "this pull request files not import info!"}
+{"4763": [["coveralls", 0.9387425886722792], ["jsf-clabot", 0.8333333333333333], ["marwahaha", 0.6666666666666666], ["jsoref", 0.6666666666666666], ["bkyceh", 0.0], ["Sakarisson", 0.0]]}
+{"4765": [["marwahaha", 2.4106565434603326], ["coveralls", 1.7027450226843128], ["jsf-clabot", 1.1666666666666667], ["Sakarisson", 1.0], ["bkyceh", 0.8660254037844387], ["jsoref", 0.16666666666666666], ["TremayneChrist", 0.0]]}
+{"4768": [["coveralls", 1.6495610993501713], ["jsf-clabot", 1.3333333333333333], ["marwahaha", 0.8333333333333333], ["Sakarisson", 0.5], ["marxsk", 0.5], ["saxicek", 0.5], ["jsoref", 0.3333333333333333], ["bkyceh", 0.0], ["TremayneChrist", 0.0]]}
+{"4771": [["coveralls", 3.202745022684313], ["marwahaha", 2.9106565434603326], ["jsf-clabot", 2.666666666666667], ["Sakarisson", 1.0], ["marxsk", 1.0], ["saxicek", 1.0], ["bkyceh", 0.8660254037844387], ["jsoref", 0.16666666666666666], ["TremayneChrist", 0.0]]}
+{"4786": [["coveralls", 2.5216604560473934], ["marwahaha", 2.1401057573674986], ["jsf-clabot", 1.5491933384829664], ["jsoref", 0.5163977794943222], ["TremayneChrist", 0.5163977794943222], ["marxsk", 0.5163977794943222], ["saxicek", 0.5163977794943222], ["bkyceh", 0.29814239699997197], ["Sakarisson", 0.2581988897471611], ["petrbela", 0.2581988897471611]]}
+{"4787": [["coveralls", 1.7434965048736022], ["marwahaha", 1.692417110526875], ["jsf-clabot", 1.0540925533894598], ["marxsk", 0.6324555320336759], ["saxicek", 0.6324555320336759], ["bkyceh", 0.3651483716701107], ["Sakarisson", 0.31622776601683794], ["petrbela", 0.31622776601683794], ["mbisurgi-designfreed", 0.24494897427831777], ["jsoref", 0.10540925533894598]]}
+{"4793": "this pull request files not import info!"}
+{"4801": "this pull request files not import info!"}
+{"4804": [["marwahaha", 2.854521947637938], ["coveralls", 2.552830029423055], ["jsf-clabot", 2.224341649025257], ["marxsk", 1.0], ["saxicek", 1.0], ["bkyceh", 0.5773502691896258], ["Sakarisson", 0.5], ["petrbela", 0.5], ["martin770", 0.4743416490252569], ["mbisurgi-designfreed", 0.2581988897471611]]}
+{"4806": [["coveralls", 2.621807034833268], ["marwahaha", 2.4551403681666013], ["TremayneChrist", 1.0], ["jsf-clabot", 0.9387425886722792], ["jsoref", 0.6666666666666666], ["mbisurgi-designfreed", 0.5163977794943222], ["gfpacheco", 0.16666666666666666], ["martin770", 0.10540925533894598], ["bkyceh", 0.0], ["Sakarisson", 0.0]]}
+{"4810": [["coveralls", 3.149561099350171], ["jsf-clabot", 2.833333333333333], ["marwahaha", 2.333333333333333], ["marxsk", 1.0], ["saxicek", 1.0], ["Sakarisson", 0.5], ["petrbela", 0.5], ["jsoref", 0.3333333333333333], ["bkyceh", 0.0], ["TremayneChrist", 0.0]]}
+{"4817": [["coveralls", 0.7010590498637791], ["marwahaha", 0.29462782549439476], ["jsf-clabot", 0.17677669529663687], ["gfpacheco", 0.17677669529663687], ["TremayneChrist", 0.1178511301977579], ["bkyceh", 0.0], ["jsoref", 0.0], ["Sakarisson", 0.0], ["marxsk", 0.0], ["saxicek", 0.0]]}
+{"4819": [["marwahaha", 3.000375642773367], ["coveralls", 2.648348746304384], ["jsf-clabot", 1.9149760537117881], ["marxsk", 0.8944271909999159], ["saxicek", 0.8944271909999159], ["bkyceh", 0.5163977794943222], ["Sakarisson", 0.4472135954999579], ["petrbela", 0.4472135954999579], ["gfpacheco", 0.4472135954999579], ["martin770", 0.42426406871192845]]}
+{"4826": "this pull request files not import info!"}
+{"4828": [["marwahaha", 3.4828724150613475], ["coveralls", 2.764790808153323], ["jsf-clabot", 2.0953161968345446], ["marxsk", 1.2247448713915892], ["saxicek", 1.2247448713915892], ["bkyceh", 0.7071067811865476], ["Sakarisson", 0.6123724356957946], ["petrbela", 0.6123724356957946], ["gfpacheco", 0.4082482904638631], ["nikofil", 0.3651483716701107]]}
+{"4829": "this pull request files not import info!"}
+{"4836": "this pull request files not import info!"}
+{"4841": "this pull request files not import info!"}
+{"4843": "this pull request files not import info!"}
+{"4849": [["coveralls", 6.073316348127269], ["marwahaha", 6.044669230420085], ["jsf-clabot", 4.482894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["bkyceh", 0.8660254037844387], ["srl295", 0.6123724356957946], ["ashsearle", 0.6123724356957946]]}
+{"4852": "this pull request files not import info!"}
+{"4863": [["coveralls", 7.073316348127269], ["marwahaha", 7.044669230420085], ["jsf-clabot", 5.482894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["bkyceh", 0.8660254037844387], ["srl295", 0.6123724356957946]]}
+{"4870": [["coveralls", 1.849778132524157], ["marwahaha", 0.8777975105347973], ["jsf-clabot", 0.6121492744255927], ["jsoref", 0.2222222222222222], ["mbisurgi-designfreed", 0.17213259316477406], ["nikofil", 0.14907119849998599], ["cherouvim", 0.1178511301977579], ["TremayneChrist", 0.1111111111111111], ["martin770", 0.10540925533894598], ["bkyceh", 0.0]]}
+{"4874": [["coveralls", 8.07331634812727], ["marwahaha", 7.044669230420085], ["jsf-clabot", 6.482894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["bkyceh", 0.8660254037844387]]}
+{"4875": [["coveralls", 9.07331634812727], ["marwahaha", 8.044669230420084], ["jsf-clabot", 7.482894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4887": [["marwahaha", 3.535988855579422], ["coveralls", 3.4489263735595443], ["jsf-clabot", 2.2286180408543808], ["marxsk", 0.5], ["saxicek", 0.5], ["martin770", 0.3952847075210474], ["gfpacheco", 0.375], ["bkyceh", 0.2886751345948129], ["Sakarisson", 0.25], ["petrbela", 0.25]]}
+{"4891": [["coveralls", 6.149561099350171], ["jsf-clabot", 5.333333333333333], ["marwahaha", 3.833333333333333], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["Sakarisson", 0.5], ["petrbela", 0.5], ["martinmcwhorter", 0.5], ["layik", 0.5]]}
+{"4894": [["coveralls", 10.82331634812727], ["marwahaha", 9.044669230420084], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4899": "this pull request files not import info!"}
+{"4903": "this pull request files not import info!"}
+{"4907": "this pull request files not import info!"}
+{"4908": [["coveralls", 7.649561099350171], ["jsf-clabot", 6.333333333333333], ["marwahaha", 4.333333333333333], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["Sakarisson", 0.5], ["petrbela", 0.5], ["martinmcwhorter", 0.5], ["layik", 0.5]]}
+{"4911": "this pull request files not import info!"}
+{"4912": "this pull request files not import info!"}
+{"4913": [["marwahaha", 8.32293430145178], ["coveralls", 8.194535545956787], ["jsf-clabot", 5.043407673212516], ["marxsk", 1.414213562373095], ["saxicek", 1.414213562373095], ["bkyceh", 0.8164965809277259], ["Sakarisson", 0.7071067811865475], ["petrbela", 0.7071067811865475], ["gfpacheco", 0.7071067811865475], ["martinmcwhorter", 0.7071067811865475]]}
+{"4916": [["coveralls", 2.6240837188404003], ["marwahaha", 1.8683346951739024], ["jsf-clabot", 1.7808299894808852], ["ichernev", 0.40147753427348304], ["cwenzelg", 0.3441236008058426], ["cherouvim", 0.32444284226152503], ["martin770", 0.29019050004400465], ["mbisurgi-designfreed", 0.2665569949915915], ["jsoref", 0.1911797782254681], ["TremayneChrist", 0.1911797782254681]]}
+{"4917": [["jsf-clabot", 2.780829989480885], ["coveralls", 2.6240837188404003], ["marwahaha", 1.8683346951739024], ["ichernev", 0.40147753427348304], ["cwenzelg", 0.3441236008058426], ["cherouvim", 0.32444284226152503], ["martin770", 0.29019050004400465], ["mbisurgi-designfreed", 0.2665569949915915], ["jsoref", 0.1911797782254681], ["TremayneChrist", 0.1911797782254681]]}
+{"4921": [["coveralls", 12.530423129313817], ["marwahaha", 10.751776011606632], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4922": "this pull request files not import info!"}
+{"4930": [["coveralls", 9.935019599193733], ["marwahaha", 9.346417704185033], ["jsf-clabot", 6.2234832111796425], ["marxsk", 1.5118578920369088], ["saxicek", 1.5118578920369088], ["srl295", 0.9258200997725514], ["ashsearle", 0.9258200997725514], ["Sakarisson", 0.7559289460184544], ["petrbela", 0.7559289460184544], ["martinmcwhorter", 0.7559289460184544]]}
+{"4936": [["coveralls", 13.286352075332271], ["marwahaha", 12.507704957625085], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4951": "this pull request files not import info!"}
+{"4954": [["coveralls", 14.286352075332271], ["marwahaha", 13.507704957625085], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4957": [["coveralls", 15.286352075332271], ["marwahaha", 13.507704957625085], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4958": [["coveralls", 16.28635207533227], ["marwahaha", 14.507704957625085], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0], ["chienkira", 1.0]]}
+{"4959": [["coveralls", 3.0997781325241567], ["marwahaha", 2.22192111134064], ["jsf-clabot", 2.206272875231435], ["cwenzelg", 1.0], ["ichernev", 0.25], ["jsoref", 0.2222222222222222], ["mbisurgi-designfreed", 0.17213259316477406], ["nikofil", 0.14907119849998599], ["cherouvim", 0.1178511301977579], ["TremayneChrist", 0.1111111111111111]]}
+{"4961": "this pull request not comments!"}
+{"4966": [["coveralls", 6.555204110792304], ["marwahaha", 6.278265498117675], ["jsf-clabot", 3.3160699093146464], ["bkyceh", 0.6496666564891593], ["marxsk", 0.6030226891555273], ["saxicek", 0.6030226891555273], ["nanomosfet", 0.42640143271122083], ["mbisurgi-designfreed", 0.3113995776646092], ["Sakarisson", 0.30151134457776363], ["petrbela", 0.30151134457776363]]}
+{"4975": [["coveralls", 17.587863419910036], ["marwahaha", 15.507704957625085], ["jsf-clabot", 8.232894432683505], ["marxsk", 2.0], ["saxicek", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0], ["layik", 1.0]]}
+{"4976": [["coveralls", 7.159658044008158], ["marwahaha", 6.878651356529545], ["jsf-clabot", 3.434479766307886], ["bkyceh", 0.6813761376869487], ["marxsk", 0.6324555320336759], ["saxicek", 0.6324555320336759], ["kylekatarnls", 0.6324555320336759], ["gfpacheco", 0.4743416490252569], ["nanomosfet", 0.4472135954999579], ["cherouvim", 0.33541019662496846]]}
+{"4988": "this pull request files not import info!"}
+{"4989": [["coveralls", 10.527525572359398], ["marwahaha", 7.21129780634256], ["jsf-clabot", 6.833333333333333], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["kylekatarnls", 1.0], ["caio-ribeiro-pereira", 1.0], ["filiptdz", 1.0], ["bkyceh", 0.5]]}
+{"4990": [["coveralls", 18.904091185926873], ["marwahaha", 16.823932723641924], ["jsf-clabot", 9.549122198700342], ["marxsk", 2.0], ["saxicek", 2.0], ["kylekatarnls", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"4999": "this pull request files not import info!"}
+{"5005": "this pull request files not import info!"}
+{"5025": [["coveralls", 19.904091185926873], ["marwahaha", 17.823932723641924], ["jsf-clabot", 9.549122198700342], ["marxsk", 2.0], ["saxicek", 2.0], ["kylekatarnls", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5028": "this pull request files not import info!"}
+{"5048": "this pull request files not import info!"}
+{"5049": "this pull request not comments!"}
+{"5055": [["coveralls", 20.904091185926873], ["marwahaha", 18.823932723641924], ["jsf-clabot", 10.549122198700342], ["marxsk", 2.0], ["saxicek", 2.0], ["kylekatarnls", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5061": [["coveralls", 21.904091185926873], ["marwahaha", 19.823932723641924], ["jsf-clabot", 11.549122198700342], ["marxsk", 2.0], ["saxicek", 2.0], ["kylekatarnls", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5086": [["coveralls", 12.527525572359398], ["marwahaha", 8.71129780634256], ["jsf-clabot", 7.833333333333333], ["kylekatarnls", 1.5], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["caio-ribeiro-pereira", 1.0], ["filiptdz", 1.0], ["vinaydate", 1.0]]}
+{"5090": [["coveralls", 12.527525572359398], ["jsf-clabot", 8.833333333333332], ["marwahaha", 8.71129780634256], ["kylekatarnls", 1.5], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["caio-ribeiro-pereira", 1.0], ["filiptdz", 1.0], ["vinaydate", 1.0]]}
+{"5091": "this pull request files not import info!"}
+{"5092": "this pull request files not import info!"}
+{"5094": [["coveralls", 2.337338837359347], ["jsf-clabot", 1.3939773005892333], ["marwahaha", 1.066109893754007], ["cwenzelg", 0.2222222222222222], ["mbisurgi-designfreed", 0.17213259316477406], ["ichernev", 0.16666666666666666], ["phil-davis", 0.10540925533894598], ["bkyceh", 0.0], ["jsoref", 0.0], ["Sakarisson", 0.0]]}
+{"5103": "this pull request files not import info!"}
+{"5105": "this pull request not comments!"}
+{"5113": "this pull request files not import info!"}
+{"5120": "this pull request files not import info!"}
+{"5123": "this pull request files not import info!"}
+{"5124": [["coveralls", 22.904091185926873], ["marwahaha", 19.823932723641924], ["jsf-clabot", 12.549122198700342], ["kylekatarnls", 3.0], ["marxsk", 2.0], ["saxicek", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5127": [["coveralls", 23.904091185926873], ["marwahaha", 19.823932723641924], ["jsf-clabot", 12.549122198700342], ["kylekatarnls", 3.0], ["marxsk", 2.0], ["saxicek", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5139": "this pull request files not import info!"}
+{"5150": [["coveralls", 2.3177850109885605], ["marwahaha", 2.0379131099255963], ["jsf-clabot", 1.6476396455089508], ["cwenzelg", 0.3333333333333333], ["gfpacheco", 0.25], ["nikofil", 0.22360679774997896], ["cherouvim", 0.17677669529663687], ["jsoref", 0.16666666666666666], ["TremayneChrist", 0.16666666666666666], ["phil-davis", 0.15811388300841897]]}
+{"5180": [["coveralls", 24.904091185926873], ["marwahaha", 19.823932723641924], ["jsf-clabot", 12.549122198700342], ["kylekatarnls", 3.0], ["marxsk", 2.0], ["saxicek", 2.0], ["bkyceh", 1.8660254037844388], ["Sakarisson", 1.0], ["petrbela", 1.0], ["martinmcwhorter", 1.0]]}
+{"5191": "this pull request files not import info!"}
+{"5192": [["coveralls", 14.027525572359398], ["jsf-clabot", 10.333333333333332], ["marwahaha", 8.71129780634256], ["kylekatarnls", 1.5], ["marxsk", 1.0], ["saxicek", 1.0], ["donroyco", 1.0], ["caio-ribeiro-pereira", 1.0], ["filiptdz", 1.0], ["vinaydate", 1.0]]}
+{"5196": "this pull request files not import info!"}
+"72.34%""95.74%""95.74%"
+Total spend time is 1.7338826656341553

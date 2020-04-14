@@ -1,0 +1,348 @@
+{"4742": "this pull request id is not file or not comments!"}
+{"4743": [["taylorotwell", 1.0], ["ryancwalsh", 1.0], ["michaeldyrynda", 0.5], ["danijelk", 0.5], ["deleugpn", 0.5], ["fletch3555", 0.1875], ["unrealization", 0.1875], ["gargighorai", 0.05250000000000002], ["ankurk91", 0.05250000000000002], ["GrahamCampbell", 0.0]]}
+{"4744": "this pull request id is not file or not comments!"}
+{"4745": [["gargighorai", 0.06212500000000001], ["ankurk91", 0.06212500000000001], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4746": "this pull request id is not file or not comments!"}
+{"4747": [["taylorotwell", 0.2], ["gargighorai", 0.06825000000000002], ["ankurk91", 0.06825000000000002], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4748": "this pull request id is not file or not comments!"}
+{"4749": [["taylorotwell", 1.5], ["ryancwalsh", 1.0], ["michaeldyrynda", 0.5], ["danijelk", 0.5], ["deleugpn", 0.5], ["fletch3555", 0.1875], ["unrealization", 0.1875], ["gargighorai", 0.05250000000000002], ["ankurk91", 0.05250000000000002], ["GrahamCampbell", 0.0]]}
+{"4750": [["taylorotwell", 1.0], ["DCzajkowski", 0.4], ["bkintanar", 0.2], ["edantonio505", 0.2], ["gargighorai", 0.06212500000000001], ["ankurk91", 0.06212500000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0]]}
+{"4751": [["halaei", 0.15625], ["michaeldyrynda", 0.078125], ["GrahamCampbell", 0.0390625], ["fobin", 0.0390625], ["taylorotwell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0]]}
+{"4752": "this pull request id is not file or not comments!"}
+{"4753": [["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4754": "this pull request id is not file or not comments!"}
+{"4755": "this pull request id is not file or not comments!"}
+{"4756": "this pull request id is not file or not comments!"}
+{"4757": "this pull request id is not file or not comments!"}
+{"4758": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4759": [["ankurk91", 4.02625], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["taylorotwell", 1.0], ["gargighorai", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4760": [["pedrofurtado", 0.6000000000000001], ["GrahamCampbell", 0.30000000000000004], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0]]}
+{"4761": [["taylorotwell", 1.0], ["gargighorai", 0.008750000000000003], ["ankurk91", 0.008750000000000003], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4762": [["DCzajkowski", 2.0], ["bkintanar", 1.0], ["edantonio505", 1.0], ["bbashy", 0.4], ["taylorotwell", 0.2], ["kp-syginteractive", 0.2], ["gargighorai", 0.06825000000000002], ["ankurk91", 0.06825000000000002], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4763": [["taylorotwell", 1.0], ["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4764": [["DCzajkowski", 0.8], ["troccoli", 0.8], ["bbashy", 0.5], ["fletch3555", 0.4], ["bkintanar", 0.4], ["edantonio505", 0.4], ["taylorotwell", 0.25], ["kp-syginteractive", 0.25], ["gargighorai", 0.08268750000000002], ["ankurk91", 0.08268750000000002]]}
+{"4765": [["phanan", 3.0], ["taylorotwell", 1.0], ["antonkomarev", 1.0], ["nunomaduro", 1.0], ["tillkruss", 1.0], ["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0]]}
+{"4766": [["phanan", 3.0], ["taylorotwell", 1.0], ["antonkomarev", 1.0], ["nunomaduro", 1.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4767": [["taylorotwell", 1.5], ["ryancwalsh", 1.0], ["xxxmadxxx", 1.0], ["thau0x01", 1.0], ["michaeldyrynda", 0.5], ["danijelk", 0.5], ["deleugpn", 0.5], ["fletch3555", 0.1875], ["unrealization", 0.1875], ["gargighorai", 0.05250000000000002]]}
+{"4768": [["fletch3555", 0.375], ["unrealization", 0.375], ["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4769": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4770": [["taylorotwell", 0.875], ["laurencei", 0.75], ["mnabialek", 0.5], ["fireynis", 0.5], ["michaeldyrynda", 0.375], ["ryancwalsh", 0.25], ["xxxmadxxx", 0.25], ["thau0x01", 0.25], ["weseldridge", 0.25], ["gmsantos", 0.25]]}
+{"4771": [["taylorotwell", 2.875], ["michaeldyrynda", 1.5], ["laurencei", 1.375], ["ryancwalsh", 1.0], ["xxxmadxxx", 1.0], ["thau0x01", 1.0], ["mnabialek", 1.0], ["weseldridge", 1.0], ["gmsantos", 1.0], ["bertheyman", 0.75]]}
+{"4772": "this pull request id is not file or not comments!"}
+{"4773": "this pull request id is not file or not comments!"}
+{"4774": [["bbashy", 0.6666666666666666], ["taylorotwell", 0.5833333333333333], ["DCzajkowski", 0.4], ["troccoli", 0.4], ["kp-syginteractive", 0.3333333333333333], ["AegirLeet", 0.25], ["anastasioscho", 0.25], ["fletch3555", 0.2], ["bkintanar", 0.2], ["edantonio505", 0.2]]}
+{"4775": "this pull request id is not file or not comments!"}
+{"4776": [["taylorotwell", 2.6875], ["mnabialek", 2.0], ["fletch3555", 1.1875], ["michaeldyrynda", 1.0], ["ryancwalsh", 1.0], ["laurencei", 0.6875], ["danijelk", 0.5], ["deleugpn", 0.5], ["xxxmadxxx", 0.5], ["thau0x01", 0.5]]}
+{"4777": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4778": [["taylorotwell", 3.6875], ["mnabialek", 2.0], ["fletch3555", 1.1875], ["michaeldyrynda", 1.0], ["ryancwalsh", 1.0], ["laurencei", 0.6875], ["danijelk", 0.5], ["deleugpn", 0.5], ["xxxmadxxx", 0.5], ["thau0x01", 0.5]]}
+{"4779": [["GuidoHendriks", 0.3333333333333333], ["Advaith3600", 0.3333333333333333], ["taylorotwell", 0.25], ["dmcbrn", 0.25], ["gargighorai", 0.07437500000000001], ["ankurk91", 0.07437500000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["antonkomarev", 0.0]]}
+{"4780": [["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["taylorotwell", 0.5833333333333333], ["dmcbrn", 0.25], ["gargighorai", 0.04156250000000001], ["ankurk91", 0.04156250000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["antonkomarev", 0.0]]}
+{"4781": "this pull request id is not file or not comments!"}
+{"4782": "this pull request id is not file or not comments!"}
+{"4783": "this pull request id is not file or not comments!"}
+{"4784": [["halaei", 0.75], ["michaeldyrynda", 0.375], ["GuidoHendriks", 0.33854166666666663], ["deleugpn", 0.33854166666666663], ["LKaemmerling", 0.33854166666666663], ["m1guelpf", 0.33854166666666663], ["GrahamCampbell", 0.1875], ["fobin", 0.1875], ["taylorotwell", 0.0], ["ghost", 0.0]]}
+{"4785": "this pull request id is not file or not comments!"}
+{"4786": [["taylorotwell", 0.8333333333333333], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666], ["AegirLeet", 0.5], ["anastasioscho", 0.5], ["fletch3555", 0.4], ["bkintanar", 0.4], ["edantonio505", 0.4]]}
+{"4787": "this pull request id is not file or not comments!"}
+{"4788": [["taylorotwell", 3.6875], ["mnabialek", 2.0], ["fletch3555", 1.1875], ["michaeldyrynda", 1.0], ["GrahamCampbell", 1.0], ["ryancwalsh", 1.0], ["laurencei", 0.6875], ["danijelk", 0.5], ["deleugpn", 0.5], ["xxxmadxxx", 0.5]]}
+{"4789": [["taylorotwell", 3.1875], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["GuidoHendriks", 1.0], ["ryancwalsh", 1.0], ["barryvdh", 1.0], ["laurencei", 0.6875], ["GrahamCampbell", 0.5]]}
+{"4790": [["taylorotwell", 0.30547337278106507], ["mnabialek", 0.16568047337278105], ["michaeldyrynda", 0.1242603550295858], ["pmingram", 0.1242603550295858], ["fletch3555", 0.09837278106508876], ["GuidoHendriks", 0.08284023668639053], ["ryancwalsh", 0.08284023668639053], ["barryvdh", 0.08284023668639053], ["laurencei", 0.05695266272189349], ["GrahamCampbell", 0.04142011834319526]]}
+{"4791": "this pull request id is not file or not comments!"}
+{"4792": "this pull request id is not file or not comments!"}
+{"4793": "this pull request id is not file or not comments!"}
+{"4794": "this pull request id is not file or not comments!"}
+{"4795": [["taylorotwell", 1.0], ["scoutman57", 1.0], ["gargighorai", 0.008750000000000003], ["ankurk91", 0.008750000000000003], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["antonkomarev", 0.0]]}
+{"4796": [["laurencei", 2.375], ["fireynis", 2.0], ["taylorotwell", 1.375], ["mnabialek", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["browner12", 1.0], ["bertheyman", 0.75], ["fletch3555", 0.375], ["unrealization", 0.375]]}
+{"4797": "this pull request id is not file or not comments!"}
+{"4798": [["taylorotwell", 0.26111111111111107], ["DCzajkowski", 0.12222222222222223], ["troccoli", 0.12222222222222223], ["MuhaddiMu", 0.11296296296296295], ["bbashy", 0.09444444444444444], ["AegirLeet", 0.08055555555555556], ["anastasioscho", 0.08055555555555556], ["pedrofurtado", 0.06666666666666667], ["ludo237", 0.06666666666666667], ["driesvints", 0.06666666666666667]]}
+{"4799": [["taylorotwell", 1.4862847222222222], ["mnabialek", 0.5], ["fletch3555", 0.396875], ["michaeldyrynda", 0.375], ["pmingram", 0.375], ["GuidoHendriks", 0.31440972222222224], ["ryancwalsh", 0.25], ["barryvdh", 0.25], ["laurencei", 0.234375], ["DCzajkowski", 0.2]]}
+{"4800": [["CaddyDz", 2.0], ["taylorotwell", 1.0], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0]]}
+{"4801": [["ankurk91", 1.263125], ["taylorotwell", 0.5], ["antonkomarev", 0.5], ["ahinkle", 0.5], ["brunogaspar", 0.5], ["mattmcdonald-uk", 0.25], ["gargighorai", 0.013125000000000005], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0]]}
+{"4802": "this pull request id is not file or not comments!"}
+{"4803": "this pull request id is not file or not comments!"}
+{"4804": [["taylorotwell", 3.875], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["GuidoHendriks", 1.0], ["ryancwalsh", 1.0], ["barryvdh", 1.0], ["laurencei", 0.6875], ["GrahamCampbell", 0.5]]}
+{"4805": "this pull request id is not file or not comments!"}
+{"4806": [["GrahamCampbell", 0.375], ["ghost", 0.375], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4807": [["GrahamCampbell", 1.375], ["robbyrice", 1.0], ["ghost", 0.375], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0]]}
+{"4808": "this pull request id is not file or not comments!"}
+{"4809": "this pull request id is not file or not comments!"}
+{"4810": "this pull request id is not file or not comments!"}
+{"4811": "this pull request id is not file or not comments!"}
+{"4812": "this pull request id is not file or not comments!"}
+{"4813": "this pull request id is not file or not comments!"}
+{"4814": "this pull request id is not file or not comments!"}
+{"4815": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4816": "this pull request id is not file or not comments!"}
+{"4817": [["robbyrice", 1.3333333333333333], ["shirshak55", 1.0], ["GrahamCampbell", 0.4583333333333333], ["taylorotwell", 0.3333333333333333], ["samundra", 0.3333333333333333], ["ghost", 0.125], ["michaeldyrynda", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0]]}
+{"4818": [["taylorotwell", 1.672048611111111], ["mnabialek", 0.5], ["fletch3555", 0.396875], ["michaeldyrynda", 0.375], ["pmingram", 0.375], ["GuidoHendriks", 0.32048611111111114], ["ryancwalsh", 0.25], ["AegirLeet", 0.25], ["anastasioscho", 0.25], ["driesvints", 0.25]]}
+{"4819": [["taylorotwell", 0.42077777777777786], ["DCzajkowski", 0.304], ["troccoli", 0.304], ["fletch3555", 0.152], ["bkintanar", 0.152], ["edantonio505", 0.152], ["AegirLeet", 0.094], ["anastasioscho", 0.094], ["bbashy", 0.084], ["pedrofurtado", 0.084]]}
+{"4820": [["taylorotwell", 2.389333333333333], ["driesvints", 1.7679999999999998], ["DCzajkowski", 1.6], ["troccoli", 1.6], ["narwy", 0.9119999999999999], ["GabMic", 0.9119999999999999], ["ludo237", 0.856], ["fletch3555", 0.8], ["bkintanar", 0.8], ["edantonio505", 0.8]]}
+{"4821": [["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["taylorotwell", 0.5833333333333333], ["dmcbrn", 0.25], ["gargighorai", 0.04156250000000001], ["ankurk91", 0.04156250000000001], ["michaeldyrynda", 0.0], ["ghost", 0.0], ["antonkomarev", 0.0]]}
+{"4822": "this pull request id is not file or not comments!"}
+{"4823": [["taylorotwell", 2.389333333333333], ["driesvints", 1.7679999999999998], ["DCzajkowski", 1.6], ["troccoli", 1.6], ["sadegh-shahbazi", 1.0], ["narwy", 0.9119999999999999], ["GabMic", 0.9119999999999999], ["ludo237", 0.856], ["fletch3555", 0.8], ["bkintanar", 0.8]]}
+{"4824": "this pull request id is not file or not comments!"}
+{"4825": [["Timo17100", 1.0], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0]]}
+{"4826": "this pull request id is not file or not comments!"}
+{"4827": [["taylorotwell", 1.5833333333333333], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["dmcbrn", 0.25], ["gargighorai", 0.04156250000000001], ["ankurk91", 0.04156250000000001], ["michaeldyrynda", 0.0], ["ghost", 0.0], ["antonkomarev", 0.0]]}
+{"4828": [["taylorotwell", 4.5625], ["pmingram", 3.0], ["michaeldyrynda", 2.0], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["barryvdh", 2.0], ["fletch3555", 1.1875], ["GrahamCampbell", 1.0], ["ryancwalsh", 1.0], ["nicknick-io", 1.0]]}
+{"4829": [["narwy", 3.5], ["driesvints", 1.5], ["m1guelpf", 0.5], ["laurencei", 0.5], ["ludo237", 0.5], ["connectkushal", 0.5], ["fagai", 0.5], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4830": "this pull request id is not file or not comments!"}
+{"4831": "this pull request id is not file or not comments!"}
+{"4832": "this pull request id is not file or not comments!"}
+{"4833": [["halaei", 1.5], ["michaeldyrynda", 0.75], ["GrahamCampbell", 0.375], ["fobin", 0.375], ["taylorotwell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0]]}
+{"4834": "this pull request id is not file or not comments!"}
+{"4835": [["taylorotwell", 0.3192100000000001], ["shirshak55", 0.272], ["driesvints", 0.14688], ["ludo237", 0.11296], ["GrahamCampbell", 0.08], ["GuidoHendriks", 0.07575], ["martindilling", 0.07096], ["DCzajkowski", 0.064], ["troccoli", 0.064], ["nicknick-io", 0.064]]}
+{"4836": "this pull request id is not file or not comments!"}
+{"4837": "this pull request id is not file or not comments!"}
+{"4838": "this pull request id is not file or not comments!"}
+{"4839": "this pull request id is not file or not comments!"}
+{"4840": "this pull request id is not file or not comments!"}
+{"4841": [["CaddyDz", 2.0], ["taylorotwell", 1.0], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["mheiduk", 1.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4842": [["shirshak55", 4.0], ["taylorotwell", 1.7633333333333332], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["voyula", 1.0], ["driesvints", 1.0], ["GavG", 1.0], ["dmcbrn", 0.25], ["gargighorai", 0.04156250000000001]]}
+{"4843": [["taylorotwell", 1.34], ["shirshak55", 1.3333333333333333], ["GrahamCampbell", 0.3333333333333333], ["GuidoHendriks", 0.3333333333333333], ["Advaith3600", 0.3333333333333333], ["voyula", 0.3333333333333333], ["ludo237", 0.3333333333333333], ["driesvints", 0.3333333333333333], ["GavG", 0.3333333333333333], ["dmcbrn", 0.25]]}
+{"4844": [["narwy", 7.0], ["driesvints", 3.5], ["m1guelpf", 1.0], ["laurencei", 1.0], ["ludo237", 1.0], ["connectkushal", 1.0], ["fagai", 1.0], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4845": [["robbyrice", 4.0], ["shirshak55", 3.0], ["GrahamCampbell", 1.7083333333333333], ["taylorotwell", 1.0], ["samundra", 1.0], ["ghost", 0.375], ["m1guelpf", 0.3333333333333333], ["connectkushal", 0.3333333333333333], ["michaeldyrynda", 0.0], ["GuidoHendriks", 0.0]]}
+{"4846": "this pull request id is not file or not comments!"}
+{"4847": [["taylorotwell", 0.3363466666666667], ["antonkomarev", 0.168], ["connectkushal", 0.13333333333333333], ["ludo237", 0.12424], ["phanan", 0.12], ["shirshak55", 0.11999999999999997], ["GrahamCampbell", 0.08966666666666667], ["ankurk91", 0.0852325], ["driesvints", 0.08072000000000001], ["nicknick-io", 0.08]]}
+{"4848": [["taylorotwell", 4.0625], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.375], ["GuidoHendriks", 1.0], ["danijelk", 1.0], ["ryancwalsh", 1.0], ["driesvints", 1.0], ["barryvdh", 1.0]]}
+{"4849": "this pull request id is not file or not comments!"}
+{"4850": [["medz", 3.0], ["taylorotwell", 2.3699999999999997], ["shirshak55", 1.3333333333333333], ["michaeldyrynda", 1.0], ["weseldridge", 1.0], ["Te7a-Houdini", 1.0], ["adamwathan", 1.0], ["wilburpowery", 1.0], ["GrahamCampbell", 0.3333333333333333], ["GuidoHendriks", 0.3333333333333333]]}
+{"4851": [["taylorotwell", 0.3793074074074074], ["michaeldyrynda", 0.128], ["CaddyDz", 0.08], ["brunogaspar", 0.08], ["mnabialek", 0.08], ["MuhaddiMu", 0.08], ["GrahamCampbell", 0.075], ["driesvints", 0.06845333333333334], ["laurencei", 0.0675], ["pmingram", 0.06]]}
+{"4852": [["taylorotwell", 1.9300000000000002], ["shirshak55", 1.0], ["dmcbrn", 0.75], ["medz", 0.75], ["michaeldyrynda", 0.25], ["GrahamCampbell", 0.25], ["GuidoHendriks", 0.25], ["Advaith3600", 0.25], ["arcanedev-maroc", 0.25], ["voyula", 0.25]]}
+{"4853": [["taylorotwell", 3.3699999999999997], ["medz", 3.0], ["shirshak55", 1.3333333333333333], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["weseldridge", 1.0], ["Te7a-Houdini", 1.0], ["adamwathan", 1.0], ["wilburpowery", 1.0], ["reinink", 1.0]]}
+{"4854": "this pull request id is not file or not comments!"}
+{"4855": [["taylorotwell", 4.5625], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["driesvints", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["GuidoHendriks", 1.0], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4856": [["phanan", 3.0], ["taylorotwell", 1.12], ["GrahamCampbell", 1.0], ["antonkomarev", 1.0], ["nunomaduro", 1.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["gargighorai", 0.02625000000000001], ["ankurk91", 0.02625000000000001], ["michaeldyrynda", 0.0]]}
+{"4857": [["taylorotwell", 2.077592592592592], ["ludo237", 0.8593333333333333], ["driesvints", 0.7113333333333333], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666], ["martindilling", 0.6593333333333333], ["DCzajkowski", 0.4], ["troccoli", 0.4], ["nicknick-io", 0.4], ["GrahamCampbell", 0.3333333333333333]]}
+{"4858": "this pull request id is not file or not comments!"}
+{"4859": [["ankurk91", 5.02625], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["taylorotwell", 1.375], ["gargighorai", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4860": [["taylorotwell", 2.378518518518518], ["MuhaddiMu", 1.3333333333333333], ["martindilling", 0.9926666666666666], ["ludo237", 0.8593333333333333], ["driesvints", 0.7113333333333333], ["GrahamCampbell", 0.6666666666666666], ["antonkomarev", 0.6666666666666666], ["bbashy", 0.6666666666666666], ["laurencei", 0.6666666666666666], ["bertheyman", 0.6666666666666666]]}
+{"4861": [["taylorotwell", 4.8983333333333325], ["ludo237", 2.052], ["driesvints", 1.756], ["pedrofurtado", 1.0], ["martindilling", 0.9853333333333333], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["nicknick-io", 0.8], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666]]}
+{"4862": [["taylorotwell", 0.4263466666666667], ["ludo237", 0.17024], ["antonkomarev", 0.168], ["GrahamCampbell", 0.14566666666666667], ["connectkushal", 0.13333333333333333], ["phanan", 0.12], ["shirshak55", 0.11999999999999997], ["driesvints", 0.11272000000000001], ["ankurk91", 0.0852325], ["nicknick-io", 0.08]]}
+{"4863": "this pull request id is not file or not comments!"}
+{"4864": "this pull request id is not file or not comments!"}
+{"4865": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4866": "this pull request id is not file or not comments!"}
+{"4867": "this pull request id is not file or not comments!"}
+{"4868": [["ankurk91", 5.02625], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["taylorotwell", 1.375], ["fletch3555", 1.0], ["driesvints", 1.0], ["gargighorai", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0]]}
+{"4869": [["ankurk91", 5.02625], ["taylorotwell", 2.375], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["driesvints", 2.0], ["fletch3555", 1.0], ["MichaelDeBoey", 1.0], ["gargighorai", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4870": "this pull request id is not file or not comments!"}
+{"4871": [["ankurk91", 5.02625], ["taylorotwell", 2.375], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["driesvints", 2.0], ["MichaelDeBoey", 2.0], ["fletch3555", 1.0], ["gargighorai", 0.02625000000000001], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0]]}
+{"4872": [["taylorotwell", 3.3699999999999997], ["medz", 3.0], ["reinink", 2.0], ["shirshak55", 1.3333333333333333], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["weseldridge", 1.0], ["Te7a-Houdini", 1.0], ["adamwathan", 1.0], ["wilburpowery", 1.0]]}
+{"4873": [["ankurk91", 1.2565625], ["taylorotwell", 0.84375], ["michaeldyrynda", 0.5], ["antonkomarev", 0.5], ["ahinkle", 0.5], ["CaddyDz", 0.5], ["driesvints", 0.5], ["MichaelDeBoey", 0.5], ["fletch3555", 0.25], ["arcanedev-maroc", 0.25]]}
+{"4874": "this pull request id is not file or not comments!"}
+{"4875": "this pull request id is not file or not comments!"}
+{"4877": "this pull request id is not file or not comments!"}
+{"4878": "this pull request id is not file or not comments!"}
+{"4879": [["taylorotwell", 2.18], ["robertnicjoo", 2.0], ["ludo237", 1.25], ["laurencei", 1.09], ["shirshak55", 1.0], ["dmcbrn", 0.75], ["medz", 0.75], ["reinink", 0.5], ["michaeldyrynda", 0.25], ["GrahamCampbell", 0.25]]}
+{"4880": [["ankurk91", 5.02625], ["taylorotwell", 2.75], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["driesvints", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.375]]}
+{"4881": [["taylorotwell", 5.0625], ["pmingram", 3.0], ["michaeldyrynda", 2.0], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["barryvdh", 2.0], ["danijelk", 1.5], ["driesvints", 1.5], ["fletch3555", 1.1875], ["GrahamCampbell", 1.0]]}
+{"4882": [["taylorotwell", 0.49166666666666664], ["ankurk91", 0.3812890625], ["shirshak55", 0.20833333333333337], ["driesvints", 0.20833333333333331], ["medz", 0.1875], ["robbyrice", 0.16666666666666666], ["michaeldyrynda", 0.125], ["antonkomarev", 0.125], ["ahinkle", 0.125], ["reinink", 0.125]]}
+{"4883": [["narwy", 7.0], ["driesvints", 3.5], ["deleugpn", 1.0], ["m1guelpf", 1.0], ["laurencei", 1.0], ["ludo237", 1.0], ["connectkushal", 1.0], ["fagai", 1.0], ["oheck", 1.0], ["taylorotwell", 0.0]]}
+{"4884": "this pull request id is not file or not comments!"}
+{"4885": "this pull request id is not file or not comments!"}
+{"4886": "this pull request id is not file or not comments!"}
+{"4887": [["taylorotwell", 5.5625], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["deleugpn", 1.5], ["pmingram", 1.5], ["fletch3555", 1.375], ["GuidoHendriks", 1.0], ["danijelk", 1.0], ["ryancwalsh", 1.0], ["ludo237", 1.0]]}
+{"4888": [["taylorotwell", 0.4904787414965988], ["ludo237", 0.14887882653061224], ["driesvints", 0.13914285714285715], ["laurencei", 0.1057142857142857], ["mnabialek", 0.1020408163265306], ["michaeldyrynda", 0.08673469387755102], ["antonkomarev", 0.0857142857142857], ["GrahamCampbell", 0.07857142857142857], ["fletch3555", 0.07244897959183673], ["phanan", 0.061224489795918366]]}
+{"4889": [["taylorotwell", 1.0719444444444446], ["mnabialek", 0.4444444444444444], ["shirshak55", 0.4444444444444444], ["driesvints", 0.33333333333333337], ["GuidoHendriks", 0.3333333333333333], ["michaeldyrynda", 0.25925925925925924], ["ludo237", 0.25578703703703703], ["fletch3555", 0.24305555555555555], ["Galina0999", 0.2222222222222222], ["laurencei", 0.18388888888888885]]}
+{"4890": [["taylorotwell", 6.673611111111111], ["pmingram", 3.0], ["driesvints", 2.5], ["michaeldyrynda", 2.0], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["ludo237", 2.0], ["barryvdh", 2.0], ["danijelk", 1.5], ["fletch3555", 1.1875]]}
+{"4891": [["CaddyDz", 2.0], ["taylorotwell", 1.375], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["mheiduk", 1.0], ["shadoWalker89", 1.0], ["JeffreyWay", 0.375], ["fraigo", 0.12]]}
+{"4892": [["CaddyDz", 2.0], ["taylorotwell", 1.375], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["driesvints", 1.0], ["mheiduk", 1.0], ["shadoWalker89", 1.0], ["huenisys", 1.0]]}
+{"4893": [["ankurk91", 6.1825], ["taylorotwell", 3.0625], ["driesvints", 3.0], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.53125]]}
+{"4894": [["taylorotwell", 5.673611111111111], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["driesvints", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4895": [["taylorotwell", 2.375], ["laurencei", 2.375], ["fireynis", 2.0], ["mnabialek", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["browner12", 1.0], ["bertheyman", 0.75], ["fletch3555", 0.375], ["unrealization", 0.375]]}
+{"4896": [["taylorotwell", 6.673611111111111], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["driesvints", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4897": [["taylorotwell", 1.412777777777778], ["driesvints", 0.5384444444444445], ["GrahamCampbell", 0.36111111111111116], ["ludo237", 0.34244444444444444], ["phanan", 0.3333333333333333], ["GuidoHendriks", 0.2508487654320988], ["mnabialek", 0.2222222222222222], ["michaeldyrynda", 0.2111111111111111], ["fletch3555", 0.17638888888888887], ["pmingram", 0.16666666666666666]]}
+{"4898": [["michaeldyrynda", 0.2222222222222222], ["CaddyDz", 0.2222222222222222], ["driesvints", 0.2222222222222222], ["taylorotwell", 0.15277777777777776], ["arcanedev-maroc", 0.1111111111111111], ["decadence", 0.1111111111111111], ["devilsafe", 0.1111111111111111], ["yuchonghua", 0.1111111111111111], ["nunomaduro", 0.1111111111111111], ["gpressutto5", 0.1111111111111111]]}
+{"4899": "this pull request id is not file or not comments!"}
+{"4900": "this pull request id is not file or not comments!"}
+{"4901": "this pull request id is not file or not comments!"}
+{"4902": [["ankurk91", 6.1825], ["taylorotwell", 4.0625], ["driesvints", 3.0], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.53125]]}
+{"4903": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"4904": [["taylorotwell", 4.361111111111112], ["driesvints", 2.436], ["ludo237", 2.112], ["martindilling", 0.9620000000000001], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["nicknick-io", 0.8], ["GrahamCampbell", 0.75], ["AegirLeet", 0.75], ["anastasioscho", 0.75]]}
+{"4905": "this pull request id is not file or not comments!"}
+{"4906": [["taylorotwell", 6.784722222222221], ["driesvints", 2.5], ["michaeldyrynda", 2.0], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4907": [["taylorotwell", 1.2275694444444445], ["driesvints", 0.568875], ["ludo237", 0.46149999999999997], ["GrahamCampbell", 0.2864583333333333], ["phanan", 0.1875], ["Te7a-Houdini", 0.1875], ["GuidoHendriks", 0.15568576388888888], ["michaeldyrynda", 0.14375], ["nicknick-io", 0.13125], ["mnabialek", 0.125]]}
+{"4908": [["taylorotwell", 2.748984375], ["ludo237", 1.5959999999999999], ["driesvints", 1.5254999999999999], ["Te7a-Houdini", 0.625], ["GrahamCampbell", 0.5208333333333333], ["martindilling", 0.47933333333333333], ["DCzajkowski", 0.4], ["troccoli", 0.4], ["nicknick-io", 0.4], ["pedrofurtado", 0.375]]}
+{"4909": [["taylorotwell", 6.862847222222221], ["driesvints", 3.5], ["michaeldyrynda", 2.0], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4910": [["taylorotwell", 1.3388975694444445], ["driesvints", 0.633328125], ["ludo237", 0.46149999999999997], ["GrahamCampbell", 0.2864583333333333], ["phanan", 0.1875], ["Te7a-Houdini", 0.1875], ["GuidoHendriks", 0.15568576388888888], ["michaeldyrynda", 0.14375], ["nicknick-io", 0.13125], ["mnabialek", 0.125]]}
+{"4911": [["taylorotwell", 3.533032407407407], ["driesvints", 1.7790416666666664], ["ludo237", 1.4426666666666665], ["MuhaddiMu", 1.3333333333333333], ["GrahamCampbell", 1.0], ["martindilling", 0.9926666666666666], ["laurencei", 0.6906666666666667], ["antonkomarev", 0.6666666666666666], ["bbashy", 0.6666666666666666], ["bertheyman", 0.6666666666666666]]}
+{"4912": [["taylorotwell", 7.940972222222221], ["driesvints", 3.15625], ["GuidoHendriks", 2.0], ["mnabialek", 2.0], ["michaeldyrynda", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0], ["ryancwalsh", 1.0]]}
+{"4913": "this pull request id is not file or not comments!"}
+{"4914": [["taylorotwell", 2.85640625], ["driesvints", 2.1674270833333336], ["ludo237", 1.5959999999999999], ["Te7a-Houdini", 0.625], ["GrahamCampbell", 0.5208333333333333], ["martindilling", 0.47933333333333333], ["DCzajkowski", 0.4], ["troccoli", 0.4], ["nicknick-io", 0.4], ["pedrofurtado", 0.375]]}
+{"4915": [["driesvints", 2.2222222222222223], ["CaddyDz", 2.0], ["taylorotwell", 1.375], ["michaeldyrynda", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["mheiduk", 1.0], ["shadoWalker89", 1.0], ["huenisys", 1.0]]}
+{"4916": [["taylorotwell", 0.5986399281934998], ["driesvints", 0.2918341836734693], ["mnabialek", 0.14285714285714285], ["GuidoHendriks", 0.13405376039304612], ["michaeldyrynda", 0.11377551020408161], ["deleugpn", 0.09874574829931973], ["ludo237", 0.09279251700680273], ["pmingram", 0.09183673469387754], ["GrahamCampbell", 0.09056122448979591], ["samundra", 0.0816326530612245]]}
+{"4917": "this pull request id is not file or not comments!"}
+{"4918": "this pull request id is not file or not comments!"}
+{"4919": "this pull request id is not file or not comments!"}
+{"4920": [["taylorotwell", 5.815486111111111], ["driesvints", 3.944533163265306], ["ludo237", 2.832], ["Te7a-Houdini", 1.5], ["AegirLeet", 1.0], ["anastasioscho", 1.0], ["martindilling", 0.932], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["nicknick-io", 0.8]]}
+{"4921": "this pull request id is not file or not comments!"}
+{"4922": [["shirshak55", 4.0], ["taylorotwell", 3.1197222222222227], ["ludo237", 1.3020833333333333], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["voyula", 1.0], ["driesvints", 1.0], ["GavG", 1.0], ["medz", 1.0]]}
+{"4923": [["taylorotwell", 0.24679383680555558], ["driesvints", 0.12756307464392008], ["ludo237", 0.05596834309895834], ["GrahamCampbell", 0.04706267272534013], ["mnabialek", 0.04296875], ["michaeldyrynda", 0.04261931335034013], ["GuidoHendriks", 0.04205186631944444], ["laurencei", 0.03802278645833333], ["shirshak55", 0.030859374999999994], ["deleugpn", 0.030598958333333332]]}
+{"4924": "this pull request id is not file or not comments!"}
+{"4925": [["taylorotwell", 0.2774706172839506], ["driesvints", 0.15014163218065008], ["ludo237", 0.06321657407407409], ["mnabialek", 0.048888888888888885], ["GrahamCampbell", 0.048647014361300076], ["michaeldyrynda", 0.048128495842781546], ["GuidoHendriks", 0.04784567901234568], ["laurencei", 0.040861481481481485], ["fletch3555", 0.03422222222222222], ["pmingram", 0.033333333333333326]]}
+{"4926": [["antonkomarev", 3.0], ["connectkushal", 3.0], ["taylorotwell", 2.12], ["ankurk91", 2.0443055555555554], ["scoutman57", 1.0], ["roberto-aguilar", 1.0], ["laurencei", 0.12], ["adisazhar123", 0.08163265306122447], ["driesvints", 0.033203125], ["fideloper", 0.033203125]]}
+{"4927": [["taylorotwell", 3.833958333333334], ["driesvints", 2.8732772906037414], ["bbashy", 2.0], ["ludo237", 1.4426666666666665], ["kp-syginteractive", 1.0], ["GrahamCampbell", 0.7210884353741497], ["MuhaddiMu", 0.6666666666666666], ["martindilling", 0.6593333333333333], ["Te7a-Houdini", 0.5], ["mtimbs", 0.5]]}
+{"4928": [["driesvints", 3.8732772906037414], ["taylorotwell", 3.833958333333334], ["bbashy", 2.0], ["ludo237", 1.4426666666666665], ["kp-syginteractive", 1.0], ["GrahamCampbell", 0.7210884353741497], ["MuhaddiMu", 0.6666666666666666], ["martindilling", 0.6593333333333333], ["Te7a-Houdini", 0.5], ["mtimbs", 0.5]]}
+{"4929": "this pull request id is not file or not comments!"}
+{"4930": [["taylorotwell", 4.833958333333333], ["driesvints", 3.8732772906037414], ["bbashy", 2.0], ["ludo237", 1.4426666666666665], ["kp-syginteractive", 1.0], ["epalmans", 1.0], ["GrahamCampbell", 0.7210884353741497], ["MuhaddiMu", 0.6666666666666666], ["martindilling", 0.6593333333333333], ["Te7a-Houdini", 0.5]]}
+{"4931": "this pull request id is not file or not comments!"}
+{"4932": "this pull request id is not file or not comments!"}
+{"4933": "this pull request id is not file or not comments!"}
+{"4934": "this pull request id is not file or not comments!"}
+{"4935": "this pull request id is not file or not comments!"}
+{"4936": "this pull request id is not file or not comments!"}
+{"4937": [["GrahamCampbell", 0.5382653061224489], ["sinkcup", 0.40816326530612235], ["ghost", 0.375], ["michaeldyrynda", 0.16326530612244894], ["fraigo", 0.12], ["driesvints", 0.08163265306122447], ["xuanquynh", 0.08163265306122447], ["taylorotwell", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4938": [["taylorotwell", 8.440972222222221], ["driesvints", 4.361706792091836], ["GuidoHendriks", 4.0], ["pmingram", 3.0], ["michaeldyrynda", 2.2448979591836737], ["mnabialek", 2.0], ["ludo237", 2.0], ["barryvdh", 2.0], ["samundra", 2.0], ["ahmadmayahi", 2.0]]}
+{"4939": [["phanan", 3.0], ["taylorotwell", 2.6547222222222224], ["GrahamCampbell", 2.0], ["antonkomarev", 1.0], ["nunomaduro", 1.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["localheinz", 1.0], ["rrpadilla", 0.5347222222222222], ["driesvints", 0.345703125]]}
+{"4940": [["taylorotwell", 4.232106481481481], ["driesvints", 3.206610623937075], ["ludo237", 1.4426666666666665], ["epalmans", 1.0], ["GrahamCampbell", 0.7210884353741497], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666], ["ThomHurks", 0.6666666666666666], ["martindilling", 0.6593333333333333], ["Te7a-Houdini", 0.5]]}
+{"4941": [["ankurk91", 0.7437757201646091], ["taylorotwell", 0.7380555555555557], ["driesvints", 0.35167765022675734], ["robbyrice", 0.2962962962962963], ["antonkomarev", 0.2222222222222222], ["ahinkle", 0.2222222222222222], ["shirshak55", 0.2222222222222222], ["MichaelDeBoey", 0.2222222222222222], ["GrahamCampbell", 0.1880196523053666], ["michaeldyrynda", 0.12320483749055178]]}
+{"4942": [["ankurk91", 6.1825], ["taylorotwell", 5.0625], ["driesvints", 3.2222222222222223], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.53125]]}
+{"4943": [["samundra", 2.0], ["halaei", 1.5], ["roberto-aguilar", 1.0], ["michaeldyrynda", 0.75], ["GrahamCampbell", 0.375], ["fobin", 0.375], ["taylorotwell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4944": "this pull request id is not file or not comments!"}
+{"4945": [["taylorotwell", 1.78592438271605], ["driesvints", 1.3054587024045732], ["ludo237", 0.6776296296296297], ["michaeldyrynda", 0.336885865457294], ["nicknick-io", 0.3222222222222222], ["GuidoHendriks", 0.32206790123456785], ["GrahamCampbell", 0.29244142101284953], ["martindilling", 0.2572592592592593], ["fletch3555", 0.24305555555555555], ["DCzajkowski", 0.2222222222222222]]}
+{"4946": "this pull request id is not file or not comments!"}
+{"4947": [["taylorotwell", 2.3503888888888893], ["driesvints", 2.337085140306123], ["ludo237", 1.6280000000000001], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["nicknick-io", 0.8], ["martindilling", 0.728], ["narwy", 0.45599999999999996], ["GabMic", 0.45599999999999996], ["michaeldyrynda", 0.4163265306122449]]}
+{"4948": [["taylorotwell", 6.001736111111112], ["driesvints", 5.831017538265306], ["ludo237", 3.112], ["Te7a-Houdini", 2.0], ["mtimbs", 1.5], ["ankurk91", 1.475902777777778], ["GrahamCampbell", 1.0408163265306123], ["gpressutto5", 1.0], ["tomhorvat", 1.0], ["martindilling", 0.9620000000000001]]}
+{"4949": "this pull request id is not file or not comments!"}
+{"4950": [["antonkomarev", 0.5], ["connectkushal", 0.5], ["taylorotwell", 0.35333333333333333], ["ankurk91", 0.35019675925925925], ["driesvints", 0.17220052083333331], ["scoutman57", 0.16666666666666666], ["roberto-aguilar", 0.16666666666666666], ["laurencei", 0.02], ["adisazhar123", 0.013605442176870744], ["gargighorai", 0.010937500000000003]]}
+{"4951": "this pull request id is not file or not comments!"}
+{"4952": "this pull request id is not file or not comments!"}
+{"4953": [["taylorotwell", 1.3878652263374485], ["medz", 0.7222222222222222], ["reinink", 0.48148148148148145], ["shirshak55", 0.4074074074074074], ["michaeldyrynda", 0.24074074074074073], ["arcanedev-maroc", 0.24074074074074073], ["weseldridge", 0.24074074074074073], ["Te7a-Houdini", 0.24074074074074073], ["adamwathan", 0.24074074074074073], ["wilburpowery", 0.24074074074074073]]}
+{"4954": [["taylorotwell", 4.449699074074074], ["driesvints", 3.5399439572704083], ["ludo237", 1.4426666666666665], ["GrahamCampbell", 1.3877551020408163], ["MuhaddiMu", 1.3333333333333333], ["epalmans", 1.0], ["martindilling", 0.9926666666666666], ["laurencei", 0.6906666666666667], ["antonkomarev", 0.6666666666666666], ["bbashy", 0.6666666666666666]]}
+{"4955": [["taylorotwell", 2.8289930555555554], ["driesvints", 1.3589315609056123], ["laurencei", 0.765625], ["mnabialek", 0.75], ["richardkeep", 0.75], ["GuidoHendriks", 0.625], ["michaeldyrynda", 0.5816326530612246], ["fireynis", 0.5724852071005917], ["ludo237", 0.5], ["samundra", 0.5]]}
+{"4956": "this pull request id is not file or not comments!"}
+{"4957": [["taylorotwell", 8.628472222222221], ["GuidoHendriks", 5.0], ["driesvints", 4.361706792091836], ["pmingram", 3.0], ["michaeldyrynda", 2.2448979591836737], ["mnabialek", 2.0], ["ludo237", 2.0], ["barryvdh", 2.0], ["samundra", 2.0], ["ahmadmayahi", 2.0]]}
+{"4958": "this pull request id is not file or not comments!"}
+{"4959": [["taylorotwell", 2.730347222222222], ["robertnicjoo", 1.5], ["ludo237", 1.0390625], ["shirshak55", 1.0], ["laurencei", 0.84], ["dmcbrn", 0.75], ["medz", 0.75], ["jhoanborges", 0.75], ["reinink", 0.5], ["driesvints", 0.27490234375]]}
+{"4960": [["antonkomarev", 3.0], ["connectkushal", 3.0], ["ankurk91", 2.2943055555555554], ["taylorotwell", 2.12], ["scoutman57", 1.5], ["driesvints", 1.033203125], ["roberto-aguilar", 1.0], ["SjorsO", 1.0], ["Arkanius", 0.5], ["ludo237", 0.25]]}
+{"4961": [["taylorotwell", 2.7112500000000006], ["driesvints", 2.3387452965561226], ["ludo237", 1.728], ["nicknick-io", 0.9], ["ankurk91", 0.8921111111111113], ["DCzajkowski", 0.8], ["troccoli", 0.8], ["martindilling", 0.778], ["michaeldyrynda", 0.4663265306122449], ["narwy", 0.45599999999999996]]}
+{"4962": [["GrahamCampbell", 2.375], ["samundra", 2.0], ["halaei", 1.5], ["antonkomarev", 1.0], ["roberto-aguilar", 1.0], ["crynobone", 1.0], ["michaeldyrynda", 0.75], ["fobin", 0.375], ["taylorotwell", 0.0], ["ghost", 0.0]]}
+{"4963": [["driesvints", 3.345703125], ["nunomaduro", 3.0], ["phanan", 3.0], ["taylorotwell", 2.6547222222222224], ["GrahamCampbell", 2.0], ["antonkomarev", 2.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["localheinz", 1.0], ["crynobone", 1.0]]}
+{"4964": "this pull request id is not file or not comments!"}
+{"4965": [["taylorotwell", 4.965439814814815], ["driesvints", 3.206610623937075], ["GrahamCampbell", 1.7210884353741496], ["ludo237", 1.4426666666666665], ["epalmans", 1.0], ["xuanquynh", 0.693877551020408], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666], ["ThomHurks", 0.6666666666666666], ["martindilling", 0.6593333333333333]]}
+{"4966": [["taylorotwell", 9.128472222222221], ["driesvints", 4.878308354591836], ["GuidoHendriks", 2.5], ["mnabialek", 2.0], ["michaeldyrynda", 1.7448979591836733], ["deleugpn", 1.5], ["pmingram", 1.5], ["fletch3555", 1.375], ["danijelk", 1.0], ["ryancwalsh", 1.0]]}
+{"4967": [["ankurk91", 6.1825], ["taylorotwell", 5.0625], ["driesvints", 4.222222222222222], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.53125]]}
+{"4968": [["driesvints", 3.345703125], ["nunomaduro", 3.0], ["phanan", 3.0], ["taylorotwell", 2.6547222222222224], ["GrahamCampbell", 2.0], ["antonkomarev", 2.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["localheinz", 1.0], ["crynobone", 1.0]]}
+{"4969": [["antonkomarev", 4.0], ["taylorotwell", 3.12], ["connectkushal", 3.0], ["ankurk91", 2.2943055555555554], ["scoutman57", 1.5], ["ludo237", 1.25], ["driesvints", 1.033203125], ["roberto-aguilar", 1.0], ["SjorsO", 1.0], ["tomlankhorst", 1.0]]}
+{"4970": "this pull request id is not file or not comments!"}
+{"4971": "this pull request id is not file or not comments!"}
+{"4972": [["taylorotwell", 4.933032407407407], ["driesvints", 3.873277290603742], ["MuhaddiMu", 2.0], ["GrahamCampbell", 1.7210884353741496], ["ludo237", 1.4426666666666665], ["xuanquynh", 1.3605442176870748], ["martindilling", 1.3259999999999998], ["laurencei", 1.024], ["antonkomarev", 1.0], ["bertheyman", 1.0]]}
+{"4973": [["fireynis", 1.0], ["ludo237", 1.0], ["Arkanius", 1.0], ["robclancy", 1.0], ["GrahamCampbell", 0.5382653061224489], ["sinkcup", 0.40816326530612235], ["ghost", 0.375], ["michaeldyrynda", 0.16326530612244894], ["fraigo", 0.12], ["driesvints", 0.08163265306122447]]}
+{"4974": [["GrahamCampbell", 3.375], ["samundra", 2.0], ["owenconti", 2.0], ["halaei", 1.5], ["taylorotwell", 1.0], ["antonkomarev", 1.0], ["laurencei", 1.0], ["roberto-aguilar", 1.0], ["crynobone", 1.0], ["michaeldyrynda", 0.75]]}
+{"4975": [["robbyrice", 2.0], ["shirshak55", 1.5], ["GrahamCampbell", 1.1024659863945578], ["taylorotwell", 0.7483333333333333], ["laurencei", 0.54], ["deleugpn", 0.5], ["samundra", 0.5], ["m1guelpf", 0.3333333333333333], ["connectkushal", 0.3333333333333333], ["driesvints", 0.2498368705120937]]}
+{"4976": [["taylorotwell", 9.128472222222221], ["driesvints", 4.419124681122449], ["GuidoHendriks", 2.5], ["mnabialek", 2.0], ["michaeldyrynda", 1.8265306122448979], ["ludo237", 1.5], ["pmingram", 1.5], ["fletch3555", 1.1875], ["danijelk", 1.0], ["deleugpn", 1.0]]}
+{"4977": "this pull request id is not file or not comments!"}
+{"4978": [["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0]]}
+{"4979": "this pull request id is not file or not comments!"}
+{"4980": [["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0], ["xuanquynh", 1.0], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0]]}
+{"4981": [["taylorotwell", 4.965439814814815], ["driesvints", 4.539943957270408], ["GrahamCampbell", 1.7210884353741496], ["ludo237", 1.4426666666666665], ["epalmans", 1.0], ["xuanquynh", 0.693877551020408], ["antonkomarev", 0.6666666666666666], ["bbashy", 0.6666666666666666], ["MuhaddiMu", 0.6666666666666666], ["ThomHurks", 0.6666666666666666]]}
+{"4982": [["taylorotwell", 10.128472222222221], ["driesvints", 5.878308354591836], ["GuidoHendriks", 2.5], ["mnabialek", 2.0], ["ludo237", 2.0], ["michaeldyrynda", 1.7448979591836733], ["deleugpn", 1.5], ["pmingram", 1.5], ["fletch3555", 1.375], ["danijelk", 1.0]]}
+{"4983": [["richardkeep", 3.0], ["taylorotwell", 2.75], ["laurencei", 2.375], ["fireynis", 2.0], ["ankurk91", 1.0618055555555557], ["driesvints", 1.033203125], ["mnabialek", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["browner12", 1.0]]}
+{"4984": [["taylorotwell", 10.128472222222221], ["driesvints", 5.878308354591836], ["ludo237", 3.0], ["DivineOmega", 3.0], ["GuidoHendriks", 2.5], ["mnabialek", 2.0], ["michaeldyrynda", 1.7448979591836733], ["deleugpn", 1.5], ["pmingram", 1.5], ["fletch3555", 1.375]]}
+{"4985": [["taylorotwell", 5.26636574074074], ["driesvints", 4.873277290603742], ["ludo237", 1.4426666666666665], ["GrahamCampbell", 1.3877551020408163], ["xuanquynh", 1.3605442176870748], ["antonkomarev", 1.3333333333333333], ["MuhaddiMu", 1.3333333333333333], ["epalmans", 1.0], ["martindilling", 0.9926666666666666], ["michaeldyrynda", 0.9210884353741496]]}
+{"4986": [["taylorotwell", 4.814236111111111], ["driesvints", 3.0743582589285716], ["GuidoHendriks", 1.625], ["ludo237", 1.25], ["DivineOmega", 1.125], ["mnabialek", 1.0], ["michaeldyrynda", 0.8928571428571428], ["pmingram", 0.75], ["atefBB", 0.75], ["fletch3555", 0.640625]]}
+{"4987": [["taylorotwell", 9.128472222222221], ["driesvints", 6.419124681122449], ["DivineOmega", 4.875], ["GuidoHendriks", 3.0], ["ludo237", 2.5625], ["gerardnll", 2.25], ["mnabialek", 2.0], ["michaeldyrynda", 1.8265306122448979], ["fitztrev", 1.625], ["pmingram", 1.5]]}
+{"4988": [["GrahamCampbell", 3.375], ["samundra", 2.0], ["owenconti", 2.0], ["halaei", 1.5], ["taylorotwell", 1.0], ["antonkomarev", 1.0], ["laurencei", 1.0], ["driesvints", 1.0], ["roberto-aguilar", 1.0], ["crynobone", 1.0]]}
+{"4989": [["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0], ["xuanquynh", 1.0], ["chamindasata", 1.0], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0]]}
+{"4990": "this pull request id is not file or not comments!"}
+{"4991": [["taylorotwell", 4.323425925925926], ["shirshak55", 4.0], ["ludo237", 1.3020833333333333], ["driesvints", 1.25830078125], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["voyula", 1.0], ["GavG", 1.0], ["medz", 1.0]]}
+{"4992": [["taylorotwell", 6.30077777777778], ["driesvints", 5.074170280612246], ["ludo237", 3.2560000000000002], ["DCzajkowski", 2.0], ["troccoli", 2.0], ["ankurk91", 1.7109166666666669], ["nicknick-io", 1.6], ["martindilling", 1.456], ["michaeldyrynda", 1.0326530612244897], ["fletch3555", 1.0]]}
+{"4993": [["taylorotwell", 6.133032407407407], ["driesvints", 4.873277290603742], ["antonkomarev", 2.0], ["MuhaddiMu", 2.0], ["GrahamCampbell", 1.7210884353741496], ["ludo237", 1.4426666666666665], ["xuanquynh", 1.3605442176870748], ["martindilling", 1.3259999999999998], ["michaeldyrynda", 1.254421768707483], ["laurencei", 1.024]]}
+{"4994": [["taylorotwell", 5.323425925925926], ["shirshak55", 4.0], ["ludo237", 1.3020833333333333], ["driesvints", 1.25830078125], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["voyula", 1.0], ["GavG", 1.0], ["medz", 1.0]]}
+{"4995": [["ankurk91", 6.1825], ["taylorotwell", 6.0625], ["driesvints", 4.222222222222222], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["MichaelDeBoey", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0], ["nikolaynizruhin", 1.0], ["JeffreyWay", 0.53125]]}
+{"4996": [["taylorotwell", 10.128472222222221], ["DivineOmega", 6.875], ["driesvints", 5.878308354591836], ["ludo237", 3.5625], ["GuidoHendriks", 3.5], ["gerardnll", 2.25], ["fitztrev", 2.125], ["mnabialek", 2.0], ["atefBB", 2.0], ["michaeldyrynda", 1.7448979591836733]]}
+{"4997": [["taylorotwell", 6.799699074074074], ["driesvints", 4.539943957270409], ["xuanquynh", 2.0272108843537415], ["ludo237", 1.4426666666666665], ["GrahamCampbell", 1.3877551020408163], ["antonkomarev", 1.3333333333333333], ["MuhaddiMu", 1.3333333333333333], ["epalmans", 1.0], ["dwightwatson", 1.0], ["martindilling", 0.9926666666666666]]}
+{"4998": "this pull request id is not file or not comments!"}
+{"4999": "this pull request id is not file or not comments!"}
+{"5000": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"5001": "this pull request id is not file or not comments!"}
+{"5002": "this pull request id is not file or not comments!"}
+{"5003": "this pull request id is not file or not comments!"}
+{"5004": "this pull request id is not file or not comments!"}
+{"5005": "this pull request id is not file or not comments!"}
+{"5006": "this pull request id is not file or not comments!"}
+{"5007": [["taylorotwell", 1.1881032664609055], ["driesvints", 0.8025733351934524], ["ludo237", 0.4955023148148149], ["ankurk91", 0.24204070216049384], ["shirshak55", 0.21666666666666673], ["DCzajkowski", 0.21111111111111114], ["troccoli", 0.21111111111111114], ["nicknick-io", 0.21111111111111114], ["martindilling", 0.19405555555555556], ["Te7a-Houdini", 0.15370370370370373]]}
+{"5008": "this pull request id is not file or not comments!"}
+{"5009": [["taylorotwell", 1.268059413580247], ["driesvints", 0.8602478785785146], ["ludo237", 0.5473333333333332], ["ankurk91", 0.287445987654321], ["DCzajkowski", 0.26666666666666666], ["troccoli", 0.26666666666666666], ["nicknick-io", 0.26666666666666666], ["martindilling", 0.24038888888888887], ["michaeldyrynda", 0.17372448979591837], ["narwy", 0.14466666666666667]]}
+{"5010": [["techouse", 5.0], ["michaeldyrynda", 3.0], ["chriskonnertz", 3.0], ["ludo237", 2.0], ["driesvints", 2.0], ["GuidoHendriks", 1.0], ["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0], ["xuanquynh", 1.0]]}
+{"5011": [["taylorotwell", 3.0946180555555554], ["driesvints", 2.1130819515306123], ["DivineOmega", 1.46875], ["ludo237", 0.890625], ["laurencei", 0.765625], ["GuidoHendriks", 0.75], ["mnabialek", 0.75], ["richardkeep", 0.75], ["fireynis", 0.5724852071005917], ["gerardnll", 0.5625]]}
+{"5012": [["mattsidjohn", 0.75], ["antonkomarev", 0.375], ["zaknesler", 0.375], ["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0]]}
+{"5013": "this pull request id is not file or not comments!"}
+{"5014": [["taylorotwell", 7.0625], ["ankurk91", 6.1825], ["driesvints", 5.222222222222222], ["MichaelDeBoey", 3.0], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["rivajunior", 2.0], ["JeffreyWay", 1.53125], ["michaeldyrynda", 1.0], ["fletch3555", 1.0]]}
+{"5015": [["taylorotwell", 8.0625], ["ankurk91", 6.1825], ["driesvints", 5.222222222222222], ["MichaelDeBoey", 3.0], ["JeffreyWay", 2.53125], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["rivajunior", 2.0], ["michaeldyrynda", 1.0], ["fletch3555", 1.0]]}
+{"5016": [["halaei", 0.75], ["mnabialek", 0.5], ["michaeldyrynda", 0.45663265306122447], ["GuidoHendriks", 0.33854166666666663], ["deleugpn", 0.33854166666666663], ["LKaemmerling", 0.33854166666666663], ["m1guelpf", 0.33854166666666663], ["GrahamCampbell", 0.26913265306122447], ["sinkcup", 0.20408163265306117], ["fobin", 0.1875]]}
+{"5017": [["taylorotwell", 3.3976851851851855], ["shirshak55", 1.3333333333333333], ["driesvints", 1.1832682291666665], ["medz", 1.0], ["robertnicjoo", 1.0], ["ludo237", 0.8854166666666666], ["reinink", 0.6666666666666666], ["laurencei", 0.56], ["dmcbrn", 0.5], ["jhoanborges", 0.5]]}
+{"5018": "this pull request id is not file or not comments!"}
+{"5019": "this pull request id is not file or not comments!"}
+{"5020": "this pull request id is not file or not comments!"}
+{"5021": [["taylorotwell", 2.960659722222223], ["driesvints", 2.7367478165745465], ["GrahamCampbell", 0.846938775510204], ["nunomaduro", 0.8333333333333334], ["antonkomarev", 0.75], ["phanan", 0.75], ["ludo237", 0.7213333333333333], ["crynobone", 0.5607638888888888], ["ankurk91", 0.31638888888888894], ["Te7a-Houdini", 0.3107638888888889]]}
+{"5022": [["taylorotwell", 9.315972222222221], ["driesvints", 5.361706792091836], ["DivineOmega", 4.25], ["GuidoHendriks", 3.1875], ["ludo237", 2.375], ["mnabialek", 2.0], ["michaeldyrynda", 1.7448979591836733], ["pmingram", 1.5], ["gerardnll", 1.5], ["fitztrev", 1.25]]}
+{"5023": [["taylorotwell", 1.420494444444445], ["driesvints", 0.7745296556122451], ["DivineOmega", 0.5099999999999999], ["GuidoHendriks", 0.42250000000000004], ["ludo237", 0.285], ["mnabialek", 0.24], ["michaeldyrynda", 0.2326530612244898], ["pmingram", 0.18], ["gerardnll", 0.18], ["GrahamCampbell", 0.1726530612244898]]}
+{"5024": [["taylorotwell", 8.368958333333333], ["driesvints", 7.635494534793083], ["ludo237", 2.832], ["Te7a-Houdini", 1.7430555555555556], ["mtimbs", 1.5], ["ankurk91", 1.467013888888889], ["GrahamCampbell", 1.0408163265306123], ["martindilling", 0.932], ["DCzajkowski", 0.8], ["troccoli", 0.8]]}
+{"5025": "this pull request id is not file or not comments!"}
+{"5026": "this pull request id is not file or not comments!"}
+{"5027": [["taylorotwell", 11.315972222222221], ["GuidoHendriks", 5.6875], ["driesvints", 5.541706792091836], ["DivineOmega", 4.25], ["ludo237", 3.375], ["pmingram", 3.0], ["michaeldyrynda", 2.2448979591836737], ["mnabialek", 2.0], ["barryvdh", 2.0], ["samundra", 2.0]]}
+{"5028": [["taylorotwell", 9.0625], ["ankurk91", 7.1825], ["driesvints", 5.222222222222222], ["MichaelDeBoey", 3.0], ["JeffreyWay", 2.53125], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["mnabialek", 2.0], ["rivajunior", 2.0], ["michaeldyrynda", 1.0]]}
+{"5029": "this pull request id is not file or not comments!"}
+{"5030": [["SjorsO", 1.25], ["ankurk91", 0.8293634259259258], ["scoutman57", 0.7916666666666666], ["antonkomarev", 0.6666666666666666], ["Arkanius", 0.625], ["taylorotwell", 0.52], ["connectkushal", 0.5], ["ludo237", 0.47916666666666663], ["driesvints", 0.17220052083333331], ["roberto-aguilar", 0.16666666666666666]]}
+{"5031": [["taylorotwell", 5.753981481481481], ["shirshak55", 4.0], ["driesvints", 2.25830078125], ["ludo237", 1.3020833333333333], ["GrahamCampbell", 1.0], ["GuidoHendriks", 1.0], ["Advaith3600", 1.0], ["voyula", 1.0], ["GavG", 1.0], ["medz", 1.0]]}
+{"5032": [["taylorotwell", 11.114583333333332], ["driesvints", 5.541706792091837], ["DivineOmega", 4.25], ["mnabialek", 4.0], ["GuidoHendriks", 3.1875], ["ludo237", 2.375], ["michaeldyrynda", 2.2448979591836737], ["fletch3555", 2.1875], ["pmingram", 1.5], ["gerardnll", 1.5]]}
+{"5033": "this pull request id is not file or not comments!"}
+{"5034": "this pull request id is not file or not comments!"}
+{"5035": [["driesvints", 2.2222222222222223], ["CaddyDz", 2.0], ["taylorotwell", 1.375], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["mheiduk", 1.0], ["samundra", 1.0]]}
+{"5036": [["taylorotwell", 9.0625], ["ankurk91", 7.1825], ["driesvints", 6.222222222222222], ["MichaelDeBoey", 3.0], ["JeffreyWay", 2.53125], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["mnabialek", 2.0], ["rivajunior", 2.0], ["michaeldyrynda", 1.0]]}
+{"5037": "this pull request id is not file or not comments!"}
+{"5038": "this pull request id is not file or not comments!"}
+{"5039": [["taylorotwell", 12.003472222222221], ["driesvints", 6.142523118622449], ["DivineOmega", 4.25], ["GuidoHendriks", 3.1875], ["ludo237", 2.375], ["michaeldyrynda", 2.3265306122448983], ["mnabialek", 2.0], ["markotitel", 2.0], ["pmingram", 1.5], ["gerardnll", 1.5]]}
+{"5040": [["taylorotwell", 1.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"5041": [["taylorotwell", 1.51783449074074], ["driesvints", 1.2086710330254786], ["ludo237", 0.5253055555555556], ["ankurk91", 0.24311998456790124], ["nicknick-io", 0.22500000000000003], ["Te7a-Houdini", 0.21693672839506176], ["DCzajkowski", 0.21111111111111114], ["troccoli", 0.21111111111111114], ["martindilling", 0.19405555555555556], ["michaeldyrynda", 0.18795351473922903]]}
+{"5042": [["taylorotwell", 9.0625], ["ankurk91", 7.1825], ["driesvints", 6.222222222222222], ["MichaelDeBoey", 3.0], ["JeffreyWay", 2.53125], ["antonkomarev", 2.0], ["ahinkle", 2.0], ["mnabialek", 2.0], ["rivajunior", 2.0], ["michaeldyrynda", 1.0]]}
+{"5043": "this pull request id is not file or not comments!"}
+{"5044": [["taylorotwell", 3.125], ["richardkeep", 3.0], ["laurencei", 2.375], ["driesvints", 2.033203125], ["fireynis", 2.0], ["ankurk91", 1.0618055555555557], ["mnabialek", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["browner12", 1.0]]}
+{"5045": [["driesvints", 0.3888888888888889], ["techouse", 0.3125], ["michaeldyrynda", 0.25], ["chriskonnertz", 0.1875], ["GuidoHendriks", 0.125], ["CaddyDz", 0.125], ["ludo237", 0.125], ["taylorotwell", 0.0859375], ["arcanedev-maroc", 0.0625], ["nunomaduro", 0.0625]]}
+{"5046": "this pull request id is not file or not comments!"}
+{"5047": "this pull request id is not file or not comments!"}
+{"5048": [["driesvints", 4.222222222222222], ["CaddyDz", 2.0], ["taylorotwell", 1.53125], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["mheiduk", 1.0], ["samundra", 1.0]]}
+{"5049": [["GrahamCampbell", 0.9110331632653061], ["halaei", 0.5625], ["taylorotwell", 0.5], ["samundra", 0.5], ["owenconti", 0.5], ["michaeldyrynda", 0.30165816326530615], ["driesvints", 0.2602040816326531], ["antonkomarev", 0.25], ["laurencei", 0.25], ["roberto-aguilar", 0.25]]}
+{"5050": [["GrahamCampbell", 0.9579081632653061], ["halaei", 0.75], ["taylorotwell", 0.5], ["samundra", 0.5], ["owenconti", 0.5], ["michaeldyrynda", 0.39540816326530615], ["driesvints", 0.2602040816326531], ["antonkomarev", 0.25], ["laurencei", 0.25], ["roberto-aguilar", 0.25]]}
+{"5051": "this pull request id is not file or not comments!"}
+{"5052": "this pull request id is not file or not comments!"}
+{"5053": "this pull request id is not file or not comments!"}
+{"5054": "this pull request id is not file or not comments!"}
+{"5055": [["taylorotwell", 9.662916666666666], ["driesvints", 9.205454807964852], ["ludo237", 3.552], ["GrahamCampbell", 1.7210884353741496], ["Te7a-Houdini", 1.2430555555555556], ["ankurk91", 1.2125000000000001], ["antonkomarev", 1.0], ["pedrofurtado", 1.0], ["unstoppablecarl", 1.0], ["mtimbs", 1.0]]}
+{"5056": [["driesvints", 10.205454807964852], ["taylorotwell", 9.662916666666666], ["ludo237", 3.552], ["GrahamCampbell", 2.7210884353741496], ["antonkomarev", 2.0], ["Te7a-Houdini", 1.2430555555555556], ["ankurk91", 1.2125000000000001], ["pedrofurtado", 1.0], ["unstoppablecarl", 1.0], ["mtimbs", 1.0]]}
+{"5057": [["taylorotwell", 10.662916666666666], ["driesvints", 10.205454807964852], ["ludo237", 3.552], ["GrahamCampbell", 2.7210884353741496], ["antonkomarev", 2.0], ["Te7a-Houdini", 1.2430555555555556], ["ankurk91", 1.2125000000000001], ["pedrofurtado", 1.0], ["unstoppablecarl", 1.0], ["mtimbs", 1.0]]}
+{"5058": "this pull request id is not file or not comments!"}
+{"5059": [["taylorotwell", 4.125], ["richardkeep", 3.0], ["laurencei", 2.375], ["driesvints", 2.033203125], ["fireynis", 2.0], ["ankurk91", 1.0618055555555557], ["mnabialek", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["browner12", 1.0]]}
+{"5060": "this pull request id is not file or not comments!"}
+{"5061": [["taylorotwell", 2.494140625], ["driesvints", 1.3931100526147957], ["DivineOmega", 1.0625], ["GuidoHendriks", 0.6640625], ["ludo237", 0.59375], ["mnabialek", 0.4375], ["gerardnll", 0.375], ["michaeldyrynda", 0.33737244897959184], ["fitztrev", 0.3125], ["pmingram", 0.28125]]}
+{"5062": "this pull request id is not file or not comments!"}
+{"5063": [["techouse", 5.0], ["michaeldyrynda", 3.0], ["chriskonnertz", 3.0], ["ludo237", 2.0], ["driesvints", 2.0], ["GuidoHendriks", 1.0], ["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0], ["xuanquynh", 1.0]]}
+{"5064": [["driesvints", 5.222222222222222], ["CaddyDz", 2.0], ["taylorotwell", 1.53125], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["mheiduk", 1.0], ["samundra", 1.0]]}
+{"5065": [["taylorotwell", 0.0], ["michaeldyrynda", 0.0], ["GrahamCampbell", 0.0], ["ghost", 0.0], ["GuidoHendriks", 0.0], ["Advaith3600", 0.0], ["gargighorai", 0.0], ["ankurk91", 0.0], ["antonkomarev", 0.0], ["ahinkle", 0.0]]}
+{"5066": [["driesvints", 3.840703125], ["taylorotwell", 3.6547222222222224], ["nunomaduro", 3.0], ["phanan", 3.0], ["GrahamCampbell", 2.0], ["antonkomarev", 2.0], ["crynobone", 2.0], ["tillkruss", 1.0], ["farismohammed", 1.0], ["localheinz", 1.0]]}
+{"5067": "this pull request id is not file or not comments!"}
+{"5068": [["taylorotwell", 0.4410015117157974], ["driesvints", 0.22535666039817998], ["ludo237", 0.08219026360544218], ["GuidoHendriks", 0.07482461734693878], ["DivineOmega", 0.06505102040816325], ["GrahamCampbell", 0.06282104678606136], ["michaeldyrynda", 0.053807441343884495], ["ankurk91", 0.052282572751322746], ["antonkomarev", 0.04634353741496598], ["mnabialek", 0.04591836734693877]]}
+{"5069": "this pull request id is not file or not comments!"}
+{"5070": "this pull request id is not file or not comments!"}
+{"5071": [["timacdonald", 5.4375], ["halaei", 1.5], ["garygreen", 1.5], ["driesvints", 1.1658163265306123], ["mfn", 1.125], ["m1guelpf", 1.0104166666666665], ["michaeldyrynda", 0.8316326530612246], ["taylorotwell", 0.75], ["mnabialek", 0.5], ["pavinthan", 0.5]]}
+{"5072": "this pull request id is not file or not comments!"}
+{"5073": [["techouse", 5.0], ["michaeldyrynda", 3.0], ["ludo237", 3.0], ["chriskonnertz", 3.0], ["GuidoHendriks", 2.0], ["driesvints", 2.0], ["antonkomarev", 1.0], ["Timo17100", 1.0], ["ndhanh96", 1.0], ["ThiefMaster", 1.0]]}
+{"5074": "this pull request id is not file or not comments!"}
+{"5075": [["taylorotwell", 10.864583333333332], ["driesvints", 5.8526833545918375], ["DivineOmega", 4.25], ["GuidoHendriks", 3.421875], ["ludo237", 2.375], ["mnabialek", 2.0], ["michaeldyrynda", 1.7448979591836733], ["pmingram", 1.5], ["gerardnll", 1.5], ["fitztrev", 1.25]]}
+{"5076": "this pull request id is not file or not comments!"}
+{"5077": [["driesvints", 5.222222222222222], ["CaddyDz", 2.0], ["taylorotwell", 1.53125], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["mheiduk", 1.0]]}
+{"5078": [["driesvints", 5.222222222222222], ["CaddyDz", 2.0], ["taylorotwell", 1.53125], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["mheiduk", 1.0]]}
+{"5079": [["techouse", 5.0], ["michaeldyrynda", 3.0], ["ludo237", 3.0], ["chriskonnertz", 3.0], ["GuidoHendriks", 2.0], ["driesvints", 2.0], ["taylorotwell", 1.15625], ["antonkomarev", 1.0], ["Timo17100", 1.0], ["ndhanh96", 1.0]]}
+{"5080": "this pull request id is not file or not comments!"}
+{"5081": [["taylorotwell", 11.662916666666666], ["driesvints", 10.205454807964852], ["ludo237", 3.552], ["GrahamCampbell", 2.7210884353741496], ["antonkomarev", 2.0], ["Te7a-Houdini", 1.2430555555555556], ["ankurk91", 1.2125000000000001], ["pedrofurtado", 1.0], ["unstoppablecarl", 1.0], ["mtimbs", 1.0]]}
+{"5082": [["SjorsO", 2.0], ["ankurk91", 1.5293518518518516], ["antonkomarev", 1.3333333333333333], ["scoutman57", 1.3333333333333333], ["taylorotwell", 1.04], ["connectkushal", 1.0], ["Arkanius", 1.0], ["driesvints", 0.8444010416666666], ["ludo237", 0.8333333333333333], ["pavinthan", 0.5]]}
+{"5083": [["taylorotwell", 5.832962962962961], ["medz", 2.0], ["shirshak55", 1.3333333333333333], ["reinink", 1.3333333333333333], ["ludo237", 1.0208333333333333], ["driesvints", 0.9249674479166665], ["michaeldyrynda", 0.6666666666666666], ["GuidoHendriks", 0.6666666666666666], ["arcanedev-maroc", 0.6666666666666666], ["weseldridge", 0.6666666666666666]]}
+{"5084": [["taylorotwell", 0.04270038580246913], ["driesvints", 0.02872198928413958], ["robbyrice", 0.021851851851851855], ["GrahamCampbell", 0.020268565759637192], ["shirshak55", 0.01727777777777778], ["laurencei", 0.009667777777777779], ["ludo237", 0.00867597222222222], ["ankurk91", 0.0077009773662551455], ["deleugpn", 0.007391975308641975], ["m1guelpf", 0.006637777777777779]]}
+{"5085": "this pull request id is not file or not comments!"}
+{"5086": [["driesvints", 5.222222222222222], ["taylorotwell", 2.53125], ["CaddyDz", 2.0], ["michaeldyrynda", 1.0], ["GuidoHendriks", 1.0], ["arcanedev-maroc", 1.0], ["nunomaduro", 1.0], ["gpressutto5", 1.0], ["ludo237", 1.0], ["mheiduk", 1.0]]}
+{"5087": [["taylorotwell", 10.950347222222224], ["driesvints", 8.233795316043082], ["ludo237", 3.112], ["Te7a-Houdini", 2.2430555555555554], ["GrahamCampbell", 1.5408163265306123], ["mtimbs", 1.5], ["ankurk91", 1.475902777777778], ["GuidoHendriks", 1.2819444444444446], ["antonkomarev", 1.25], ["m1guelpf", 1.062]]}
+{"5088": [["driesvints", 1.3966236654383977], ["taylorotwell", 1.3671975308641977], ["SjorsO", 0.6666666666666665], ["ludo237", 0.6191851851851852], ["ankurk91", 0.5589146090534979], ["antonkomarev", 0.4074074074074074], ["scoutman57", 0.374074074074074], ["Arkanius", 0.3518518518518518], ["deleugpn", 0.2222222222222222], ["nicknick-io", 0.2222222222222222]]}
+"31.34%""53.46%""64.06%"
+Total spend time is 19.133336305618286
