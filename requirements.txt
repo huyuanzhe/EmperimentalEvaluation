@@ -4,7 +4,7 @@ nltk==3.4.5
 concurrent_log_handler==0.9.16
 PyMySQL==0.9.3
 scikit_multilearn==0.2.0
-numpy==1.16.2
+numpy==1.22.0
 matplotlib==3.0.3
 pandas==0.24.2
 scikit_learn==0.22
